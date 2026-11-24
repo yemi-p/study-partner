@@ -152,7 +152,7 @@ Now give the full worked answer, step by step, the way his teacher would want it
     return Response.json({ error: "BAD_MODE" }, { status: 400 });
   } catch (e) {
     const msg = String(e.message || e);
-    const status = msg === "RATE_LIMIT" ? 429 : msg === "NO_KEY" ? 503 : 500;
+    const status = msg === "RATE_LIMIT" ? 429 : msg === "NO_KEY" || msg === "BUSY" ? 503 : 500;
     console.error(msg);
     return Response.json({ error: msg.split(" ")[0] }, { status });
   }

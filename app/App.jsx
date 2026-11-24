@@ -36,6 +36,7 @@ async function ai(body) {
 function errText(e) {
   if (e.code === "CODE") return "This phone needs the app code. Go to the Me tab and enter it.";
   if (e.code === "RATE_LIMIT") return "Study Partner needs a short break (too many questions in a minute). Try again in a minute.";
+  if (e.code === "BUSY") return "The AI is very busy right now. Wait a minute and try again.";
   if (e.code === "NO_KEY") return "The app isn't connected to its AI yet. Ask Yemi to add the key.";
   return "Something went wrong. Check your data connection and try again.";
 }
