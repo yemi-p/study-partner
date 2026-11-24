@@ -72,6 +72,7 @@ function Rich({ text }) {
     .replace(/(^|[^*])\*([^*\n]+)\*(?!\*)/g, "$1$2")
     .replace(/^#+\s*/gm, "")
     .replace(/\s[\u2013\u2014]\s/g, ": ")
+    .replace(/([0-9A-Za-z)\]])\s*[\u00b7\u22c5\u2219]\s*(?=[0-9A-Za-z(])/g, "$1 \u00d7 ")
     .replace(/^[ \t]*[*-][ \t]+/gm, "\u2022 ");
   const parts = clean.split(/(\*\*[^*]+\*\*)/g);
   return <>{parts.map((p, i) => (p.startsWith("**") && p.endsWith("**") ? <strong key={i}><Sup t={p.slice(2, -2)} /></strong> : <Sup key={i} t={p} />))}</>;
