@@ -63,7 +63,8 @@ function Pattern({ k }) {
 
 function Rich({ text }) {
   // **bold** only; everything else plain text
-  const parts = String(text || "").split(/(\*\*[^*]+\*\*)/g);
+  const clean = String(text || "").replace(/(^|[^*])\*([^*\n]+)\*(?!\*)/g, "$1$2").replace(/^#+\s*/gm, "");
+  const parts = clean.split(/(\*\*[^*]+\*\*)/g);
   return <>{parts.map((p, i) => (p.startsWith("**") && p.endsWith("**") ? <strong key={i}>{p.slice(2, -2)}</strong> : p.replace(/^[ \t]*[*-][ \t]+/gm, "• ")))}</>;
 }
 
