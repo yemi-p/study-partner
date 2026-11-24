@@ -61,11 +61,20 @@ function Pattern({ k }) {
   return <svg width="96" height="60" viewBox="0 0 96 60" aria-hidden="true"><g {...g}><path d="M0 0h16v16H0zM32 0h16v16H32zM64 0h16v16H64zM16 22h16v16H16zM48 22h16v16H48zM80 22h16v16H80zM0 44h16v16H0zM32 44h16v16H32zM64 44h16v16H64z"/></g></svg>;
 }
 
+function Sup({ t }) {
+  // show powers as superscripts: a^(m+n), 10^-3, x^2
+  const bits = String(t).split(/\^\(([^)]+)\)|\^(-?[A-Za-z0-9.]+)/g);
+  return <>{bits.map((b, i) => (i % 3 === 0 ? b : b ? <sup key={i}>{b}</sup> : null))}</>;
+}
 function Rich({ text }) {
-  // **bold** only; everything else plain text
-  const clean = String(text || "").replace(/(^|[^*])\*([^*\n]+)\*(?!\*)/g, "$1$2").replace(/^#+\s*/gm, "");
+  // **bold**, powers as superscripts; strip stray italics, headings and dashes
+  const clean = String(text || "")
+    .replace(/(^|[^*])\*([^*\n]+)\*(?!\*)/g, "$1$2")
+    .replace(/^#+\s*/gm, "")
+    .replace(/\s[\u2013\u2014]\s/g, ": ")
+    .replace(/^[ \t]*[*-][ \t]+/gm, "\u2022 ");
   const parts = clean.split(/(\*\*[^*]+\*\*)/g);
-  return <>{parts.map((p, i) => (p.startsWith("**") && p.endsWith("**") ? <strong key={i}>{p.slice(2, -2)}</strong> : p.replace(/^[ \t]*[*-][ \t]+/gm, "• ")))}</>;
+  return <>{parts.map((p, i) => (p.startsWith("**") && p.endsWith("**") ? <strong key={i}><Sup t={p.slice(2, -2)} /></strong> : <Sup key={i} t={p} />))}</>;
 }
 
 function TopBar({ title, tag, color, onBack }) {
