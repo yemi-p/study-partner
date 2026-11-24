@@ -16,6 +16,11 @@
      "chars": 4263,
      "sources": [
       "Okoye ch.1"
+     ],
+     "parts": [
+      "Meaning of chemistry",
+      "Scientific method of learning chemistry",
+      "Careers in chemistry"
      ]
     },
     {
@@ -27,6 +32,11 @@
      "chars": 12611,
      "sources": [
       "Okoye ch.2 (see Pollution, Corrosion of Metals, Drug Abuse)"
+     ],
+     "parts": [
+      "Corrosion",
+      "Pollution",
+      "Drug abuse"
      ]
     },
     {
@@ -38,6 +48,10 @@
      "chars": 12633,
      "sources": [
       "Okoye ch.2"
+     ],
+     "parts": [
+      "Types of chemical industries",
+      "Importance of chemistry and chemical industries to the nation and the individual"
      ]
     },
     {
@@ -50,6 +64,19 @@
      "sources": [
       "Okoye ch.11",
       "Okoye ch.9 (mixtures, pure and impure substances)"
+     ],
+     "parts": [
+      "Filtration",
+      "Evaporation",
+      "Decantation",
+      "Crystallization",
+      "Fractional crystallization",
+      "Chromatography",
+      "Sublimation",
+      "Pure and impure substances",
+      "Distillation",
+      "Fractional distillation",
+      "Precipitation"
      ]
     },
     {
@@ -62,6 +89,14 @@
      "sources": [
       "Okoye ch.3",
       "Okoye ch.9 (physical and chemical changes, elements, compounds, mixtures)"
+     ],
+     "parts": [
+      "Physical and chemical changes",
+      "Atoms and molecules",
+      "Dalton's atomic theory",
+      "Protons, neutrons and electrons",
+      "Arrangement of electrons",
+      "Atomic number, mass number, isotopes, relative atomic masses"
      ]
     },
     {
@@ -73,6 +108,11 @@
      "chars": 8837,
      "sources": [
       "Okoye ch.4"
+     ],
+     "parts": [
+      "Symbols of elements",
+      "Latin names of elements",
+      "The first twenty elements"
      ]
     },
     {
@@ -84,6 +124,12 @@
      "chars": 18337,
      "sources": [
       "Okoye ch.6"
+     ],
+     "parts": [
+      "The Noble Gases",
+      "Arrangement of Electrons in the Main and Sub-energy Levels",
+      "Electronic Configuration",
+      "Energy Levels in Atomic System"
      ]
     },
     {
@@ -95,6 +141,14 @@
      "chars": 11795,
      "sources": [
       "Okoye ch.7"
+     ],
+     "parts": [
+      "Why atoms combine",
+      "Ionic (electrovalent) bonding",
+      "Covalent bonding",
+      "Dative bonding",
+      "Metallic bonding",
+      "Bond type and properties"
      ]
     },
     {
@@ -106,6 +160,12 @@
      "chars": 3659,
      "sources": [
       "Okoye ch.8"
+     ],
+     "parts": [
+      "What oxidation number is",
+      "Rules for oxidation numbers",
+      "IUPAC names of compounds",
+      "Why oxidation numbers matter"
      ]
     },
     {
@@ -117,6 +177,13 @@
      "chars": 12943,
      "sources": [
       "Okoye ch.5"
+     ],
+     "parts": [
+      "Law of conservation of mass",
+      "Law of definite proportions",
+      "Law of multiple proportions",
+      "Writing chemical equations",
+      "Balancing equations"
      ]
     },
     {
@@ -128,6 +195,11 @@
      "chars": 10302,
      "sources": [
       "Okoye ch.10"
+     ],
+     "parts": [
+      "General Gas Law",
+      "Daltons Law of Partial Pressure",
+      "Mole and Molar Volume"
      ]
     },
     {
@@ -139,6 +211,16 @@
      "chars": 17360,
      "sources": [
       "Okoye ch.12"
+     ],
+     "parts": [
+      "Acids",
+      "Classes of Acids",
+      "Basicity of some Acids",
+      "Physical Properties of Acids",
+      "Chemical Properties of Acids",
+      "Bases",
+      "Alkali",
+      "Strong And Weak Bases"
      ]
     },
     {
@@ -150,6 +232,12 @@
      "chars": 9711,
      "sources": [
       "Okoye ch.13"
+     ],
+     "parts": [
+      "Sources of water",
+      "Hard and soft water",
+      "Removing hardness",
+      "Treatment of town water supply"
      ]
     },
     {
@@ -161,6 +249,16 @@
      "chars": 24617,
      "sources": [
       "Okoye ch.14"
+     ],
+     "parts": [
+      "Carbon",
+      "Allotropes of Carbon",
+      "Diamond",
+      "Chemical Properties of Carbon",
+      "Coal and Coke",
+      "Oxides of Carbon",
+      "Laboratory Preparation of Carbon (iv) oxide",
+      "Carbon Cycle"
      ]
     }
    ]
@@ -181,6 +279,15 @@
      "sources": [
       "School notes week 1",
       "O Level course ch.1"
+     ],
+     "parts": [
+      "Meaning of science and biology",
+      "Scientific method",
+      "Experimental pattern",
+      "Living and non-living things",
+      "Differences between plants and animals",
+      "Levels of organisation of life",
+      "Complexity of multicellular organisms"
      ]
     },
     {
@@ -192,6 +299,12 @@
      "chars": 6113,
      "sources": [
       "School notes week 2"
+     ],
+     "parts": [
+      "Binomial nomenclature",
+      "Kingdom Monera",
+      "Kingdom Protista",
+      "Kingdom Fungi"
      ]
     },
     {
@@ -203,6 +316,10 @@
      "chars": 14097,
      "sources": [
       "School notes week 3"
+     ],
+     "parts": [
+      "Kingdom Plantae",
+      "Kingdom Animalia"
      ]
     },
     {
@@ -215,6 +332,13 @@
      "sources": [
       "School notes week 4",
       "Biology Matters ch.1"
+     ],
+     "parts": [
+      "Cell as a living unit",
+      "Forms in which cells exist",
+      "Cell structure and functions",
+      "The cell theory",
+      "Differences and similarities between plant and animal cells"
      ]
     },
     {
@@ -228,6 +352,12 @@
       "School notes week 5",
       "Biology Matters ch.2",
       "Biology Matters ch.12 (photosynthesis)"
+     ],
+     "parts": [
+      "Diffusion",
+      "Osmosis",
+      "Plant nutrition",
+      "Micro and macro nutrients"
      ]
     },
     {
@@ -242,6 +372,12 @@
       "Biology Matters ch.3",
       "Biology Matters ch.4",
       "Biology Matters ch.5"
+     ],
+     "parts": [
+      "Animal nutrition",
+      "Balanced diet",
+      "Enzymes",
+      "Food test"
      ]
     },
     {
@@ -255,6 +391,11 @@
       "School notes week 8",
       "Biology Matters ch.7",
       "Biology Matters ch.8"
+     ],
+     "parts": [
+      "Cellular respiration",
+      "Excretion",
+      "Growth"
      ]
     },
     {
@@ -266,6 +407,11 @@
      "chars": 19044,
      "sources": [
       "School notes week 9"
+     ],
+     "parts": [
+      "Cell reaction to its environment",
+      "Movement",
+      "Reproduction"
      ]
     },
     {
@@ -277,6 +423,13 @@
      "chars": 18994,
      "sources": [
       "School notes week 10"
+     ],
+     "parts": [
+      "Why skeletons matter",
+      "Forms and types of skeleton",
+      "Bones of the vertebral column",
+      "Joints",
+      "Functions of the skeleton"
      ]
     }
    ]
@@ -296,6 +449,12 @@
      "chars": 4125,
      "sources": [
       "NGM ch.3.4-3.5"
+     ],
+     "parts": [
+      "What a number base is",
+      "Converting base 10 to other bases",
+      "Converting other bases to base 10",
+      "Converting between two non-ten bases"
      ]
     },
     {
@@ -307,6 +466,13 @@
      "chars": 4120,
      "sources": [
       "NGM ch.3.4-3.5"
+     ],
+     "parts": [
+      "Adding in number bases",
+      "Subtracting in number bases",
+      "Multiplying in number bases",
+      "Dividing in number bases",
+      "Word problems in number bases"
      ]
     },
     {
@@ -318,6 +484,12 @@
      "chars": 7607,
      "sources": [
       "NGM ch.20"
+     ],
+     "parts": [
+      "What modular arithmetic is",
+      "Addition and subtraction in modulo",
+      "Multiplication in modulo",
+      "Clock and calendar problems"
      ]
     },
     {
@@ -329,6 +501,12 @@
      "chars": 3147,
      "sources": [
       "NGM ch.1.1-1.2"
+     ],
+     "parts": [
+      "Laws of indices",
+      "Zero and negative indices",
+      "Fractional indices",
+      "Simple exponential equations"
      ]
     },
     {
@@ -340,6 +518,12 @@
      "chars": 1621,
      "sources": [
       "NGM ch.1.3"
+     ],
+     "parts": [
+      "Writing numbers in standard form",
+      "Adding and subtracting in standard form",
+      "Multiplying and dividing in standard form",
+      "Square roots in standard form"
      ]
     },
     {
@@ -351,6 +535,12 @@
      "chars": 3995,
      "sources": [
       "NGM ch.1.4-1.5"
+     ],
+     "parts": [
+      "From index form to log form",
+      "Logs of numbers in standard form",
+      "Characteristic and mantissa",
+      "Reading log tables"
      ]
     },
     {
@@ -363,6 +553,12 @@
      "sources": [
       "NGM ch.1.5-1.6",
       "NGM four-figure tables"
+     ],
+     "parts": [
+      "Multiplying with logs",
+      "Dividing with logs",
+      "Antilog tables",
+      "Mixed calculations"
      ]
     },
     {
@@ -374,6 +570,11 @@
      "chars": 4082,
      "sources": [
       "NGM ch.1.6"
+     ],
+     "parts": [
+      "Powers using logs",
+      "Roots using logs",
+      "Mixed powers and roots"
      ]
     },
     {
@@ -386,6 +587,13 @@
      "sources": [
       "NGM ch.5",
       "NGM ch.8.1-8.3"
+     ],
+     "parts": [
+      "Definition of sets",
+      "Notation",
+      "Listing",
+      "Set builder",
+      "Types of sets (universal, empty, finite, infinite)"
      ]
     },
     {
@@ -398,6 +606,12 @@
      "sources": [
       "NGM ch.5.5",
       "NGM ch.8"
+     ],
+     "parts": [
+      "Union",
+      "Intersection",
+      "Complement",
+      "Venn diagrams"
      ]
     },
     {
@@ -409,6 +623,12 @@
      "chars": 9788,
      "sources": [
       "NGM ch.6"
+     ],
+     "parts": [
+      "Solving simple equations",
+      "Change of subject: basic",
+      "Change of subject with brackets",
+      "Change of subject with roots and powers"
      ]
     },
     {
@@ -421,6 +641,12 @@
      "sources": [
       "NGM ch.18",
       "NGM review (simultaneous equations)"
+     ],
+     "parts": [
+      "Direct variation",
+      "Inverse variation",
+      "Joint and partial variation",
+      "Simultaneous equations"
      ]
     }
    ]
@@ -442,6 +668,12 @@
       "Oxford Term 1 Unit 1",
       "Oxford: Traditional Religion",
       "Oxford Term 1 Unit 4 (Countable Nouns, plurals)"
+     ],
+     "parts": [
+      "The /kw/ sound",
+      "Traditional religion words",
+      "Reading short passages",
+      "Rules for plural nouns"
      ]
     },
     {
@@ -454,6 +686,13 @@
      "sources": [
       "Oxford Term 1 Unit 1 (Home and Family Life)",
       "Oxford Term 1 Unit 2 (Narrative Essay I)"
+     ],
+     "parts": [
+      "Word meaning through context",
+      "Words associated with family (uncle, siblings, ancestors)",
+      "Listening to poems, stories, drama",
+      "Narrative composition 'My first day at college'",
+      "Nouns: masculine, feminine, common, neuter gender"
      ]
     },
     {
@@ -465,6 +704,13 @@
      "chars": 34041,
      "sources": [
       "Oxford Term 1 Units 3-4"
+     ],
+     "parts": [
+      "Sounds /s/, /z/, /ʒ/, /e/, /ə/",
+      "Farming words",
+      "Meaning from context",
+      "Countable and uncountable nouns",
+      "Narrative essay: A day I will never forget"
      ]
     },
     {
@@ -477,6 +723,12 @@
      "sources": [
       "Oxford Term 1 Unit 2 (Proper and Common Nouns)",
       "Oxford Term 1 Unit 3 (More about Common Nouns)"
+     ],
+     "parts": [
+      "Proper nouns",
+      "Common nouns",
+      "Concrete nouns",
+      "Collective nouns"
      ]
     },
     {
@@ -489,6 +741,12 @@
      "sources": [
       "Oxford: Words Associated with Agriculture",
       "Oxford Term 1 Unit 5 (Noun Phrase)"
+     ],
+     "parts": [
+      "Consonant followed by /l/",
+      "Farm tools vocabulary",
+      "The noun phrase",
+      "The definite article"
      ]
     },
     {
@@ -501,6 +759,12 @@
      "sources": [
       "Oxford Term 1 Unit 5 (Noun Phrase)",
       "Oxford Term 1 Unit 6 (Narrative Essay)"
+     ],
+     "parts": [
+      "Listening to real-life speech",
+      "Use of dictionary for contextual meaning",
+      "Narrative composition",
+      "Phrases with the definite article"
      ]
     },
     {
@@ -514,6 +778,11 @@
       "Oxford: Animal Husbandry: Fishing",
       "Oxford: verbs to nouns",
       "Oxford: Descriptive essay"
+     ],
+     "parts": [
+      "Descriptive composition 'A petrol station'",
+      "Words associated with fishing",
+      "Nominalizer verbs (wise, wisdom)"
      ]
     },
     {
@@ -526,6 +795,11 @@
      "sources": [
       "Oxford: verbs to nouns",
       "Oxford: Descriptive essay"
+     ],
+     "parts": [
+      "Listening to a recorded conversation for key ideas",
+      "Composition 'A flood disaster caused by blocked drains'",
+      "Nominalization of verbs"
      ]
     },
     {
@@ -538,6 +812,12 @@
      "sources": [
       "Oxford Term 2 Unit 1 (Animal Husbandry II)",
       "Oxford: Descriptive essay"
+     ],
+     "parts": [
+      "Words associated with animal husbandry",
+      "Consonants followed by /j/",
+      "Descriptive composition 'A fire accident in my street'",
+      "Irregular verbs"
      ]
     }
    ]
@@ -557,6 +837,12 @@
      "chars": 23273,
      "sources": [
       "Anyakoha Book 1 ch.1"
+     ],
+     "parts": [
+      "Meaning of physical quantities",
+      "Fundamental units",
+      "Derived units",
+      "SI units"
      ]
     },
     {
@@ -568,6 +854,14 @@
      "chars": 23301,
      "sources": [
       "Anyakoha Book 1 ch.1"
+     ],
+     "parts": [
+      "Measuring length",
+      "Measuring mass and weight",
+      "Measuring time",
+      "Vernier caliper",
+      "Micrometer screw gauge",
+      "Accuracy and errors"
      ]
     },
     {
@@ -579,6 +873,11 @@
      "chars": 47375,
      "sources": [
       "Anyakoha Book 1 ch.2"
+     ],
+     "parts": [
+      "Concept of position",
+      "Difference between distance and displacement",
+      "Applications"
      ]
     },
     {
@@ -590,6 +889,12 @@
      "chars": 22915,
      "sources": [
       "Anyakoha Book 2 ch.1"
+     ],
+     "parts": [
+      "Scalars and vectors defined",
+      "Differences between scalars and vectors",
+      "Adding vectors",
+      "Resolving vectors"
      ]
     },
     {
@@ -602,6 +907,12 @@
      "sources": [
       "Anyakoha Book 1 ch.2",
       "Anyakoha Book 2 ch.2"
+     ],
+     "parts": [
+      "Speed",
+      "Velocity",
+      "Acceleration",
+      "Speed and velocity graphs"
      ]
     },
     {
@@ -613,6 +924,11 @@
      "chars": 47331,
      "sources": [
       "Anyakoha Book 1 ch.2"
+     ],
+     "parts": [
+      "Concept of motion",
+      "Types of motion",
+      "Uniformly accelerated motion"
      ]
     },
     {
@@ -624,6 +940,11 @@
      "chars": 25821,
      "sources": [
       "Anyakoha Book 2 ch.2"
+     ],
+     "parts": [
+      "The three equations of motion",
+      "Using the equations",
+      "Real life problems"
      ]
     },
     {
@@ -636,6 +957,12 @@
      "sources": [
       "Anyakoha Book 2 ch.2",
       "Anyakoha Book 1 ch.2"
+     ],
+     "parts": [
+      "Distance-time graphs",
+      "Velocity-time graphs",
+      "Area and gradient",
+      "Problem solving with graphs"
      ]
     }
    ]

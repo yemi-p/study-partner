@@ -35,7 +35,7 @@ async function ai(body) {
 }
 function errText(e) {
   if (e.code === "CODE") return "This phone needs the app code. Go to the Me tab and enter it.";
-  if (e.code === "RATE_LIMIT") return "Study Partner needs a short break (too many questions in a minute). Try again in a minute.";
+  if (e.code === "RATE_LIMIT") return "Study Partner needs a short break. Wait a minute, then tap Try again.";
   if (e.code === "BUSY") return "The AI is very busy right now. Wait a minute and try again.";
   if (e.code === "NO_KEY") return "The app isn't connected to its AI yet. Ask Yemi to add the key.";
   return "Something went wrong. Check your data connection and try again.";
@@ -64,7 +64,7 @@ function Pattern({ k }) {
 function Rich({ text }) {
   // **bold** only; everything else plain text
   const parts = String(text || "").split(/(\*\*[^*]+\*\*)/g);
-  return <>{parts.map((p, i) => (p.startsWith("**") && p.endsWith("**") ? <strong key={i}>{p.slice(2, -2)}</strong> : p.replace(/^\s*[*-]\s+/gm, "• ")))}</>;
+  return <>{parts.map((p, i) => (p.startsWith("**") && p.endsWith("**") ? <strong key={i}>{p.slice(2, -2)}</strong> : p.replace(/^[ \t]*[*-][ \t]+/gm, "• ")))}</>;
 }
 
 function TopBar({ title, tag, color, onBack }) {
@@ -285,47 +285,116 @@ function TopicView({ view, setView, subject, info, onQuizDone, onLearned, onLear
           <button key={k} role="tab" aria-selected={tab === k} onClick={() => setTab(k)}>{l}</button>
         ))}
       </div>
-      {tab === "learn" && <Learn subject={subject.key} n={t.n} onLearned={onLearned} onXp={onLearnXp} />}
+      {tab === "learn" && <Learn subject={subject.key} topic={t} onLearned={onLearned} onXp={onLearnXp} onQuiz={() => setTab("quiz")} />}
       {tab === "quiz" && <Quiz subject={subject.key} n={t.n} best={info.best} onDone={onQuizDone} />}
       {tab === "written" && <Written subject={subject.key} n={t.n} onDone={onWritten} />}
     </div>
   );
 }
 
-const chatStore = {};
-function Learn({ subject, n, onLearned, onXp }) {
-  const key = subject + ":" + n;
-  const [msgs, setMsgs] = useState(chatStore[key] || []);
+const BOOK = { chemistry: "your Okoye textbook", maths: "New General Mathematics", physics: "New School Physics (Anyakoha)", biology: "your class notes and Biology Matters", english: "your Oxford English course" };
+const chatKey = (subject, n) => `${KEY}.chat.${subject}:${n}`;
+function loadChat(subject, n) { try { return JSON.parse(localStorage.getItem(chatKey(subject, n))) || null; } catch { return null; } }
+function saveChat(subject, n, c) { try { localStorage.setItem(chatKey(subject, n), JSON.stringify({ ...c, msgs: c.msgs.slice(-40) })); } catch {} }
+
+function Learn({ subject, topic, onLearned, onXp, onQuiz }) {
+  const n = topic.n;
+  const parts = topic.parts?.length ? topic.parts : [topic.title];
+  const [c, setC] = useState(() => loadChat(subject, n) || { part: 0, started: false, msgs: [] });
   const [text, setText] = useState("");
   const [busy, setBusy] = useState(false);
   const [err, setErr] = useState("");
-  const replies = useRef(0);
+  const [retry, setRetry] = useState(null);
   const end = useRef(null);
-  useEffect(() => { chatStore[key] = msgs; end.current?.scrollIntoView({ block: "end" }); }, [msgs, key]);
-  useEffect(() => { if (!msgs.length) send(null); /* eslint-disable-next-line */ }, []);
+  const answered = useRef(0);
+  useEffect(() => { saveChat(subject, n, c); }, [c, subject, n]);
+  useEffect(() => { end.current?.scrollIntoView({ block: "end", behavior: "smooth" }); }, [c.msgs.length, busy]);
 
-  async function send(content) {
-    const next = content ? [...msgs, { role: "user", content }] : msgs;
-    if (content) setMsgs(next);
-    setText(""); setBusy(true); setErr("");
-    try {
-      const r = await ai({ mode: "chat", subject, topic: n, messages: next });
-      setMsgs([...next, { role: "assistant", content: r.text }]);
-      if (content) { replies.current += 1; onLearned(); if (replies.current % 3 === 0) onXp(); }
-    } catch (e) { setErr(errText(e)); }
+  const chatMsgs = (msgs) => msgs.filter((m) => m.role === "user" || m.role === "assistant").map((m) => ({ role: m.role, content: m.content }));
+
+  async function run(fn) {
+    setBusy(true); setErr(""); setRetry(null);
+    try { await fn(); } catch (e) { setErr(errText(e)); setRetry(() => () => run(fn)); }
     setBusy(false);
   }
+  function teach(part, how = "first", userLabel) {
+    return run(async () => {
+      const base = c.msgs.concat(userLabel ? [{ role: "user", content: userLabel }] : []);
+      const r = await ai({ mode: "teach", subject, topic: n, part, how });
+      const content = r.lesson + (r.check ? `\n\n**Quick check:** ${r.check}` : "");
+      setC({ ...c, started: true, part, msgs: [...base, { role: "assistant", content, recap: r.recap, part }] });
+    });
+  }
+  function chat(content, starter, label) {
+    return run(async () => {
+      const next = [...c.msgs, { role: "user", content: label || content }];
+      const send = [...chatMsgs(c.msgs), { role: "user", content }];
+      const r = await ai({ mode: "chat", subject, topic: n, part: c.part, starter, messages: send });
+      setC({ ...c, started: true, msgs: [...next, { role: "assistant", content: r.text, part: c.part }] });
+      if (!starter) { onLearned(); answered.current += 1; if (answered.current % 2 === 0) onXp(); }
+    });
+  }
+  function nextPart() {
+    const lastTeach = [...c.msgs].reverse().find((m) => m.recap?.length);
+    const recapMsg = lastTeach ? [{ role: "recap", part: c.part, recap: lastTeach.recap }] : [];
+    const p = c.part + 1;
+    run(async () => {
+      const r = await ai({ mode: "teach", subject, topic: n, part: p, how: "first" });
+      const content = r.lesson + (r.check ? `\n\n**Quick check:** ${r.check}` : "");
+      setC({ ...c, part: p, msgs: [...c.msgs, ...recapMsg, { role: "user", content: `Next: ${parts[p]}` }, { role: "assistant", content, recap: r.recap, part: p }] });
+      onLearned();
+    });
+  }
+  function restart() { if (confirm("Clear this lesson chat and start the topic again?")) setC({ part: 0, started: false, msgs: [] }); }
+
+  const lastRecap = [...c.msgs].reverse().find((m) => m.recap?.length);
+  const isLast = c.part >= parts.length - 1;
+
   return (
     <>
-      <div className="chat">
-        {msgs.map((m, i) => <div key={i} className={"bubble " + (m.role === "user" ? "me" : "ai")}><Rich text={m.content} /></div>)}
-        {busy && <div className="bubble ai loading">Study Partner is thinking…</div>}
-        {err && <div className="error">{err} <button className="chip" onClick={() => send(null)}>Try again</button></div>}
-        <div ref={end} />
+      <div className="partbar" aria-label="Lesson progress">
+        <div className="row between small"><strong>Part {c.part + 1} of {parts.length}</strong>{c.started && <button className="linkbtn" onClick={restart}>Start over</button>}</div>
+        <div className="partdots">{parts.map((p, i) => <span key={i} className={i < c.part ? "done" : i === c.part ? "now" : ""} title={p} />)}</div>
+        <span className="small">{parts[c.part]}</span>
       </div>
-      <form className="composer" onSubmit={(e) => { e.preventDefault(); if (text.trim() && !busy) send(text.trim()); }}>
+
+      <div className="chat">
+        <div className="bubble ai">Hi! I teach from {BOOK[subject] || "your textbook"}: <strong>{topic.title}</strong>. Pick a starter, or ask me anything about this topic.</div>
+        {!c.started && !busy && (
+          <div className="starters">
+            <button className="starter" onClick={() => teach(0, "first", "Teach me this topic step by step")}>Teach me this topic step by step</button>
+            <button className="starter" onClick={() => chat("What must I know for the exam on this topic?", "exam")}>What must I know for the exam?</button>
+            <button className="starter" onClick={() => chat("Give me an example to try.", "example")}>Give me an example to try</button>
+            <button className="starter" onClick={() => chat("Explain the hardest part of this topic simply.", "hardest")}>Explain the hardest part simply</button>
+          </div>
+        )}
+        {c.msgs.map((m, i) => m.role === "recap" ? (
+          <div key={i} className="recap">
+            <span className="label-caps">Copy into your notebook · {parts[m.part]}</span>
+            <ul className="tight">{m.recap.map((x, j) => <li key={j}><Rich text={x} /></li>)}</ul>
+          </div>
+        ) : <div key={i} className={"bubble " + (m.role === "user" ? "me" : "ai")}><Rich text={m.content} /></div>)}
+        {busy && <div className="bubble ai loading">Study Partner is thinking…</div>}
+        {err && <div className="error">{err} {retry && <button className="chip" onClick={retry}>Try again</button>}</div>}
+        {c.started && !busy && (
+          <div className="starters">
+            <button className="starter" onClick={() => teach(c.part, "again", "Explain it another way")}>Explain it another way</button>
+            <button className="starter" onClick={() => teach(c.part, "example", "Give me a worked example")}>Give me a worked example</button>
+            {!isLast && <button className="starter go" onClick={nextPart}>Next part: {parts[c.part + 1]}</button>}
+            {isLast && <button className="starter go" onClick={onQuiz}>Finished! Take the topic quiz</button>}
+          </div>
+        )}
+        {isLast && lastRecap && c.started && !busy && c.msgs[c.msgs.length - 1]?.recap && (
+          <div className="recap">
+            <span className="label-caps">Copy into your notebook · {parts[c.part]}</span>
+            <ul className="tight">{lastRecap.recap.map((x, j) => <li key={j}><Rich text={x} /></li>)}</ul>
+          </div>
+        )}
+        <div ref={end} style={{ height: 72 }} />
+      </div>
+      <form className="composer" onSubmit={(e) => { e.preventDefault(); if (text.trim() && !busy) { const v = text.trim(); setText(""); chat(v); } }}>
         <label htmlFor="chatin" hidden>Your answer or question</label>
-        <input id="chatin" className="input" value={text} onChange={(e) => setText(e.target.value)} placeholder="Answer or ask about this topic" autoComplete="off" />
+        <input id="chatin" className="input" value={text} onChange={(e) => setText(e.target.value)} placeholder="Answer the check, or ask a question" autoComplete="off" />
         <button className="btn" disabled={busy || !text.trim()}>Send</button>
       </form>
     </>
@@ -346,7 +415,7 @@ function Quiz({ subject, n, best, onDone }) {
   async function start() {
     setBusy(true); setErr(""); setI(0); setPick(null); setScore(0); setFinished(false);
     try {
-      const r = await ai({ mode: "quiz", subject, topic: n, avoid: (quizSeen[k] || []).join(" | ") });
+      const r = await ai({ mode: "quiz", subject, topic: n, seed: Math.floor(Math.random() * 9), avoid: (quizSeen[k] || []).join(" | ") });
       const list = (r.questions || []).filter((q) => q.options?.length === 4).slice(0, 5);
       if (list.length < 3) throw Object.assign(new Error(), { code: "ERROR" });
       quizSeen[k] = [...(quizSeen[k] || []), ...list.map((q) => q.q.slice(0, 60))].slice(-15);
@@ -404,7 +473,7 @@ function Written({ subject, n, onDone }) {
   const [err, setErr] = useState("");
   async function getQ() {
     setBusy(true); setErr(""); setRes(null); setAns("");
-    try { setQ(await ai({ mode: "written_q", subject, topic: n })); } catch (e) { setErr(errText(e)); }
+    try { setQ(await ai({ mode: "written_q", subject, topic: n, seed: Math.floor(Math.random() * 9) })); } catch (e) { setErr(errText(e)); }
     setBusy(false);
   }
   async function mark() {

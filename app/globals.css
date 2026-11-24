@@ -118,3 +118,14 @@ textarea.input { resize: vertical; min-height: 96px; }
 .chip { min-height: 44px; padding: 0 14px; border-radius: 12px; border: 2px solid var(--ink); background: var(--card); font-weight: 700; }
 .chip[aria-pressed="true"] { background: var(--ink); color: var(--bg); }
 ul.tight { margin: 0; padding-left: 20px; display: flex; flex-direction: column; gap: 4px; }
+
+.partbar { background: var(--card); border: 2px solid var(--ink); border-radius: 14px; padding: 10px 12px; display: flex; flex-direction: column; gap: 6px; }
+.partdots { display: flex; gap: 4px; }
+.partdots span { flex: 1; height: 6px; border-radius: 999px; background: var(--line); }
+.partdots span.done { background: var(--ink); }
+.partdots span.now { background: var(--sun); }
+.starters { display: flex; flex-direction: column; align-items: flex-start; gap: 8px; }
+.starter { min-height: 44px; padding: 10px 14px; border-radius: 14px; border: 2px solid var(--ink); background: var(--card); font-weight: 700; text-align: left; }
+.starter.go { background: var(--ink); color: var(--bg); }
+.recap { background: var(--sun-soft); border: 2px dashed var(--ink); border-radius: 16px; padding: 12px 14px; display: flex; flex-direction: column; gap: 6px; }
+.linkbtn { background: none; border: 0; text-decoration: underline; color: var(--ink-2); min-height: 32px; }
