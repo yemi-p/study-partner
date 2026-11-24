@@ -1,0 +1,3946 @@
+TOPIC: The cell and its environment; plant nutrition
+WEEKS: 5
+TEACHER'S SCHEME: Diffusion, osmosis, plant nutrition, micro and macro nutrients
+
+=== SOURCE: School notes week 5 ===
+WEEK 5
+SUBJECT: BIOLOGY
+CLASS: SS1
+TOPIC: Cell and its Environment and some properties and functions of cells
+CONTENT:
+(1) Diffusion
+(2) Osmosis
+The topic 'Cell and its Environment' refers to the activities of the cell in a given environment or
+the functions of the cell given a particular condition. Some conditions can be harmful to the cell
+while others are helpful for proper functioning of the cell. This is why we discuss the cell and its
+environment.
+diffusion
+Diffusion can take place in liquid and gases, but diffusion is faster in gases than in liquid, because
+air and gases as a medium has more spaces to be filled.
+Diffusion can be defined as the process by which molecules of substances, such as liquid and
+gases move randomly from a region of higher concentration to a region of lower
+concentration until they are evenly distributed.
+It is also a process by which fine particles (molecules) flow in and out of cells of living things, and it
+can occur in non-living things or membrane.
+SUGGESTED PRACTICALS
+Stand at the corner of the classroom, and spray a perfume, after a while the scent of the
+perfume will circulate the whole class and every student will testify to the perception. This
+is diffusion in gas.
+You can also demonstrate diffusion of solid material in liquid medium using potassium
+tetraoxomanganate (vii) crystals. i.e. KMnO4
+Materials: Distilled water, Beakers, Spatula, and KMnO4.
+RATE OF DIFFUSION
+The rate of diffusion is the time taken by molecules of a diffusing substance to be uniformly
+distributed in any given area of the diffusing medium.
+Some factors may affect (inhibit or facilitate) the rate of diffusion:
+1. State of matter of diffusing molecules
+2. Size of diffusing molecules
+3. Differences in concentration of
+
+v. The upward movement of mineral salts and nutrients from the soil through the roots to
+other parts of the plant.
+EVALUATION
+1. Define the term diffusion.
+2. What is rate of diffusion?
+3. State three importance of diffusion.
+Diffusion
+Diffusion is the natural tendency of molecules to flow from higher concentrations to lower
+concentrations. When the barrier between two substances is removed (as shown here), the molecules will
+diffuse throughout the entire container. While the number of molecules in the container is the same as it
+was before the barrier was removed, the substances are now at lower concentrations. The rate of diffusion
+depends on the weight of the molecules—heavy molecules diffuse more slowly than light molecules.
+OSMOSIS
+Osmosis is the movement of water molecules from a dilute solution into a more concentrated
+solution through a semi-permeable membrane. Living organisms has the cell as the semi-
+permeable membrane. Since the water molecules are small, the cell is somewhat limited in the
+amount of direct control it can impose on their passage across the membrane. In osmosis, the
+stronger solution is called hypertonic solution, while the weaker solution is called hypotonic
+solution. In osmosis, water molecule move from hypotonic to hypertonic solution, but when the
+concentrations are equal, the solution is said to be isotonic.
+APPLICATION OF OSMOSIS IN ANIMALS
+They include:
+1. Reabsorption of water in kidney tubules,
+2. Entry of water into the cytoplasm of
+unicellular animals, e.g. Amoeba and
+Paramecium,
+3. Movement of water in and out of living
+animal cells,
+4. Absorption of water in the large
+intestine.
+APPLICATION OF OSMOSIS IN PLANTS
+They include:
+1. Absorption of water from the soil by the
+root hairs,
+2. The movement of water in and out of
+living plant cell,
+3. The movement of water from the root
+hairs to the cells of the cortex, and
+4. Opening and closing of the stomata by
+the guard cells in the leaf.
+DEMONSTRATION OF OSMOSIS
+1. Using a living membrane or tissue such
+as yam, pawpaw etc.
+2. By Osmometer; Osmometer can be
+constructed using a thistle funnel
+covered with cellophane.
+3. The cellophane is semi-permeable. The thistle funnel is filled with a strong sugar solution to
+
+a certain level.
+4. It is then lowered into the beaker containing water. After about 30 minutes, it could be seen
+that the level of the solution in the thistle funnel has increased due to passage of water
+through the cellophane membrane.
+5. This indicates that cellophane membrane is a semi-permeable membrane allowing only
+molecules of water to pass through, but preventing the passage of sugar molecules.
+6. This is the demonstration of osmosis
+using a non-living membrane.
+OSMOTIC PRESSURE
+This is the minimum pressure that needs to be applied to a solution to prevent the inward flow
+of water across a semi-permeable membrane. It is the measure of the tendency of a solution to
+take in water by osmosis. It is simply the pressure needed to stop osmosis. The osmotic
+pressure that a solution is capable of developing depends on the number or concentration of its
+Osmosis
+The experiment shown above demonstrates the process of osmosis. Water flows through a
+semipermeable membrane into a sugar solution, diluting the solution. The sugar molecules cannot
+pass through the membrane, so the water outside remains pure.
+IMPORTANCE OF OSMOSIS
+1. Osmosis regulates the concentrations of salt and water of the blood and other body fluid in
+animals.
+2. It maintains the cell shape through turgidity and plasmolysis if need be.
+3. It enables the absorption of water molecules from the soil solution to the plants through the
+root hair.
+4. Movement of water molecules within the plant from the root to the leaves.
+EVALUATION
+1. Define the term osmosis.
+2. Write two application of osmosis each in plant and animals.
+3. What is osmotic pressure?
+4. Enumerate three importance of osmosis.
+OBJECTIVE TEST:
+1. One of these is not a factor that affects diffusion. (a) State of the matter (b) pressure of the
+substance (c) Size of molecules (d) Temperature (e) Concentration gradient.
+2. When two solutions has equal concentration, it is said to be -------------- (a) isometric
+solution (b) hypertonic (c) hypotonic (d) isotonic (e) isobarism.
+ASSIGNMENT
+1. Write short notes on the following (a) Haemolysis (b) plasmolysis (c) turgidity (d)
+endocytosis (e) exocytosis (f) pinocytosis (g) Phygocytosis.
+2. What is turgor pressure?
+SUB TOPIC 3: NUTRITION
+Nutrition can be defined as the totality of the processes by which a living thing obtains, and uses
+food. We have two types of nutrition; plant and animal nutrition.
+PLANT NUTRITION
+In plant nutrition, we have photosynthesis and chemosynthesis. The later is a process through
+which non-green plants use either parasitic or saprophytic modes of nutrition to obtain their food.
+It can occur in colourless autotrophic bacteria.
+Photosynthesis is the process by which green plants make use of raw materials such as
+carbon (iv) oxide and water to produce sugar and Oxygen in presence of sun light or solar
+
+energy and chlorophyll.
+EQUATION FOR PHOTOSYNTHESIS
+6CO2 + 6H2O C6H12O6 + 6O2
+Light Reaction
+(i) Light energy is captured by chlorophyll
+(ii) The energy splits water into hydrogen (H+) and hydroxyl (OH-) ions. The process is called
+photolysis of water and it is the first step in photosynthesis.
+4H2O 4H+
++ 4(OH-
+) + ATP
+(a) The hydroxyl part is reconverted to water and Oxygen is given off as a by-product.
+4(OH) 2H2O + O2
+(b) The compound (NADH) coenzyme is reduced by hydrogen ion and ATP is formed.
+With the energy provided by ATP, the reduced compound (NADH) brings about the
+assimilation of carbon (iv) oxide through series of small steps , each controlled by a specific
+enzyme to form sugar or starch.
+CO2 + 2H2 CH2O + H2O
+The overall reaction is below:
+CO2 + 2H2O CH2O + H2O + O2
+Significance of Photosynthesis
+1. All living things are supported by the by-products of photosynthesis. For example all
+animals and non-green plants obtain their energy from green plants.
+2. It brings about the purification of the atmosphere by removing excess carbon (iv) oxide
+(carbon iv oxide)
+Materials Necessary for Photosynthesis
+Internal condition:
+1. Mineral salts
+2. Chlorophyll
+3. Enzymes.
+Some Factors Affecting Photosynthesis:
+They include;
+ Temperature,
+ Light intensity,
+ Carbon (iv) oxide,
+ Amount of soil water/ moisture
+EVALUATION
+1. What is nutrition?
+2. Define photosynthesis.
+3. Explain what happens in light and dark reaction stages of photosynthesis using equations.
+4. List materials necessary for photosynthesis in the order of external and internal conditions.
+5. Outline some factors that affects photosynthesis.
+Micro elements are also known as minor or Trace elements or Micronutrients. These are elements
+required by plants in very tiny or very little amount. Although they are needed in trace amount, it
+leads to some deficiency when not available at all.
+Some micronutrients include; Boron (B), Cobalt (Co), Copper (Cu), Manganese (Mn), Silicon (Si),
+Zinc (Zn), Chlorine (Cl).
+On other hand, Macro or Major or Macronutrients refer to elements that are required by plant in
+large amount. Examples are the seven major elements which include Nitrogen (N), Potassium (K),
+Calcium (Ca), Magnesium (Mg), Iron (Fe), Phosphorus (P), Sulphur (S).
+SUB TOPIC 4: MICRO-NUTRIENTS
+Elememts Uses/Importance to Plants Effects of Deficiency
+Boron (B) Transport of Calcium and sugar Shoot goes brown
+Cobalt (Co) For action of some enzymes Poor growth
+Copper (Cu) For respiratory enzymes Poor growth
+Manganese(Mn) Activation of some enzymes Shoots die back
+Silicon (Si) Cell wall formation, particularly in
+grasses
+May affect growth
+Zinc (Zn) Activation of some enzymes Poor leaf formation
+Chlorine (Cl) For Oxygen release during
+photosynthesis and for growth and
+development
+Plant wilts and chlorophyll
+necrosis and reduce
+growth.
+MACRO-NUTRIENTS
+Nitrogen (N) Formation of amino acids, protein and
+nucleic acids. Hormone synthesis.
+Poor growth,
+underdeveloped
+
+Potassium
+(K) Formation of amino acids, protein and
+cell membranes, crop maturation. Death of plant, yellow leaf
+at edges.
+Calcium (Ca) Development of the cell wall at the
+growing points. Activate some enzymes
+Poor growth, particularly of
+the root.
+Magnesium
+(Mg)
+Part of the chlorophyll molecule Leaves go yellow.
+Iron (Fe) Needed for the synthesis of chlorophyll
+molecule
+Leaves go yellow.
+Phosphorus
+(P)
+Formation of energy storage compound Poor growth leaves go dark
+green.
+Sulphur (S) Needed for protein formation Leaves go yellow, stunted
+growth.
+EVALUATION
+1. Define the terms micro and macronutrients
+2. List Four (4) each of micro and micro nutrients
+3. Write two (2) importance each of macro and micro nutrients
+4. Outline two (2) each of the effects of deficiency of micro and macro nutrients.
+SUGGESTED WEEKEND PRACTICALS
+Carry out an experiment to demonstrate osmosis using living membrane.
+
+=== SOURCE: Biology Matters ch.2 ===
+Chapter 2 I Cells and the Chemist ry of Life
+
+ 2.1 What Is Diffusion 7
+ Learning Outcomes
+ Define diffusion and describe its role in nutrient uptake and gaseous exchange in
+ plants and humans.
+ Describe the factors t hat affect the rate of diffusion.
+
+ Diffusion
+ Imagine t hat you are sitting in the liv ing room reading a book. Your sister accidental ly spiHs
+ a bottle of perfume in t he living room. Gradually, you become aware of a pleasant scent
+ spreading t hrough t he living room.
+
+ Figure 2.1 il lust rates how diffusion takes place.
+
+ F"rgure :2.1 Diffusion of perfume particles
+
+ © Perfume. like all matter, is made up of particles such as atoms, molecul es or ions.
+ @ Individual particles of perfu me evaporate from the surface of the spill, that is, they become
+ Link a gas.
+ Physics @ The gas particles have kinetic energy and are const antly moving in all d irections. They
+ We learn that the ran.dom bump into one anot her and move about randomly.
+ movement of microscopic
+ particles is known as © This causes t he gas t o spread t hro ughout t he house, unt il it reaches your nose and you
+ Brownian motion. smell it. The gas spreads outward s t hrough a process called diffusion.
+
+ What Is a Concentration Gradlient and How Is It Related to Diffusion?
+ In Figure 2.1, point A represents the location where the bottle of perfume was spilled. Point B
+ represents you in t he living room, som e distance away. Concentration refers to the amount of a
+ subst ance wit hin a fixed volume. The ,c oncentration of gas particles is higher at A than at B. Thus.
+ t here is a difference in concentration bet ween points A and B. This concentration difference can
+ be shown on a graph (Figure 2.2) and is referred t o as t he concentration gradient.
+
+20
+
+ Movement of Substances I Chapter 2
+
+ In Figure 2.2, the height of the blue line shows t he concentration at each
+ point. If we j oin t he concentrat ions at A and B, we get a straight line, which
+ is sloped or has a gradient. This red dotted line is the concentration gradient
+ bet ween A and B.
+ Link
+► Concent ration gradient is t he difference in concent ration between Chemistry
+ two regions. We learn that all matter is
+ made up o( tiny partides
+ The particles of fluids (liquids and gases) possess movement (kinetic) that are in constant
+ random motion. These
+ energy. They are continuously moving about. As t heir movement is
+ moving partides have
+ random, t he particles w ill move (diffuse) down t he concentration gradient kinetic energy.
+ and become evenly spaced out after some time (Figure 2.3).
+
+ •••
+ l
+ • •••••••••
+ •
+ • •••
+ ... rffZ.
+ ••
+ • • ••
+ ••••••
+ • ••• • areaofhigh
+ com:entration
+
+ l
+ of particl~s
+ Helpful Note
+ Net movement refers lo
+ ..___...__ _ _ _ _..._+ Distance the overall movement of
+ point A points
+ partides. Nel movemenl
+ Figure 2.2 Graphical representation Figure 2.3 Arrows showing direction of of partides occurs when
+ of diffusion movement of particles as they space out the movement o( partides
+ in on.e direction is greater
+ than the movement of
+ In Figure 2.1, t he smell of perfume diffuses t hroughout t he house.
+ partides in the opposite
+ Diffusion can thus be described as t he net movement of particles down a direction.
+ concentrat ion gradient .
+ When the two regions
+ The steeper the concentration gradient for a substance, the faster the rate of have the same number of
+ diffusion for that substance. partides per unit \'Olwne.
+ the movement of the
+ Diffusion is t he net movement of particles (atoms, molecules or ions) particles between the
+► from a region where t hey are of higher concentration to a region w here two regions will be the
+ they are of lower concentrat ion, that is, down a concent ration gradient. same in both directions.
+ Thus. there will be no
+ net movement
+
+ Let's Investigate 2.1
+ Alm
+ To investigate t he diffusion of a dissolved subst ance
+ in water
+
+ Procedure gasjar
+ 1 Drop a copper(II) sulfate crystal into a, gas j ar full
+ of wat er as shown in Figure 2.4. Cover t he jar and
+ allow it to stand for a few days.
+ 2 Observe t he changes in t he colour of t he water. copper(II) sulfa te
+ crystal
+
+ Figure 2.4 Experimental set-up
+ to demonstrate diffusion
+
+ 21
+
+Chapter 2 I Cells and the Chemist ry of Life
+
+ Observation and Di scussion
+ 1 Using the concept of concent ration gradient, explain why t he blue
+ colour of copper(II) sulfate gradua'lly spreads throughout t he water
+ in the jar.
+ 2 When does diffusion stop?
+
+ As you saw in Let~ Investigate 2.1, the part icles of copper(II) sulfate moved
+ from a region of higher concent ration to regions of lower concent ration in
+ the surrounding water. In other words, the solute particles diffused evenly
+ throughout the liquid to form a solut ion.
+
+ If there is more than one subst ance d issolved in t he same liquid, then t he
+ dissolved particles of one substance will diffuse independent ly of t he others.
+
+ Diffusion Across a Membrane
+ Figure 2.5 illustrat es the process of d iffusion through a permeable membrane.
+ A permeable membrane allows bot h t he solvent (water) and the solut es (the
+ dissolved substances) t o pass through it.
+
+ As a result:
+ • The dissolved part icles of copper(II) sulfate will diffuse across t he
+ membrane t o the left side of the beaker.
+ • The dissolved part icles of potassium nit rate will diffuse across t he
+ membrane to the right side of the beaker.
+
+ Eventually, t here w ill be equal concentrat ions of all particles on both sides
+
+ ;---...
+ of the membrane.
+
+ permeable membrane
+
+ LEFT SIDE RIGHT SIDE
+ (higher (h igher
+ concentra tion concentration
+ /
+ of potassium ofcoppe~ II) RIGHT
+ LEFT
+ n itrate) s.1,llfJte) SADE SIDE
+
+ C C C: C C) C
+ C) C) C) C)
+ C) •.v,ner
+ potassium 4 C)C) C) () C
+ nitrate C C)
+ patticles
+ I C) C> C () copper(II)
+ C)
+ I C)
+ SIJllfate C:
+ I C particles e I C
+ C C)
+ C
+ I
+ C) C)
+ C
+ C
+ () c C
+ -----+, net movement of potassium nitrate partides no net movement
+ ..,_ net movement of copper{.11) sulfate partides
+
+ figure 2..5 Diffusion of potassium nitrate and copper{II) sulfate particles
+ through a permeable membrane
+
+22
+
+ Movement of Substances I Chapter 2
+
+Factors That Affect the Rate of Diffusion
+The rate of diffusion can be affected by factors such as:
+• concentration gradient
+ diffusion dist ance
+• surface area-to-volume ratio
+
+How concentration gradient affects t he rate of diffusion has been discussed
+on page 21.
+
+Diffusion Distance
+The time taken for a substance to move f rom one point to another depends
+on the distance between the two point:s. The distance t hrough which a
+substance diffuses is called t he diffusion dist ance. The shorter t he diffusion
+distance, t he less time is needed for t he substance to t ravel, and hence t he
+rate of diffusion is higher.
+
+In living organisms, the cell membrane is not like t he membrane in
+Figure 2.6. It allows some subst ances t o pass through but not ot hers. For
+example, oxygen and carbon dioxide can pass t hrough t he cell membrane
+but proteins cannot. Diffusion is on important way by which oxygen and
+carbon dioxide move into and out ofcells.
+
+Excha nge of oxygen and carbon dioxide in t he lungs takes place by
+diffusion (Figure 2.6(a)). Plant cells such as root hair cells also take in oxygen Link
+and remove carbon dioxide by diffusion (Figure 2.6(b)). In bot h these I-low do humans carry
+scenarios, the diffusion dist ance is shoril allowing diffusion to occur at a oul gas exchange! Read
+hig her rat e. abo1rt il in Chapter 7.
+ Mow do plants carry
+ out gas exchange? Read
+ abo1rt il in Chapter 12.
+
+ carbon dioxide
+ epidermal
+ dtffuses out of the
+ cell in the
+ root hair cell
+ afr space
+ root
+ in the lung
+ capillary root hair
+ carbon
+ cell Disciplinary Idea
+ dio.xide Systems
+ diffuses out Living organisms rely on
+ diffusion to facilitate the
+ oxygen from exchange of gases with
+ th~ air diffuses the environmenl needed
+ Into the red oxygen diffusl'!~ for survival.
+ blood cell Into the root hafr
+ cctl
+structures in lung cell red blood cell
+lung containing
+air spaces
+
+ (a>Jn human lungs (b) In plant ce41s
+
+figure 2.6 Gas exchange of oxygen and carbon dioxide via diffusion
+
+Solutes can also diffuse, for example, in the small intestine when dissolved amino
+acids and glucose ore absorbed by diffusion into the blood capillaries. A solut e is
+a substance t hat has been dissolved in another substance.
+ 23
+
+Chapter 2 I Cells and the Chemist ry of Life
+
+ Surface Area-to-volume Ratio
+ What does surface area-t o-volum e rat i o mean t o a cell?
+ Why are cells t ypically small? Why do all large organisms always have bodies made up of many
+ small cell s and not just one large cell?
+
+ The answers to these quest ions are related to the rat e at w hich mat erials move across the
+ cell membrane. Cells need t o move oxygen, nut rient s and waste materials across their cell
+ membrane fast enough t o stay alive.
+
+ The rate of movement of a subst ance across a cell membrane depends on how large the cell
+ membrane is (i.e. the surface area of the cell). For t wo cells of t he same volume, the one wit h
+ t he larger surface area allows for a h igher rate of diffusion. The rat io between the su rface
+ area and volume of a cell is called surface area-to-volume ratio, and is an essential concept
+ in biology. The greater the surface area-to-volume ratio of a cell, the higher the rat e at which
+ substances move in and out of it.
+
+ The following invest igation will help you better understand surface area-t o-volume ratios.
+
+ Let's Investigate 2.2 - - - - - - - - - - - - - - - - - - - - - - - .
+ Calculat ing Surface Area-t o-volume Rat ios
+ 1 Consider t hree cubes of sides 1 cm, 2 cm, and 3 cm respectively. We use three cubes to
+ represent cells of different sizes.
+ 2 Complete Table 2.1.
+
+ Table 2.1 Surface area-to-volume ratio of three cubes representing cells of different sizes
+
+ Area of one face
+ = 1 cmxlcm= 1 cm:i
+ Surface area
+ Surface area = number of faces x
+
+00
+ Helpful Note
+ area of one face
+ =6x 1 cm'
+ =6cm'
+ Volume
+ A cube has six square Volume = 1 cmx l cmx 1 cm
+ faces, To find the surface = 1 cm'
+ area of a cube.. find the
+ area of one face and Surface
+ arerto- 6 cm' : 1 cm 3
+ multiply by six.
+ volume ratio
+
+ From our calculat ions, we can observe t hat as the cube becomes bigger, the surface area
+ does not increase in t he same proportion as t he volume. The cube of sides 1 cm has 6 cm2
+ of surface area t o 1 cm' volume. But the cube of sides 3 cm has only 2 cm2 of surface area
+ t o 1 cm' volume. The largest cube has the smallest surface area-to-volume ratio. The rate
+ of movement of subst ances across t he largest cube is the slowest. Thus, as a cell grows, the
+ rate of movement of subst ances across a cell will decrease.
+
+24
+
+ Movement of Substances I Chapter 2
+
+Let's explore the efficiency of diffusion in three t ypes of cells using t he models in
+Figure 2.7.
+
+In Figure 2.7, the larger cell B has more surface area than cell A, but it has less
+surface area for every unit volume of protoplasm compared to A. The rate of intake
+offood and oxygen per unit volume is therefore slower in cell B than in cell A.
+
+The cells in root tipsand shoot tips are small and actively growing. As a cell Word Alert
+continues t o grow in size, it s growt h slows down and st ops once it reaches its O plimum: best or most
+optim um size. This is because as t he cell grows larger, the rate of oxygen and food favou:rabJe
+intake slows down. Thus, it w ill not be beneficial for a cell to grow too big .
+
+ ~
+ ...
+Each shaded square represents food and waste products imaginary
+the surface area of a unit volume oxygen in out lines
+o f protoplasm.
+
+ ♦
+ •
+it
+ - 1 cm 2cm
+ l oss in
+ surface
+ a1eai
+
+ ----1---
+ '
+ ·• ----
+
+---------
+Cell Awith sides of
+1an
+ Cell Bwltll sides of 2an
+ Portion Yhas the same rolume of protoplasm
+ Cell Cwith sides of 3 cm
+ PortionZhas as aneveo smaller
+lhis cell canobtain asX. However, its surfacearea has been surface area perunit rolume.
+food and oxygen from reduced by hall. It canonlyobtain half the Therefore, tt gets less food and
+all its ~des. amount ofloodand oxygen per tmil time oxygen per unit timecompared toY.
+ compared toX. Illus, die wholecell Bcan The wholecell Cisevenless active
+ only be halfas active as cell A. than the otfler two cells.
+ Figure 2.7 Models to explain what surface area-to-volume
+ ratio mean s to a cell of increasing size
+
+How do cells adapt their surface area-to-volume ratios?
+Consider t he t wo shapes in Figure 2.8. Each rep resents a cell.. Cells A and B have
+the same volume of 1 cm3 but have different surface areas. What is the surface
+area-to-volume ratio for cells A and B?
+
+ Cell A
+ CellB
+
+ / 71 Nolicc that the F',gure 2.8 Models
+ 0.25 cm t '--
+ I_ ____..I ll ltl"" 2cm
+ rect angular cell 8
+ h.as a larger surface
+ to exp lain how cells
+ of the same volume
+ area·to·volwne ratio.
+ 2 cm can h ave different
+ 1 cm s urface areas
+ Cell A: Surface area = 6 cm 1 Cell B: Sutfac•e area = 10 cm1
+ Volume = 1 cm x 1 cm x 1 cm Volume = 2 cm x 2 cm x 0.25 cm
+ • I cm1 • I cm 3
+
+ 25
+
+Chapter 2 I Cells and the Chemist ry of Life
+
+ Some cells are specifically adapted t o absorb substances, for example, root
+ hair ceUs and the epit helial ceUs, whi ch line the small intestine (Figure 2.9).
+ Such cells often have long narrow protrusions or folds in t heir membranes.
+ These greatly increase t he surface area-to-volume ratio of the cell
+ Link membrane through which materials can be absorbed into the cell..
+ How is the rool hair cell You will learn more about this in Chapter 5.
+ adapted lo its function?
+ Recall what you have
+ learnt in Chapter I.
+ lumen of small intestine
+
+ epithelial
+ cell
+ mic.rovilli
+ Word Alert
+ Protrusions: things
+ thal stick oul from the
+ surrounding surface
+ Lumen: hollow space of a
+ tubular structure
+
+ Ftgure 2.9 Mkrovilli on the
+ epithelial cells of the small
+ intestine
+
+ Let's Investigate 2.3
+ Alm
+ To investigate the relationship between surface area-to-volume ratio
+ and absorption
+
+ Procedure
+ 1 Use a knife and cut out t hree blocks, of agar (stained w ith bromothymol
+ blue) with t he dimensions (in cm) shown in Figure 2.10.
+ 2 Completely immerse t he t hree agar blocks in dil ute hydrochloric
+ acid and note the time.
+ 3 As t he acid diffuses int o the blocks, the blocks gradually turn from
+ blue to yellow. Examine the blocks regularly. Record how long it
+ takes for each block to t urn compl-etely yellow.
+
+ 4.0
+ o.s. !r~====~ +
+Link i O+os
+ C
+ A B
+ Practical Workbook
+ Experiment 2A
+ figure 2.10 Three agar blocks with the same volume but different surface area
+
+26
+
+ Movement of Substances I Chapter 2
+
+ Observati on and Discussion
+ 1 What can you say about the relationship bet ween surface area-to-volume
+ ratio and the rat e of absorption of the acid?
+ 2 How can you relate the shape of the agar blocks t o cells in the body?
+
+ Now, look at Figure 2.11. What do you notice? What do you t hink is
+ t aking place? Comment on t he stat emen ts made by the three persons
+ about the movement of molecules.
+
+ teamolecul
+ taywhereth
+ t move until th
+
+ Link
+ ca
+ - Why is t he colour of t he t ea
+ Chemistry
+ We learn that moving
+ particles have kinetic
+ darker in the region nearer t o energy. As temperature
+ the tea bag when the tea bag increases, particles
+ is first placed in the water? gain more energy and
+ • What will t he colour of t he tea move faster. The rate o(
+ be after one hour? diffusion increases as
+ the temperature of the
+figure 2. 11 Three persons are discussing the movement of molecules. Comment on their statements.
+ solution increases.
+
+ Let's Practise 2.1
+ 1 (a) What is a concentrat ion gradient?
+ (b) Define the term diffusion. What factor(s) affect t he rate of
+ diffusion?
+ 2 Explain why actively growing cells are usually small in size. Why do
+ cells not grow beyond a certain size?
+ 3 (a) HOY,1 are the root hair cell (Figure 2.12), t he epit helial cell of t he
+ small intestine (Figure 2.13) and the red blood cell (Figure 2.14)
+ adapted for absorption of materials?
+
+ long protrusion nattened and
+ biconcave
+
+ d=:::::>
+ Figure 2.12 Root hair cell Figure 2.13 Epithelial cell Figure 2.14 Red
+ blood cell Link
+ Theory Workbook
+ (b) What feature(s) do the t hree cells have in common? Worl<slleel 2A
+
+ 27
+
+Chapter 2 I Cells and the Chemistry of Life
+
+ 2.2 What Is Osmosis?
+ Lea rning O utcomes
+ Define osmosis, invest igate and describe t he effects of osmosis
+ on plant and animal t issues.
+ Discuss the factors t hat affect the rate of osmosis.
+
+ Osmosis
+ The cell membrane is a part ially permeable membrane. It a/laws
+ same substances to pass through but not others. Figure 2.15 shows t he
+ two arms of a U-tube sepa rat ed by a partially permeable membrane.
+ This membrane is permeable to wate r molecules but not to sucrose
+ molecules. Sucrose is cane sugar, also known as table sugar.
+
+ rise- in
+ level of A B
+ 10% sucrose solution A B
+ (more solute molecules solution
+ per unit \folume)
+ d rop in level due to
+ movcmc:ntofw.itcr
+ 5% sucrose wlution
+ 1nolec1.1lei t·o A
+ ra:.::r-- (fewer solute molecules
+ per unit volume)
+ SU(rose molec:Ule$
+
+ parti..'tlly permeable
+ membrane
+
+ (a) Initial set-up (bl After osmosis
+
+ figure 2.1s Experimental set-up to demonstrate osmosis
+
+ Compa red to arm B, arm A cont ains:
+ More sucrose molecules per unit volume
+ • Fewer water molecules per unit volume
+
+ After some t ime, t he level of solution in arm A rises, while that in arm B falls.
+
+ What do you t hink has happened?
+ Sucrose molecules cannot diffuse from arm A to B because t he molecules
+ are too big t o pass through t he pores of the membrane.
+ Water molecules move from B t o A because solution B has more water
+ Link molecules per unit volume than solut ion A. A dilute solution has more
+ water molecules per unit volume t han a concentrated solution of the
+ Chemistry same volume.
+ We learn that the
+ concentration of a
+ solution is given by Net result: Bot h arms A and B have tile same solute concent ration (same
+ the amount o( a solute number of solute molecules per unit volume).
+ d issolved in a unit
+ volume of the soluti:on. The diffusion of water molecules across a partially permeable membrane is
+ called osmosis.
+
+28
+
+ Movement of Substances I Chapter 2
+
+Let's Investigate 2.4
+Alm
+To demonstrat e osmosis
+
+Procedure
+1 ne a knot at one end of a piece of dialysi s
+ tubing.
+2 Half-fill a boiling tube with distilled water.
+3 Use a pipette t o half-fill t he dialysi s tubing
+ w ith sucrose solution. Carefully rinse the bcHling tube
+ outside of the dialysis tubing w ith di stilled
+ water if any sucrose solution is spil led . F"rgure 2.16 Experimental set-up to demonstirate osmosis
+4 Set up the apparatus as shown in
+ Figure 2.16. Make sure the level s of the liquid inside and outside
+ the tubing are the same. Use a paper ,c lip to hold the dialysis
+ tubing in place. Mark the level on the outside of the boiling tube.
+s Set up a second experiment in a sim il.ar way but w ith distilled
+ water in both the dialysis tubing and the boiling tube.
+6 After 20 minutes, observe and note the level of liquid inside and
+ outside the tubing in each experiment.
+
+Observation and Discussion
+1 What can you say about the dialysis tubing? How do you account Link
+ for your observation in st ep 6? Pra:ctical Workbook
+2 What is the purpose of the second exp erimenta l set-up? Experiment 2B
+
+What Is Water Potential and How Is It Related
+to Osmosis?
+• The t erm 'water potential' is always u sed in connection wit h osmosis.
+ Water potential is a measure of the tendency of water molecules to
+ move from one place to another. A dilute solution (solution w ith lower
+ concent ration of solut e) would have a higher water potential than a
+ concent rated solution. Hence, water molecules would move out of the
+ dilute solution and into the concentrated solut ion through osmosi s.
+• When a partially permeable membrane separates two solutions of
+ different water potentials, a water pot ential gradient is est ablished
+ (Figure 2.17). Water molecules move ftom a region with higher water
+ potential to a region with a lower one, that i s, down a wat er
+ potential gradient.
+
+more solute, - +-- lesssolute, higher
+lower wate r - - ~... water potcntml
+ potcnd.:il
+
+ J
+ water potent1;il gradient
+ partially permea ble - - -+-- - - - ~ estabhshed
+ membfan~ l
+ '-- - -' - - -~
+ ~ water molecules move down a water potential
+ gradient through a partlaUy permeable membrane
+
+ Figure 2.17 Water potential gradient set up in the container
+
+ 29
+
+Chapter 2 I Cells and the Chemistry of Life
+
+ direction of movement of water molecules
+ Rgure 2.18 represents graphically how
+ water potential is associat ed with osmosis.
+
+ Osmosis is t he net movement of
+ water molecules from a region of
+ ► higher water pot ential to a region
+ of lower wat er potential, through a
+ partially permeable membrane.
+
+ Figure 2.18 Graphical representation of
+ water potential gradient
+ dilute solution concentrated
+ solution
+
+ Tedi Connect
+ In Singapore, there are five NE\¼tter plants.
+ that supply Singapore with up to 40% of its
+ water needs.
+
+ The NE'Wat.er process involves recycling
+ treated used water into ultra-d ean, high-grade
+ reclaimed waler. One of the stages of the
+ NE'Waler production process is reverse
+ osmosis. Similar to osmosis, this process
+ involves a partially permeable membrane.
+ However. pr~ure is applied to move water
+ molecules across Lhe membrane in a direction
+ Figure 2.19 Reverse osmosis water treatment system
+ that is opposite to that of osmosis.
+
+ Reverse osmosis can remove toxins from w.ater. By this melhod, very small partides can be removed. by using an
+ electric pump lo force water under high pressure through a membrane (Figure 2. 19). The membrane is partially
+ permeable and has very tiny pores, which allow only very small molecules such as water molecules l<l pass
+ through. The water is passed through the membrane several times untH pure water is obtained.
+
+ Why do you think NEW'aler is an importanl source o( water for Singapore?
+
+ Similar to diffusion, the rat e of osmo sis can be affected by factors such as:
+ water potential gradient
+ dist ance over which water molecuiles need to move
+ surface area-to-volume rat io
+
+ How Does Osmosis Affect Living Organisms?
+ A cell is surrounded by a liv ing, parti ally permeable cell membrane.
+ Enclosed within the cell membrane :are the nucleus, cytoplasm and a
+ mixture of various subst ances.
+
+ Note that the cell wall ofplants is permeable and allows most dissolved
+ substances to pass through. A plant cell behaves different ly from an animal
+ cell when placed in solut ions w it h di ffering wat er potentials. Th is is due t o
+ t he presence of the cell wall in plant cells.
+
+30
+
+ Movement of Substances I Chapter 2
+
+ What Happen s to a Cell in a Solution With Higher
+ Water Potential?
+ When a cell is placed in a solution wit h a higher water potential, water
+ molecules will move from a region of higher water potential (outside the
+ cell), into a region of lower water potential (inside the cell).
+
+ A plant cell wil l expand or swell. This is because plant cells are protected by
+ an inelastic cell wall (Figure 2.20). Plants are supported by the pressure of
+ water inside the cells pressing outwards on the cell wall.
+
+ © As water molecules enter
+ the cell, the vacuole
+ Increases In size and
+ plant cell
+ pushes the cytoplasm
+ against the cell wall.
+ The cell does not burst
+ pboed in.1
+(D When a plant cell ls solU1ion of because n Isprotected by
+ placed 1n a soluuon of higher water the Inelasticcell wall. The
+ potential
+ higher water potential, turgidity of the cell wnh
+ the cell sap has lower water Is called turgor. The
+ water potential than
+ that of the solution
+ outside the cell.
+
+ @ By osmoSls, water
+ I pressure exerted by the
+ water In the vacuole Is the
+ turgor pressure.
+
+ @ The cell expands 01
+ molecules enter swells. The cell lssaid
+ the cell through the to become turgid.
+ partially permeable
+ cell membrane. Link
+ Hw:man cells must be
+ figure 2.20 A plant cell in a solution w ith higher water potential surrounded by fluid in
+ relatively constant water
+ potential. Read more
+ An animal cell will swell and may even burst in a solut ion of higher water about how this is done in
+ potential t han its cytoplasm (Figure 2.2 1). This is because, unlike plants, it Chapter 9.
+ does not have a cell wall to protect it.
+
+ plMed ·n a soh.. tionoi
+ high er water poten~ia l
+ nnrmalred
+ bloodcdl cytoplasm has lower water
+ potential than outside so~u tion Disciplinary Idea
+ Homeostasis,
+ animal cell cell expands and bursts
+ Co-ordination and
+ Response
+ Figure 2.21 An animal cell in a solution with higher water potential Through the processes
+ of diffusion, osmosis
+ and adjve transport, the
+ What Happen s to a Cell in a Solution of the Same
+ internal environments of
+ Water Potential? living organisms are kept
+ Cells immersed in a solution with the same water potent ial as their constant to provide the
+ cytoplasm wil l not change t heir size or shape. The movement of water optimal conditions for
+ molecules is the same in bot h directioris. Hence, there is no net movement cells Lo survive.
+ of water molecules in or out of the cell.
+ 31
+
+Chapter 2 I Cells and the Chemist ry of Life
+
+~ What Happen s to a Cell in a Solution With Lower
+ Water Potential?
+ When a cell is placed in a solution with a lower water potential, water
+ molecules will move from a region of hig her water potential (inside the
+ cell), into a region of lower water potential (outside t he cell).
+
+ A plant cell will decrease in size and become limp (Figure 2.22).
+
+ cell sap in v.1ruole
+
+ plantceU
+
+ @ As the cell loses water, the
+ vacuole decreases Ill size. The
+ cytoplasm shrinks away from
+ © when a plant cell ls the cell wall. The shrinkage
+ Immersed In a solution of cytoplasm and cell
+ with lower water membrane away from the cell
+ pl.1cedin a
+ potential, the cell sap solution of wall lscalled plasmolysls.
+ has a higher water lower water
+ potential The cell Issaid to be
+ potential than the plasmolysed. A plasmolysed
+ solution outside the cell. cell can be restored to Its
+
+ @ By osmosis, water
+ molecules from
+ the vacuole and
+ cytoplasm leave
+ I original state by placing It In
+ water or In a solution with
+ higher water potennal.
+
+ the cell through the
+ partially permeable @ The cell decreases
+ cell membrane. In size and becomes
+ flacCld or limp.
+ <ell membrane
+
+ figure 2.22 A plant cell in a solution with lowerwater potential
+
+ Placing an animal cell in a solut ion with lower water potential will cause it
+ to lose water. The cell shrinks and spikes appear on the cell (Figure 2.23).
+ This process is called crenatlon. An animal cell will become dehydrated
+ and eventually die when placed in a solution with a low water potential.
+
+ water molecules c,e-n:.tOO red
+ leave by os,oosis \ bk>od cell
+
+ ~
+ placed in a solution of
+ lowet"
+ _ _water
+ __ potential
+ _ _ _,.... spikes
+
+ cytoplasm has hlghew-
+ water poteritial than
+ outside solution
+
+ animal cell cell shrinks In size (crenated)
+
+ Figure 2.23 An animal ce:11 in a solution with lower water potential
+
+32
+
+ Movement of Substances I Chapter 2
+
+Why Is Turgor Important in Plants?
+Turgor, or how turgid cell.s are, plays an i mp ortant role in maint aining t he
+shape of soft tissues in plants. The yourng stems and leaves of herbaceous
+and non-woody plants are able t o remain firm and erect. This i s because of
+the turgor pressure wit hin t heir cells. When t here is a high rate of water loss Link
+from t he cells, t hey lose t heir t urgidit y and the plant wilt s. How do the stomata o(
+ plants open and dose?
+The movements of certain plant parts are due to changes in turgor. For example, Read more about it in
+changes in the t urgor of the guard cells cause t he opening and closing of t he Chap(er 12.
+stomat a (Figure 2.24).
+
+ turgo:r in gu,u d cells
+ cau.se-s stoma to
+ open
+
+ stoma
+
+ figure 2.24 Electron micrograph of stomata
+
+Plasmolysis causes cells t o become flaccid or limp (Figure 2.25). Cells w ill be
+killed if they remain plasmolysed for too long. Thus, it is not advisable to add Helpful Note
+too much fertiliser around the roots of plants because the soil solution will Soil solution is a ihin mm
+become very concentrat ed and water molecules will move out of the roots of water that surrounds
+by osmosis. individual soil particles. IL
+ usually contains dissolved
+ mineral salts or ions.
+Inability of the roots t o absorb wat er, toget her wit h continued evaporat ion
+of water from t he leaves, will cause the p lant to wilt. Unless sufficient water
+is added to dilute t he soil solut ion, t he p lant will eventually die (Figure 2.26).
+
+ (.i) Turgid plant cell;
+
+ (a) Turgor pressure in the cells of (b) Loss ofturgor due toexcessive
+ the plant helps tokeep this plant water loss may cause a plant to
+(b) Flaccid and plasmolysed plant cells firmand upright. wilt.
+
+Figure 2.25 Cells of onion leaf Figure 2.26 Effects of turgor pressure on plants
+epidermis (stained)
+
+ 33
+
+Chapter 2 I Cells and the Chemistry of Life
+
+ Let's Investigate 2.5
+ How can we show osmosis In living t issues (potat o)?
+ Potato strips are com monly used in experiments to show osmosis
+ in living t issues. The dimensions of t he strips used are shown in 0.5cm
+ ~£
+ t ...... ~6.0cm
+ Figure 2.27. For instructions on how t o set up t his experiment 0.5cm
+ ref er t o Experiment 2C of t he Practical Workbook.
+ Figure 2.27 A potato strip used
+ Link If the pot ato strips decrease in lengt h, does t his relate to wat er in osmosis experiments
+ Practical Workbook molecules leaving the st rips? How ca n t his experiment be
+ Experiment 2C extended to est imate t he concentrat ion of cell sap in t he cell?
+ _J
+ Let's Investigate 2.6
+ How can we show osmosis In living t issues (scape)?
+ A scape (leafless flower st alk), e.g. Chinese leek, can also be used to demonst rate osmosis
+ in living t issue. Figure 2.28(a) show s a section of a scape. A scape has two main layer s of
+ cells; t he outer epidermal cells and t he cortical cells. Only t he outer epidermal cells are
+ covered by a waterproof cut icle that prot ects the plant t i ssue against wat er loss.
+
+ One cut st rip is placed in water and another in concent rat ed sucrose solution
+ (Figure 2.28(b)).
+
+ Word Alert
+ CuUde: a thin protective
+ outermost layer epidermal cell
+
+ figure 2.28(a) Layers of cells in a scape
+
+ outer surface
+ Link
+ Practical Workbook
+ Experiment 2 D
+
+ w.itc.'f" conccntrat<.-.d soct01-C w lution
+
+ Figure 2.28(b) Cut scape in water and a concentrated solution
+
+ Predict what happens t o t he strip in each solut ion. Carry out Experiment 20 in t he
+ Practical w orkbook t o find out more.
+
+34
+
+ Movement of Substances I Chapter 2
+
+Let's Investigate 2.7
+You are given an experiment t o det erm ine t he relative concentrations of
+t hree sugar solut ions A, B and C. You ar:e provided wit h a spinach stem,
+3 cm long, and a scalpel/sharp knife.
+
+1 The p roblem
+ How to determine the relative concent rations of the three solutions
+
+2 Some points t o consider
+ The different water potentials of t he solut ions
+ The water potential of cell sap
+ The skin (epidermi s) of t he plant m aterial is waterproof.
+ Water molecules move from a solution of higher water potential t o a
+ solut ion of lower wat er potential.
+3 Method
+ Describe how you would carry out your investigation.
+4 Results
+ Enter your result s/ observat ions (including any drawings) below:
+
+ Solution A Solution B Solution(
+
+ --
+s Determine the relative concentrations of the solut ions.
+ R&l'ativa ConaM1tration Very Oilut<> Very Concentrated
+
+ Solution A
+ Solution B
+ Solution(
+
+ (Put a tick in the appropriate box.)
+6 Explain your answer.
+
+Table 2.2 summarises the key differences between diffusion and osmosis.
+
+Table 2.2 Differences between diffusion and osmosis
+
+ Oiffwion Osmosis
+
+ Net movement of particles (atoms. Net movement of water molecules
+ molecules. ions)
+ Movement of particles from a region of Movement of water molecules from a
+ higher concentration to a region of lower solution of higher water potential to a
+ concentration, down a concentration solution of lower water potential, down
+ gradient a water potential gradient
+ Partially permeable membrane not Partially permeable membrane required
+ required
+
+ 35
+
+Chapter 2 I Cells a nd the Chemistry of Life
+
+ Let's Practise 2.2 - - - - - - - - - - - - - - - - - ~
+ 1 Humans store food t o see them t hrough
+ t imes when food is in short supply.
+ Unfortunately, bacteria and fungi attack
+ stored food and make it go bad. Orne way of
+ prevent ing this is t o st ore food in st rong salt
+ solutions (brine) or sugar solutions (syrups)
+ (Rgure 2.29). Suggest w ith reasons why brine
+ or syrups are used in food preservat ion.
+ 2 An animal cell is placed in a concentrated Figure 2.29 Unk
+ solution of sugar. Which subst ance w ill leave Theory Workbook
+ t he cell and which will move into t he cell? What processes are involved? Worksheet 28
+
+ 2.3 What Is Active Transport?
+ Disciplinary Idea Lea rning Outcome
+ Energy • Define active transport and discuss its importance as an energy-consuming process by
+ Energy is required during which subst ances are t ransported against a concentrat ion gradient , as in ion uptake by
+ active trans.port to erusure
+ root hairs and uptake of glucose by ceUs in the villi.
+ that substances can be
+ transported against a
+ conaentmlion gr.,.dien~ Living cells are able to absorb certain substances even though these subst ances are of
+ which is critical for many
+ biological proa,sses. higher concent ration inside the cell than they are in the ext ernal environment . Thi s means
+ that the cells are absorbing subst ances against a concentration g radient (Figure 230). Such
+ a process requires energy and is called active transport.
+
+ Active t ransport is t he process in which energy is used to move the parti cles of a su bstance
+ ► across a membrane against its concent ration gradient that is, f rom a reg ion where the
+ particles are of lower concent ration to a region where they are of higher concent ration.
+
+ t
+ higher concentration of
+ t
+ lower concentration or
+ solute molecules, e.g. glucose solute mote<:ules, e.g. glucose
+
+ figure 2.30 Difference between active transport and diffusion
+
+36
+
+ Movement of Substances I Chapter 2
+
+ Table 2.3 summarises t he key differences between diffusion and active transport.
+
+ Table 23 Differences between diffusion and active tran sport
+
+ Diffusion Active Transport
+ Net movement of particles from a
+ region of higher concentration to a
+ region of lower concentration, down a
+ Net movement of particles from a region
+ o f lower concentration to a region
+ of higher concentration, against a
+ ~
+ concentration gradient concentration gradient
+ Link
+ How do cells of the
+ Energy from respiration not required Energy from respiration required
+ small inlestine carry out
+ Cell membrane not required Cell membrane required nutrienl uplake? Read
+ Chapt er S lo findoul
+
+ Why is active transporl
+ Where Does Active Transport Occur?
+ an importanl process in
+ Active transport occurs only in living cell.s because living cells respire. It is the kidneys? Read more
+ during respirat ion that energy is released, and part of this energy is used in aboutt il in Chapter 8.
+ active t ransport.
+ How do root hair cells
+ In the human body, examples of active transport include t he uptake of carry oul the uptake
+ glucose by the m icrovilli of epithelial cells in the small intestine, and f rom of mtneraJ salts? Read
+ the kidney tubules into t he blood capill aries. Chapt er 12 lo answer
+ the question.
+ In plants, root hair cells can take in m ineral salts from the soil solut ion by
+ diffusion or active t ransport depending on t he concentration of mineral
+ salts in the soil solution (Figure 231).
+
+ soil solution
+
+path taken by substance-s
+absorbed by root hair cell
+ root hair cell
+ ..
+
+ ininera,
+ ) satts
+
+ Miner.ii salts can enter the
+ Figure 2.31 Root hair cells take in dissolved mineral root hair eelI. against the
+ salts through diffusion as well as active transport. concentration gradient
+ Link:
+ Theory Workbook
+ Let's Practise 2.3 Worlcslleel 2C
+ 1 Why does active t ransport not take p'lace in dead cells? Let\ Assess
+ Lei~ ReOecl
+ 2 Name t hree characteristics t hat are d ifferent between diffusion and
+ [ active transport.
+
+ 37
+
+Chapter 2 I Cells and the Chemistry of Life
+
+ Let's Map It
+
+ .. ....
+ ..
+ ..····
+ Movement
+ of Substances
+ .•
+ Into or Out
+ of Cells
+
+ i Diffusion Osmosis Active transport
+
+ ... ·......• which Is defined
+ osrhe
+ which 1s defined
+ osthe
+ •• • •
+ 1 which is defined
+ astfie Net movement of water
+ molecules across a
+ Movement of pMticles
+ through a cell membrane,
+ from a region of the,i( lower
+ Net movement of atoms, partially permeable concenuation to a r,egion of
+ molecules or ions from a membrane., from a region thei( higher concentration
+ of higher water potential (against a concentration
+ region where they are of
+ higher concentration to to a region of lower water gradient), using energy from
+ a region where they are potential respiration
+ of lower concentration
+
+ and is differcnr which sha,c and is d1ffetertt ond is d1f(cre111
+ from osmosis s,m.ilatlCJes from dlffusloo from dlffus/oo
+ as,, as they as,t os,r
+
+ • Refers to any • Do not require energy • Refers only to water
+ • Requires energy from
+ substance, gas or from respiration (solvent molecules)
+ respiration
+ liquid • Involve movement of • Takes place across a
+ substances down a • Involves movement of
+ • Does not require a partially permeable
+ substances against their
+ partially permeable concentration or water membrane
+ concentration gradient
+ membrane potential gradient
+ • Takes place across a
+ partially permeable
+ membrane
+
+ •
+ ••
+ 1-- ----1 • •
+ • • ••
+ •
+ • •
+ • •
+38
+
+ Movement of Substances I Chapter 2
+
+..
+•••
+ Let's Review
+
+ Section A: Multlple-cholce Quest ions
+ 1 Strips of pot ato tissue were placed
+ in sugar solutions of different
+ Section B: Structured Question
+ 1 Arrange set -ups X, Y and Zin decreasing
+ order of their wat er potential gradients
+ concentrations. The percentage change between sucrose solutions A, B, C and D
+ in lengt h of the pot ato strips is shown in in the beakers shown in Figure 2.34.
+ the graph in Figure 2.32.
+ partially pet"meabfe memb(anes
+ % c:hange
+ in lengt h
+ 6
+ 4
+ I,
+ 2 A la e :c
+ :s%
+ e ID
+ 0
+ -2 '" -....
+ 20% 110¾
+ sucrose ~ sucrose
+ solution Isolution
+ 10%
+ sucrose :sucrose
+ solution Jsolution
+ 10% : 10%
+ sucrose : suc,ose
+ solution: solution
+ -4
+ •6 seH.apX set•upZ
+ 0 0.2 0.4 0.6
+ Concentration of sugar solutlon / mol d m~l F',gure 2.34
+
+ Figure 2.32 Section C: Free-response Quest ions
+ 1 Defi ne the terms diffusion, osmosis and
+ Which solution has the same water parUally permeable membrane.
+ potential as the cell sap?
+ 2 How does diffusion differ from osmosis?
+ 0 A 0.05 mol dm-' 0 0.1 mol dm-'
+ Qc 0.2 mol dm-l O> 0.4 mol dm-l 3 Why do sport s drinks have the same
+ water pot ential as the cells in our body?
+ 2 An apparatus was set up as shown in Suggest what would happen if body
+ Figure 2.33. After a few hours, the level cells were in an environment that had:
+ of solution in the thist le funnel rose. The
+ (a) significantly higher water potential;
+ wat er in the beaker turned red.
+ (b) significantly lower water pot ential.
+
+ Which p rocess caused t he wat er in the
+ beaker t o t urn red?
+
+ original level
+
+ pure water
+ sugar
+ solution thistle runnel
+ and red ink
+ partially
+ '--~=='- mernbrane
+ permeable
+
+ F',gure 2.33
+
+ active t ransport
+ diffu sion
+ gravit ational pull
+ osmosis
+ J
+ 39
+
+ CHAPTER
+
+ Biological
+ Molecules
+ What You
+ Will Learn
+
+ • What are
+ carbohydrates?
+ "- • What are fats?
+ • What are proteins?
+
+ Do you know that marathon runners neea to eat a lot of
+ carbohydrates two days before a race? ifhis may include
+ CE]
+ sugary foods. We know that eating too mucli sugary
+ foods can cause obesity, sometimes even for peol)le who
+ exercise regularly. Why i:lo you think marathon runners still
+ eat these foods?
+
+40
+
+=== SOURCE: Biology Matters ch.12 (photosynthesis) ===
+Chapter 12 I Living Toget her - Plant s, Animals and Ecosyst ems
+
+ 12.1 What Are the Leaf Structures
+ and Their Functions?
+ Learning Outcomes
+ Identify t he cellular and tissue structure of a dicotyledonous leaf, as seen in t ransverse
+ section using the light microscope and describe the significance of t hese features in terms
+ of their functions, such as the distr ibution of chloroplasts for photosynt hesi s, st om at a and
+ mesophyll cells for gaseous excha nge, and vascular bundles for t ransport.
+ Describe how carbon dioxide reaclles mesophyll cells in a leaf.
+
+ The leaf is sometimes referred t o as o ne of the principal 'factories' of the world because it is
+ where photosynthesis occurs. It is also t he organ where other food substances such as fats
+ and prot eins are formed. These substances eventually become the food of all other l iving
+ organisms, ei ther directl y or indirect ly. As a 'factory: t he leaf must be well equipped w ith the
+ machinery for manufacturing food. How is the leaf ada pted t o its f unct ion of photosynthesis?
+
+ External Features of a Leaf
+ A typical green leaf consists of the leaf blade and the leaf stalk (Figure 12.1).
+
+ !Network ofvtins
+ I Veins carry water and mineral salts to
+ the cells In the leaf blade. Veins also Leaf blade
+
+ l: rry manufactured food from these
+ ells to other parts of the plant.
+ ~ - --1
+ The leaf blade has a large flat surface compared
+ to Its volume. This enables it to obtain the
+ maximum amount of light for photosynl hesis.
+ A large, thin leaf blade also means that carbon
+ dioxide can rapidly reach the inner cells of the leaf.
+
+ Leaf arrangement
+ Leaves are always organised
+ around the stem in a regular
+ pan ern. In general, leaves grow Leafstalk
+ either In pairs Iopposite one The leaf stalk holds the leaf blade
+ another on the stem) or singly in away from the stem so that the
+ an alternate arrangement This leaf blade can obtain sufficient
+ ensures t hat the leaves are not light and air. In some leaves,
+ blocking one another from for example, grass.es and maize,
+ Figure 12.1 External the leaf stalk is absent. Such
+ light and that each leaf receives
+ features of a simple leaf
+ sufficient light. leaves have long leaf blades.
+ stem
+
+240
+
+ Nutrit ion and Transport in Flowering Plants I Chapter 12
+
+ Internal Structure of the Leaf
+ Figure 12.2 shows the internal structures of a leaf.
+ Portion of the leaf bl.xle as seen under the microscope
+
+ C ...
+ epidermal
+ cell
+
+ @ Mesophyll
+ The mesophyll lies Just between the upper and lower
+ epidermis.
+ It is t he main site of photosynthesis. The mesophyll
+ consists of two types of tissue - palisade mesophyll
+ and spongy mesophyll.
+
+ (al Palisade mesophyll:
+ • consists of one ortwo layers of dosely
+ packed, long and cylindrical cells
+ · ,ontains numerous ,hloroplam
+ • specialised for photosynthesis
+ (b) Spongy mesophyll:
+ contains cells with an Irregular shape
+ has numerous large intercellular air spaces among the loosely
+ packed cells
+ carries out photosynthesis but contains fewer chloroplasts
+ than the palisade mesophyll
+ cells covered with a thin film of moisture
+ contains transport tissue - xylem and phloem which are
+ grouped together to form a vascular bundle
+ thin film or
+ moisture @ Lower epidermis
+ Beneath the mesophyll is the lower epidermis. Like the upper
+intcrccllular epidermis, the lower epidermis consists of a single layer of
+ airspace closely packed cells.
+
+ © cuticle
+ The cells are covered by an outer layer of cuticle, which
+ reduces water loss through epidermal cells.
+ epide<mal
+ cell
+ =!:::::::::::...____ ® Stomata! pore (stoma)
+ The lower epidermis contains many minute
+ openings called stomata (singular: stoma).
+
+ L - - - - -- - - - - - - @ Guardcell
+ Guard cellsare round in the lower epidermis. A pair surrounds
+ each stoma and helps to regulate the rate of transpiration by
+ opening and closing the stoma. Guard cells contain chlorophyll
+ Figure 12.2 Structure of a leaf which are not present in other epidermal cells..
+
+ 241
+
+ Chapter 12 I Living Together - Plants, Animals and Ecosystems
+
+ How Is the Leaf Adapted for Photosynthesis?
+ The main feat ures of t he leaf and how these features are adapt ed for
+ photosynt hesis are summarised in Table 12.1.
+
+ Table 12.1 Adaptation of the leaf for phot osynthesis
+ Adapbrtion Fundion
+ Waxy cuticle on upper and lower It reduces water loss through
+ epidermis evaporation from the leaf. It is
+ tran sparent for light to enter the Jeaf.
+ Stomata present in the epidermal layers Stomata open in the presence of light.
+ allowing carbon dioxide to diffuse in and
+ oxygen to diffu se out of the leaf.
+ Chloroplasts containing chlorophyll in all Chlorophyll absorbs energy from light
+ mesophyll cells and tran sfers it to chemical stores of
+ energy in glucose molecules.
+ Disciplinary Idea More chloroplasts in upper palisade More light can be absorbed near the
+ Structure and tissue upper leaf surface.
+ Function Interconnecting system of air spaces in The air spaces allow rapid diffusion of
+ The structure of a plant the spongy mesophyll (Figure 12.3) carbon dioxide and oxygen into and out
+ is designed to ensure of mesophyll cells.
+ that plants obtain raw Vein s containing xy1em and phloem Xytem tran sports water and mineral salts
+ materials needed for !them situated dose to mesophyll cells to mesophyll cells. Phloem transports
+ to photosynthesise. (Figure 12,4) sucrose away from the leaf.
+
+'
+,-;.<
+~t
+~~
+
+ phloem
+
+ F'1gure 12.3 Colouri.sed scanning electron micrograph of a Figure 12.4 Light micrograph of a section of a leaf showing the
+ section of a leaf (141x)showing intercellular air spaces loca tions of xylem and phloem
+
+ 242
+
+ Nutrition and Transport in Flowering Plants I Chapter 12
+
+ How Do Guard Cells Control the Size of Stomata ?
+ Stomat a generally open in t he light and close in t he dark.
+
+ Guard cell.s help to regulate t he passage of gases between t he leaf and the Helpful Note
+ environment. For example, t he guard cells can reduce the amount of water Stomata in the leaf are
+ vapour escaping from the leaf. Stomata, can close to reduce wat er loss even generally kepl open
+ when a plant is in sunlight, such as on ext remely hot days (Figure 12.S). In duri11g the day which
+ such situat ions, t he excess loss of water causes the guard cells to become allows carbon dioxide
+ flaccid. Thus, the stomata! pore closes. and oxygen lo diffuse
+ into and out o( the leaf
+
+ Figure 12.S Stomata on a leaf viewed under 750x magnification
+
+ As the guard cells control t he opening and closing of the stomata, t hey
+ regulat e the passage of gases such as carbon dioxide and oxygen into and
+ out of t he leaf (Figure 12.6).
+
+00
+Helpful Note Surface view o fguard cells Su(face view of 9ua1d cells
+ in sunlight on a OOt sunny day
+Figure I 2.6(a) shows the guard cells in sunlighL
+• The guard cells manufacture glucose by photosynthesis.
+ The ina ~ in glucose concentration lowers the water ch10C'opla.sts
+ polential orthe cell sap in the cell. stomatal
+ cytoplasm
+• Water enters the guard cells by osmosis. l)()fe --1'1+'1-+-f'-
+ (st oma)
+• They become turgid and more curved. This is because
+ the cell wall around the slomatal pore (stoma) is thicker ' '''
+ than the o,ther parts of the ccll. Hence. the cell curves ''
+ around the stoma and the stoma opens. ''
+ '
+Figure 12.6(b )shows the guard cells on a hol sunny day. :'~,:,C}•
+ I " • ·'
+ I
+• When the leaf loses too much water in strong sunlight.
+ the stomata dose.
+• Excess evaporation of water causes the guard cells (a} guard cells turgid, (b) guard cells flaccid,
+ stoma opens st,oma closes
+ to become flaccid. thus the stoma doses.
+• This prevents excessive loss of water by the leaf. Figure 12.6 Opening and closing of a stoma
+
+ 243
+
+Chapter 12 I Living Together - Plants, Animals and Ecosystems
+
+ How Can We Demonstrate the Presence of Stomata in
+ a Leaf?
+
+ Let's Investigate 12. 1
+ Alm
+ To demonst rate the presence of stomata in a leaf
+
+ Procedure
+ 1 Heat up a beaker of wat er to
+ approximately 75 •c.
+ I
+ V
+ 2 Pick up a fresh leaf w ith a pair of
+ forceps and hold t he leaf below the
+ su rface of the wat er (Figure 12.7).
+ Observe carefully what happens on
+ the surfaces of t he leaf.
+ 3 Record your observations.
+
+ Di scussion
+ 1 Explain what has taken place in the
+ leaf as fully as you can.
+ Figure 12.7 Experimental
+ CB Air expands when heated. set-up to demonstrate the
+ 2 Why must the water temperature be presence of stomata in a leaf
+ approximately 75 •c before taking
+ readings?
+
+ How Do Carbon Dioxide and Water Enter
+ the Leaf?
+ Figure 12.8 shows how carbon dioxide enters t he leaf through
+ the stomata.
+
+ 0 In daylight when photosynthesis @ The surfaces of the mesophyll
+ occurs, the carbon dioxide in t he leaf cells are always covered by a
+ Is rapidly used up. The carbon dioxide thin mm of water. This is so
+ concenlrauon in lhe leaf becomes that carbon dioxide can
+ lowc·r than that in t he atmospheric dissolve in it.
+ air, so a d iffusion gradient exists.
+ Therefore, carbon dioxide diffuses
+ from the surrounding air through the
+ stomata into the intercellular air
+ spaces in the leaf. @ The dissolved carbon
+ dioxide then diffuses into
+ the cells.
+
+ spo,,gy
+ mesophyll cell
+
+ guard cell
+ stoma
+
+ Figure 12.8 The path of carbon dioxide into the leaf
+
+244
+
+ Nutrit ion and Transport in Flowering Plants I Chapter 12
+
+Figure 12.9 shows how xylem t ransports wat er and m ineral salts to the leaf.
+
+G) The xylem transports water
+ and dissolved mineral salts
+ to the leaf from the roots. The veins in the leaf
+ Thiswill be explained later form fine branches,
+ In the clhapter. which end among
+ the mesophyll cells.
+ The veinscontain
+ xylem of vein xylem and phloem,
+ which together
+ phki-em make up a vascular
+ bundle.
+® Once out of the veins, the
+ water and mineral salts
+ move from cell to cell right
+ through> the mesophyll of
+ the leaf.
+
+ Figure 12.9 The path of water into the leaf
+
+Once t he green cells receive t he essential raw mat erials such as carbon dioxide and wat er,
+they can manufacture food by photosynt hesis. The phloem transports the sugars made in the
+leaf to othe r parts of the plant.
+
+Let's Practise 12.1
+1 Water plants such as t he water lily (Figure 12.10) have
+ floating leaves, weak st ems and roots that are embedded
+ in the soil. The leaf is specially adapted for photosynthesi s.
+
+ The l eaf has the following feat ures:
+ stomata found only on t he upper epiderm is;
+ thick cuticle covers the upper epidermi s;
+ no cuticle in t he lower epidermi s; and
+ many l arge air chambers present near t he lower surface
+ of t he leaf. Water lilies
+ ston\A cuticle
+ (a) The plant does not lack wat er. Suggest a
+ reason for the thick cuticle covering the upper
+ surface of t he leaf.
+ (bl Suggest two f unctions of the large air
+ cha m bers found near t he lower surface of
+ t he leaf.
+
+2 Describe how at mospheric carbon dioxide water
+ s.urface
+ enters a leaf and reaches the chloroplast of a
+ Transverse section of the Link
+ mesophy ll cell. leaf of water lily
+ Theory Workbook
+ r,gure 12.10 Worl<sheel 12A
+
+ 245
+
+Chapter 12 I Living Together - Plants, Animals and Ecosystems
+
+ 12.2 What Are the Functions of
+ Xylem and Phloem 7
+ Learning Outcome
+ • Ident ify the posit ions of and expla in t he functions of xylem vessel s and phloem (s.ieve t ube
+ elements and compa nion cell.s) in sect ions of a herbaceous dicot yledonous leaf and stem,
+ under t he light microscope.
+
+ If you have taken a t our in the nature reserve, you would have not iced t hat there are many
+ tall t rees. The ta llest rainforest t ree in Singapore is known as Seraya. It i s about 60 m tall,
+ equivalent to a 20-storey apartment block. Have you ever wondered how wat er and mineral
+ s.alts or ions can be t ransported from the roots to the leaves at t he t op of t he tree against
+ Helpful Note gravity? What are t he transport ti.ssues in the t ree? How are they suited for t he transport of
+ Vascular tissues are a. subst ances from one pa rt of the tree t o another?
+ system of vessels thaL
+ transport materials Flowering plant s have a syst em of vessel s that run up and down t he plants carrying materials.
+ in plants. These vess.els are called transport o r vascular tissues. There are two t ypes of t ransport
+ t i ssues in pl ants: the xyle m and the phloem.
+
+ Xylem t issue has t wo functions:
+ • conducting water and dissolved mineral salts from the roots t o t he st ems and leaves
+ • providing me<:hanical support for the plant
+
+ The function of phloem tissue i s to conduct manufactured food substances (sucrose and
+ amino acids) from the green pa rts of the plant, especially the leaves, t o other parts of the plant.
+
+ Xylem
+ How Is a Xylem Vessel Adapted for Its Fu nction ?
+ Xylem t issue consists mainly of xylem vessels ~
+ (Figures 121 1). A xy l em vessel is a long hollow :tf::~ef
+ ~~~ ~ -!.~
+ tube stretching from t he root to t he leaf. The _, ,J {,li
+ xylem vessel is a st ructure made up of many 8 1,._--j!, ~'
+ dead cell s w ithout cytoplasm or cross-walls " ·
+ (Figure 12.12). This reduces resi st ance to '
+ water flowing throug h t he xylem.
+
+ figure 12.1 t Photomicrograph showing xylem tissue in
+ a dicotyledonous stem (L5.}{two-dimensional view) Figure 12.12 Hollow xylem vessels
+
+246
+
+ Nut rition and Transport in Flowering Plants I Chapter 12
+
+The inner walls ofxylem vessels ore strengt hened by deposits ofa substance
+coiled llgnln, Lignin may be deposited in t he form of rings, spirals, or the
+whole vessel is lignified except in regiollis called pit s (Figure 12.13). Toget her,
+all the xylem vessels provide mechanica'I support to the plant.
+
+ lumen lumQ-n lumen F',gure 12.u Xytem
+ vessels showing the
+ different patterns of
+ ltgnin lignification {three--
+ deposited d imensional view}.
+ in rings spiral
+ bands lignified wall
+ Note how the whole
+ of ligr.in wall of some vessels
+ ~ lrans\!erse may be lignified
+ , - , section (T.SJ except in regions
+ pit called pits.
+
+Phloem
+How Is Phloem Adapted for Its Function ?
+Phloem consist s mainly of sieve tubes and companion cells (Figures 12.14
+and 12.15). Each sieve t ube consist s of a column of elongated, thin-walled
+living cells called sieve tube cells or sieve tube element s, The 'cross-wall s'
+separating the cells have a lot of minut e pores. These 'cross-walls' look like
+a sieve and so are called sieve plates-
+
+A mature sieve tube cell hos only a thin layer of cytoplasm inside the cell that
+is connected to cells above and below through the holes in the sieve plates.
+This allows the rapid flow of manufactured food substances through the
+sieve t ubes.
+
+Each sieve tube cell also hos a companion cell beside it that provides nutrients
+and helps the sieve tube cell to transport manufactured food. The companion
+cell carries out the met abolic processes needed to keep the sieve tube
+cell alive. Each companion cell is a narrow t hin-walled cell wit h many
+mit ochondria, cytoplasm and a nucleus. The mitochondria provide t he
+energy needed for t he companion cells to load sugar from t he mesophy11
+cell.s into t he sieve tubes by act ive transport.
+
+ F',gure 12.1s
+ com~nlon Photomicrograph
+ Cf'II
+ I showing phloem
+ ~ T.S. tissue in a
+ / ~ sieveplate d icotyledonous
+ stem (LS.) (two-
+ d imensional view}
+
+figure 12.14 Some components of
+phloem tissue {t hree-dimensional view)
+
+We shall now look at the dist ribut ion of vascular tissues in a stem and a root.
+The distribution of these t issues in a leaf has already been discussed in the
+previous section.
+
+ 247
+
+Chapter 12 I Living Toget her - Plants, Animals and Ecosyst ems
+
+ Vascular Tissues in Stems
+ Figures 12.16 to 12.18 show the organisat ion of vascular ti.ssues in a
+ dicot yledonous stem.
+ © Wit hin a vascular bundle, the xylem is located closer inside. The
+ phloem lies outside t he xylem w it h a tissue called t he cambium
+ bet ween t hem (Figure 12.17).
+ G) The stem i s covered by a layer of cells called the epidermis. The
+ epidermal cells are protected by a waxy, wat erproof cuticle t hat great ly
+ reduces evaporation of water from t he stem.
+
+ 11' vaS<ula,
+ \:,,J buodle
+ }
+ xylem
+
+ F",gure 12.16 Photomic,ograph
+ showing the transverse section Figure 12.17 Generalised young
+ of a young stem
+ dicotyledonous stem cT5.)
+
+ Link
+ Practical Workbook
+ Experiment 12A
+ Figure 12.18 Photomicrog,aph showing a vascula, bundle (3Sx)
+
+248
+
+ Nut rit ion and Transport in Flowering Plants I Chapter 12
+
+ Vascular Tissues in Leaves
+ Figure 12.19 shows t he arrangement of the vascul ar bundles in a leaf.
+ Vascular bundles are found along the spongy mesophyll. Wit hin a vascular
+ bundle, t he xylem is closer t o t he upper surface of t he leaf and phloem
+ closer to the lower surface of the leaf.
+
+ g )
+ < § Figure 12.19
+ Arrangement of
+ vascular bundles
+ in a leaf
+
+ Vascular Tissues in Roots
+ Figures 12.20 and 12.21 show t he vascul ar t i ssues in a dicotyledonous root.
+ © The epiderm is of the root is the outermost layer of ceUs. It bears
+ root hairs.
+ @ Each root hair i s a long and narrow extension growing out of an
+ epidermal cell (see Figure 12.51 on page 268). The long and narrow
+ extension of the root hair increases the surface area-ta-volume ratio of
+ the root hair cell. The rate of absorption of water and mineral salt s is
+ increased t hrough this adaptation.
+
+ dicotyledonous root (T5 .)
+
+ phloem
+
+ ,cylem
+
+ cortex
+
+ G) eptdermis
+
+ section obtained
+ from root here
+
+ - - --ptloem
+
+r,gure 12.20 Ayoung
+ r,gure 12.21
+dicotyfedonous root
+ xylem Photomicrograph
+emerging from
+ showing the
+a :seedling
+ transverse section of
+ a young root
+
+ 1 Figure 12.22 shows a section of a stem . Which tissue A
+ (a) transports water up the st em? 8 Link
+ (b) transports sugars and amino acids? E -+---,f-+ ll+l+--C Theory Workbook
+ (c) provides support for t he st em? F D Worksheet I2B
+
+ Figure 12.22
+
+ 249
+
+Chapter 12 I Living Toget her - Plant s, Animals and Ecosyst ems
+
+ 12.3 What Is Photosynthesis?
+ Learning Outcomes
+ St at e that chlorophyll absorbs light energy and converts it into chemical energy for the
+ formation of carbohydrates and th eir subsequent uses.
+ Briefly explain w hy most forms of l ife are complet ely dependent on photosynt hesis.
+ St at e the equation, in words and symbols, for photosynthesis.
+ Investigat e and discuss the effects of varying light intensity, carbon dioxide concentration
+ and temperature on the rate of photosynthesis.
+ Discuss light intensity, carbon dioxide concentration and t emperature as limiting f act ors on
+ the rate of photosynthesi s.
+
+ Humans and other animals need to eat to survive. However, have you ever seen a plant
+ eating? Aside from some carnivorous plant s that t rap and digest insects, most plants do not
+ 'eat' in the sense that animals do. Do plants get hungry? How do they fulfil their nutritional
+ requirements?
+
+ In order to perform the various vit al functions of the body, a living organism must be
+ provided with sufficient energy. This energy i s obt ained from breaking down energy-rich
+ organic molecules in food. If we trace the origin of the organic molecules in food, we will always
+ find that they come from green plants.
+
+ Imagine that you had coffee, t oast and a hard-boiled egg for breakfast (Figure 12.23). Where
+ did the organic molecules in each of these foods come from?
+
+ If you trace these organic molecules back to their origin, you will realise that they come,
+ directly or indirectly, from plants.
+
+ Theorg,mic
+ molecules in the
+ bre.ld came from
+
+ The organic molecules\
+ int~eggcame froma _.----....
+ wheat plants.
+
+ chicken which fed on .1
+ plant soch as com.
+
+ The organic
+ molecules
+ in the coffee
+ Link ame from
+ coffee plants"
+ How is energy transferred
+ lxtween organisms! Read
+ more about ilin Chapter 13.
+ figure 12.23 Where organic molecules come from
+
+250
+
+ Nut rition and Transport in Flowering Plants I Chapter 12
+
+Where Do Plants Get Their Food?
+In 1649, the Dutch physician Jan-Bapti.st a van Helmont carried out an
+ingenious experiment to test the idea t hat plants get their food from t he
+soil. The details of his experiment are shown in Figure 12.24.
+(D Ayoung willow tr!!<! was planted In soil and given only rainwater.
+
+ f' '"
+ lid
+ covers
+ young willow soik90.0 kg tree is only soil
+ tree: 2.25 kg (dry mass) given rainwater
+
+@ Five years later, the tr!!<! was weighed.
+
+ leaves shed in trunks. roots and soil: 89.9 kg
+ four years (not branches: 76.1 kg (dry mass)
+ weighed)
+
+ Figure 12.24 Jan-Baptista van Helmont's willow experiment
+
+Look carefully at the figures given for t he masses.
+- By how much did t he mass of t he w illow tree increase over the five years
+ of t he experiment?
+- By how much did t he mass of t he soil decrease?
+- Looking at the results of thi s experiment do you t hink plant s get t heir
+ food from t he soil?
+ Suggest another hypot hesi s t hat coul d explain why t he t ree grew
+ so much but t he mass of t he soil decr,eased so little.
+
+Helmont 's experiment proved t hat plants do not get
+their food from soil. Other experiments have shown
+that plant s can grow well in a soil-free solut ion of
+mineral salt s (Figure 12.2S).
+
+Soil cont ains wat er and mineral salt s but not
+carbon compounds. Yet carbohydrat es like
+glucose, which cont ain carbon and store
+energy, are found abundantly in plants. If
+not from the soil, where do t he carbon and
+energy in glucose come from?
+
+Figure 12-25 Plants can grow even when
+their roots are not planted in soil
+
+Chapter 12 I Living Together - Plants, Animals and Ecosystems
+
+~ Where Could Plants Obtain Carbon and
+ Energy From?
+ We know t hat air contains carbon dioxide. Could air be t he source of carbon for
+ green plant s? Green plants are exposed to light. Could light be the source of
+ energy for green plant s?
+
+ If carbon dioxide and light are the sources of carbon and energy for making
+ organic molecules in plants:
+ How is carbon dioxide in t he air converted into large molecules such as
+ carbohydrates?
+ How is t he energy in light transfor med int o the chemical energy stored in
+ these organic molecules?
+ Link
+ camohydrales are organic
+ molecules made up of The answer lies in an amazing proce-ss called photosynthesis
+ carbon, hydrogen and (Greek: photo= light; synthesis= process of putting toget her or
+ oxygro. Recall what yoo manufacturing). Practically all life orn Eart h ultimately depends
+ learnt aboot biological on photosynthesis.
+ molecules in Chapter 3.
+ In photosynt hesis, chlorophyll (t he green pigment in plants) absorbs t he energy
+ from light to make glucose from carbon dioxide and water. This process releases
+ oxygen. The overall equation for photosynthesis is shown below:
+ light
+ carbon
+ + water glucose + oxygen
+ dioxide chloroptwll
+
+ How Can We Study Photosynthesis?
+ To find out what happens in photosynthesis, you have to design experiments
+ to t est your ideas, just like van Helmont did. However, you need to first have
+ the basic knowledge given in Table 1 2.2.
+
+ Table 12.2 Ba.sic knowledge required to carry out experiments on photosynthesis
+ Basic Knowledga Explan~tion Action to Take
+ Glucose is first formed 1he simp lest energy-rich organic
+ 1
+ Not applicable.
+ from carbon dioxide molecul~ are carbohydrates.
+ durin g ph otosynthesis. 1he simp1lest stable form of
+ carbohydrates is glucose.
+
+ Presence of starch in When glu cose is formed more quickly Test for starch using iodine
+ the leaves suggests that than it is used up, the excess glucose solution
+ photosynthesis has taken is converted to starch for storage. (see Let's Investigate 12.2).
+ place. Note, however, that starch formation
+ does not ~ndicate that photosynthesis
+ has taken place. Starch can be formed
+ even in the roots or underground
+ storage organ s of plants..
+
+ Destarching {removal of This ensures that starch is absent in Put t he plants in the d ark for two
+ starch} must be carried the leaves prior to the experiments.. days.
+ Link out on the plants before Thus, all starch present in the leaves
+ In darkness. photosynthesis
+ the experiments. after the e xperiments must have
+ Iodine turns blue-bllack stops and enzymes in the leaves
+ been formed during the experiments..
+ in the presence of st.arch. convert starch to sucrose, which
+ Recall whal you learnt is transported to other parts of
+ in Chapter 3. the plant (see page 262).
+
+252
+
+ Nut rition and Transport in Flowering Plants I Chapter 12
+
+How Can We Show That Photo sy·nthesis Has Taken Place?
+You can show t hat photosynthesis has t aken place by testing for the
+presence of starch in leaves. The equation for photosynthesis shows us
+that glucose is the carbohydrate that is produced. Yet in experiment s
+on phot osynthesi s, we often test for starch to show that phot osynthesis
+has taken place. This is because glucose is always present in all leaves.
+However, excess glucose produced during phot osynthesis i s converted to
+st arch and stored in the leaves. Hence, if st arch is absent at the beginning
+of the experiment but present at the en d of the experiment, it shows that
+photosynthesis has t aken place.
+
+Let's Investigate 12.2
+Alm
+To t est for t he presence of st arch in a leaf
+
+Procedure
+1 Remove a green leaf from a plant that has been exposed t o light for a
+ few hours.
+2 Immedi ately put the l eaf in boiling water for t wo minutes to denature
+ the enzymes in the leaf and stop chemical reactions in the leaf.
+3 Put the boiled leaf in a boiling tube containing some alcohol or et hanol
+ to decolourise the leaf. Place the
+ CAUTION!
+ boiling t ube in a beaker of hot water Never heat the tube
+ (Figure 12.26). The leaf has t o be hot water of ak:ollol d irectly
+ wtth a Bunsen
+ decolourised so t hat the colour of flame. Turn off
+ the iodine can be clearly observed. the Bunsen flame
+ before putting the
+ The alcohol will remove t he green tube in hot water.
+ pigment chlorophyll from the leaf. The• Ak:ohol is highly
+ flammable.
+ leaf will become colourless/White.
+4 The leaf is now very brittle. Gently
+ remove t he leaf and put it back into
+ the hot water. This softens t he leaf
+ and makes it more permeable to t rtpod
+ iodine solution.
+s Remove the leaf and spread it evenly
+ on a white tile. Add a few drops of Figure 12.26 Boiling tube in a beaker
+ iodine solution t o t he leaf. of hot water
+
+Observat ion
+1 What is t he colour of t he alcohol
+ (a) before t he leaf is put in?
+ (b) ten minutes after t he leaf i s put in?
+2 What is t he colour of t he leaf after t en minutes?
+3 Explain your observation after adding a few drops of iodine solution to
+ the leaf.
+ Link
+Di scussion Practical Workbook
+1 How does the alcohol change t he leaf? Experiment 128
+2 What is t he purpose of putting the leaf in boil ing water in st ep 2?
+
+Now t hat you are able to test whet her p hot osynthesi s has taken place, you
+can test whether plants use light and carbon dioxide in photosynt hesi s.
+
+ 253
+
+Chapter 12 I Living Together - Plants, Animals and Ecosystems
+
+ Do Plants Use Light in Photosynthesis?
+ Let's Investigate 12.3
+ Alm
+ To find out whether light is necessary for photosynthesis blM:k paper
+
+ Procedure
+ 1 Destarch a potted plant by placing it in the dark for two days.
+ 2 Remove one leaf. Test it for starch as described in
+ Let's Investigate 12.2.
+ 3 Place a leaf, which is still attached to the plant, between two
+ pieces of black paper (Figure 1227). Each piece of paper has a
+ certain pattern cut out from it. Fasten the pieces of paper using parts e xposed to
+ light
+ paper clips. Place the plant in strong light.
+Helpful Note
+ 4 After a few hours, remove the leaf, decolourise it and test it for Figure 12.27 Place
+Vibrant variegations.
+Most variegated leaves starch. a leaf between
+ s Make a drawing of the leaf to show t he regions that are stained two pieces: of black
+
+ J
+have white or yellow
+patches, but some have blue-black. paper.
+more intense colours
+like pink, red or purple Conclusion and Discussion
+(Figure 12.29). 1 What conclusion can you draw from this investigation?
+ 2 Why must you test a leaf for starch before carrying out this experiment?
+
+ You now know that light is necessary· for photosynthesis. However,
+ how do plants capture light?
+
+Figure 12.29 Plants
+with leaves that are not How Do Plants Absorb Light?
+completely green Chlorophyll is a pigment in plants t hat absorbs light. The green
+ colour in leaves is due to t he presence of chlorophyll.
+
+ Let's Investigate 12.4
+
+@J Alm
+ To find out whether chlorophyll is necessary for photosynthesis
+
+ Word Alert Procedure
+Variegated: with streaks 1 Destarch a plant with variegated leaves, such as Duranta, by
+and patches of differ<"lll placing it in the dark for two days.
+colours 2 Expose the plant to strong light for a few hours.
+ d oes not contain
+ 3 Remove one leaf. Make a drawing to show the distribution of chlorophyll
+ the green parts, which are the parts that contain chlorophyll
+ (Figure 12.28). Figure 12.28 In a
+ 4 Decolourise the leaf and test it for starch. variegated leaf, with
+ s Make a drawing of the leaf to show Vhe distribution of the blue-black green and white
+ colour. Compare thiswith your drawing in step 3. parts, only the
+ green parts contain
+Link chlorophyll.
+ 01.scusslon
+Practical Workbook
+Experiment I2C
+ Suggest an explanation for your observation.
+ J
+
+254
+
+ Nutrit ion and Transport in Flowering Plants I Chapter 12
+
+Do Plants Use Carbon Dioxide in Photosynthesis?
+
+Let's Investigate 12.5
+Alm
+To find out whether carbon dioxide is necessary for a ir without bell jar
+photosynt hesi s carbon
+ dioxide
+
+Procedure potassium
+ hyclroxlde
+1 Dest arch two potted pl ants by placing them in the solution
+ dark for two days.
+2 Enclose the pots in polythene bags. Secure t he bags
+ to the plant stems. e)(perimental set•\JP
+3 Place one pot in t he bell jar as shown in Figure 12.30. pebbles
+ The plant does not have a supply of carbon dioxide from
+ t he air because soda lime and pot assium hydroxide nonnal
+ solution rapidly absorb carbon dioxide. bell jar - atmospheric
+ air
+4 Set up a cont rol using pebbles and wat er in place of soda
+ lime and potassium hydroxide solution respectively. •~- ---+- potted plant
+s Leave both set -ups in strong light for a few hours.
+6 Remove a leaf from each pl ant . Test the leaves for st arch.
+ water
+
+Observation
+What do you observe from the test on t he t wo leaves? control set-up
+
+ Figure 12.30 Experimental set-up to
+Conduslon find out whether carbon dioxide is
+St at e a conclusion f rom t his investigation . necessary for photosynthesis
+ _)
+
+What Gas Is Given Off D uring Photosynthesis?
+During photosynthesis, plants t ake in carbon dioxide and give off
+anot her gas. How can you find out what gas t his is?
+
+Let's Investigate 12.6 - - - - - - - - - - - - - - - - - . . .
+Alm
+To find out what gas is given off during photosynt hesi s
+
+Procedure d ilu te sodium
+1 Set up some freshwater plants, such as Hydrilla or Elodea, as shown h)•drogeoca,-bonate
+ solution
+ in Figure 1231. (Refer to Experiment 120 in the Pract ical Workbook
+ for det ails on how to set up t he experiment and t he cont rol.) tesMvbe
+2 Dissolve 2-10 g of sodium hydrogenc.arbonate in the water in t he
+ fil ter
+ beaker. This provides dissolved carbo n dioxide t o the plant.
+ runnel
+3 Place t he set-up in strong light for a few hours. 21quatic
+4 You will notice that gas bubbles form o n t he leaves in t he beaker plant wooden
+ support
+ placed in light. These bubbles w ill ri se up t he test -tube and displace
+ t he water downwards. When the tube is about half-filled w ith the
+ gas, remove t he tube by placing a thumb over its mouth. Figure 12.31 Experimental
+s Test t he gas w it h a glowing splint. Lig ht a small splint. let it burn set-up to find out what
+ gas is given off during
+ for a few seconds then blow out t he flame. While the ember at the
+ photosynthesiis
+ t ip i s st ill glowing, place it int o t he gas sample. If t he glowing splint
+ reignit es, the gas i s oxygen.
+6 Record your observat ion.
+
+ 255
+
+Chapter 12 I Living Toget her - Plants, Animals and Ecosyst em s
+
+ Observation
+ 1 What gas is given off by t he water plants exposed to lig ht ?
+ 2 What happens in the cont rol set -up?
+
+ Dl.scusslon
+Link 1 Why is it important that no air is t rapped in t he t est-tube at t he
+Practical Workbook beginning of the experiment ?
+Experiment 12D 2 What does t he rate of gas production indicate?
+
+ You have learnt about carbohydrates in Chapt er 3. A simple carbohydrate,
+ such as g lucose, has the chemical formula c. H,,O., while carbon dioxide has
+ the chemical formula CO 2•
+
+ • How many carbon atoms does one molecule of glucose contain? How
+ many molecules of carbon dioxide will be needed t o make one molecule
+ of g lucose in terms of the number of carbon atoms?
+ • What chemical element does a carbohydrat e molecule cont ain that is not
+ found in carbon dioxide? Suggest where a plant may obt ain this element.
+ CIB Look carefully at t he word carbohydrate.
+
+ What Conditions Are Essential for
+ Photosynthesis?
+ Let 's Investigate 12.3 t o 12.S demonstrate t he need for light, carbon dioxide
+ and chlorophyll before starch can be produced in leaves.
+
+ Light, carbon dioxide and chlorophyll are t hus essential for photosynt hesis.
+
+ For phot osynthesis to take place, a suitable t emperat ure and sufficient
+ water are also needed.
+
+ Photosynt hesis depends on enzyme reaction s in the chloroplast s. The
+ effect of t emperature on enzyme activity has already been discussed in
+ Chapter 4. Therefore, a suitable temperature is required for photosynt hesis
+ to t ake place.
+
+ So far you have learnt what is essential for photosynthesi s to occur. You
+ have also learnt that oxygen is g iven off during phot osynthesis.
+
+ What Happens During Photosynthesis?
+ Photosynthesis is the process by which plant s synt hesise carbohydrat es
+ (e.g. glucose) from water and carbon dioxide. Water and carbon dioxide
+ are t he raw materi als for photosynt h esis. Oxygen is released during
+ t he process.
+
+ During photosynt hesis, chlorophyll absorbs energy from light and
+ t ransfers it to chem ical st ores of energy in carbohydrates (e.g. glucose),
+ which are synt hesised from water and carbon dioxide. Oxygen is
+ released as a by-product.
+
+256
+
+ Nut rition and Transport in Flowering Plants I Chapter 12
+
+The overall process of photosynt hesis can be summarised using this word
+equation:
+ light
+ carbon
+ + water glucose + oxygen
+ dioxide chlorophyll
+
+we can also write a balanced chemical equation for photosynthesis like this:
+
+ light
+ 6C02 + 6H,0
+ chlorophyll
+ Word Alert
+ lnlen.sity: the strength o(
+ something thaLcan be
+The actual process is much more complicated than the above equation. measured
+Many steps are involved before glucose is formed.
+
+The rate of photosynthesis is affected by external factors such as light intensity,
+concentration of carbon dioxide and temperature.
+
+Let's Investigate 12.7 to 12.9 study the effect of the three factors on
+photosynthesis. Figure 12.32 shows the effect of the three factors on the rate of
+photosynthesis.
+
+Rate or Without enough light, a plant cannot
+photosynthesis photosynthesise very fast, even If there Isplenty
+ of water and carbon dioxide. Increasing the light
+ Intensity Increases the rate of photosynthesis,
+ until a constant rate 1sreache<l. Wilen more light
+ Is supplied to the plant, the amount of energy for
+ 38%
+ photosynthesis Increases and this Increases the
+ (a) Light i1Hensity rate of photosynthesis.
+
+Rate of Even If there Isplenty of light, a plant cannot
+photosynthesis photosynthesise If It has Insufficient carbon
+ dioxide. Increasing the carbon dioxide
+ concentration Increases the rate of photosynthesis,
+ until a constant rate 1s reached. When there Is
+ more carbon dioxide available to the plant, It can
+ 0.1%
+ produce more glucose.
+ (b) Carbon dioxide
+ concentration
+ Link
+
+Rate of
+photosynth es.is
+ lncreaslng the temperature to the opumum j The rale of enzyme
+ reaction is affected by
+ temperature. lncreasing
+ the temperature above
+
+ l
+ temperature Increases therate of photosynthesis. the optimum causes a
+ Increasing te;mperature beyond the optimum decrease in the rate of
+ decreases the rate of photosynthesis because of enzyme reaction. Recall
+ enzyme denaturatlon. what you learnt in
+ 25-35 °C Chapter 4.
+ (<) Temperature
+
+ figure 12.32 How the three factors affect t he rate of photosynthesis
+
+ 257
+
+Chapter 12 I Living Together - Plants, Animals and Ecosystems
+
+ What is the effect of varying light intensity on the rate
+ of photosynthesis?
+
+ Let's Investigate 12.7
+ Alm
+ To invest igat e t he effect of different light intensities on the rate of
+ photosynthesis
+ (This experiment assumes that t he rat e of oxygen produced is directly
+ proportional to the rate of photosynthesis.)
+
+ Procedure
+ 1 Set up the apparatus as shown in Figure 12.33 wit h the cut end of the
+ water plant positioned upwards. (Refer t o Experiment 12E in the Practical
+ Workbook for details.)
+
+ thermometer - - - -rn
+
+ sodium
+ hydrogencarbonate
+ -----ll/B=--f-•r--- cut
+ beaker
+ end o f plant
+ solutioo - - facing up•.vnrds
+ 1• 01'4>
+ tw,+ + - - aquatk plant (e.g. 60 w oolb)
+ water-bath (to keep---~;'.:::::::~:::;;::.
+ temperature constant)
+ (e.g. Hydri!lo)
+
+ figure 12.33 Experimental set-up to investigate the effect of different light
+ intensities on the rate of photosynthesis
+
+ 2 Bubbles are given off from t he cut end of t he plant. Allow some time for
+ the plant to adapt to t he condit ions provided before taking readings.
+ 3 When the bubbles are produced at a regular rat e, count the number of
+ bubbles over a period of five minutes. Repeat this a few t imes to obtain
+ the average rate.
+ 4 Repeat step 3 wi t h t he light source closer to the plant, e.g. 80 cm, 40 cm,
+ 30 cm, 20 cm, 1S cm and 10 cm. Note that t he nearer the light source is t o
+ the beaker. the higher the light intensity t hat the plant is exposed to.
+ s Record your result s in a t able. Plot a graph t o show t he rate of bubbling
+ per minute against the distance between the lamp and t he plant.
+
+ Conclusi on
+ From your investigation, what is the effect of light intensity on
+ phot osynthesis?
+ (This is based on the assumption that t he higher the rat e of air bubbles
+ given off, the higher the rat e of phot osynt hesis.)
+
+ O1.scusslon
+ 1 Why is sodium hyd rogencarbonat e solution used instead of water?
+Link 2 What condit ions are you allowing for in step 2? Why do you wait for some
+Practical Workbook time before t aking t he readings?
+Experiment 12E 3 St at e a source of error.
+
+258
+
+ Nut rit ion and Transport in Flowering Plants I Chapter 12
+
+What is the effect of varying temperature on t he rate of photosynthesis?
+Let's Investigate 12.8
+Alm
+To investigate t he effect of different t em peratures on t he rat e of photosynthesis
+
+Proced ure
+1 Carry out st ep 1 from Let 's Invest igate 12.7.
+2 Place a la mp (e.g. 60 W bulb) 10 cm away from the pl ant . Keep thi s distance constant
+ t hrougho ut t he investigation.
+3 Add ice-cold water t o t he wat er bat h to keep the t em perature at 5 •c. Allow some t ime for
+ t he plant to adapt t o the condit ions provided before t ak ing the readings.
+4 Count t h e number of bubbles over a period of five minutes. Repeat this a few times to
+ obt ain an average rat e.
+s Repeat s.tep 4 at different temperatures. e.g. 15 •c, 25 •c, 35 •c, 45 •c, 55 •c, 65 •c and
+ 75 •c. For each temperature, new sodium hydrogencarbonate solution should be used.
+6 Record your results in a table. Plot a graph to show the rate of bubbling per minut e
+ against t he temperature.
+
+Conclusion
+1 From you r investigation. what i s t he effect of increasing the temperature from 5 •c to 35 °C?
+2 At what t emperature i s the rate of bubbles given off the highest ?This is t he optimum
+ t emperature.
+
+Di scussi on
+What happens when the temperature is increased beyond the optimum temperature? Link
+Explain your answer. Practical Workbook
+ Experiment 12F
+
+What is the effect of va rying carbon dioxide concentration on the
+rate of plhotosynthesis?
+
+Let's Investigate 12.9
+Alm
+To investigate the effect of different carbon dioxide concent rations on t he rate of
+photosynt h esis
+
+Procedure
+1 Carry out st ep 1 from Let 's Investigate 12.7.
+2 Place a la mp (e.g. 60 W bulb) 10 cm away from the pl ant . Keep thi s distance constant
+ t hrougho ut t he investigation.
+3 Conduct the investigation at room temperature.
+4 Use different concentration.s of sodium hydrogencarbonat e solut ions, e.g. o.o, mol dm-l,
+ 0.02 mol dm-3, 0.03 mo) dm-3, 0.04 mol dm-', 0.05 mo) dm -3, 0.06 mol dm-', up to
+ 0.1 mol dm-'. (These are proportional to the carbon dioxi de concent rations in t he solution.)
+s When t he bubbles are coming out at a regular rate, mea:sure t he rate of bubbles
+ per minut e for each concentration of the sodium hydrogencarbonate solution.
+6 Record your results in a table. Plot a graph to show the rnumber of bubbles per minut e
+ against t he concentration of the solution.
+
+Di scussi on
+How do tile concent rations of sodium hydrogencarbonate solutions affect the rat e of
+photosynthesi s?
+
+ 259
+
+Chapter 12 I Living Together - Plants, Animals and Ecosystems
+
+ F"tgure t 2.34 In commercial greenhouses. the temperature can be controlled. and more carbon dioxide can be
+ adde<l to the air to make plants grow better. Plants also get plenty of light!
+
+ Tech Connect
+ Green plants have the ability to convert solar energy into stored chemical energy. This has
+ inspired many scientists and engineers to design devices that can ham~ energy from thin air
+ (Figure 12.3S). This method or'arlificial photosynlheM is still in its early phases or development
+ ll signals lhe approach or a new type or technology that is environmentally friendly.
+
+ The solar fuel ge:neralor is a small device that converts light. carbon dioxide and water into
+ oxygen and formic acid Formic acid is able to release a considerable amount of energy and Figure 12.35 Early prototype solar
+ can be used as a fuel to power an engine. In this Vt'a)', the device operates like an artificial leaf. fuel generator
+ converting light energy from the sun to chemical energy.
+
+ What Are the Limiting Factors in Photosynthesis?
+ Study Figure 12.36. Initially, as the light intensity increases, the rate of photosynthesis
+ increases from Oto A. Here, light intensity is the limiting factor. A llmltlng factor is any
+ factor t hat directly affects t he rate of a chemical reaction. The rate of the reaction can
+ be increased only if the value of the
+ Rate of
+ limiting factor is increased. photosynthesis
+
+ Beyond point A, light is no longer
+ the limiting factor since the rate
+ of photosynthesis remains constant
+ Link even though the light intensity
+ increases. Some other factor, possibly 0.03% CO, ot 20 'C
+ Chemistry temperature or carbon dioxide - - - ,- - - - t- - g raph 1
+ We learn that rates of A 8
+ concentration, becomes the limiting
+ reactions are affected by
+ factor t hat causes the levelling off of
+ concentration. prCSS1Ure.
+ the graph along AB. 0 Light intensity
+ partide si1.e and
+ temperature. Figure 12.36 Effect of increasing light intensity on
+ the rate of photosynthesis at 0.03% CO, at 20 ' C
+
+260
+
+ Nutrition and Transport in Flowering Plants I Chapter 12
+
+Now look at Figure 12.37. When the temperature remains const ant and
+t he carbon dioxide concentrat ion of the environment i s rai sed to 0.13%,
+t he rate of phot osynthesi s great ly increases as shown in graph 2. This
+indicates t hat carbon dioxide concentration is the limiting factor in AB in
+graph 1.
+
+Under natural conditions, carbon dioxide i s an important limit ing factor
+since atmospheric carbon dioxide rema ins constant at about 0.03%. Its
+concentration can be raised well above 0.03% only under experiment al
+conditions.
+
+ Rate of
+ pholosynlhesis
+
+ graph 2
+
+ o.03% CO1 at 2o oe
+ --
+ A
+ -- ~ - ""!:--
+ B
+ graph 1
+
+ 0 Light intensity
+
+ Figure 12.37 Effect of increasing carbon dioxide concentration
+ on the rate of photosynthesis at 20 °(
+
+Study Figure 12.38, increasing the temperature from 20 •c to 30 •c, while
+keeping t he carbon dioxide concentration const ant at 0.13%, causes
+a large increase in t he rate of phot osynt hesis as shown in graph 3.
+Therefore, the temperature of the surroundings is the limiting factor in EF in
+graph 2.
+
+ Rate or
+ photosynthesis ; o~c - __ graph 3
+
+ ,-,,"'
+ •'
+ <,O,
+
+ <>· 0.13%CO al20'C
+ 1
+ ~ +-- -----.i- graph2
+ E F
+
+ 0 light Intensity
+
+ Figure 12.38 Effect of increasing temperature on the rate of
+ photosynthesis at 0.13% CO,
+
+ 261
+
+Chapter 12 I Living Together - Plants, Animals and Ecosystems
+
+ What Happens to the Glucose That Is Formed During
+ Photosynthesis?
+ The glucose formed during phot osynthesis is eit her used immediately or st ored in tihe plant .
+ This is summari sed in Figure 12.39.
+
+ For cellular respiration to proV1de
+ _ (DGlucose isused energy for cellular actMUes
+ (-- immediately
+ To form cellulose ceUwalls
+
+ In clayflght, the rate of photosynthesis
+ Is so great that glucose IS formed faster
+ thanIt can be removed. The excess
+ glucose Is conv«ted to starch.
+
+ Starch in.....,,
+ ◄•••••••••••••••••••••••••••••
+ @ <bl h d>rkness, photosynthesis
+ stops and starch ls converted by
+ _ _ _ _ _ _ _,
+
+ enzymes back to glucose.
+
+ @ Glucose is
+ converted to
+
+ Is transported to other parts of the plant
+ or to storage organs, for example, seeds,
+ stem tubers or root tubers, via phloem
+ Suaose Is conv«ted to other forms of storage
+ compounds at the stor.1ge organs,
+ w hich depending on the plant
+ M.ly be converted back to gJoco:se for
+ resp1r.it1on
+ Is a component of nectar In flowers which
+ attracts insects for polllnauoo
+ © Glucose
+ is converted to
+
+ 1
+ Amino ackls In le;ives
+
+ l:x:cess IS transported to
+ other parts of the plant
+ © Glucose fer synthesis of new
+ forms protoplasm
+ for storage as
+ proteins used for
+
+ Fats l
+ Synthesis of new
+ I protoplasm In le;ives
+
+ For storage
+ Used In cellular respiration
+ For synthesis of new protoplasm
+
+ Figure 12.39 The fates of glucose in leaves
+
+262
+
+ Nut rition and Transport in Flowering Plants I Chapter 12
+
+ Why Is Photosynthesis Important?
+ Photosynth esis Makes Chemical Energy Available
+ to Animals and Other Organism s
+ Sunlight is t he ultimate source of energy for liv ing organisms.
+ During photosynthesis, chlorophyll absorbs energy from light
+ and t ransfers it t o chemical st ores of energy in carbohydrate
+ molecules. Fats, proteins and other organic compounds can
+ be formed from carbohydrat es. All these subst ances eventually
+ become t he food of other organi sms (Fi gure 12.40). All organisms
+ thus obtain chemical energy directly or indirectly f rom plants,
+ because plant s are the producers in food chains.
+
+ Photosynth esis Removes Carbon Dioxide and Figure 12.40 Organ isms
+ get their energy directly
+ Provides Oxygen or indirectly from plants.
+ Photosynthesis removes carbon dioxide from the air and at t he
+ same time, produces oxygen. The oxygen released is used by living
+ organisms in respirat ion to release energy for cell activities. The process of
+ photosynt hesi s maintains a const ant level of oxygen and carbon dioxide in
+ the at mosphere.
+
+ Energy Stored in Fossil Fuels Comes From Photosynthesis
+ All the energy in fossil fuels like coal, oil and gas, come from the sun, Link
+ captured through photosynthesi s. Burning of fossil fuel s releases energy,
+ Chemistry
+ which we use in our daily life such as in cooking and generating electricit y We learn that
+ in our homes. photosynthesis helps
+ to maintain air quality
+ Now, look at Figure 12.41. Give your vi ews on t he three statements made. as part o( the carbon
+ cyde. Thecarl>on cycle
+ maintains the level of
+ carbon dioxide in
+ the al!mosphere.
+the presence
+t, plants31ve
+n lnstea of
+ tnoxygen.
+
+ Link
+ ca.boo dioxide is
+ constantly removed from
+ and released into the
+ environment in the carbon
+ cyde. Read more about
+ this in Chapter 13.
+
+ Figure 12.41 Three
+ people are discussing
+ plants. Do you agree?
+ Why ,or why not?
+
+ 263
+
+Chapter 12 I Living Together - Plants, Animals and Ecosystems
+
+ Let's Practise 12.3 - - - - - - - - - - - - - - - - - . _
+ 1 Describe practical det ails to decolo urise a leaf after it is plucked from
+ a plant. Give a reason for each st age in your description.
+ 2 A few drops of iodine solut ion were added t o two decolouri sed
+ leaves labelled A and B. The results of each leaf are shown in
+ Figure 12.42.
+
+ blue-black
+
+ brown
+
+ A 8
+
+ r,gure 12.42
+ (a) What t reatment do you t hink t he leaves were given before t hey
+ were plucked f rom the plants·?
+ (b ) The experiment could have been used to show the need
+ for a factor essential for photosynthesis. Name one such
+ possibl e fact or.
+ (c) Which leaf, A or B, could serve as a control for this experiment ?
+ Give your reason.
+ 3 Table 12.3 shows t he effect of light on the rat e of photosynthesis for
+ an aquatic plant. Hydril/a.
+
+ Table 12.3
+ Rate of Photosyntlu~sis /
+ Light lntemity/
+ mg of Sugar Produc,,d/
+ Arbitrary Units
+ Area per Minute
+ 20 10
+ 30 20
+ 40 2S
+ so 32
+ 60 41
+ 70 ss
+ 80 70
+ 90 70
+ 100 70
+
+ (a) Plot a graph to show the effect of light intensity on t he rate of
+ photosynthesi s.
+
+~
+ (bl What is the relationship between the light intensity and the rate
+ of phot osynt hesi s up t o 70 arb it rary units?
+ (C) Why does increasing the light intensit y above 80 arbitrary unit s
+ Link not increase the rate of photosynthesis?
+ Theory Workbook (d) Suggest two ways of increasing t he rate of phot osynthesis.
+ Worl<sheel I2C Explain your answer for each met hod you used.
+
+264
+
+ Nut rition and Transport in Flowering Plants I Chapter 12
+
+12.4 How Can We Study the
+Movement of Substances in Plants?
+Lea rning Outcome
+• Define the term translocation as t he transport of food (mainly sucrose) in t he phloem tissue
+ and illust rat e t he process through t ranslocation studies.
+
+Animals have a circulat ory system that moves blood around their bodies in order t o t ransport
+subst ances. Plants also have a way of moving water and d issolved substances around their
+bodies. Wit h animals, we can measure pulses, but plants h.ave no heartbeat. How t hen can
+we st udy t h e movement of water and food subst ances in plant s?
+ Disciplinary Idea
+ Systems
+How Can We Study the Path Water Takes Through a Plant? Tne plants transport
+ system ensures that
+ its leaves recejve
+Let's Investigate 12.10 suflic.ienl raw materials
+Alm for photosynthesis
+To investig,at e t he path of water through a plant and that the entire
+ plant subsequently
+ receives the products of
+Procedure photosynthesis for growth.
+1 Take a celery plant and wash it w ith water t o remove t he soil.
+ A celery :st em may be used for t his experiment
+2 Allow the plant to st and w ith its st em immersed in methylene blue
+ (or d ilute red ink) solution (Figure 12.43).
+3 After a few hours, you can see that the blue dye has risen up the
+ stem. Cut t hin t ransverse sect ions of the stem.
+4 Place the sections on a glass slide. Examine t he sect ions under a
+ light microscope.
+s Sket ch the t ransverse section of t he stem t o show t he
+ d istribution of t he blue colour (methylene blue) in the main
+ vein or t he vascular bundle.
+
+Observat io n and Conduslon
+1 Which tissue has been st ained blue?
+2 What conclusion can you draw from your investigation?
+
+ section of methylene
+ celery stem blue solution...,_..,,..
+
+ I
+ Link
+figure 12.43 Experimental set-up to study the path of Practical Workbook
+water through a plant Experiment 12G
+
+ 265
+
+Chapter 12 I Living Together - Plants, Animals and Ecosystems
+
+ How Can We Study the Path Food Substances
+ Take Through a Plant?
+ Bears often rub t heir bodies against the t ree trunk. In doing so, t hey may
+ rub off a complete ring of bark from the t ree trunk. Thi s is called girdling
+ or ring-barking. Girdling results in t he death of the t ree over time.
+ Humans practice girdling t o remove t rees in t he forest (Figure 12.44).
+ How does removal of a complete ring of bark result in t he death of the
+ t ree? Evidence has shown that girdling removes the phloem tissue that
+ t ransports manufactured food subst ances from the leaves t o t he root s.
+
+ ► Translocatlon is the t ransport of manufactured food subst ances, such
+ as sugars and amino acids, in plants.
+
+ What evidence is t here to show that the t ransport of manufactured food
+ substances occurs t hrough the phloem?
+
+ Using the 'Ringing' Experiment Figure 12.44 Tree
+ A ring of bark wit h the phloem is rem oved from the st em of a woody plant. trunk with a ring of
+ After some time, t he stem immediately above t he cut region swell s up. bark removed
+ Thi s i s because wit h the phloem removed, food subst ances from the leaves
+ cannot reach the stem below the cut region. They accumulate above t he
+ cut region, causing it to swell up (Figure 12.45).
+
+ food substances from leaves
+
+ ?0$ition of
+ phloem swelling cause<! by
+ food subitaflces
+ accum.ulat ing here
+
+ Key
+ ➔ movement of water
+ Figure 12-45 The
+ ➔ movement of food substances
+ 'ringing' experiment
+
+ Let's Investigate 12.11
+ 8
+ Alm
+ To demonstrate the t ransport function of phloem A
+ (Thi s experiment is also known as the ' ringing• experiment.)
+
+ region with - ---rr
+ Procedure bark ,emoved
+ 1 Cut off a complete ring of ba rk including the phloem
+ and cambium from the main stem of a woody twig
+ unringed tw19 -+--+f-l-
+ (e.g. Hibiscus). This will leave the xyl em exposed.
+ 2 Place t he twig in wat er w ith the cu t ring above t he water water
+ level (twig A). Set up a control using an unringed twig
+ (twig 8) as shown in Figure 12.46.
+ 3 Observe t he twigs daily. Note where roots or swellings figure 12.46 Experimental set-up
+ appear. Sketch a diagram to show what happens to t he of the *ringing• experiment
+ region wit h the bark that has beern removed.
+
+ Discussion
+ 1 What does thi s experiment tell you about t he phloem?
+ 2 Suggest an explanation for your ob servations.
+266
+
+ Nutrit ion and Transport in Flowering Plants I Chapter 12
+
+ Using Aphids in Tran slocation Studies
+ Insects such as aphids feed on plant juices. The long mout hpart (stylet) of
+ each aphid penetrates t he leaf or stem. The aphid can be anaesthetised
+ wit h carbon dioxide while it is feeding. The body of t he aphid is t hen cut off, Word Alert
+ leaving only the feeding stylet in t he plant tissues. Anae-slhetised: lo deprive
+ of feeling or awareness.
+ A liquid will exude from the cut end of the stylet. An analysi s of this liquid
+ shows t hat it contains sucrose and am ino acids.
+
+ If the stem is sect ioned and exam ined under t he microscope,
+ you w ill see t hat t he feeding stylet of t he aphid is inserted
+ into t he phloem sieve tube (Fig ure 12.4 7). This shows
+ t hat translocation of sugars and amino acids occurs in
+ t he phloem.
+
+ feed ing styfe t
+
+ An aphid with
+ its feeding
+ stylet inserted
+ through a stem
+
+ stained feeding stylet of an aphid
+ in serted into a sieve tube
+
+ Figure 12A7 An aphid feeding
+
+ Using Isotopes in Translocation Studies
+ Carbon-14 C'C) is a radioactive carbon isotope. Its
+ presence can be detected by an X-ray photographic film.
+
+ A leaf is provided w ith carbon dioxide cont aining t he
+ rad ioactive carbon, "C. When photosyrnthesi s takes ffosk
+ place, the sugars formed w ill contain radioactive carbon. contains "co,
+ The stem is then cut and a section of it is exposed onto
+ section obtained
+ an X-ray photographic film. It is found t hat radioactive from stem he,e
+ subst ances are present in the phloem (Fig ure 12.48),
+ since radioactive substances cause the .X-ray film
+ phloem
+ to darken.
+
+ X-ray film
+ exposed onto
+ an X-ray film
+only phloem
+ shows
+rtid ioactivity
+
+ T.S.of stem
+
+ Figure 12.48 A simplified d@gram showing the use of
+ radioisotopes in translocatio:n studies
+ 267
+
+Chapter 12 I Living Together - Plants, Animals and Ecosystems
+
+ Let's Practise 12.4
+ 1 A Balsam plant has its roots
+ i mmersed in a red dye. A and B in
+ Figure 12.49 show the t ransverse
+ sections of t he leaf and st em.
+ A I 8
+
+ E:,4 - 3
+
+ Leaf Stem
+ (a) Which t issues would be most figure 12.49
+ heavily stained by the dye on the
+ followi ng day?
+ (b) Which t issues carry ami no aci ds
+ in solution?
+ ring of bark with
+ phloem removed xylem
+ 2 A ring of bark is removed from a l eafy
+ shoot, leavi ng t he xylem exposed as
+ Link shown in Rgure 12.50. Draw a diag ram to
+ show t he appearance of the stem a few root system
+ Theory Workbook
+ Worl<sheel 12D weeks later. Figure 12.S~
+
+ 12.5 How Does Water Enter a Plant?
+ Learning Outcomes
+ Explai n how t he st ructure of a root hai r cell is suited for its f unction of wat er and
+ ion uptake.
+ Explai n t he movement of water between plant cells, and bet ween t hem and t he
+ environment in terms of water pot ential.
+
+ When you water a plant, you pour w ater onto the area of t he soil w here t he roots are, not
+ w here the flowers or leaves are. This, is because wat er enters plants through t he root s, but
+ how do plant s ab sorb t he water from t he soil?
+
+ Entry of Water into a Plant
+ Figures 12.51 and 12.52 show how water enters a plant. Water enters t he plant t hrou gh t he
+ root ha irs. Ions or mineral salts al so e nter t he plant throug h t he root hairs.
+
+ © Each root hair Is a narrow extension of an
+ epidermal cell. It grows between the soil
+ part icles, coming Into close contact with
+ the soil solution surrounding It.
+
+ satl particles
+ vacuole _ ........, , @ film of liquid
+ / (dilute solution
+ cyt oplasm of mil'ler.'11St'llts)
+ ceU membrane of
+ rool hair cell
+ rad ish sr.'t.-dling
+ showing root hoirs
+
+ @The thin fllm of llqutd surrounding
+ each sou particle 1s a dilute
+ F',gure 12.51 A section of a root hair cell solution of mineral salts.
+
+268
+
+ Nutrit ion and Transport in Flowering Plants I Chapter 12
+
+ Link
+ \¼ttcr potential moves
+ water across partially
+ permeable membranes.
+ Recall what you have
+ learnt in Chapter 2.
+
+ @ The cell sap In the root hair cell lsa relatively concentrated solution of sugarsand
+ various salts. Thus, the cell sap has a lower water potential than the soil solution.
+ The cell sap and the soil soluuon are separated by the partially permeable cell
+ membrane of the root hair cell. Water enters the roou hair by osmosis.
+
+ @ The entry of water dilutes the cell sap. The cell sap off the root hair cell (cell A) now
+ has a higher water potenual than that of the next eel I (cell 8). Hence, water passes
+ by osmosts from the root hair cell Into the Inner cell.
+
+ @ s111111ar1y, water passes from cell BInto the next cell (cell CJ. Thisprocess continues
+ unlll the water enters the xylem vessels and moves up the plant.
+ Figure 12S2 The path of water throug h the root
+
+Tech Connect
+A plant can d raw waler up from the roots. This occurs especially when il is photosynthesising and producing simple sugars as a result.
+The accumul ation o(sugars in the leaves causes a decrease in water potential. This causes water to move to the leaves and other parts o(
+the plant by osmosis. Scientists have discovered that the changing water potential in the c,IJ sap moves water from the xylem ve.<scls lo the
+cells in the lea[ Engineers have applied this knowledge lo create an artificial pump that 'pulls' waler through a microchip. They were able
+to mimic ho.w a plant draws up water.
+
+Theydiscov<fed that the chip was able lo passively pump water from the lank through the chip and out, al a constant flow rate fo r several
+days. Previously, it was not possible to do this continuously. Uwas also expensive to make instruments that pump water through such
+small devices.
+
+The tree-on-a-chip thus features parts that represent:
+• the xylem;
+• the phloem;
+• the selectively permeable membrane through which water tlows as rt travels by osmosis; and
+• a bit of sugar to provide a concentration gradient.
+This simple yet elegant design enables water lo travel through the chip that can be used in small robots.
+
+ 269
+
+Chapter 12 I Living Together - Plant s, Animals and Ecosystem s
+
+ How Do Root Hairs Absorb Ions or Mineral Salts?
+ • By active t ransport, when the concent ration of ions in the soil solution is
+ lower than that in the root hair cell sap.
+ - 1he root hairs have to absorb the ions against a concentration gradient,
+ that is, by active transport (see Chapter 2).
+ - 1he energy for this process comes from cellular respiration in the root
+ hair cell.
+ By diffusion, when the concent ration of certain ions in the soil solution is
+ higher than that in the root hair cell.
+
+ How Is the Root Hair Cell Adap ted to Its Function of
+ Absorption?
+ • The root hair is a long and narrow extension of the root hair cell. This
+ increases the surface area-to-volume ratio which in turn increases the
+ rate of absorption of water and mi neral salts by the root hair cell.
+ • The cell membrane prevents the cell sap from leaking out. The cell sap
+ contains sugars, amino acids and salts. It has a lower water potential than
+ the soil solution. This results in wa.ter entering the root hair by osmosis.
+ • The root hair cell contains many mitochondria. Aerobic respiration in the
+ mitochondria releases energy for t he active transport of ions into the cell..
+
+ Let's Practise 12.S - - - - - - - - - - - - - - - - - ~
+ 1 Draw a fully labelled diag ram of a root hair cell.
+ (a) By what process does water enter the root hair cell?
+ (b) State two conditions which must be present for this process to occur.
+ Link
+ Theory Workbook 2 If you add a lot of soluble inorganic fertilisers to a potted plant, the plant
+ Worl<sheel 12E will die. Suggest why.
+
+ 12.6 How Does Water Move
+ Upa Plant?
+ Learning Outcomes
+ • Define the term transpiration and explain that transpirat ion is a
+ consequence of gaseous exchange in plants.
+ • Outline the pathway by which water is transported into the roots and
+ through the xylem vessels to the leaves by transpiration pull.
+ • Investigate and explain the effects of variation of air movement,
+ temperat ure, humidity and light intensity on transpiration rate.
+ • Investigate and explain how wilting occurs.
+
+ Water is taken in by the roots. The leaves at the top of the tree need water
+ for photosynt hesis. How does a tree get water to t he leaves at the top? How
+ does a tall tree, such as the Seraya, transport water from the roots to the
+ leaves at the top of t he tree? The main force that moves water up a plant
+ is known as t ransplratlonal pull and is created from a process known as
+ t ranspirat ion,
+
+270
+
+ Nutrition and Transport in Flowering Plants I Chapter 12
+
+ What Is Transpiration?
+ Green plants are continuously absorbing water from the soil. Not all the water absorbed will
+ be used by t he plant. Some wat er is removed when it evaporates from the aerial parts of the
+ plant. i.e., f rom t he leaves and stems. Link
+► Transpirat ion is the loss of wat er vapour from t he aerial part s of a plant, mainly t hrough Physics
+ WeleamthaL
+ t he stomat a of t he leaves.
+ evaporation occurs when
+ the molecules at the
+ How can w e investigate the loss of water vapour from the aerial parts of a plant ? Let's surface or a liquid escape
+ Investigate 12.12and 12.13 help demonst rate t hat t ranspiration occurs mainly through the into Lhe atmosphere.
+ aerial part s of a plant . Evaporation can occur at
+ any temperature.
+
+ Let's Investigate 12.12
+ Alm
+ To demonstrat e transpiration in leaves and st ems
+
+ Procedure Word Alert
+ 1 Take a potted plant and w rap a polythene bag around t he pot and the st em of t he plant.
+ Water may evaporate from t he soil surface. The bag prevents such water vapour from Aerial: above ground
+ entering the bell jar in the set-up.
+ 2 Place the pot on a glass plate and cover it with a dry bell jar (Figure 12.53).
+ 3 Set up a cont rol using similar apparatus but wit hout a pl ant. Place the t wo set-ups side
+ by side rnear an open window for two hours. (iJ
+ Helpful Note
+ When a narrow tube
+ is placed with one end
+ in water. the water will
+ spontaneously rise up
+ the tube (Figure 12.54).
+ This is called capillary
+ ac.tiorr. Similarly. when
+ you put the end or a
+ piece or mter paper in
+ water:.. the water will rise
+ up the paper. Capillary
+ action is one of the
+ forces that helps waler
+ to rise up the plant from
+ the roots to the stem.
+ Figure 12.53 Experimental set-up to s how
+ transpiration in a potted plant small large
+ diameter d iame ter
+ tube tube
+ Observation and Di scussion
+ 1 What do, you observe after two hours?
+ 2 Test any liquid on the inside of the bell jar w ith anhydrous copper(II) sulfate. What do
+ you observe? The anhydrous copper0I) sulfate will t urn blue when it comes into cont act
+ w ith water. It is used to det ect water or moisture.
+ F',gure 12S 4 Water
+ rising up capillary tubes
+ with different diameters
+
+ 271
+
+Chapter 12 I Living Together - Plants, Animals and Ecosystems
+
+ Let's Investigate 12.13
+ Alm
+ To demonst rate t hat t ranspiration occurs mainly t hrough the leaves
+
+ Procedure
+ 1 Take two leafy t w igs of about t he same size from the same pl ant .
+ Cut the end of each twig under water to prevent air from entering the
+ xylem vessels. Any air t rapped in tjhe xylem vessel s would int erfere w ith
+ the absorption of water by t he twi g.
+ 2 Place each t w ig in a beaker of water and add a little oil to the water
+ surface to prevent evaporation.
+ 3 Strip off all the leaves of one twig :and put pet roleum jelly on the ends of
+ the l eaf st alks. Also put approximately the same amount of petroleum
+ jelly on the st em of t he leafy twig. Place each beaker under a large bell jar.
+ Allow both twigs to st and where tihey can receive light (Figure 12.55).
+
+ ,,,.---.... control
+ le~fy twig with leaffeis twig with
+ petrole-u,n jelly -t----,A , r-r-- p<.'1.rolc:um jd ly
+ on stem on the endsof
+ leaf stalk
+
+ 1--+----,t-- oil
+ 1 -1- - 1 - - water
+
+ figure 12.5S Experimental .set-up to show transpiration
+ occurs main ly through the leaves
+
+ Observat ion and Di scussion
+ What do you observe after a few hou rs? Explain your observations.
+
+ You have now explored that t ranspirat ion occurs mainly through the leaves.
+ Recall what you have learnt on the structures of t he leaf in Section 12.1.
+ On w hich surface of a l eaf are stomata mostly found? How would t his affect
+ transpirat ion through t he upper and lower surfaces of a leaf? Let us find
+ out in Let 's Invest igate 12.14and 12.15.
+
+ Let's Investigate 12.14
+ Alm
+ To compare the rat e of t ranspiration of t he upper and lower surface of a leaf
+
+ Procedure
+ This experiment uses cobalt chloride paper, which i s an indicator for t he
+ presence of water vapour. Cobalt chloride paper i s blue when d ry and turns
+ pink when it comes in contact w it h water vapour.
+ (Note: This experiment should be carried out on a warm, dry day. If the
+ atmosphere is damp, e.g. early in the morning, the experiment may not
+ be carried out successf ully since t he cobalt chloride papers will turn pink
+ the moment t hey come into contact wit h damp air. In thi s case, cobalt
+ thiocyanate papers may be used.]
+
+ 1 Use a plant with stomata mainly on t he lower surface of the leaves.
+
+272
+
+ Nutrition and Transport in Flowering Plants I Chapter 12
+
+ ect,ona v,ew ac:r0$S
+ length o f slid es
+ d ry cobalt
+ 2 Place an intact leaf between two pieces of chlorid e paper
+ dry cobalt chloride paper. Then sandwich
+ the leaf between two dry glass slides held
+ in position by rubber bands as shown in
+ Figure 1256. The glass slides prevent the
+ cobalt chloride paper from coming into
+ contact with the water vapour in the air.
+ 3 Place a ziplock bag over the leaf prepared
+ in step 2. Seal as much of the opening as
+ possible to minimise exposure to water
+ vapour in the atmosphere.
+ figure 12.56 Comparing the rates
+ Observation and Discussion of tran spiration of the upper and
+ What can you observe after a short lower surfaces of a leaf Link
+ while? What can you conclude from
+ your observations?
+
+ Let's Investigate 12.1 S
+ J Practical Workbook
+ Experiment 12H
+
+ Alm
+ To demonstrate that transpiration occu rs largely through the stomata
+
+ Procedure
+ 1 Choose leaves in which the stomata are mainly confined to the lower surface of the leav,es. (Broad
+ leaves of flowering plants normally have most of their stomata on the lower surface)
+ 2 Take t hree fresh leaves of about the same size and surface area. Coat t he leaf stalks with
+ petroleum j elly to prevent loss of wate r by evaporation.
+ 3 Treat the th ree leaves as follows:
+ Leaf A- Cover the upper su rface wit h a layer of petroleum j elly.
+ Leaf B - Cover the lower surface with petroleum j elly.
+ Leaf C - Cover both surfaces wit h petroleum jelly.
+ 4 Use a balance to measure the mass of each leaf.
+ s Hang the three leaves near the window where they can get some light.
+ 6 After a few hours, note the condition of t he th ree leaves.
+ 7 Measure the mass of the three leaves again.
+
+ Observation and Discussion
+ Which leaf lost the most mass? Why?
+
+00
+Coolur~r
+Arborist
+Do you wonder i( trees need to be taken care of?
+
+An arborist studies the structure and function of trees.. Arborists are professionals that cultivate. manag·e.
+care for, and rehabililale trees and shrubs. They remove dead branches and prune a tree when necessary
+(Figure 12.57). They monitor lhe health of the trees in their care and recommend treatrnenL
+
+In Singapore, about 200 arborists from the National Parks Board look after about two million trees
+found in public spaces, They perform a basic check, looking out fo r things such as dead branches, which figure t 2.5 7 An a:rborist using a
+will decay and may fall during a storm. han dsaw to cut offi a dead branch
+
+ 273
+
+Chapter 12 I Living Together - Plants, Animals and Ecosystems
+
+ How Is Transpiration Involved in M oving Water Against Gravity?
+ The evaporation of water from the leaves removes wat er from t he xylem
+ vessel s (Figure 12.58). Th is results in a suction force which pulls water
+ up the xylem vessel s. This suction force due to transpiration is known as
+ transpiration p ull. It is the main force in drawing wat er and m ineral salts up
+ the plant.
+
+ Helpful Note
+ Water evaporates and escapesaswater
+ Transpiration pull is the
+ ,,...
+ vapour dlrough the stomata In the leaves.
+ main suction force thaL bud
+ pulls water up the plant, watef
+ aided by root pressur~ and vapour
+ capillary adjon. ~
+
+ ...
+
+ •.
+ water
+ •'
+ water
+ vapour vapour
+
+ Water tlo-,vs up tile
+ xylem vesselsinto
+ the le.aves.
+
+ -
+ movement o f w a ter
+
+ ------ •
+ movement of water vapour
+ ' root h:ilrt
+
+ F"1gure t 2.58 Movement of water in plants
+
+274
+
+ Nutrition and Transport in Flowering Plants I Chapter 12
+
+ Figure 12.59 shows the movement of water through t he leaf during
+ t ranspiration. Water evaporates from the surfaces of the mesophyll cell.s
+ into air spaces and then diffuses out of the leaf through t he stomata as
+ water vapour.
+
+ cuticJe
+
+~ path of water upper epidermis G) A thin film of moisture
+ surrounds the
+- - ♦ path of water vapour
+ mesophyll cells. Water
+ palisade mesophyll evaporates from this
+ thin film to form
+ water vapour in the
+ water mc)"l.lement intercellular air
+ byosmosis - - - - - - Spa<es.
+intercellularairs~e - - - -
+
+ xylem vessels --=:::;
+ phloem~=~
+ spongy mesophyll @ Wat er vapour then
+ diffuses through the
+ stomata to the drier air
+ outside the leaf. This Is
+ transpiration.
+
+ Jower epidermi$
+ @ As waler evaporates
+ oma o ' ' from the thin film of
+ guard cell ' ' ... -,. f'ilm of cell sap moisture, mote water
+ water moves out from
+ mesophyll cells to
+ replenish it.
+
+ As water is lost from the
+ mesophyll cells, the
+ © The cellsdeeper inside the leaf © Themesophytl cells water potential of their
+ then draw water from the xylem draw water from cells cell sap decreases and
+ by osmosis. This crea tes a suction deeper Inside the leaf becomes lower than that
+ force which pulls th~ whole by osmosis.
+ of their neighbouring
+ column of water up the xylem mesophyll cells.
+ vessels. This force Is known as
+ transpiration pull.
+
+ F"iagure 12.59 Movement of water inside a leaf
+
+ As transpiration occurs mainly through the stomata, it is linked to gas
+ exchange bet ween the plant and the environment. In daylight, stomata
+ open to allow carbon dioxide to diffuse, into the leaf for photosynthesis.
+ Oxygen and water vapour are more corncentrated in the intercellular air
+ spaces, so they diffuse out of the leaf through the stomata.
+
+ 275
+
+Chapter 12 I Living Together - Plants, Animals and Ecosystems
+
+ The Importance of Transpiration
+ tlJ Although excessive t ranspiration i s harmful to t he plant transpiration has
+ certain uses:
+ • Transpiration pull draws water and mineral salt s from the roots to t he
+ stems and leaves.
+ • Evaporation of water f rom t he surface of cells in t he l eaves cool s the
+ plant preventing it from being scorched by the hot sun.
+ • Water transported to the leaves can be used in photosynt hesis, t o keep
+ cells turgid, and to replace water lost by the ceUs. Turgid cells keep the
+ leaves spread out widely to t rap light for phot osynthesis.
+
+ Let 's Investigate 12.16and 1217 show some ways of measuring the rat e of
+ t ranspiration. We can use these met hods t o find out how much water is lost
+ from a plant or shoot during t ranspiration under different external condit ions.
+
+ Let's Investigate 12.16
+ Alm
+ To demonst rate how the rate of t ranspiration of a shoot can be measured
+ using a spring balance
+ spring b.llanc~
+ Procedure
+ 1 Cut a leafy shoot under water. Immerse
+ the cut end in a test -t ube of water and
+ add a little oil to t he water surface to
+ prevent evaporat ion.
+ 2 ne a st ring t o the mout h of the
+ lea ly
+ test -tube and measure t he mass ot shoal
+ the test -tube using a delicat e spring
+ balance as shown in Figure 12.60.
+ Record the mass.
+ 3 Place the t est-tube in a test -t ube rack J== =lf-- oil
+ near the window. After five hours,
+ measure the mass of t he test-tube and
+ the shoot again. (The loss in mass is due
+ to transpirat ion)
+ 4 Calculate the rat e of transpiration.
+ Mass of the t ube w ith shoot Onitia I) = a g
+ Mass of t ube w it h shoot after 5 hours= b g
+ Rate of t ranspirat ion= Loss in mass (g) Figure 12.60 Experimental
+ I,me taken (hours}
+ set-up to measure the rate
+ -- -,-
+ <a- bl g / hour of transpiration using a
+ spring balance
+ Give your measurements of mass and rate of
+ transpiration to two significant figures.
+
+276
+
+ Nutrition and Transport in Flowering Plants I Chapter 12
+
+ Let's Investigate 12.17
+ Alm
+ To demonstrate how the rat e of transpiration of a potted plant can be
+ measured under laborat ory conditions
+
+ Procedure
+ 1 Take a well-wat ered potted plant and wrap a polythene bag around the
+ pot and the stem of the plant.
+ 2 Use a balance t o measure the mass of the potted plant. Then place it
+ near the window in the laboratory. Measure the mass of t he potted plant
+ again after about five hours. The loss in mass is due to the loss of water
+ vapour during transpiration.
+ 3 Record your results and calculat e the rate of transpiration of the plant
+ under laborat ory conditions.
+ Mass of potted plant (initial)= a g
+ Mass of potted plant after 5 hours= b g
+ Rate of transpirat ion= Loss in mass (g)
+ I 1me taken (hours}
+
+ =~g/hour
+ Give your measurement s of mass and rate of transpiration to t wo
+ significant figures.
+
+ How to Measure the Rate of Transpiration
+ Under Different Conditions?
+ It is difficult to measure the rate of transpiration directly because some
+ of the water t aken in by the plant is used up in photosynthesis. The
+ experiment in Let's Investigate 12.17 faces this limitation. However, the
+ rate of water absorption can be measured directly. A potometer is used
+ to measure the rate of absorption of water by the plant (Figure 12.61).
+ Assuming that the rate of water absorpUon is proportional to t he rate
+ of transpirat ion, the potometer can the,i be used to measure the rate of
+ transpiration.
+
+ Figure 12.61 A potometer
+ can be used to measure the
+ rate of transpiration
+
+\
+
+ ~trf
+ 111 - - ~ - - - --2 7-2
+
+Chapter 12 I Living Toget her - Plant s, Animals and Ecosyst ems
+
+ A shoot that is to be used in a potometer must be cut under wat er. The cut
+ end is kept immersed in wat er for a f ew hours before use. This is to allow
+ the shoot to adj ust to the conditions in the potometer.
+
+ A pot ometer can also be used to det ermine the effect of different
+ environmental conditions on the rate of transpiration. For example:
+
+ to investigate t he effect of temperat ure, we can compare the rate of
+ transpiration in a room with an air conditioner, where the temperature
+ can be cont rolled.
+ to investigat e t he effect of wind speed, we can compare the rat e of
+ transpiration in a room with the ceiling fan swit ched on and swit ched
+ off (in still air).
+ to investigat e t he effect of light intensity, we can compare the rate of
+ transpiration in a dark room with a table lamp at various di stances from
+ the plant.
+
+ Let's Investigate 12.18
+ Alm
+ To measure the rate of transpiration using a potometer
+
+ Procedure
+ 1 To measure the rate of water absorption of a shoot, prepare the shoot as
+ shown in Figure 12.62.
+
+ shoot
+
+ water reservoir
+
+ tap
+ gr;Xluated capillary n1be (cm' )
+
+ A 8
+
+ end of water column
+
+ A potometer
+
+ F"1gure 12.62 Experimental set-up to measure the
+ rate of transpiration using a potometer
+
+ 2 Insert the shoot through the hole 1in the cork of the pot ometer. Smear
+ pet roleum jelly around the region of the shoot that passes through
+ the cork. This makes t he apparatus airtight.
+
+278
+
+ Nut rition and Transport in Flowering Plants I Chapter 12
+
+3 Open the tap of the reservoir to fill the graduat ed capillary tube wit h water.
+4 Close t he tap when the tube is full. As the shoot t ranspires, it absorbs wat er
+ from the potometer t o replace what was lost d uring transpiration. Thi s causes
+ the meniscus in the capillary tube to move from B to A. The rate of movement
+ of the water column gives the rate of water absorption by t he shoot.
+5 Note the reading of the water column at B. Record t he t ime taken for the end
+ of the water column to move f rom B to A.
+6 Calculat e t he rate of transpirat ion.
+ Volume of water column from B to A = a cm'
+ TI me taken= b minutes
+ Rate of t ranspiration = { cm' / minut e
+ Give your measurement of rate of transpiration t o two significant figures.
+7 The end of the water column can be pushed back t o B by opening t he tap of
+ the reservoir t o allow a little water to flow down. In this way, the apparat us can
+ be reset. Several readings can be taken and t h e average rate of t ranspiration is
+ calculated.
+
+!Discussi on
+l n t hi s experiment. we shall assume that the volume of water absorbed is t he Link
+same as the volume lost t hrough t ranspirat ion. Can you suggest the condit ions
+ Practical Workbook
+under w hich t hese two rates will be different?
+ Exper iment 121
+
+What Factors Affect the Rate of Transpiration?
+Transpiration involves evaporation. Therefore, any factor that affects the rate of
+evaporation af water will affect the rate of transpiration. Ext ernal factors t hat
+i nfluence the rate of t ranspiration are air movement. temperature of t he air, light
+:and humidity.
+
+Wind or Air Movement
+I n still air, water vapour that diffuses out of t he leaf accumulates outside the st omat a.
+This accumulation of water vapour makes t he concentrat ion gradient of wat er
+vapour inside and outside the leaf less st eep. Thus, the rate of transpirat ion is lower.
+
+l-lowever, if wind is present, water vapour that di ffuses out of the leaf is blown away
+:and does not accumulate. Thus, the concent ration gradient of water vapour inside
+:and outside t he leaf is steeper and t he rate of transpirat ion will be higher. The
+st ronger the wind, the higher t he rate of t ranspiration.
+
+Temperature of the Air
+Assuming t hat ot her factors remain const ant , a r i se in the temperature of the
+surroundings increases the rate of evaporation of wat er from t he cell surfaces.
+Thus, t he rate of transpiration is higher at higher temperat ures.
+
+l ight
+Light affects the size of t he stomat a on t he leaf. It will therefore affect the rate
+o f transpiration. /n the presence of light, the stomata open and become wider. This
+increases the rate of transpiration. In darkness, the stomata dose, so less water is last
+f rom the leaf.
+
+ 279
+
+Chapter 12 I Living Toget her - Plant s, Animals and Ecosystems
+
+ Figure 12.64 Stained
+ leaf cells of the
+ Humidity of the Air marram grass under
+ The intercel/ular air spaces in the leaf are normally saturated with water vapour. light microscope.
+ There is a water vapour concentration grad ient between t he leaf and
+ hai:rs
+ t he surrounding air. When t he air out side t he leaf is drier or less humid,
+ t he concent ration gradient of wat er vapour i s st eeper. Thus, the rate
+ of t ranspiration will be faster. Increasing the humidity of t he air
+ w ill make t he water vapour concentration g radient between
+ t he leaf and the surrounding air less st eep. Thus, the rate of
+ t ranspiration will decrease.
+
+ Plants living in dry conditions have special st ructures t hat
+ help them to cont rol t heir t ranspiration rate. An example
+ is marram grass (Figure 12.63). The leaves of marra m grass
+ have sunken st omat a that lie in grooves in the upper
+ surface of the leaves (Figure 12.64). These grooves contain
+ Figure 12.63 many tiny hairs t hat trap water vapour diffusing out of t he
+ Wind-blown stomata. This increases the humidity around t he stomata
+ marram grass and so reduces t he rate of t ranspiration.
+
+ Now, look at Figure 12.65. Discuss the t hree st atements made. Do you
+ agree? Why or why not?
+
+ size and number lontdoes
+ to ploy on Import eotnlghto
+ ping to draw water nce thesto
+ plant from the roo
+
+ F"rgure 12.6S Three plant lovers are discussing transpiration. What are your views?
+280
+
+ Nutrit ion and Transport in Flowering Plants I Chapter 12
+
+Wilting
+The turgor pressure in t he leaf mesophyll cells helps to support the leaf
+and keep it firm. Thi s enables it to spread out w idely to absorb light for
+photosynt hesis. In strong light when t he rate of transpiration exceeds
+the rate of absorption of water by the roots, t he cells lose t heir turgor.
+They become flaccid and t he plant wilts (Figure 12.66, Diagram B). Wilting
+also occurs in t he soft st ems of some pl.ants such as t he Balsam . In t his case,
+the cells of t he st em lose water.
+ rt.-duccd leaf
+ surface area
+ Diagram s decreMes r~tc
+Diagram A ( afternoon) of transpirarion
+(earty morning)
+
+ norrnal wilted
+
+ F",gure 12.66 Parts of the same plant at different times of the day
+
+Advantages of Wilting
+When the leaf folds up due t o wilt ing, th e surface area that is exposed to
+light is reduced. Reduced exposed surface area of a leaf could reduce t he
+exposure of st omata to t he atmosphere and thi s reduces t he rate of water
+loss t hrough the stomata. Excessive loss of water causes the guard cell s to
+become flaccid and the stomata to close . Thus, t he rate of transpiration
+is reduced.
+
+Disadvantages of Wilting
+As the st omata are closed, the amount of carbon dioxide entering the leaf
+is al so reduced. Carbon dioxide becomes a limiting factor and the rate of
+photosynt hesi s is decreased.
+
+The folding of t he l eaf al so reduces the surface area exposed to lig ht. Thi s
+also reduces the rate of phot osynthesis.
+
+Let's Practise 12.6
+1 Figure 12.67 shows a
+ cross-section of a leaf of
+ a certain plant.
+ (a) In which habitat would T.S.ofleaf
+ Link
+ you find such a plant ?
+ (b) Explain how the leaf is The0ry Workbook
+ Worksheets 12F-I 2G
+ adapted to help the plant
+ Let'sA~
+ survive in such a habitat. Figure 12.67 Let's Ref1ecl
+
+ 281
+
+Chapter 12 I Living Together - Plants, Animals and Ecosystems
+
+ Let's Map It
+
+ ______. path or water
+ - - ♦ padl of watef vapour
+ ------tii,. path of sucrose and
+ amino acids
+
+ wate,·,ooveinent
+ byc>smosis - - - - - -
+ intercellul.ar air space - - - -
+
+ xyfcm vessels -=:::
+ phloem
+
+ Water evaporates from i's:o,l,;ert
+ $ul'foct:.-, of mescr,hyll
+ ((omo
+ cells into the intem~llular
+ air space.
+
+ Xylem conducts
+ water and
+ stoma
+ mineral salts ' ... • Water vapour
+ u pward s, from diffuses out of the leaf
+ roots to leaves. through stomata
+ Phloem translocates
+ sucrose and amino c/wmg
+ acids from leaves to
+ other parts o f the
+ jj plant
+
+ ""
+ II
+ whkh
+ "
+ II
+ ""
+ II
+ whlchls
+ affected
+ " Cools the
+ pl ant
+ t,yfoctors
+
+ Thick lignified "" Stt-ChCl'S
+
+ walls prevent
+
+ /\£~ I
+ collapse of
+ xylem vessels. • light inten sity
+ • Wind or air ,
+ movement
+ • Temperature ® 11~
+ • Humidity ~
+ Water nows from the root hair
+ cells to the xylem by osmosis.
+
+ Water enters the mot hair
+ by osmosis and dissolved
+ mineral salts by active
+ transport and diffusion.
+
+282
+
+ Nutrit ion and Transport in Flowering Plants I Chapter 12
+
+ • Leaf stalk
+ • Thin broad leaf blade Word equation
+ • V/axy cuticle on the upper and lower carbon + wa ter __1.'9ah_•- -+ glucose + oxyge n
+ epidermi s dioxide <hlorophyll
+ • Stomata in the e~dermal layers
+ • Chloroplasts containing chlorophyll in Chemical equation
+ all mesophyll cells light
+ • More chloroplasts in upper palisade tissue 6 CO,+ 6 H, O - h--'-- h- -+ C,H,,06 + 6 0,
+ C lorop y1I
+ • lntercellular ait spaces in the spongy
+ mesophyll
+ • Veins containin9 xylem and phloem close
+ to mesophyll cells
+
+which is adopted for con be ref)(e~ted t,y
+ photosynrhes,s
+ byhcrvfrtg
+
+ Leaf
+ occurs in !he
+
+ Conditions necessary for Importance of photosynthesis
+ photoS)fnthesls • Provides food
+ · Light • Stores energy from the sun as
+ , carton dioxide , hemieiil energy
+ · Chlorophyll • Maintains the balan ce of oxygen
+ • A sulta ble temperature and cartion dioxide in the
+ • Water
+
+ produce-s
+
+ 1\'hKhJS
+
+ Broken down Used fo r synthesis Con verted into Converted into Stored
+ during respiration of cell wall amino acids and sucrose temporarily as
+ to release energy pro teins starch in leaves
+ for vltal activities when In excess
+
+ 283
+
+Chapter 12 I Living Toget her - Plant s, Animals and Ecosyst em s
+
+.. ■ Let's Revie
+
+ Section A: Multiple-choice Questio ns
+ 1 In which part of the leaf, A, B, C or D, can
+ the cell in Figure 12.68 be found?
+ S The leaves of a plant were exposed to
+ radioactive carbon dioxide. After a few
+ l
+ vp;>er A
+ o hours in strong light, w hich tissue,
+ A, B, c or D, in Figure 12.70, would
+ su~ :R become radioactive first? ~
+ ~ o~
+ A plant c~ I T.S. of part of a leaf
+ T.S. of the stem
+ Figure 12.68
+
+ 2 Which of the following graphs shows
+ how the rate of photosynthesis varies F',gure 12.70
+
+ o=-~E () --~
+ w ith the distance between the plant and
+ 6 Figure 12.71 shows a transverse section
+ and a longitudinal section of a plant.
+ Which parts transport water and mineral
+ salts?
+
+ o, .T "· Distance
+
+ C), •••
+ /
+ Distance
+
+ ,
+ /\'
+ \ transwrse section
+ y
+ longitudinal section taken @ )
+ through the line XV D
+ Distance Distance
+ Figure 12.71
+
+ 3 Figure 12.69 shows the different tissues OA 1 and 5 O 2and 4
+ in a leaf. Which t wo numbered cells Oc 3and5 O 3and 6
+ cont ain chloroplasts?
+
+ -~ 4
+ 7 Anhydrous cobalt chloride pa pers were
+ placed against both surfaces ,o f a leaf.
+ The paper on the lower surface of the
+ leaf had a faster change of co lour. This Q \
+ information shows t hat:
+ QA t here are more stomata on the lower
+ ~
+
+ Figure 12.69
+ surface t han on t he upper.
+ 01 1 and 4 Os
+ B A
+ c
+ 1 and 2
+ 2 and 3 C)> 2and 4
+ 4 Which structure is involved in the
+ t he rate of transpirat ion is faster on
+ t he lower surface than on the upper
+ surface.
+
+ uptake of mineral salts from the soil?
+ Oc transpiration takes place through the
+ stomata.
+ cell membrane
+ OD t he rate of transpirat ion is faster on
+ cell wall t he upper surface than on the lower
+ nucleus surface.
+ O o vacuole
+
+284
+
+ Nutrit ion and Transport in Flowering Plants I Chapter 12
+
+8 Samples of sap were obtained from t he (cl Name an internal factor of the leaf
+ phloem of stems and from the leaves of a essential for photosynthesis that is
+ plant. Tihe concentration of sugar in both not ref lect ed in the graph.
+ samples is shown in Figure 12.72.
+ 3 Which gases, oxygen, carbon dioxide
+ and water vapour, diffuse into and out
+ phloem o f stems of the stomata of a plant 's leaves
+ (a) on a warm, sunny day?
+ leaf (bl on a cool night ?
+ State the direction of each gas int o and
+ i.-.~ ~ ~ ~ ~~ - Tlrneof day out of the stomata .
+ I t I
+ sunset sunrise Sur.set
+ 4 Figu re 12.74 shows the appearance of
+ Figure 12.72
+ What is a possible conclusion for these
+ result s?
+ t o show w hat t hey look like at:
+ (a) mid-day
+ CD
+ t he guard cells at nig ht. Draw a diagram
+
+ (b) 1830 hours Figure 12.74
+C)A Phot osynthesis takes place most
+ rapi dly in t he leaves. s Figu re 12.75 shows a plant tissue seen in
+()e The amount of sugar is higher a t ransverse section of the stem.
+ during the day than at night. (a) What t issue is shown in A?
+C)c Sug ar made in t he leaves are (b) State two functions
+ t ranslocated t o the phloem in t he of t his tissue. For each ~~&,::(:,;- ~ssue
+ stern. function st ate one way
+ in which the ti.ssue is
+C)o Sugar is converted to starch stored in
+ adapted to t he f unction. Figure 12.1s
+ the leaves,
+
+Section B: Structured Questions Section C: Free-response Questions
+1 Photosynthesis may be represented by 1 Exp Iain how the leaf struct ure
+ the equation: is adapted for the process of
+ photosynthesis.
+ 6co, + 6 H,O ➔ c,H,,o, +6 o,
+ (a) State three conditions necessary 2 Exp Iain how atmospheric carbon
+ for photosynthesis t hat are not dioxide enters a leaf and becomes
+ sh own in the equation. part of t he glucose molecule in t he
+ (b) State three possible uses of t he leaf of a plant.
+ g lucose formed in phot osynthesis.
+ 3 Explain how water is absorbed by the
+2 Study t he graph in Figure 12.73. roots of a plant.
+
+ Rate of
+ photosynthesis ~<.,01- at 20 I>( 4 The concentration of salt s in the cells
+ ,'> of some seaweeds may be much hig her
+ <:)·
+ t harn that of the seawater. Yet such
+ 0.0 3%CO2 at 20 C
+ 11 plants are able t o absorb salt s from the
+ seawater.
+ B C
+ (a) How do you t hink t hey are able t o
+ Light Intensity do this?
+ Figure 12.73 (b) In what way is t he process
+ important to the life of seaweeds?
+ (a) What factors limiting
+ photosynthesis are shown in the
+ graph?
+ (b) What is the limiting factor in (I) AB
+ arnd (Ill BC shown in the graph?
+
+ 285
+
+ CHAPTER
+
+ Organisms and
+ Their Environment
+ What You
+ Will Learn
+ • How does energy flow
+ through an ecosystem?
+ • What are ecological
+ pyramids?
+ • How are nutrients
+ recycled through an
+ ecosystem?
+ • What are carbon sinks?
+ • How do we affect the
+ ecosystem?
+ • Why is there a need for
+ conservation?
+
+ amount of insecticides used would also be reduced.
+
+ Let us assume that for a brief moment that we manage to
+ wipe out all the ants on the Earth. What role do ants play
+ in the environment? How would their absence affect otlier
+ organisms? How would our lives change in a world without
+ ants? If someone told you that we would be at risk of dying
+ of hunger if ants did not exist, would you believe him or
+ her?Why?
+
+286

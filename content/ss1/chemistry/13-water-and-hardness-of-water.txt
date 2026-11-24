@@ -1,0 +1,307 @@
+TOPIC: Water and hardness of water
+WEEKS: later
+TEACHER'S SCHEME: (not yet scheduled)
+
+=== SOURCE: Okoye ch.13 ===
+CHAPTER 13
+
+ WATER, HARDNESS OF WATER
+
+13.1 Sources of Water
+
+Water is referred to as universal sovlent. It is a solvent that can dissolved many substances.
+Natural water is the water that is found in its natural state, while treated water is the one that has
+received some form of treatment. Examples of natural water are; rainwater, well water, spring
+water, river water, sea-water and lake water.
+
+Sources of water include: Rain, spring, well, river, lake and sea.
+
+Rainwater is the purest form of natural water because it is formed as a result of the condensation
+of water varpour in the atmosphere. It is free from mineral salts. It is soft and lathers easily with
+soap. Rainwater sometimes dissolve some impurities from the polluted environment
+(atmosphere) and this makes it to be hard. Spring water is the rainwater that sank through the
+porous soil layers and collected above an impervious layer. Sometimes some of this water
+emerge again on the soil surface as spring water. Spring water is not a good source of drinking
+water because it contains some dissolved mineral salts, dust and disease causing germs such as
+bacteria and fungi.
+
+Well-water is a stagnant water that collects on the top of the impervious layers of the soil after
+raining. It is reached by digging deep holes known as ‗wells‘. It is impure for drinking purposes
+because it contains dissolved clay, mineral salts and remains of dead organic matters. River
+water is formed by coming together of springs and other running waters. It contains a lot of
+dissolved mineral salts, air and remains of dead organic matters (plants and animals).
+
+Lakes and seas form a reservoirs for rivers and other running waters. Water from these two
+sources is not good for drinking because they contain a lot of impurities due to the accumulation
+of impurities from the various sources of water.
+
+13.2 Composition of Water:
+
+It is made up of hydrogen and oxygen in the ratio of 2:1 by volume. It is formed when hydrogen
+is burnt in oxygen.
+
+ 2H2(g) + O2(g) → 2HO(l)
+
+Water is a binary compound and it is V shaped in structure. Some sources of water supply are ;
+spring, rain, river, well, lake, sea, ocean. Water is a universal solvent because it can dissolve as
+many substances as possible. It dissolve more substances than any other solvent. The presence of
+dissolved substances (solids) in water can easily be shown by evaporating tap water on a watch
+
+ 141
+
+glass. Water is a polar solvent. Its molecular structure is made up of both positive and negative
+ends. It can therefore ionize into positive and negative ions.
+
+ H H+
+
+ O- O-
+
+ H+ H
+
+Water is a solvent for electrovalent solutes such as mineral salts, mineral acids and bases. It is
+also an excellent solvent for covalent substances which posses the hydroxyl group, - OH.
+Examples of such substances are propan - 1, 2- diol, propan 1, 2, 3 - triol, alcohol, sugar. All
+gases can dissolve in water to some extent. Examples are ammonia, nitrogen (iv) oxide,
+hydrogen chloride, sulphur (iv) oxide, carbon (iv) oxide, chlorine, oxygen, nitrogen etc.
+
+13.3 Properties of Water:
+
+1. Pure water is a colourless, odourless and tasteless liquid. It is neutral to litmus. Its
+ boiling and freezing points are 1OOoC and OoC respectively.
+
+2. Water reacts with metals in various ways depending on their position in the reactivity
+ series.
+
+ K They react with cold water to liberate
+
+ Na hydrogen eg.
+
+ Ca 2K(s) + 2H2O(l) 2KOH(aq) + H2(g)
+
+ Mg
+
+ Al They react with steam to liberate hydrogen and form oxides eg
+
+ Zn Mg(s) +H2O(g) MgO(s) + H2(g)
+ red
+ Fe 3Fe(g) + 4H2O(g) Fe3O4(s) + 4H2(g)
+ heat
+
+ 142
+
+ Pb
+
+ Cu
+
+ Hg They neither react with cold water nor steam
+
+ Ag
+
+ Au
+
+3. Water reacts with some non-metals
+
+i. Chlorine reacts with water to form a mixture of two acids - ie hydrochloric acid and
+ oxochlorate (i) acid respectively.
+
+ Cl2(g) + H2O(l) → HCl(aq) + HOCl(aq)
+
+ii. Red -hot carbon, reacts with steam to form water gas (ie a mixture of hydrogen and
+ carbon monoxide.
+
+ C(s) + H2O(g) → CO(g) + H2(g)
+ Red-hot
+ Carbon water gas
+
+iii. Silicon at white heat react with steam to form silicon (iv) oxide and hydrogen
+
+ Si(s) + 2H2O(g) → SiO2(s) + 2H2(g)
+
+4. Some non-metallic oxides react with water to form acids.
+
+ CO2(g) + H2O(l) → H2CO3(aq)
+
+ 2NO2(g) + H2O(l) → HNO2(aq) + HNO3(aq)
+ Dioxonitrate(ii) trioxonitrate (v) acid
+ acid
+
+ SO3(g) + H2O → H2SO4(aq)
+ Sulphur (vi) oxide
+
+5. Some metallic oxides (eg. K2O, Na2O, CaO) react with water to form their hydroxides.
+
+ K2O(s) + H2O(l) → 2KOH(aq)
+
+ 143
+
+Test for water:
+
+We test for water using anhydrous copper (ii) tetraoxosulphate (vi) ie CuSO4 and Cobalt (ii)
+Chloride paper
+
+1. Water turns white anhydrous copper (ii) tetraoxosulphate (vi) to blue.
+
+ CuSO4(s) + 5H2O CuSO4 5H2O
+ White anhydrous blue hydrated
+ salt salt.
+
+2. Water turns blue cobalt (ii) chloride paper pink.
+
+ CoCl2 + 6H2O CoCl2. 6H2O
+ blue anhydrous pink hydrated
+ salt salt
+
+13.4 Hardness Of Water and Its Causes:
+
+A hard water is a water that cannot lather easily with soap. Hard water is caused by the presence
+of soluble metallic salts. The most common of these are hydrogen trioxocarbonate (iv),
+tetraoxosulphate (vi) and chlorides of calcium and magnesium. Hard water cannot produce lather
+easily because the salt in water causing the hardness react chemically with soap. The cleansing
+dirty scum is produced. Lather will not form until all the salts are removed in form of scum.
+
+Types of hardness of water: Two types of hardness of water are: Temporary hardness and
+Permanent hardness.
+
+Temporary hardness: Temporary hardness is that hardness of water which can be removed or
+softened by boiling. Temporary hardness is caused by hydrogen trioxocarbonate (iv) of calcium
+or magnesium ie (Ca(HCO3)2 or Mg(HCO3)2.
+
+When the water containing calcium or magnesium hydrogen trioxocarbonate (iv) is heated, the
+acidic salt decomposes into insoluble calcium or magnesium trioxocarbonate (iv) and carbon (iv)
+oxide.
+
+ Ca(HCO3)2 → CaCO3 + H2O + Co2
+
+CaCO3 is insoluble and cannot cause hardness of water.
+
+Temporary hard water can also be removed by adding slacked lime ie Ca(OH)2.
+
+ Ca(HCO3)2 + Ca(OH)2 → 2CaCO3 +2H2O(l)
+ soluble slacked insoluble
+ lime
+
+ 144
+
+Permanent hardness: Permanent hardness of water is that hardness which cannot be removed by
+boiling. It is caused by dissolved calcium tetraoxosulphate (vi) or magnesium tetraoxosulphate
+(vi) ie CaSO4 or MgSO4. These salts causing the hardness are not decomposed by boiling. The
+permanent hardness of water can therefore be removed by the addition of chemicals eg.
+
+i. Addition of washing soda: Na2CO3.10H2O
+
+ CaSO4 + Na2CO3 → CaCO3 + Na2SO4
+ insoluble
+
+ MgSO4 + Na2CO3 → MgCO3 + Na2SO4
+ insoluble
+
+ii. Addition of caustic soda: NaOH
+
+ CaSO4 + 2NaOH → Ca(OH)2 + Na2SO4
+
+ MgSO4 + 2NaOH → Mg(OH)2 + Na2SO4
+
+iii. Addition of permutit or zeolite: This is also known as ionexchange process or permitit
+ method. The ion exchanger contains sodium aluminium trioxosilicate (iv) ie NaAlSiO3.
+ When the hard water passes through a resin container, the sodium ions enter the solution
+ while the unwanted calcium and magnesium ions take their place in a double
+ decomposition reaction.
+
+Calcium + Sodium Calcium + Sodium
+Tetraoxosulphate (iv) zeolite zeolite tetrao-xosulphate (vi)
+Soluble permutit insoluble soluble
+
+The common name for NaAlSiO3 is sodium zeolite or sodium permutit.
+
+Advantages of hard water:
+
+It contains calcium compound which is essential for our teeth and bones. Hard water has pleasant
+taste unlike pure water which is tasteless.
+
+Disadvantages of hard water:
+
+Hard water makes the dyeing of cloths difficult.
+
+It forms scum with soap and wastes soap.
+
+It forms fur or scale deposit in kettles and boiler pipes.
+
+ 145
+
+Water cycle:
+ W a te r i n th e s o i l , s e a s ,
+ r i v e r s , l a k e s e tc .
+
+ P lan t s
+
+ R e sp ir a t io n
+ A n im a l
+ Tr a n sp ir a t io n
+ D e c ay
+
+ R e sp ir a t io n
+ E x c r e t io n
+
+ D e c ay
+ E v a p o r a t io n
+
+ C o n d e n sa t io n
+
+ Fig. 13.1: Water cycle
+
+Water cycle is the way water circulates in nature.
+
+13.5 Treatment of Town Water Supply
+
+Some examples of treated water are: distilled water, pipe-borne water for township and
+chlorinated water for use in swimming pools. Treated water is prepared for special purposes.
+
+Pipe-borne water can be purified using the following methods:
+
+Coagulation, sedimentation, filtration and disinfection.
+
+Coagulation: This is a method whereby chemical known as coagulating substances (such as
+silica gel) is added to the water which has been already tapped from the sources, to remove any
+colloidal particles.
+
+Filtration: In this method, organic matter is separated from the water.
+
+Sedimentation: Sediments which are formed during the coagulation are separated from the bore
+hole water.
+
+Disinfection: After all these, chemicals are added to the water so that the water will be free from
+germs. The chemicals used include: silica of soda, hydrated lime, liquid chlorine, alum etc.
+
+Exercises:
+
+1. List the components of water.
+
+2. Write five sources of water.
+
+3a. List six examples of natural water.
+
+b. Which of them is considered to be purest form? Why?
+
+ 146
+
+c. What makes the rainwater to be hard?
+
+4a. Why is water called a universal solvent?
+
+ b. Draw the molecular structure of water.
+
+5. Write two chemical properties of water.
+
+6a. What is hard water?
+
+b. Write one method of softening:
+
+ (i) Temporary hard water. (ii) Permanent hard water.
+
+7. Write (a) two advantages of hard water.
+
+ (b) two disadvantages of hard water.
+
+8. Briefly describe one method of purifying water.
+
+ 147

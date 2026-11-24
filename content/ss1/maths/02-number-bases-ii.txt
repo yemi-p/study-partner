@@ -1,0 +1,248 @@
+TOPIC: Number bases II
+WEEKS: 2
+TEACHER'S SCHEME: Problem solving: addition, subtraction, multiplication and division in number bases
+
+=== SOURCE: NGM ch.3.4-3.5 ===
++0X84+7
+=4X12?+11x12!+ 10
+or ten and eleven
+
+greatest digit in any number is
+- base number. Notice, also, that
+mt new symbols for ten and
+
+. Number and numeration,
+
+the Preliminary Chapter
+
+book) shows how to convert
+er to base two (binary). This
+
+° 2 used with any number base.
+
+6b).
+
+126dayy = 1X 8 + 2X8 + OXB + "
+
+=1X512+2X64+6X8+4X1_
+= 512+ 128+ 48+4
+
+= 692cen
+2nd method: By repeated multiplication:
+ie 2 6 4
+x8 |
+8+2=10 )
+x8
+0 + 6 = 86
+x 8
+688 + 4 = 692
+1264 igh: - 692 cen
+
+Notice that the method of repeated multiplication
+is the inverse of the repeated division method for
+conversion from base ten.
+
+Exercise 3h
+
+© Convert the following base ten numbers to
+base eight.
+a 15 b 27 c 128
+d 569 e 1239 f 5046 ,
+
+© Convert the following base ten numbers to |
+base five.
+
+a 20 b 76 c 99
+f 733
+
+s
+
+args
+j 120
+
+e
+h
+k
+
+64
+100
+72
+89
+
+c 65
+f 129
+i 101
+| 94
+
+© Convert the following base ten numbers to
+
+base eight.
+
+a Weigh b Sian c 231 eight
+d 472 eight e€ 631 eight f 63.05
+g Boces h 126 ver t i BA sever
+Peis °K 32, 1 130 jour
+M231 = 1 30V four = 1023 rue
+eg 1122, |) +r 2120ace
+
+, Multiplication,
+
+Although we normally calculate in base ten, it is
+possible to work directly in other bases. Read the
+methods in Example 18 carefully.
+
+Example 19 .
+
+Calculate the following in the given bases.
+« 66 + 9t9 + 48 (base twelve)
+
+4 5117 — 324 (base eight)
+
+c 242 X 14 (base five)
+
+@ 101010 + 111 (base two)
+
+The working is shown below without
+
+explanation.
+a 66 6 $117
+9x9 ~_324
++ 48 4573
+
+110
+
+AB hve
+Tiveve
+
+BD 34Lje + ine
+d S56 eight ~ Teight
+
+bers below are binary. Evaluate
+
+*
+
+b 10011 x 101
+
+a 101011 x 110
+f 100011 + 101
+fh 111100 + 110
+
+ber (****) if the
+
+~ AKP+AKM+1 xt] 7 |
+
+ooo | axzvoxz sox sexi] 6
+| 1001 | 1x2+Ox2+Ox2+Ix1| 9
+1X2B+OxXP+1X2'+OX1] 10
+Table 3.1
+
+To add, subtract and multiply binary numbers,
+use the methods that you use with base ten
+numbers. However, you must remember that you
+are working with powers of two, not powers of
+ten. The following identities are very useful:
+Addition;
+
+0+0=0 1+0=1
+
+O+1=1 1+1=10
+
+Multiplication:
+0x0=0
+Ox1=0
+
+Exercise 3j
+
+(O) Figure 3.1 shows how to use a piece of paper
+and three bottle tops to represent the binary
+number 1011
+
+wor
+
+Draw a piece of paper like this and collect
+
+Some counters (bottle tops, pebbles).
+@ Using one co ie as
+
+g 63 Ber
+the following binary numbers to
+b 1011 e 10101
+2 e 11010 = + 110101
+© Convert 111 110,,, to
+
+a a base ten number
+b a base eight number
+
+@ Find the value of the following, leaving your
+answers in base two.
+
+a the square of 111,,,
+b (1011,,.)?
+
+© Find the square root of the following.
+_ Give your answers in base two.
+
+results by converting to base ten.
+1101 b 10110
++ 10 so ela
+
+d 11110
+
+eet
+10100
+= 1110
+
+——_
+
+ate the following in base two, checking
+
+Base ten fractions, or decimals, are based on
+negative powers of ten (Fig. 3.2).
+
+6 x 108.5 x 1071
+
+Sx 104 23 x10
+nee
+Fig. 3.2
+Similarly we can have base two fractions,
+bicimals, based on negative powers of two
+(Fig. 3.3).
+
+1x20 sixes
+
+WE x i x2=
+1:101
+Fig. 3.3
+
+To convert a bicimal to a decimal, first express
+each digit as a power of two, then change the
+powers to fractions. Read Example 20 carefully.
+
+Example 20
+Convert the following bicimals to decimals.
+a 1-101 © 10011 e 110-11
+
+a L10L=1xX8+1x27°+0x%27 41x23
+=14+1xt4+o0xK 244 ho
+1+1X;+ OX 41x55
+
+4 Simple interest, |, is interest
+intervals of time. It is
+formula
+| = PRT
+100
+where P is the principal, R is the rate per
+cent per annum, and T is the corresponding —
+time in years.
+- Numbers can be expressed in any base
+from base two (binary) upwards. However,
+for bases beyond base ten (denary), it is
+necessary to invent new symbols.
+To convert a number from a given base to
+base ten, either express the nurnber i
+as powers of the base and add, or us@é
+repeated multiplication. (See Example 17.)
+following bicimals to base ten. To convert a number from base ten to base
+ b 0-01 ce 0-001 Eecaiite tie number repeatecty by 1 Sea
+
+e011 =f O11

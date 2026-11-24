@@ -1,0 +1,134 @@
+TOPIC: Classification I: Monera, Protista, Fungi
+WEEKS: 2
+TEACHER'S SCHEME: Binomial nomenclature, Kingdom Monera, Kingdom Protista, Kingdom Fungi
+
+=== SOURCE: School notes week 2 ===
+WEEK 2:
+SUBJECT: BIOLOGY
+CLASS: SS1
+TOPIC: CLASSIFICATION OF LIVING THINGS
+CONTENT: (1) Classification/Taxonomy of living things
+(2) Binomial system of nomenclature
+(3) Classification and evolution
+The kingdoms are further split into a large number of smaller groups called 'phyla' (singular
+phylum) for animals and 'division' for plants. All members of a phylum or division have certain
+features in common. Each phylum or division is broken down into classes. Classes are split into
+orders. Orders are split into families. Families are split into genera (singular genus) and genera into
+species.
+The seven groups used in classification of living things in order of hierarchy are;
+Kingdom
+↓
+Phylum (Animal) or
+Division (Plant)
+↓
+Class
+↓
+Order
+↓
+Family
+↓
+Genus
+↓
+Species
+The species is the basic (i.e. smallest) unit in biological classification. A species is a group of
+individuals which can interbreed to produce fertile offspring. Example, all human beings belong to
+one species and all monkeys belong to a different species, thus human beings and monkeys cannot
+interbreed.
+Classification Human Dog Lion
+Kingdom Animalia Animalia Animalia
+Phylum Chordata Chordata Chordata
+Class Mammalia Mammalia Mammalia
+Order Primate Carnivora Carnivora
+Family Hominidae Canidae Felidae
+Genus Homo Canis Panthera
+Species sapiens familiaris leo
+EVALUATION
+1. What is taxonomy?
+2. Make a list of the hierarchy of groups used in classification of living things.
+i) Man - Homo sapiens
+
+ii) Housefly - Musca domestica
+iii) Maize - Zea mays
+iv) Orange - Citrus sinensis
+v) Pawpaw - Carica papaya
+EVALUATION
+1. Who introduced the binomial system of nomenclature?
+2. Write the scientific names of the following: (a) Rice plant (b) Domestic cat (c) Monkey
+Sub - Topic 3: CLASSIFICATION AND EVOLUTION
+As a result of advances in the field of science a five-kingdom system introduced by R.H Whittaker
+(1969) has been adopted by some biologists. Most biologist however, prefer to divide living things
+into prokaryotids (bacteria and blue-green algae) and eukaryotids (all other organisms) based on
+the complexity of cell structure and cell chemistry.
+Prokaryotids -Monera: bacteria, blue-green algae
+Eukaryotids - Protista: protozoa, unicellular algae
+Fungi: yeasts inclusive
+Plantae: multicellular plants and multicellular algae
+Animalia: multicellular animals
+The five kingdom classification is as follows;
+(i) kingdom Monera,
+(ii) kingdom Protista (Protoctista),
+(iii) kingdom Fungi,
+(iv) kingdom Plantae and
+(v) Kingdom animalia.
+Viruses
+These are not cells. They are particles made up of DNA (deoxyribonucleic acid) or RNA (ribonucleic
+acid) surrounded by a protein coat. The genetic material is composed of a few genes that code for
+the proteins that form the coat and other proteins that help it reproduce.
+They are very harmful parasites that enter the cells of another organism (host) in order to multiply.
+They do not respond to antibiotics and are constantly changing into new strains.
+A. Kingdom Monera
+i. They are unicellular
+ii. The cells are prokaryotic with no organized nucleus and no nuclear membrane, just a loop of
+DNA within the cytoplasm.
+iii. They do not have complex chromosomes
+iv. Cells have no mitochondria, endoplasmic reticulum and no chloroplasts.
+v. Cell wall does not contain cellulose but polysaccharides and amino acids
+vi. No sexual reproduction.
+vii. They may be autotrophic or heterotrophic
+Examples include bacteria and blue-green algae.
+Helicobacter pylori Anatomy of a simple bacterium
+B. Kingdom Protista
+i. The organisms are eukaryotic and unicellular.
+ii. Some are heterotrophic, some are autotrophic and some are both
+iii. Reproduction is usually asexual by mitosis but some have sexual reproduction by fusion
+of gametes.
+iv. Movement may be by cilia, flagella or may be amoeboid
+v. The kingdom is divided into the following phyla;
+(a). Phylum protozoa: Examples are Amoeba, Paramecium, Zooflagellates, Plasmodium,
+Trypanosoma
+
+(b). Phylum Euglenophyta: Example Euglena
+(c). Phylum Chrysophyta: Example diatoms
+(d).Phylum Pyrrophyta: Example dinoflagellates
+iii. All the hyphae of a single organism are collectively called a mycelium.
+iv. There are many nuclei in a cell.
+v. All fungi are heterotrophic - They lack chlorophyll. Some are saprophytic, some are parasitic
+and some are symbiotic.
+vi. Fungi together with bacteria are the principal decomposers in the biosphere
+vii. Fungi reproduce by asexual or sexual methods.
+Fly Agaric Mushroom
+The brightly colored fly agaric mushroom is a deadly poisonous mushroom. Containing ibotenic acid and
+a number of other organic poisons, the fly agaric can cause severe damage to the central nervous system,
+blood vessels, kidneys, liver, and muscles. Symptoms, which may not become apparent for 8 to 12 hours
+or longer, include nausea, vomiting, and severe diarrhea and can lead to coma and death.
+Structure of Mushroom
+EVALUATION
+1. List the five kingdoms of classification of living things.
+2. Give two characteristics each of organisms in each group mentioned above.
+WEEKEND ASSIGNMENT
+OBJECTIVE TEST
+1. Which of the following groups embraces the rest? (a) Class (b) Kingdom (c) Phylum (d)
+Species
+2. Which of the following indicates that Euglena is a plant?
+1. Conspicuous eye spot (b) limited movement (c) presence of gullet (d) presence of starch
+grains
+3. Which of the following is not true of rhizopus or mucor? (a) It bears spores in sporangia
+(b) It manufactures its own food (c) It has non-septate hyphae
+(d) It undergoes asexual reproduction
+4. Bacteria cells differ from eukaryotic cells by having (a) cell membrane (b) cell wall
+(c) nuclear material (d) nuclear membrane
+5. Fungi and bacteria help to (a) decompose materials (b) eliminate waste (c) produce food
+(d) produce new species
+ESSAY QUESTIONS
+1. State two differences between prokaryotic and eukaryotic cells
+SUGGESTED PRACTICALS: Make a large well labeled diagram of a mushroom , 8 - 10 cm.

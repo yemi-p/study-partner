@@ -1,0 +1,657 @@
+TOPIC: Separation techniques
+WEEKS: 5-7
+TEACHER'S SCHEME: Filtration, evaporation, decantation, crystallization, fractional crystallization, chromatography, sublimation, pure and impure substances, distillation, fractional distillation, precipitation
+
+=== SOURCE: Okoye ch.11 ===
+CHAPTER 11
+
+ SEPARATION TECHNIQUES FOR MIXTURES
+
+It was pointed out what a mixture is in chapter 9.6. It was also pointed out that the constituents of
+a mixture can be separated from one another by physical method. Therefore, the techniques for
+separating mixtures are essentially physical. A mixture can be in solid state, liquid state or
+gaseous state. The physical methods of separating mixtures are: Filtration, Decantation,
+Evaporation, crystallization, fractional crystallization, use of separation funnel, Distillation,
+Fractional Distillation, Sublimation, Precipitation, Magnetization, Chromatography, Sieving and
+use of centrifuge machine.
+
+11.1 Filtration:
+
+ Fig 11.1
+
+Filtration is used to separate insoluble solids from liquids or solutions. Suspensions can also be
+filtered to remove solids. Drinking water is filtered to remove insoluble solids. In this method
+filter paper is used. Filtration is used to separate chalk and water or sand and water. The
+insoluble sand will remain on the filter paper as residue while water will pass through the filter
+paper and is collected in the beaker as filtrate.
+
+Industrially, filtration is employed in the purification of town water supply and in breweries. It is
+also employed in a chemistry laboratory to separate a mixture of soluble and insoluble
+substances. For example, a mixture of insoluble lead tetraoxosulphate (vi), (PbSO4) and soluble
+zinc tetraoxosulphate (vi), (ZnSO4) can be separated by the process of filtration.
+
+ 114
+
+11.2 Decantation:
+
+ liq u id B
+ T e st tu b e
+ te st tu b e h o ld e r te s t tu b e
+ h o ld e r
+
+ liq u id A
+
+ liq u id B c o n ic a l f la s k
+ liq u id A
+
+ Fig11.2: Separation of two immiscible liquids by decantation
+
+This method is used to separate a mixture of solid and liquid where the solid settles at the lower
+part of the test-tube and the liquid at the upper part. The upper liquid can then be separated from
+the solid by carefully running out the upper liquid into another container. This method can also
+be used in the separation of two immiscible liquid, where the lighter liquid A floats on the denser
+liquid B in the same test tube. The disadvantage of this method is that while pouring out the
+lighter upper liquid, the denser lower liquid may run off.
+
+11.3 Evaporation:
+
+ Fig 11.3: Apparatus for evaporation
+
+This is a method used to separate a solid (solute) from a solvent. The solution is heated to
+dryness. Evaporation involves the heating of a solution to remove the solvent from the solid
+substance. A solution of common salt in water is called brine. Brine can be heated to evaporate
+all the water molecules leaving only solid salt after evaporation. Evaporation method is mainly
+used where the liquid component is not required. Evaporation is one of the fast methods of
+separating mixtures but the product obtained using this procedure may not be very pure. It is
+used where the components cannot be decomposed by heat.
+
+11.4 Crystallization:
+
+This method is also used in the separation of solids from solutions. The knowledge of the
+solubility of solids at various temperatures is very vital here. The use of this method is dependent
+
+ 115
+
+on the solubility of the component of the mixture at various temperatures. The solid to be
+separated is first of all dissolved in a solvent in which the component to be separated is very
+soluble at high temperatures and less soluble at lower temperatures. The solid is then dissolved in
+minimum amount of the solvent at high temperature, and the solution is allowed to cool. If the
+solid (solute) is in excess solvent, crystalline substance (solid) is separated by concentrating the
+solution by evaporation. As evaporation is going on, after a time, crystals will start to appear at
+the edge of the solution. When the crystalline substance is observed, the solution is poured into a
+crystallizing dish and allowed to cool. As the solution cools, solid particles called crystals will
+begin to appear in the solution. At room temperature, the crystals are obtained in the solution.
+The crystals can then be separated from the solution by filtration. It is washed with distilled
+water and allowed to dry on the filter paper.
+
+11.5 Fractional Crystallization:
+
+Fig 11.5: separating the various components of a mixture by varying the temperature
+
+This method is used where there are more than one solute in a given solution. There must be
+difference in the solubility of the solutes at different temperatures. As the boiled solution is
+allowed to cool, the different crystals can be obtained at different temperatures. For example, at a
+temperature of 78oC the less soluble component will separate out of the solution (or it
+crystallizes) and at a temperature of about 42oC the crystals of the more soluble component will
+crystallize. Thus by varying the temperature, various fractions of the solute components can be
+separated.
+
+ 116
+
+11.6 Use of Separating Funnel:
+
+Separating funnel can be used in separating two immiscible liquids. It can also be used in
+separating a mixture of two different solids in which the components are soluble in different
+immiscible solvents. For example, if solid A is soluble in solvent B, and solid C is soluble in D
+but not in B, a mixture of solids A and C can be separation by dissolving the solid mixture in the
+mixture of the two solvents in a separating funnel. The content of the separating funnel is shaken
+very well and allowed to settle. The less dense solution will then float on top of the denser
+solution. The control tap is then opened and the denser solution enters into a conical flask. To
+avoid being contaminated by the remains of the denser solution, the less dense solution is
+removed through the upper opening of the funnel.
+
+ S e p a ra t in g fu n n e l
+ le ss d e n se liq u id
+ d e n se r liq u id
+ c o n t ro l t a p
+
+ beaker
+
+ d e n se r so lu t io n
+
+ Fig 11.6: Using a separating funnel
+
+11.7 Distillation:
+
+ s ta n d a n d c la m p
+
+ Th e rm o m e t e r
+ b u lb o p p o s it e s id e a r m
+ t
+ S id e a r m er ou
+ w at
+ s t a n d a n d c la m p
+ c o n d e n se r
+ a d a p to r
+ c o ld w a t e r
+ r e c e iv e r
+ d is t illa t io n f la s k
+ impure water w a te r i n
+ g a uze
+ p u re w a t e r
+ d is t illa t e
+ tr ip o d
+ b urne r
+
+ Fig 11.7
+
+Distillation consists of the two basic processes of boiling and condensation. For example impure
+water can be purified by distillation because the impurities in water are solids which are non-
+volatile. The impure water is heated to make it boil. Its vapour is collected and cooled. As it
+
+ 117
+
+cools, the vapour condenses into pure distilled water. The non-volatile impurities remain behind.
+This method is commonly used in separating solvents from solutions especially when the solvent
+is needed. It can be used in separating the more volatile (lower boiling point) from less volatile
+substances. Pure water can be obtained from brine (common salt solution) by distillation.
+Distillation can also be employed in separating mixture of liquids with widely differing boiling
+points. The difference in the boiling points should be large so that only the more volatile
+constituent will be present in the vapour above the boiling point of the constituent, in the liquid
+mixture.
+
+Liebig condenser is used to convert vapour to liquid while distillating. To enhance the
+condensation of the vapour, cold water is continuously being introduced through an inlet. The
+thermometer helps one to know when the component of the mixture has distilled off. For
+example, if the boiling point of the component is 60oC at a temperature of about 62oC that
+component must have distilled off. The condensed steam is called the distillate or condensate.
+
+11.8 Fractional Distillation:
+
+Fractional distillation technique is used in separating mixture of liquids with boiling points that
+are close together.
+ th e rm o m e te r
+
+ St a n d a n d c l a m p s b u lb o p p o s ite s id e a r m
+ s i d e a rm r out
+ w ate
+ st a n d a n d c la m p
+ st a n d a n d c la m p
+ c o n d e n se r
+ ad
+ ap
+ f ra c t i o n a t i n g to r
+ c o lu m n g la ss b e a d s
+ w a te r in
+ r e c e iv e r
+ E tha no l
+ + e th a n o l
+ w a te r
+
+ d is tilla te
+
+ Fig 11.8: Fractional distillation
+
+Fractional distillation method is similar to the ordinary distillation described above except that a
+fractionating column is fitted between the distilling flask and the condenser. This process is used
+to separate two or more mixture of volatile liquids with very close boiling points. A fractionating
+column is a tube with irregular interior. It is a glass column packed with glass beads, which
+exposes a large cooling surface to ascending vapours. On heating a mixture of, for example
+ethanol (boiling point 78oC) and water (boiling point 100oC), the liquid mixture boils and its
+vapour rises into the fractionating column. This vapour mixture contains a higher proportion of
+the more-volatile ethanol than water. The vapour begins to condense in the fractionating column.
+Water vapour condenses more easily than the ethanol vapour. The column is cooler at the top
+than at the bottom. Thus the higher the vapour mixture rises in the column, the richer it becomes
+in ethanol. Finally, at the top of the column, pure ethanol can be collected.
+
+ 118
+
+Any liquid in the above experiment boiling at a higher temperature than 78 oC, will condense and
+run back into the flask. In this way, only ethanol reaches the top of the fractionating column as a
+vapour, and distills over into the receiver. At any particular time, the thermometer indicates the
+boiling point of the distilling liquid. A rapid rise in temperature, shows that the next constituent
+is beginning to distill off and should be collected in another receiver flask.
+
+11.9 Industrial Application of Distillation:
+
+(a). Crude oil as obtained from the ground is not suitable for use. It is a mixture of many liquids,
+ which must be separated using fractional distillation method.
+
+(b). Distillation is the major process used in the manufacture of spirits such as whisky, gin, rum
+ and brandy. It serves both to separate the spirit from the raw materials and also to
+ strengthen it (the distillate). The distillate or the condensed vapour will then contain a
+ higher percentage of alcohol than the original alcohol/water mixture.
+
+11.10 Sublimation:
+
+There are substances which when heated changes directly from solid state to gaseous state
+without passing through the liquid state. Such substances are said to sublime and the process or
+the phenomenon is known as sublimation. Examples of the substances which sublime when
+heated are anhydrous aluminum chloride (AlCl3), anhydrous iron (III) chloride (FeCl3), benzoic
+acid and iodine. A substance which sublimes can be separated from other components of a
+mixture by heating the mixture.
+
+ Fig 11.9 Sublimation
+
+A mixture of sand and ammonium chloride can be separated as follows:
+
+The mixture is placed in an evaporating dish or basin. An inverted filter funnel is placed on the
+dish as shown in Fig11.9 above. The basin is put on a tripod and gauze and is heated gently. If
+the funnel becomes hot, strips of filter paper, sparked in water is placed on it to cool it. On
+
+ 119
+
+heating, ammonium chloride vaporizes wall of the funnel. The sublimate can be scraped off the
+funnel. Sublimate is a substance formed by sublimation.
+
+11.11 Precipitation:
+
+ Fig. 11.10
+
+Precipitation is the formation of an insoluble solid by a reaction, which occurs in solution. It is
+one of the separation techniques where chemical means is applied to facilitate the ease of
+separation by physical means (filtration). For example, if silver ion is to be removed from an
+aqueous solution of its salt (Silver trioxonitrate v), an aqueous solution of another compound
+such as Zinc Chloride is added. This will help in precipitating on insoluble silver compound such
+as silver chloride. The silver compound can then be separated from the soluble compound in
+solution by filtration..
+
+ 2AgNO3(aq) + ZnCl2(aq) Zn(NO3)2(aq) + 2AgCl white ppt.
+
+This method uses the differences of solubilities of a solid in different miscible solvents. For
+instance, iron (ii) tetraoxosulphate (vi) is soluble in water and insoluble in ethanol. Addition of
+ethanol to an aqueous solution of iron(ii) tetraoxosulphate (vi) will precipitate the pure solid. To
+obtain a high degree of purity, the solid can then be recrystallised.
+
+1.12 Magnetization:
+
+ Bar m agn et
+ ir o n f ilin g s
+ s to n e
+
+ Fig 11.11 Separations of Iron filings from common salt using a bar magnet
+
+ 120
+
+This is a method used in the separation of mixture where one of the components of the mixture is
+a magnetic material. In magnetization, any magnetic material in a mixture can be separated by
+bringing a bar magnet very close or in contact with the mixture. The magnetic material is
+attracted to the magnet. It attaches itself to the bar magnet. A mixture of common salt and iron
+fillings can be separated by magnetization method. (see Fig3.11 above.) A mixture of sulphur
+and iron filling can also be separated using this method.
+
+11.13 Chromatography:
+
+This method is used in separation of complex mixture. The complex mixture includes coloured
+substances. In this method there is mobile phase, which can be a liquid or gas while the fixed
+phase is a solid. Types of chromatographic techniques are:
+
+i. Paper Chromatography
+
+ii. Column chromatography
+
+iii. Thin-layer chromatography
+
+iv. Gas chromatography
+
+Only the paper chromatography will be treated in this book.
+
+A complex mixture of ink in a black bic can be separated using paper chromatographic method.
+A spot is made on an oblong strip of filter paper. The filter paper is mounted in a split cork in a
+boiling tube dipping the bottom end of the filter paper in a liquid (propanone or ethanol). The
+liquid moves or rises up the filter paper and dissolves the substances in the mixture (black ink).
+As the liquid rises up the paper, it carries the dissolved substances with it. Each substance is
+carried at a different speed so that the liquid separates out the components in the mixture.
+Chromatography is used mainly in the analysis of mixtures. a variant of paper chromatographic
+method is this:
+
+ 121
+
+If the solution containing the mixture to be separated is spotted on the filter paper, the
+components of the mixture move at different speeds and as a result become separated. The
+mixture may be placed on the filter paper, an appropriate solvent (ethanol) is dropped on the
+mixture. The components of the mixture then move with the solvent at various speeds and are
+thus separated.
+
+ Fig 11.13 Separating the colours of black ink by chromatography
+
+11.14 Use Of Centrifuge Machine:
+
+ Fig 11.14 Separation of solid from liquid using a centrifuge machine
+
+This method is used to separate solid from liquid when the volume of the mixture is small. The
+mixture of solid and liquid is poured into a test tube and the test tube is placed inside the bucket
+of the centrifuge machine. As the centrifuge machine is put on, it moves the bucket and its
+content at a very great speed in a circular form. After sometime, the solid particles are thrown to
+the bottom of the test tubes while the liquid is on top. The top liquid can now be decanted from
+the solid.
+
+11.15 Sieving:
+
+This method is used in separating mixture in solid state. Separation using this method is
+dependent on the particle size of the solids and the size of the openings in the sieve. The
+following mixtures can be separated by sieving:
+
+i. Mixture of sand and beans
+
+ii. Mixture of sand and stone
+
+iii. Mixture of soya-beans and stone.
+
+ 122
+
+ Fig 11.15 A sieve
+
+11.16 Criteria For Purity:
+
+After the separation of mixture, one may wish to know if the separated substances are actually
+pure. To find this out, one has to determine some physical constants of the separated substances
+like
+
+i. Melting points of solids
+
+ii. Boiling points of liquids
+
+iii. Refractive index or the relative density of both solids and liquids.
+
+After finding these out, he has to compare the results with scientifically determined values. If
+any of the constants determined is the same with scientifically determined value, the substance is
+pure but if any of the constants determined differs from the established value, then the substance
+is not pure.
+
+Exercises:
+
+1. Write out ten physical methods of separating mixture.
+
+2. What are the industrial application of filtration as a separation technique?
+
+3. What are the main difference between the following Separation techniques?
+
+ i. Crystallization and fractional crystallization.
+
+ ii. Distillation and fractional distillation
+
+4. Define these terms:
+
+ i. Sublimation
+
+ ii. Evaporation
+
+ iii. Precipitation
+
+ 123
+
+5. Briefly describe how a complex mixture of black ink can be separated in your school
+ chemistry laboratory.
+
+ 124
+
+=== SOURCE: Okoye ch.9 (mixtures, pure and impure substances) ===
+CHAPTER 9
+
+ NATURE OF MATTER
+
+Matter is anything that has mass and occupies space. It includes all living things such as plants
+and animals, and non-living things like stone, wood, water, air, sand, shoe, sodium chloride etc.
+it can be an atom, element, mixture or compound.
+
+9.1 States of Matter: There are three states of matter. These are solid, liquid and gaseous states.
+
+ Fig. 9.1
+
+The particles of matter in solid state are held together by some cohesive forces. The particles
+exhibit vibrational motion. Solid has a definite shape. The particles of matter in the liquid state
+are held together by cohesive forces less than that in the solid states. Liquids assume the shape of
+the containing vessels. They can flow. The particles of matter in the gaseous state are usually in
+rapid random motion. Gases occupy any available space because of these types of movement
+they exhibit. They can be compressed. Some substances can exist as solid, liquid and gas at
+various temperatures. For example, water can exist as solid at a very low temperature, it can exist
+as liquid at ordinary temperature and as a gas (vapour) at a temperature of 100oC or 373oK and
+pressure of one atmosphere. Some substances can exist in only one state. An example of this is
+stone. There are other substances that can exist in two states. For example iodine or ammonium
+chloride exists in solid state at ordinary temperature but when heated changes directly into the
+gaseous state. For such substance (sublimates), the vapour pressure of the solid becomes equal to
+an atmospheric pressure before its melting point is attained. Matter can change from one form to
+another by either evaporation or sublimation.
+
+Evaporation:
+
+This involves the heating of a liquid (e.g water) so that the liquid changes to gaseous state. The
+difference between evaporation and boiling are as follows.
+
+ 93
+
+Sublimation:
+
+This is a process by which substances change directly from solid state to gaseous state (when
+heated) without passing through the intermediate liquid state. The substances are said to sublime.
+Examples of substances that sublime are iodine, ammonium chloride, naphthalene, camphor,
+menthol etc.
+
+9.2 Kinetic Theory of Matter
+
+Kinetic theory is the theory which deals with the way in which the arrangement of the particles
+of a substance determine the properties of the substance and in particular the state in which the
+substance is likely to be found under given conditions.
+
+Solid
+
+In solid, the particles or atoms are closely packed. The force that binds the molecules of the solid
+together is very strong. The molecules or particles in solid have no freedom of movement.
+However, they show or exhibit vibrational motion about their mean position. Solids have definite
+shape and volume. Solid has high density. When a solid melts, there is usually little change in
+volume.
+
+Liquid
+
+In liquid, particles are relatively spaced out. The force that binds the particles or molecules
+together is not as strong as the force experienced by particles in the solid state. So the molecules,
+particles or ions have little freedom of movement. The molecules could move very short
+distance. The liquid have definite volume but no definite shape. The liquid boils at a temperature
+when the vapor pressure of the liquid is equal to the atmospheric pressure. On changing to gas,
+there is a large change in volume.
+
+ 94
+
+Gas
+
+kIn gases, the particles, or molecules are widely spaced out. The force that matter binds the
+molecules of the matter together is very weak. The molecules have greater freedom of
+movement.
+
+They could move about freely in space. Gases have no definite shape and volume. Gas molecules
+move about randomly, colliding with one another and the walls of the container. (Read chapter
+2).
+
+9.3 Assumption of Kinetic Theory about a Perfect Gas or An Ideal Gas:
+
+1. The gas molecules move in straight line at great speed colliding with each other and with the
+ walls of the container.
+
+2. The actual volume occupied by the gas is negligible compared with the volume of its
+ container.
+
+3. The forces of attraction and repulsion between the gas molecules is negligible.
+
+4. The average kinetic energy of the gas molecules measures (or is proportional to) the
+ temperature of the gas.
+
+5. The collision between the gas molecules is perfectly elastic.
+
+9.4 Phenomena that Support the Kinetic Theory of Matter
+
+The phenomena that support the kinetic theory of matter are:
+
+1. Diffusion
+
+2. Osmosis
+
+3. Dialysis
+
+4. Brownian movement
+
+1. Diffusion: is the movement of a fluid (gas or liquid) from a region of higher concentration to
+ a region of lower concentration.
+
+2. Osmosis: is the passage of solvent molecules from area of lower concentration to that of
+ higher concentration through a semi-permeable membrane.
+
+3. Dialysis: is the separation of crystalloids from colloidal particles using semi-permeable
+ membrane. Crystalloid is anything that is soluble in water.
+
+ 95
+
+4. Brownian: the random motion of small particles suspended in a liquid or gas is called
+ Brownian motion. The particles of matter are in constant motion.
+
+This constant and zig-zag movement of particles can be observed when:
+
+I. A piece of sulphur suspended in water is viewed under a microscope or
+
+ii. A pollen grain suspended in a drop of water is observed under a microscope.
+
+Brownian movement or the random movement of particles decreases from gases to liquids to
+solids.
+
+The above listed four phenomena explains:
+
+a. The evidence of the movement of particles in liquid and gases.
+
+b. The evidence of the existence of particles.
+
+9.5 Changes in Matter:
+
+Two types of changes undergone by matter are physical and chemical changes.
+
+Physical Changes:
+
+This is the type of change that results in the formation of no new substance. Examples of
+physical change are:
+
+1. All cases of the melting of a solid to a liquid (or the reverse).
+
+2. All cases of vaporization of a liquid (or the reverse).
+
+3. Magnetization of iron
+
+4. The heating of a metal wire by electricity.
+
+Chemical Change:
+
+This is the type of change that results in the formation of new substance. Examples of chemical
+change are:
+
+1. The burning of any substance in air.
+
+2. The rusting of iron
+
+3. The addition of water to calcium oxide
+
+4. Explosion of natural gas or hydrogen in air.
+
+ 96
+
+9.6 Classification of Matter:
+
+Matter can be classified into element, compound and mixture.
+
+Element:
+
+An element is a substance which cannot be split up into two or more simpler substances by any
+known chemical process. Examples of element are: oxygen, hydrogen, carbon, sodium,
+potassium, calcium, nitrogen, chlorine, silicon, aluminum etc.
+
+Compound:
+
+A compound is a substance which contains two or more elements chemically combined
+together. Examples of compounds and the elements that make them up are:
+
+ 97
+
+Mixture: A mixture is anything which contains two or more substances physically combined
+together. Or it can be defined as a physical combination of two or more substances. Examples of
+mixture are; a mixture of sand and stone, a solution of common salt in water (brine). Other
+examples of mixture and their constituents are;
+
+Differences Between Mixtures and Compounds are Summarized in The Table Below:
+
+ 98
+
+9.7 Classification of Element:
+
+Element has already been defined above. It can be classified or divided into metal and non-metal.
+
+Metal:
+
+A metal is an element which can ionize by electron loss. The number of electrons lost per atom is
+equal to the valency of the metal and the ion formed carries an equal number of positive charges
+as shown below;
+
+ Na e- Na+
+
+ Ca 2e- Ca2+
+
+ Al 3e- Al3+
+
+Some examples of metals are sodium, magnesium, iron, gold, silver, mercury. Mercury is a
+liquid metal.
+
+Non-metal:
+
+A non-metal is an element, which can ionize by electron gain. This means that non-metals are
+electronegative. The number of electrons gained per atom is the valency of the non-metal. The
+ion formed carries an equal number of negative charges, as shown below.
+
+ ½ Cl2 + e- Cl-
+
+ ½ Br2 + e- Br-
+
+ ½ O2 + 2e- O2-
+
+ S + 2e- S2-
+
+ 99
+
+9.9 Comparison of Chemical Properties of Metal and Non-metals.
+
+ 100
+
+Exercises
+
+1. a. What is matter?
+
+ b. Write three examples of matter.
+
+ c. What are the three states of matter?
+
+2. What do you understand by these terms?k
+
+ a. Evaporation b. Sublimation
+
+ c. Name three substances that can sublime.
+
+3. What do you understand by:
+
+ (a) Kinetic theory (b) Brownian motion?
+
+4. Write two differences between:
+
+ (a) Solid and liquid (b) Liquid and Gas
+
+5. What are the five assumptions of kinetic theory about an ideal gas?
+
+6. Write down the four phenomena that support the kinetic theory of matter.
+
+7. Define these terms and give an example of each
+
+ a. Physical change b. chemical change
+
+ c. What are the differences between physical and chemical changes?
+
+8. Define and give two examples of each of these terms.
+
+ a. element b. compound c. Mixture
+
+9. Write three differences in chemical properties between metal and non-metal.
+
+ 101

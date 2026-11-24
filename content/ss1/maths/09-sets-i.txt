@@ -1,0 +1,699 @@
+TOPIC: Sets I
+WEEKS: 9
+TEACHER'S SCHEME: Definition of sets; notation; listing; set builder; types of sets (universal, empty, finite, infinite)
+
+=== SOURCE: NGM ch.5 ===
+npty or null set, finite,
+
+liagrams to illustrate sets
+the number of elements
+
+nd intersection of sets.
+
+Teaching and learning materials
+
+Teacher: Sets of available objects (as in
+
+Figs. 5.1, 5.5, 5.6); also chalkboard
+instruments, furniture, books, clothes; loops of
+
+String to make Venn diagrams; charts showing
+Venn diagrams.
+Student: Mathematical sets.
+
+‘ Set is a collection of well-defined objects.
+members of a set may have something
+on. such as the set of mathematical
+ents in Fig. 5.1. Each member of this set
+used for drawing and measuring shapes.
+
+a
+
+Alternatively, there may be no obvious
+connection between the members of a set.
+Fig. 5.2 shows a set whose members do not
+appear to have anything in common.
+
+Fig. 5.2
+
+A set can be described, or defined, in two
+ways: either by making a list of its members, or
+by describing the property or rule that connects
+its members. For example, if M is the set shown
+in Fig. 5.1, then, by listing its members,
+
+M = {60° set square, 45° set square,
+
+protractor, ruler, compasses, dividers}
+or, by using the defining property,
+
+M = {mathematical instruments}
+
+We use capital letters to stand for the set and
+the curly brackets to contain the set. Read
+
+M = {mathematical instruments} as *M is the
+set of mathematical instruments’. If X is the set
+shown in Fig. 5.2, then. by listing its members,
+
+X = (cow, 2, cooking pot}
+
+Another way of representing a set is to show its
+members within a boundary as in Fig. 5.3.
+
+M
+
+45°set square
+60°set square protractor
+ruler dividers
+
+© {liquids}
+d {things normally found on a bus}
+
+® Give a common defining property for each —
+of the following sets. There may be more
+than one correct answer in each case.
+a {tractor. cow}
+b {petrol, passenger. peace}
+¢ {engine, wheel, tractor]
+
+d {peace}
+
+Write down three members of each of the
+
+following sets.
+
+a {students in your class whose names
+contain the letter I}
+
+b {records in the Top 20}
+
+c¢ {even numbers}
+
+d {school prefects}
+
+e {things on the teacher's desk}
+
+Which of the following sets are not well
+defined?
+
+a {tall people in Nigeria}
+
+b {old teachers in your school}
+
+¢ {members of the Maths Club in your
+school}
+
+there is more than d {lazy students in your class}
+
+Notice the following.
+1 There is a comma between one element and
+the next.
+
+2 When it is impracticable or impossible to
+write down all the elements, use three dots, ...,
+to show that some are left out. The dots stand
+for ‘and so on’.
+
+The following symbols show whether or not
+elements belong to a set.
+€ meaning ‘is an element of’ or ‘belongs to’
+¢ meaning ‘is not an element of? or
+‘does not belong to’.
+
+For example, in Figs. 5.1 and 5.2:
+protractor € {mathematical instruments}
+and cooking pot ¢ {mathematical instruments}
+
+are short for ‘a protractor is an element of the
+set of mathematical instruments’ and ‘a cooking
+pot does not belong to the set of mathematical
+instruments’ respectively.
+
+short for the number of elements in set A.
+
+Two sets are equal if they contain the same
+elements.
+
+bO=(dac, af Aibait
+¢ R= (first four letters of the ae
+
+a P contains the same elements as S with
+elements a and d repeated.
+Hence P = §S, since any element which is
+repeated is counted once only.
+
+b e€Qbute ZS,
+hence Q # S (# means ‘is not equal to’).
+
+c R = ffirst four letters of alphabet}
+= {a, b, c, d}
+Hence R = §, since the elements of R are
+simply a rearrangement of those of S. The
+order of the elements is not important.
+
+Exercise 5b
+
+G) List the elements of the following sets, using
+three dots, ..., if necessary.
+a {letters of the alphabet}
+b {odd numbers less than 30}
+c {all the even numbers}
+d {months in a year}
+
+Q) Write down the next three members of the
+
+following sets.
+as{3.711 15.32)
+b {2, 4,8, 16, ...}
+C7, 14 21 28 ray
+d {10, 21, 32, 43, ...}
+e {1,4,9, 16, ...]
+
+(3) Make each of the following statements true
+
+by writing € or ¢ in place of the *.
+a 15 * (3, 6, 9, 12, 15, 18, . ih
+Nhlag ia eb 7,8, 9} ‘
+
+, se 5b contains more examples of infinite s
+Exercise 5c (Oral)
+Decide whether each of the following is an
+empty set or an infinite set.
+
+@ {animals bigger than elephants in Nigeria}
+@) {numbers which are divisible by 4}
+
+@) {numbers divisible by 4 which are not
+divisible by 2}
+
+(4) {teachers with two heads}
+
+{odd numbers greater than 7 but less than 9}
+{fractions between 0 and 1}
+
+: 1
+{fractions less than a}
+
+ORORORS)
+
+{cows that can fly}
+
+t, 3, 6, 1, 4, 5}, n(X) =
+
+°)
+
+Be {whole numbers divisible by 1}
+12, 13, 14, 15, ..., 26}, n(L) = ‘
+( 3, 6, 9, .. 21} oe. i @® {trees with ¥100 notes instead of leaves}
+
+3) ¢
+
+-travece =D
+
+Fig. 5.6 shows a bowl containing a mango, a
+banana, an orange.
+
+ b n(A) = (8)
+d n(A) = nD)
+
+If a student can choose an fruit she likes fram
+the bow, she may pick any of the following ots:
+{mango}, {banana}, {orange},
+
+a, orange} > {mango, banana}
+means ‘contains’.
+original given set is often called the
+set. The universal set contains all the
+_ elements that are used in a given problem. There
+are two common symbols for the universal set,
+$% for entity and U for universe. Consider the
+universal set 6 = {mango, banana, orange}:
+If A = {mango, banana}, then A c % and
+SDA.
+
+Since {pawpaw} is not a subset of the given
+universal set, we can write {pawpaw} ¢ $, where
+¢ means ‘is not a subset of’.
+
+The relationship between subsets and universal
+sets can be shown in a Venn diagram (Fig. 5.7).
+
+g A:
+mango
+banana
+
+orange
+
+Fig. 5.7
+
+In Fig. 5.7, the loop labelled @ contains all the
+elements of the universal set. It also contains the
+A.
+
+Exercise 5d
+
+@) Write down all the subsets of the following
+sets.
+
+a {knife,fork,spoon} b
+
+(2) Given A = {a, b}.
+a Which of the sets @, {a}, {a, b}, {a, c}, {a, b, c}
+are subsets of A?
+b How many subsets does A have?
+
+{2, 3, 4}
+
+(3) IfU = {earth, air, fire, water} write down all
+the subsets of U.
+
+(4) a Copy and complete Table 5.1.
+
+number of ul
+elements in a set | s
+
+Table 5.1
+b Hence guess the number of subsets of set
+Z if n(Z) = 5.
+
+©) If = {mango, banana, orange} which of the
+following statements is (are) correct? —
+
+a {banana} c b banana C ‘
+
+c {banana} € @
+
+B= {odd numbers}.
+> Write down those elements which are
+members of both A and B.
+
+© fU= {days of the week} and T = {days
+beginning with T}, draw a Venn diagram
+_ showing the elements of U and T.
+
+= Given @ = (1, 2, 3, ..., 9, 10}, N = {even
+he numbers}, F © fominbers divisible by 5},
+: __ G = {numbers greater than 3}.
+
+a Write down the following statement using
+
+symbols:
+. 5 and 10 are both greater than 3.
+b Ifais a number such that a € N,a € F,
+ @€ Sanda G, what is a?
+e Ifbisa number such that b € N and
+b ¢G, what is the value of b?
+_d Draw a Venn diagram showing @, N, F
+and G.
+
+) and intersection
+
+eee cee ® shied vet which
+all the elements of the first two. For
+
+{1, 2, 3} and B = {2, 3, 4, 5, 6),
+f A and B is a third set C, where
+
+a Beenie mines 4 ~ {numbers less than 6},
+
+In symbols A 1 B = D
+means ‘A intersects with B to give D’.
+Notice that AN B = BNA.
+
+Union and intersection can be represented on
+Venn diagrams (Fig. 5.10).
+a AUB={1,2,3,4,5; 6}
+
+b ANB= {2,3}
+
+Fig. 5.10
+
+In Fig. 5.10, the shaded region represents the
+union of A and B. In Fig. 5.10b the shaded
+region represents the intersection of A and B.
+
+Example 6
+
+Write down the union and intersection of the
+following pairs of sets. Represent the results on
+a Venn diagram.
+
+= (Friday, Saturday, Sunday},
+
+= {Sunday, Monday}
+
+= {r, e, l, a}, Y = {t, i, 0, n}
+
+@ PUQ = [Friday, Saturday, Sunday, Moat
+P/N Q = {Sunday}
+
+In Example 6b, XY = @. Two sets are
+
+uit, orange, pear} and
+it, pear, apple, pawpaw} write
+sCUDandCnD.
+
+What is the union of (January, February,
+
+_ March} and {April, May, June}? What is
+their intersection? Represent the two sets on
+a Venn diagram.
+
+@) Name the intersection of the set of all
+
+capital cities in Africa and the set of all cities
+
+in Nigeria.
+
+©) Fig. 5.13 is a Venn diagram representing a
+universal set € and the subsets A and B.
+
+Fig. 5.13
+
+List the elements of the following sets.
+AUB b ANB
+@nB d AUS
+
+of the following pairs of sets are
+
+umber) {odd numbers
+
+@
+
+e BNT |
+
+Let U = {1, 2, 3, 4, ..., 10}
+A = {odd numbers up to 9}
+= {numbers less than 7}
+Write out the members of the following.
+a AUB b ANB
+c AUW d ANU
+e UNB f UUB
+
+The members of a debating team form a
+universal set 6, where € = {Ade, Baba,
+Daudu, Grace, Mariamu, Muhammad, Rose,
+Sola, Sugura, Tayo}.
+If A = {students whose names end in a}
+
+= {students with 4-lettered names}
+
+= {students whose names begin with S}
+
+list the following sets:
+
+a AUB b AUC
+
+¢ BUC d AUG
+
+e BUS f CUZ
+
+g ANB h BNC
+
+i ANC j ANS
+
+k BN€S 1 CNS
+Given that UW = {a, b, c, d, e, f} and
+
+= {a, b,c, d}, Y = {c, d, e} and
+
+= {b, d, f}, list the following sets. Where
+brackets are given, do the parts inside the
+brackets first.
+
+a XUY b XUZ
+oc YUZ d Sy
+exXnZ t.¥ f)7,
+g XUU he Ak wy
+i ZU j Unx
+k YNUW 1 UnZz :
+mXUX TY OY
+o ZUS
+
+acwunuz +
+
+=== SOURCE: NGM ch.8.1-8.3 ===
+Sets (2)
+Practical applications
+
+OBJECTIVES + AM Bis the intersection of sets A and B, i.e.
+the set whose elements are members of both
+A and B.
+
+{ Recall and use set notation and language ANB = [re]
+A UBis the union of sets A and B, i.e. the
+
+2 Identify the complement of a set
+3 Write and interpret sets of values using set whose elements are members of A or
+set-builder notation or both A and B.
+4 Use universal sets, complements and AUB = {£r,a,m,, u,}}
+disjoint sets to solve practical problems Notice that although r and e are elements
+5 Use Venn diagrams, with up to three of both A and B, there is no need to write
+them down twice.
+
+intersecting sets, to solve practical ‘ :
+n(A UB) is the number of elements in the
+
+By the end of this chapter you should be
+able to:
+
+problems.
+set AUB.
+n(A UB) =7
+| T 2
+ae ng ; Table 8.1 contains some of the symbols and
+Teacher: Loops of string to make Venn language of sets that appeared in Chapter 5.
+| diagrams; charts showing Venn diagrams.
+i Tay symbols meaning
+P = {a, b,c, d} P is the set a, b,c, d
+Q = {1,2,3,...} _... means ‘and so on’
+@ or {} the empty set
+Example 1 €or U the universal set
+Given € = {f,0,r, m,u, |, a, e},A = (£1,a,m, e} € is a member of
+and B = fr, u, 1, el, ¢ is not a member of
+: ing A, B and &; Cc is a subset of
+# draw a Venn diagram showing ¢ is not a subset of
+© list the elements of A.1 B; =) contains
+PUQ union of P and QO
+© find n(A UB).
+( ) PnNQ intersection of P and Q
+« Fig. 8.1 is the required Venn diagram. n(S) number of elements in S
+Table 8.1
+Exercise 8a (Revision)
+
+G) Make each of the following true by writing
+either € or ¢ in place of the *.
+a 9* (2, 4,6, 8, 10}
+b 15 * (3,6,9,...,24}
+c 44 * (5, 10, 15, 20, ...}
+di sRS, [a,b ¢. din p2)
+
+a
+j
+;
+.
+:
+1
+
+b {toes on your feet}
+d {months in a year}
+f {11,12,13,....22}
+
+_@ Give three examples of an empty set.
+SN Gitile exacaptes of an infinite sct.
+
+© Write down all the subsets of the following.
+
+a {3,4,5} b {x,y}
+¢ {0,2} d {£o,u,r}
+
+© Write down the following using symbols.
+a 2 and 6 are a subset of the factors of 18
+b {trees} is not a subset of {metal objects}
+© {vehicles} contains {buses}
+
+d children are members of the human race
+
+@® If€ = {months of the year}, F = {first eight
+months of the year}, Y = {months ending
+in y}, draw a Venn diagram to show the
+relationship between F, Y and €.
+
+® Which of the following pairs of sets are
+disjoint? If the sets are not disjoint, write
+down two members of the intersection.
+a {prime factors of 24}, {prime factors of 55}
+b {multiples of 5}, {multiples of 7}
+¢ {Zimbabwe, Zaria, Zambia}, {countries of
+
+Africa}
+_ di {letters of bull}, {letters of cow}
+
+8.2 Complement of a set
+
+In Fig. 8.2, A is a subset of the universal set ¢,
+ie AC.
+
+Fig. 8.2
+
+The complement of A is the set which contains
+all those elements of € which are not members
+of A. A’ is short for the complement of A.
+In Fig. 8.2 the shaded region represents A’.
+
+Example 2
+
+If = (1,2, 3,4,5},A = {1,3} and B = [3,4]
+
+find
+
+a A’, BBY, c(ANB)’, d(AUBY.
+
+a A’ = (2,4,5}
+
+b B’ = {1,2,5}
+
+© ANB={3} :
+(ANB)’ = {1,2,4,5}
+
+d AUB={1,3,4}
+(A UB)’ = {2,5}
+
+® Given = {1, 2, 3,4, 6,8}, write down the
+complements of the following sets.
+a {1,2,3} b {46,8}
+ce {2,4} d {1,3,6,8}
+e {6} f {1,2,3,4,6}
+i) hs
+
+{1, 2, 3, 6} U {1, 2, 8}
+
+i (1,2,3, 6} m {1,2, 8}
+
+@ If = {a,b,c,d,e}, A = {a.c.e} and B = {b, e},
+list the members of the following sets.
+a A’ b B’ c A'UB
+d AUB’ ec A'NB_ f ANB’
+gA’'UA hB'NB_ i (AUB)
+j A’UB’ kk (ANB)' | A'NB'
+
+® Compare the answers to parts i and ! of
+_ question 2. What do you notice?
+
+the answers to parts j and k of
+
+= {days which
+{days which
+
+©® If% = {days of the week}, S
+contain the letter s} and N =
+contain six letters}
+
+a list the members of the sets S,N,S’,N’,
+
+b list the members of the set
+i(SUN)’, ii (SNN)',
+
+© hence, without further working, list the
+members of the sets i S’'N N’, ii S’ UN’.
+
+©) Use a Venn diagram to show that if A C B
+then B' c A’ , and vice versa.
+
+If U = {all teachers}, M = {mathematics
+teachers} and W = {teachers who are
+women}, show on a Venn diagram the set of
+all mathematics teachers who are men.
+
+8.3 Set-builder notation
+
+A = {integer x : x < 4} is short for ‘A is the set
+of integers, x, such that x is less than 4’. This is an
+example of set-builder notation. In set-builder
+notation, the colon (:) stands for ‘such that’. If
+set-builder notation is expressed properly, it is
+always possible to list the elements of the given
+set. For example, in this case
+
+A = {...,-2, -1,0, 1,2, 3}
+Notice that the elements of A are restricted to
+integral or whole-number values. The letter Z,
+sometimes written Z, is often reserved for the set
+of integers:
+
+= (55, =3, —2, -1, 0,41, +2¢3;503}
+Hence set A can be rewritten
+=(x:x<4,xeEZ}
+
+i.e. ‘A is the set of values of x such that x is less
+than 4, where x is an integer’.
+
+If, however, the elements of A are restricted to
+natural numbers, i.e. positive whole-numbers, then
+
+A = {1,2,3}
+The letter N, sometimes written N, is often
+reserved for the set of natural numbers:
+N= (Il, 2,3,.:.}or N= {1, “es -}
+
+Exercise 8c
+
+G) List the elements of the following sets,
+a@ (t:ris a subject on your timetable}
+b {f:fis a factor of both 24 and 30}
+© {p:p isa prime factor of 42}
+
+greater than d {integer x :x > 8}
+
+s greater than or equal to e {integer y: y < ~5}
+~ Sis less than # {x23 <2<5,xEN}
+_ <is less than or equal to
+
+g {x:3<x<5,x EN}
+h {x:-2<x<—1,x€ Z}
+
+{x:x = —2} (2) If $ = {positive integers}, list the members
+nip ; of the following sets.
+
+aie Note: 0 (zero) is neither positive nor
+4} = {..., -3, -2, -1, 0, 1, 2, 3} negative.
+
+ered 2, —1,0,1,2,3,4,...} a {x:x>7} b {xix > =—3}
+
+E 4) 0 {x :x > —2} = (—2, -1,0,1,2, 3} c {x:x<-—-1) | {xix < 10}
+Notice, in Example 5, that the expression e@ [x:x—3 = 0) {xix +3=9)
+{x:x <4} {x : x > —2} can be shortened to g {x:x+2=0} h {x:2x = 7}
+
+{x:-2 <x <4}, ie. ‘the set of values, x, such
+that x is greater than or equal to —2 and less
+than 4’. The expression -2 <x <4 isa range of
+values of x.
+
+(©) Assuming that x is an integer, state the
+lowest and highest values of x for each of
+the following ranges.
+
+a —-2=<7<5 b -8<x<9
+
+ers of the set |y:1<y <6,y EN} c -Si<x=0 d2sx<10
+. 3 J e4<x<6 f -8<x<-1
+y EN) = (2,3, 4,5, 6} GQ -Tx < 1 h —Si<x <1} |
+
+@) Using the inequality symbol <, write the
+following in set-builder notation.
+
+@ (0,1, 2,3} b {-1,0,1)
+
+© {-3,-2,-1,0} d (-9,-8,...,3,4}
+
+© {9,10} f {-8,-7,...,-1]
+® Ix €%U and % = (1,2, 3, ..., 10}, list the
+
+members of the following subsets of 4U.
+
+a (x:xis
+
+an odd
+
+numer

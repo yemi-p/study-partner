@@ -1,0 +1,507 @@
+TOPIC: Gas laws, the mole and molar volume
+WEEKS: later
+TEACHER'S SCHEME: (not yet scheduled)
+
+=== SOURCE: Okoye ch.10 ===
+CHAPTER 10
+
+ THE GAS LAWS
+
+10.1 Boyle's Law:
+
+Boyles law state that the volume of a given mass of gas is inversely proportional to its pressure at
+constant temperature. This can be expressed mathematically as:
+
+V
+
+V=
+
+PV = K
+
+(P1V1 = P2V2) Boyle's law
+
+If P1,V1 are the initial pressure and volume, and P2,V2 are the final pressure and volume, then it
+can be shown that:
+
+P1 = P2
+
+We measure volume in cm3. We measure pressure in mmHg. In Boyle's law, each time the
+pressure on the same amount of gas is increased, the gas decreases proportionally in volume, and
+vice versa. This general behaviour was observed by Robert Boyle's, and English scientist. Hence,
+the formulated law was named after him.
+
+ Fig. 10.1 Boyle‟s can be represented graphically as:
+
+ 102
+
+Boyle's can be represented graphically as:
+
+ Fig 10.2
+
+Question
+
+1000cm3 of a gas have a pressure of 350 mm Hg. Calculate the volume at 700 mm Hg
+
+Solution
+
+P1V1 = P2V2
+P1V1 = V2
+350 x 1000 = V2
+700 = V2 = 500cm3
+
+10.2 Charle's Law:
+
+Charle's law states that the volume of a give mass of gas is directly proportional to its absolute
+temperature (Kelvin temperature) at constant pressure. It means that when temperature is
+increasing, the volume is increasing.
+
+Mathematically, it can be expressed as:
+
+V αT
+V = KT
+V = K (constant)
+T
+
+If V1, T1 are the initial volume and temperature of a given mass of gas and V2 , T2 are the final
+volume and temperature of the same mass of gas, then
+
+ V1 V2 ____ Charle's law
+ T1 T2 = 323K
+
+ 103
+
+Charle's law can be represented graphically as:
+
+ Fig. 10.3 Graphical representation of Charle's law
+
+10.3 Conversion of Celsius Temperature 0c to Kelvin (absolute) Temperature
+
+ Fig. 10.4
+
+To convert Celsius scale to absolute temperature, we add 273 to it. To convert Kelvin
+temperature to Celsius scale, we subtract 273.
+
+Example 1
+
+Convert 50oC to absolute temperature.
+
+TK = 273 + 50oC
+
+Example 2
+
+Convert 292K to Celsius temperature.
+o
+C = 292 - 273
+
+Example 3
+
+ 104
+
+At 17oC, a sample of hydrogen gas occupies 125cm3, calculate its volume at 100oC.
+
+V1 V2 V1 = 125cm3
+T1 = T2 V2 = ?
+ T1 = 17oC = (17+273) = 290
+V2 = V1T2 T2 = 100oC = (100+273) K
+ T1
+
+V2 = 125 x 373 = 46625 = 161cm3
+ 290 290
+
+10.4 Pressure‟s Law
+
+Pressure's law states that the pressure of a given mass of gas is directly proportional to its
+absolute temperature at constant volume.
+
+This law can be represented mathematically as:
+
+P T at constant volume
+
+P = KT
+
+P = K (Constant)
+T
+
+For a gas with P1 and T1 as its initial pressure and temperature and P2 and T2 as its final pressure
+and temperature, we have that at constant volume.
+
+P1 α P2
+T1 T2
+
+10.5 General Gas Law
+ A B C
+
+ P1 P2 P2
+ Te m p e ra tu re P re s s u re V2
+ V1 Vx
+ c o n s ta n t c o n s ta n t
+ T1 T1 T2
+
+ Fig 10.5
+
+The relationship between pressure, volume, absolute temperature and the number of moles of gas
+constitute the general gas law. It is expressed mathematically as:
+
+PxV= nxRxT
+
+Or PV = nRT
+
+ 105
+
+Where P is the pressure, V = Volume, n = number of moles of gas, R = universal gas constant
+and T = absolute temperature. From the above equation, nR is constant
+
+Therefore, PV = a constant
+ T
+
+The combination of Boyle's and Charle's law gives a single mathematical expression called an
+ideal gas equation i.e.
+
+T1 = Initial temperature
+
+P2 = Final pressure
+
+V2 = Final volume
+
+T2 = Final temperature
+
+P α 1 (Temperature constant)
+ V
+
+PV = a constant
+
+Therefore P1V1 = P2V2
+
+Charle's law say that: V α T (pressure constant)
+
+V a constant
+T
+
+Therefore V1 V2
+ T1 T2
+
+For a given mass of gas to change from P1V1T1 to P2V2T2, it has to undergo an intermediate
+stage P2VXT1 (See Fig 16.1). This means that the gas can obey both Boyle's and Charle's law to
+enable us formulate an ideal gas equation.
+
+For the given mass of gas to change from A to B (Fig 16.1), Boyle's law is obeyed. The
+temperature is constant.
+
+Therefore: P1V1 = P2VX
+
+Hence VX = P1VI -------- (1)
+
+For the same gas to change from B to C, Charle's law is obeyed. The pressure is constant.
+
+Therefore: VX = V2
+ T2 T2
+
+ 106
+
+Hence, VX = T1V2 ------- (2)
+ T2
+
+Since, VX = P1V1 = T1V2
+ P2 T2
+
+P1V1 = P2V2 ------- (3)
+ T1 T2
+
+Question 1
+
+A gas occupied a volume of 500cm3 at 17oC and 870 mm Hg. Calculate the volume of the gas at
+10oC and 750 mm Hg.
+
+Solution
+
+P1 = 870 mm Hg
+V1 = 500cm3
+T1 = 17oC (17+273) = 290K
+P2 = 750 mm Hg
+V2 = ?
+T2 = 10oC (10+273) = 283K
+
+P1V1 = P2V2
+ T1 T2
+
+P1V1T2 = P2V2T1
+
+V2 = P1V1T2
+
+V2 = 870 x 500 x 283 = 246210
+ 750 x 290 435
+
+ = 566cm3
+
+S.T.P means standard temperature and pressure.
+
+Standard pressure = 760mm Hg or 1 atmosphere or Nm (Newton metre)
+
+Standard temperature = 0oC or 273K
+
+10.6 Daltons Law of Partial Pressure
+
+The law states that in a mixture of gases which do not react chemically, the total pressure exerted
+by the mixture is the sum of partial pressures of the individual gasses that make up the mixture.
+
+ 107
+
+PT = PA + PB + PC
+
+PT = Total pressure of the mixture
+
+PA, PB, and PC = Pressure of gases A, B and C that make up the mixture.
+
+A gas is likely to be saturated with water vapour if it is collected over water and the total
+pressure becomes.
+
+PT - P gas + P water vapour
+
+The correct pressure of the dry gas is obtained by subtracting the vapour pressure from the total
+pressure.
+
+10.7 Gaylussac's Law of Combining Volume
+
+The law state that when gases react, they do so in volumes which bear simple ratio relationship
+to one another and to the product if gaseous at constant temperature and pressure.
+
+Gay-lussac's law was explained by Avagadro's hypothesis.
+
+Example
+
+ N2 + 3H2 → 2NH3
+ 1 3 2
+
+So the volume ratio is 1:3:2
+
+10.8 Avagadro's Law
+
+The law states that equal volumes of all gases at the same temperature and pressure contain the
+same number of molecules.
+
+It explains then 10cm3 of N2
+
+ 10cm3 of O2
+
+ and 10cm3 of H2
+
+Must all contain the same number of molecules at the same temperature and pressure.
+
+10.9 Mole and Molar Volume
+
+1 mole is the atomic mass or molecular mass of a substance expressed in grammes. The unit for
+the mole is the gram. The molar mass of oxygen molecules is obtained thus:
+
+ O+O → O2
+ 16+ 16 = 32
+
+ 108
+
+Therefore one mole of oxygen gas weighs 32g.
+
+One mole of Hydrogen, H2 weighs
+
+ H+H → H2
+ 1.008 + 1.008 = 2.016g
+
+One mole of sodium atom, Na weighs 23g
+One mole of oxygen atom weighs 16g
+The number of particles in one mole of a substance is 6.02 x 1023
+This number is called Avogadro's number or constant.
+
+Question 2:
+
+How many moles are there in 54g of Aluminum (Al = 27)3
+
+Solution
+
+27g = 1 mole
+54g = ?
+1 x 54 = 2 moles
+ 27
+
+To convert gram to mole,
+
+We divide the gram by the atomic mass or the molecular mass.
+
+Question 4
+
+Convert 54g of Al to mole (Al = 27)
+
+Solution
+
+542 = 2 = 2 moles
+271 1
+
+Question 5
+
+Convert 250 grammes of CaCO3 to mole (Ca = 4O, C = 12, O = 16)
+
+Solution
+
+CaCO3
+40+12+(16x3)
+40+12+48 =100
+250 = 2.5 moles
+100
+
+ 109
+
+To convert mole to gram
+
+Multiply the mole by the atomic or the molecular mass.
+
+Question 6
+
+Convert 0.5 mole of Al to gram (Al = 27)
+
+Solution
+
+0.5 x 27 = 13.5 = 13. 5g
+
+Molar Volume is the volume occupied by one mole of a gas at S.T.P. and numerical equal to
+22.4 dm3
+
+One mole of these gases (O2, H2, N2, CO2, CO etc) occupy 22.4 dm3 at S.T.P
+
+Question 7
+
+Calculate the volume of carbon (iv) oxide produced at S.T.P when 50g of calcimtrioxocarbonate
+(iv) is completely decomposed by heat.
+
+CaCO3 → CaO + CO2
+40+12+ (16x3)
+4O+12+48
+ 100g 22.4 dm3
+ 50g 22.4 x 50
+ 100
+ = 11.2dm3
+
+Molar volume is the volume occupied by one mole of a gas at S.T.P. and is numerically equal to
+22.4 dm3
+
+One mole of these gases (O2, H2, N2, CO2, CO etc) occupy 22.4 dm3 at S.T.P
+
+Question 7
+
+Calculate the volume of carbon (iv) oxide produced at S.T.P when 50g of
+calciumtrioxocarbonate (iv) is completely decomposed by heat.
+
+CaCO3 → CaO + CO2
+40+12+ (16x3)
+40+12+48
+ 100g 22.4 dm3
+
+ 110
+
+ 50g 22.4 x 50
+ 100 = 11.2dm3
+
+10.10 Graham's Law of Diffusion
+
+State that at constant temperature and pressure, the rate of diffusion of a gas R is inversely
+proportional to the square root of its density, d.
+
+R= 1
+ √
+
+The relative rates at which two gases diffuse are inversely proportion to the square roots of their
+densities or molar masses.
+
+Hence;
+
+ = √ or = √
+
+Where R1 = rate of diffusion of gas 1
+
+ R2 = rate of diffusion of gas 2
+
+ d1 = density of gas 1
+
+ d2 = density of gas 2
+
+ m1 = molar mass of gas 1
+
+ m2 molar mass of gas 2
+
+10.11 Relative Vapour Density:
+
+The vapour density of a gas or vapour is the number of times a given volume of the gas or
+vapour is as heavy as the same volume of hydrogen at a particular temperature and pressure.
+
+The vapour density (V.D) of a gas is expressed as
+
+V.D. = Mass of a given volume of the gas (vapour)
+ Mass of an equal volume of hydrogen
+
+ = Mass of 1 molecule of gas (vapour)
+ Mass of 1 molecule of hydrogen
+
+But 1 molecule of hydrogen contains 2 atoms of hydrogen
+
+V.D = Mass of 1 molecule of gas (vapour)
+ Mass of 2 atoms of hydrogen
+
+ 111
+
+2 x V.D = Mass of 1 molecule of gas (vapour)
+ Mass of 1 atom of hydrogen
+
+But Mass of 1 molecule of gas = Relative molecular mass of gas
+ Mass of 1 atom of hydrogen
+
+Therefore
+
+2 x V.D = Relative molecular mass of gas
+
+So the relationship between the vapour density and the relative molecular mass of gas can be
+expressed as follows:
+
+V.D = ½ Relative Molecular Mass of Gas
+
+i.e. V.D. = ½ RMM
+
+T = 7 x 60 x 6
+ 30 x 4
+t = 21 secs
+
+Exercise
+
+1. State these gas laws and write their mathematical expression
+
+a. Boyle's law b. Charle's law c. Pressure's law
+
+d. Pressure's law
+
+2. Draw graphical representation of:
+
+a. Boyle's law b. Charle's law
+
+3. Convert these Celsius temperature (oC) to Kelvin temperature (K).
+
+a. 150oC (b) -15oC
+
+ At 23oC, a sample of hydrogen gas occupies 125cm3, what will the volume be at 106oC if
+ the pressure remains constant.
+
+4. Briefly explain and show how an ideal gas equation is derived from the combination of
+ Boyle's and Charle's laws.
+
+5. State these laws:
+
+i. Gay-lussac's Law
+
+ 112
+
+ii. Avogadro's law
+
+iii. Graham's law of diffusion
+
+6. Define these
+
+i. Mole (ii) Molar Volume and (iii) Vapour density
+
+7. What is the relationship between the vapour density and the relative molecular mass of a
+ gas.
+
+ 113

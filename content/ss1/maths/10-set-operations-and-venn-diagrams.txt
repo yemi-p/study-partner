@@ -1,0 +1,666 @@
+TOPIC: Set operations and Venn diagrams
+WEEKS: 10
+TEACHER'S SCHEME: Union, intersection, complement, Venn diagrams
+
+=== SOURCE: NGM ch.5.5 ===
+B= {odd numbers}.
+> Write down those elements which are
+members of both A and B.
+
+© fU= {days of the week} and T = {days
+beginning with T}, draw a Venn diagram
+_ showing the elements of U and T.
+
+= Given @ = (1, 2, 3, ..., 9, 10}, N = {even
+he numbers}, F © fominbers divisible by 5},
+: __ G = {numbers greater than 3}.
+
+a Write down the following statement using
+
+symbols:
+. 5 and 10 are both greater than 3.
+b Ifais a number such that a € N,a € F,
+ @€ Sanda G, what is a?
+e Ifbisa number such that b € N and
+b ¢G, what is the value of b?
+_d Draw a Venn diagram showing @, N, F
+and G.
+
+) and intersection
+
+eee cee ® shied vet which
+all the elements of the first two. For
+
+{1, 2, 3} and B = {2, 3, 4, 5, 6),
+f A and B is a third set C, where
+
+a Beenie mines 4 ~ {numbers less than 6},
+
+In symbols A 1 B = D
+means ‘A intersects with B to give D’.
+Notice that AN B = BNA.
+
+Union and intersection can be represented on
+Venn diagrams (Fig. 5.10).
+a AUB={1,2,3,4,5; 6}
+
+b ANB= {2,3}
+
+Fig. 5.10
+
+In Fig. 5.10, the shaded region represents the
+union of A and B. In Fig. 5.10b the shaded
+region represents the intersection of A and B.
+
+Example 6
+
+Write down the union and intersection of the
+following pairs of sets. Represent the results on
+a Venn diagram.
+
+= (Friday, Saturday, Sunday},
+
+= {Sunday, Monday}
+
+= {r, e, l, a}, Y = {t, i, 0, n}
+
+@ PUQ = [Friday, Saturday, Sunday, Moat
+P/N Q = {Sunday}
+
+In Example 6b, XY = @. Two sets are
+
+uit, orange, pear} and
+it, pear, apple, pawpaw} write
+sCUDandCnD.
+
+What is the union of (January, February,
+
+_ March} and {April, May, June}? What is
+their intersection? Represent the two sets on
+a Venn diagram.
+
+@) Name the intersection of the set of all
+
+capital cities in Africa and the set of all cities
+
+in Nigeria.
+
+©) Fig. 5.13 is a Venn diagram representing a
+universal set € and the subsets A and B.
+
+Fig. 5.13
+
+List the elements of the following sets.
+AUB b ANB
+@nB d AUS
+
+of the following pairs of sets are
+
+umber) {odd numbers
+
+@
+
+e BNT |
+
+Let U = {1, 2, 3, 4, ..., 10}
+A = {odd numbers up to 9}
+= {numbers less than 7}
+Write out the members of the following.
+a AUB b ANB
+c AUW d ANU
+e UNB f UUB
+
+The members of a debating team form a
+universal set 6, where € = {Ade, Baba,
+Daudu, Grace, Mariamu, Muhammad, Rose,
+Sola, Sugura, Tayo}.
+If A = {students whose names end in a}
+
+= {students with 4-lettered names}
+
+= {students whose names begin with S}
+
+list the following sets:
+
+a AUB b AUC
+
+¢ BUC d AUG
+
+e BUS f CUZ
+
+g ANB h BNC
+
+i ANC j ANS
+
+k BN€S 1 CNS
+Given that UW = {a, b, c, d, e, f} and
+
+= {a, b,c, d}, Y = {c, d, e} and
+
+= {b, d, f}, list the following sets. Where
+brackets are given, do the parts inside the
+brackets first.
+
+a XUY b XUZ
+oc YUZ d Sy
+exXnZ t.¥ f)7,
+g XUU he Ak wy
+i ZU j Unx
+k YNUW 1 UnZz :
+mXUX TY OY
+o ZUS
+
+acwunuz +
+
+=== SOURCE: NGM ch.8 ===
+Sets (2)
+Practical applications
+
+OBJECTIVES + AM Bis the intersection of sets A and B, i.e.
+the set whose elements are members of both
+A and B.
+
+{ Recall and use set notation and language ANB = [re]
+A UBis the union of sets A and B, i.e. the
+
+2 Identify the complement of a set
+3 Write and interpret sets of values using set whose elements are members of A or
+set-builder notation or both A and B.
+4 Use universal sets, complements and AUB = {£r,a,m,, u,}}
+disjoint sets to solve practical problems Notice that although r and e are elements
+5 Use Venn diagrams, with up to three of both A and B, there is no need to write
+them down twice.
+
+intersecting sets, to solve practical ‘ :
+n(A UB) is the number of elements in the
+
+By the end of this chapter you should be
+able to:
+
+problems.
+set AUB.
+n(A UB) =7
+| T 2
+ae ng ; Table 8.1 contains some of the symbols and
+Teacher: Loops of string to make Venn language of sets that appeared in Chapter 5.
+| diagrams; charts showing Venn diagrams.
+i Tay symbols meaning
+P = {a, b,c, d} P is the set a, b,c, d
+Q = {1,2,3,...} _... means ‘and so on’
+@ or {} the empty set
+Example 1 €or U the universal set
+Given € = {f,0,r, m,u, |, a, e},A = (£1,a,m, e} € is a member of
+and B = fr, u, 1, el, ¢ is not a member of
+: ing A, B and &; Cc is a subset of
+# draw a Venn diagram showing ¢ is not a subset of
+© list the elements of A.1 B; =) contains
+PUQ union of P and QO
+© find n(A UB).
+( ) PnNQ intersection of P and Q
+« Fig. 8.1 is the required Venn diagram. n(S) number of elements in S
+Table 8.1
+Exercise 8a (Revision)
+
+G) Make each of the following true by writing
+either € or ¢ in place of the *.
+a 9* (2, 4,6, 8, 10}
+b 15 * (3,6,9,...,24}
+c 44 * (5, 10, 15, 20, ...}
+di sRS, [a,b ¢. din p2)
+
+a
+j
+;
+.
+:
+1
+
+b {toes on your feet}
+d {months in a year}
+f {11,12,13,....22}
+
+_@ Give three examples of an empty set.
+SN Gitile exacaptes of an infinite sct.
+
+© Write down all the subsets of the following.
+
+a {3,4,5} b {x,y}
+¢ {0,2} d {£o,u,r}
+
+© Write down the following using symbols.
+a 2 and 6 are a subset of the factors of 18
+b {trees} is not a subset of {metal objects}
+© {vehicles} contains {buses}
+
+d children are members of the human race
+
+@® If€ = {months of the year}, F = {first eight
+months of the year}, Y = {months ending
+in y}, draw a Venn diagram to show the
+relationship between F, Y and €.
+
+® Which of the following pairs of sets are
+disjoint? If the sets are not disjoint, write
+down two members of the intersection.
+a {prime factors of 24}, {prime factors of 55}
+b {multiples of 5}, {multiples of 7}
+¢ {Zimbabwe, Zaria, Zambia}, {countries of
+
+Africa}
+_ di {letters of bull}, {letters of cow}
+
+8.2 Complement of a set
+
+In Fig. 8.2, A is a subset of the universal set ¢,
+ie AC.
+
+Fig. 8.2
+
+The complement of A is the set which contains
+all those elements of € which are not members
+of A. A’ is short for the complement of A.
+In Fig. 8.2 the shaded region represents A’.
+
+Example 2
+
+If = (1,2, 3,4,5},A = {1,3} and B = [3,4]
+
+find
+
+a A’, BBY, c(ANB)’, d(AUBY.
+
+a A’ = (2,4,5}
+
+b B’ = {1,2,5}
+
+© ANB={3} :
+(ANB)’ = {1,2,4,5}
+
+d AUB={1,3,4}
+(A UB)’ = {2,5}
+
+® Given = {1, 2, 3,4, 6,8}, write down the
+complements of the following sets.
+a {1,2,3} b {46,8}
+ce {2,4} d {1,3,6,8}
+e {6} f {1,2,3,4,6}
+i) hs
+
+{1, 2, 3, 6} U {1, 2, 8}
+
+i (1,2,3, 6} m {1,2, 8}
+
+@ If = {a,b,c,d,e}, A = {a.c.e} and B = {b, e},
+list the members of the following sets.
+a A’ b B’ c A'UB
+d AUB’ ec A'NB_ f ANB’
+gA’'UA hB'NB_ i (AUB)
+j A’UB’ kk (ANB)' | A'NB'
+
+® Compare the answers to parts i and ! of
+_ question 2. What do you notice?
+
+the answers to parts j and k of
+
+= {days which
+{days which
+
+©® If% = {days of the week}, S
+contain the letter s} and N =
+contain six letters}
+
+a list the members of the sets S,N,S’,N’,
+
+b list the members of the set
+i(SUN)’, ii (SNN)',
+
+© hence, without further working, list the
+members of the sets i S’'N N’, ii S’ UN’.
+
+©) Use a Venn diagram to show that if A C B
+then B' c A’ , and vice versa.
+
+If U = {all teachers}, M = {mathematics
+teachers} and W = {teachers who are
+women}, show on a Venn diagram the set of
+all mathematics teachers who are men.
+
+8.3 Set-builder notation
+
+A = {integer x : x < 4} is short for ‘A is the set
+of integers, x, such that x is less than 4’. This is an
+example of set-builder notation. In set-builder
+notation, the colon (:) stands for ‘such that’. If
+set-builder notation is expressed properly, it is
+always possible to list the elements of the given
+set. For example, in this case
+
+A = {...,-2, -1,0, 1,2, 3}
+Notice that the elements of A are restricted to
+integral or whole-number values. The letter Z,
+sometimes written Z, is often reserved for the set
+of integers:
+
+= (55, =3, —2, -1, 0,41, +2¢3;503}
+Hence set A can be rewritten
+=(x:x<4,xeEZ}
+
+i.e. ‘A is the set of values of x such that x is less
+than 4, where x is an integer’.
+
+If, however, the elements of A are restricted to
+natural numbers, i.e. positive whole-numbers, then
+
+A = {1,2,3}
+The letter N, sometimes written N, is often
+reserved for the set of natural numbers:
+N= (Il, 2,3,.:.}or N= {1, “es -}
+
+Exercise 8c
+
+G) List the elements of the following sets,
+a@ (t:ris a subject on your timetable}
+b {f:fis a factor of both 24 and 30}
+© {p:p isa prime factor of 42}
+
+greater than d {integer x :x > 8}
+
+s greater than or equal to e {integer y: y < ~5}
+~ Sis less than # {x23 <2<5,xEN}
+_ <is less than or equal to
+
+g {x:3<x<5,x EN}
+h {x:-2<x<—1,x€ Z}
+
+{x:x = —2} (2) If $ = {positive integers}, list the members
+nip ; of the following sets.
+
+aie Note: 0 (zero) is neither positive nor
+4} = {..., -3, -2, -1, 0, 1, 2, 3} negative.
+
+ered 2, —1,0,1,2,3,4,...} a {x:x>7} b {xix > =—3}
+
+E 4) 0 {x :x > —2} = (—2, -1,0,1,2, 3} c {x:x<-—-1) | {xix < 10}
+Notice, in Example 5, that the expression e@ [x:x—3 = 0) {xix +3=9)
+{x:x <4} {x : x > —2} can be shortened to g {x:x+2=0} h {x:2x = 7}
+
+{x:-2 <x <4}, ie. ‘the set of values, x, such
+that x is greater than or equal to —2 and less
+than 4’. The expression -2 <x <4 isa range of
+values of x.
+
+(©) Assuming that x is an integer, state the
+lowest and highest values of x for each of
+the following ranges.
+
+a —-2=<7<5 b -8<x<9
+
+ers of the set |y:1<y <6,y EN} c -Si<x=0 d2sx<10
+. 3 J e4<x<6 f -8<x<-1
+y EN) = (2,3, 4,5, 6} GQ -Tx < 1 h —Si<x <1} |
+
+@) Using the inequality symbol <, write the
+following in set-builder notation.
+
+@ (0,1, 2,3} b {-1,0,1)
+
+© {-3,-2,-1,0} d (-9,-8,...,3,4}
+
+© {9,10} f {-8,-7,...,-1]
+® Ix €%U and % = (1,2, 3, ..., 10}, list the
+
+members of the following subsets of 4U.
+
+a (x:xis
+
+an odd
+
+numer
+
+= 3.4 Venn diagrams and problem
+solving
+
+venn diagrams can sometimes be used to store
+numerical information. In such cases it is also
+
+sible to use the Venn diagrams to solve
+problems arising from the data.
+
+Example 8 .
+
+50 students were asked what they did last night.
+16 said they read a book, 41 said they watched
+television. If 7 said they did neither, how many
+did both?
+
+Let € = {all students}, B = {book readers} and
+T = {television watchers}. It is required to find
+n(B NT). Let n(B NT) = x.
+
+Fig. 8.4 is a Venn diagram containing the
+given information. The numbers in the regions
+of the Venn diagram represent the numbers of
+elements in the regions.
+
+Fig. 8.4
+Since n(T) = 41, n(B’ 4p)
+= 41 —x.
+Similarly, n(B MT’) = 16 —x
+and n(B UT)’ =7
+The totals for the regions must add up to the
+number of people in the universal set:
+x+(16—x)+ (41 =x) 7 = 50
+- 64 —x = 50
+e x=14
+
+14 students read a book and watched
+
+Example 9
+
+Ina survey of students, it was discovered that —
+76 like history, 98 like geography and 87 like
+mathematics. 15 like all the three subjects, 39
+like history and geography, 37 like history
+
+and mathematics, 48 like geography and
+mathematics and 45 like none of the subjects.
+
+a Show this information using a Venn diagram.
+
+b How many students took part in the survey?
+
+Let & = {all students that took part in the
+survey}, G = {those who like geography},
+
+H = {those who like history}, M = {those who
+like mathematics}.
+
+Fig. 8.5 is a Venn diagram containing the
+given information. The numbers in the
+regions represent the numbers of students
+in each region. (Check that the data in
+Fig. 8.5 agree with those in the question.)
+
+€
+
+Fig. 8.5
+
+Read the following carefully. It shows how
+the numbers in the regions of Fig. 8.5 were
+obtained.
+
+Since n(H MN GMM) = 15 and
+
+n(H mG) = 39
+n(HN GNM’) = 39 - 15
+= 24
+Similarly
+n(HAMNG’) = 37 — 15
+= 22
+and
+
+n(GAMNH’) = 48 ~ 15
+mast lal
+
+55 —(x + 8+7)
+(2
+
+of students who like
+
+= n(M) — 15 — 33 — 22
+
+= 87-70 Fig. 8.6
+=17 Since 12 studied physics and mathematics
+only,
+
+n(PN MN C’) = 12.
+Similarly, n(C NM PM’) = 8
+and n(Mn Cn P’) =7.
+
+Again, since 60 studied mathematics, the
+number that studied mathematics only
+=n(MnN P’'NC’)
+=n(M) —[n(MN PNC)
++n(MnPnc’)
+
+0 students, 60 studied +n(MN Cn P’)}
+studied physics, 55 studied =60—
+ied none of the three ie)
+
+physics and mathematic = 60 ~ @ +19)
+ry and physics only, Similarly n(P 9 M’ 9 C’) = 40 — (20+ x)
+and n(CM M'/ P’) = 55 — (15 + 2).
+
+5 The total for the regions must add up to the
+number of students in the class.
+40 — (20 + x) + 60 — (19 + x) + 55 -
+(15 + x) +124+84+74x +422 = 120
+ars 155 — (54 + 3x) + 49 + x = 120
+: a 150 — 2x = 120
+
+an equation using the fact that the total
+er of elements in the regions equals the
+
+er of elements in the universal set.
+
+) 8d
+Draw a suitable Venn diagram in each question.
+
+@ In Fig. 8.7 the numbers of elements in each
+region of the Venn diagram are as given.
+
+Fig. 8.7
+If n(@) = 30 find
+a n(ANnB’), b n(A UB).
+
+@ In the Venn diagram in Fig. 8.8 the numbers
+of elements are as shown.
+
+©) 20 people apply for a job, 12 have school
+certificates and 10 have diplomas. If 2 have
+no qualifications, how many have both a
+school certificate and a diploma?
+
+‘O) In a class of 35 students, 19 take history and
+12 take economics. If 5 take both subjects,
+how many take neither?
+
+@) Ina school of 750 students, 320 are girls, 559
+students do some kind of sport. If 101 girls do
+no sport, how many boys also do no sport?
+
+In a survey of villagers, it is found that 20%
+of the people have visited Kano and 25%
+have visited Port Harcourt. If 5% have been
+to both cities, what percentage have visited
+neither place?
+
+©) Out of 25 teachers, 16 are married and
+15 are women. If 6 of the men are married,
+how many of the women are not married?
+
+@) In a class of 36 students, 29 do mathematics
+and 20 do chemistry. If 5 students do neither,
+how many students do chemistry but not
+mathematics?
+
+@) Fig. 8.9 shows the results of a survey of 126
+students, where
+= {students who like playing football},
+= {students who like playing volleyball},
+= {students who like playing tennis}.
+
+aming and field events, If
+s do field events only, and 10 do
+
+- track events only,
+© all three events?
+
+; ® 110 members of a sports club play at least
+_ one of the games, football, basketball and
+volleyball If 20 play football and basketball
+only, 15 play football and volleyball only,
+26 play basketball and volleyball only, x play
+all the three games, 2x each play only one
+game, how many play basketball altogether?
+
+@ Ina survey of 290 newspaper readers,
+181 of them read the Daily Times, 142 read
+the Guardian, 117 read Punch and each
+reads at least one of the three papers. If 75
+read the Daily Times and the Guardian, 60
+read the Daily Times and Punch, and 54 read
+the Guardian and Punch:
+a Draw a Venn diagram to illustrate this
+information.
+b How many readers read
+j all three papers,
+ii exactly two of the papers,
+_ ili exactly one of the papers,
+__ iv the Guardian alone? [WAEC]
+4
+
+In a certain class, 22 pupils take one or more
+emistry, economics and government.
+
+> economics (E), 8 take government
+
+i 7 take chemistry (C). Nobody takes
+id chemistry, and 4 pupils take
+
+- @ If A and B are any two sets, then it is |
+
+always true that (A 9 B)’ = A’ U B’ and
+(AUB) =A' NB’.
+
+Sets of values can be written in set-builder
+notation, e.g.
+
+= {reZz: -1 <x < 5}
+read as ‘R is the set of integers, such that x
+lies between —1 and 5’. Note that the letter
+Z = set of integers and that -1 <x < Sis
+an example of a range of values.
+
+Z or Z is the set of integers.
+N or N is the set of natural numbers.
+Q or Q is the set of rational numbers.
+
+When using Venn diagrams to solve
+problems:
+
+e identify the sets, including the universal
+set;
+
+e decide on the unknown (i.e. what is
+required to be found);
+
+* draw a suitable Venn diagram;
+
+e enter the data in the Venn diagram,
+starting with x, the unknown;
+
+e form an equation using the fact that the
+total number of elements in the regions
+equals the number of elements in the
+universal set. (See Examples 8-10.)

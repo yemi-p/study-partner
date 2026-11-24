@@ -1,0 +1,644 @@
+{
+ "class": "SS1",
+ "subjects": [
+  {
+   "key": "chemistry",
+   "title": "Chemistry",
+   "book": "Okoye, Model Textbook of Chemistry for Senior Secondary Schools (SS1 part)",
+   "caveat": "Extracted from a text PDF. Reaction arrows were restored automatically as →; a reaction that is really reversible (⇌) may show as →. Subscripts are flattened (H2O means H₂O). Diagrams are missing.",
+   "topics": [
+    {
+     "n": 1,
+     "title": "Introduction to chemistry",
+     "weeks": "1",
+     "scheme": "Meaning of chemistry, scientific method of learning chemistry, careers in chemistry",
+     "file": "chemistry/01-introduction-to-chemistry.txt",
+     "chars": 4263,
+     "sources": [
+      "Okoye ch.1"
+     ]
+    },
+    {
+     "n": 2,
+     "title": "Adverse effects of chemistry",
+     "weeks": "2",
+     "scheme": "Corrosion, pollution, drug abuse",
+     "file": "chemistry/02-adverse-effects-of-chemistry.txt",
+     "chars": 12611,
+     "sources": [
+      "Okoye ch.2 (see Pollution, Corrosion of Metals, Drug Abuse)"
+     ]
+    },
+    {
+     "n": 3,
+     "title": "Chemical industries",
+     "weeks": "3-4",
+     "scheme": "Types of chemical industries; importance of chemistry and chemical industries to the nation and the individual",
+     "file": "chemistry/03-chemical-industries.txt",
+     "chars": 12633,
+     "sources": [
+      "Okoye ch.2"
+     ]
+    },
+    {
+     "n": 4,
+     "title": "Separation techniques",
+     "weeks": "5-7",
+     "scheme": "Filtration, evaporation, decantation, crystallization, fractional crystallization, chromatography, sublimation, pure and impure substances, distillation, fractional distillation, precipitation",
+     "file": "chemistry/04-separation-techniques.txt",
+     "chars": 26213,
+     "sources": [
+      "Okoye ch.11",
+      "Okoye ch.9 (mixtures, pure and impure substances)"
+     ]
+    },
+    {
+     "n": 5,
+     "title": "Particulate nature of matter",
+     "weeks": "8-10",
+     "scheme": "Physical and chemical changes; atoms and molecules; Dalton's atomic theory; protons, neutrons and electrons; arrangement of electrons; atomic number, mass number, isotopes, relative atomic masses",
+     "file": "chemistry/05-particulate-nature-of-matter.txt",
+     "chars": 18691,
+     "sources": [
+      "Okoye ch.3",
+      "Okoye ch.9 (physical and chemical changes, elements, compounds, mixtures)"
+     ]
+    },
+    {
+     "n": 6,
+     "title": "Symbols, Latin names and the first 20 elements",
+     "weeks": "exam extra",
+     "scheme": "Not on the scheme but asked in the first term exam: symbols of elements, Latin names (Natrium, Kalium, Ferrum), first twenty elements and their symbols",
+     "file": "chemistry/06-symbols-latin-names-and-the-first-20-elements.txt",
+     "chars": 8837,
+     "sources": [
+      "Okoye ch.4"
+     ]
+    },
+    {
+     "n": 7,
+     "title": "The periodic table",
+     "weeks": "later",
+     "scheme": "",
+     "file": "chemistry/07-the-periodic-table.txt",
+     "chars": 18337,
+     "sources": [
+      "Okoye ch.6"
+     ]
+    },
+    {
+     "n": 8,
+     "title": "Chemical combination (bonding)",
+     "weeks": "later",
+     "scheme": "",
+     "file": "chemistry/08-chemical-combination-bonding.txt",
+     "chars": 11795,
+     "sources": [
+      "Okoye ch.7"
+     ]
+    },
+    {
+     "n": 9,
+     "title": "Oxidation numbers and IUPAC nomenclature",
+     "weeks": "later",
+     "scheme": "",
+     "file": "chemistry/09-oxidation-numbers-and-iupac-nomenclature.txt",
+     "chars": 3659,
+     "sources": [
+      "Okoye ch.8"
+     ]
+    },
+    {
+     "n": 10,
+     "title": "Laws of chemical combination and equations",
+     "weeks": "later",
+     "scheme": "",
+     "file": "chemistry/10-laws-of-chemical-combination-and-equations.txt",
+     "chars": 12943,
+     "sources": [
+      "Okoye ch.5"
+     ]
+    },
+    {
+     "n": 11,
+     "title": "Gas laws, the mole and molar volume",
+     "weeks": "later",
+     "scheme": "",
+     "file": "chemistry/11-gas-laws-the-mole-and-molar-volume.txt",
+     "chars": 10302,
+     "sources": [
+      "Okoye ch.10"
+     ]
+    },
+    {
+     "n": 12,
+     "title": "Acids, bases and salts",
+     "weeks": "later",
+     "scheme": "",
+     "file": "chemistry/12-acids-bases-and-salts.txt",
+     "chars": 17360,
+     "sources": [
+      "Okoye ch.12"
+     ]
+    },
+    {
+     "n": 13,
+     "title": "Water and hardness of water",
+     "weeks": "later",
+     "scheme": "",
+     "file": "chemistry/13-water-and-hardness-of-water.txt",
+     "chars": 9711,
+     "sources": [
+      "Okoye ch.13"
+     ]
+    },
+    {
+     "n": 14,
+     "title": "Carbon and its allotropes",
+     "weeks": "later",
+     "scheme": "",
+     "file": "chemistry/14-carbon-and-its-allotropes.txt",
+     "chars": 24617,
+     "sources": [
+      "Okoye ch.14"
+     ]
+    }
+   ]
+  },
+  {
+   "key": "biology",
+   "title": "Biology",
+   "book": "SS1 first term school notes (spine) + Biology Matters GCE O Level 3e (Lam Peng Kwan) + Biology: A Course for O Level (EPUB)",
+   "caveat": "The notes follow the Nigerian scheme and wording: prefer them when sources differ. The O level books are Singaporean: use them for deeper explanation only. Diagrams are missing.",
+   "topics": [
+    {
+     "n": 1,
+     "title": "Introduction to biology",
+     "weeks": "1",
+     "scheme": "Meaning of science and biology, scientific method, experimental pattern, living and non-living things, differences between plants and animals, levels of organisation of life, complexity of multicellular organisms",
+     "file": "biology/01-introduction-to-biology.txt",
+     "chars": 43081,
+     "sources": [
+      "School notes week 1",
+      "O Level course ch.1"
+     ]
+    },
+    {
+     "n": 2,
+     "title": "Classification I: Monera, Protista, Fungi",
+     "weeks": "2",
+     "scheme": "Binomial nomenclature, Kingdom Monera, Kingdom Protista, Kingdom Fungi",
+     "file": "biology/02-classification-i-monera-protista-fungi.txt",
+     "chars": 6113,
+     "sources": [
+      "School notes week 2"
+     ]
+    },
+    {
+     "n": 3,
+     "title": "Classification II: Plantae and Animalia",
+     "weeks": "3",
+     "scheme": "Kingdom Plantae, Kingdom Animalia",
+     "file": "biology/03-classification-ii-plantae-and-animalia.txt",
+     "chars": 14097,
+     "sources": [
+      "School notes week 3"
+     ]
+    },
+    {
+     "n": 4,
+     "title": "The cell",
+     "weeks": "4",
+     "scheme": "Cell as a living unit, forms in which cells exist, cell structure and functions, the cell theory, differences and similarities between plant and animal cells",
+     "file": "biology/04-the-cell.txt",
+     "chars": 36251,
+     "sources": [
+      "School notes week 4",
+      "Biology Matters ch.1"
+     ]
+    },
+    {
+     "n": 5,
+     "title": "The cell and its environment; plant nutrition",
+     "weeks": "5",
+     "scheme": "Diffusion, osmosis, plant nutrition, micro and macro nutrients",
+     "file": "biology/05-the-cell-and-its-environment-plant-nutrition.txt",
+     "chars": 141827,
+     "sources": [
+      "School notes week 5",
+      "Biology Matters ch.2",
+      "Biology Matters ch.12 (photosynthesis)"
+     ]
+    },
+    {
+     "n": 6,
+     "title": "Animal nutrition, balanced diet, enzymes, food tests",
+     "weeks": "6",
+     "scheme": "Animal nutrition, balanced diet, enzymes, food test",
+     "file": "biology/06-animal-nutrition-balanced-diet-enzymes-food-tests.txt",
+     "chars": 125290,
+     "sources": [
+      "School notes week 6",
+      "Biology Matters ch.3",
+      "Biology Matters ch.4",
+      "Biology Matters ch.5"
+     ]
+    },
+    {
+     "n": 7,
+     "title": "Respiration, excretion and growth",
+     "weeks": "8",
+     "scheme": "Cellular respiration, excretion, growth",
+     "file": "biology/07-respiration-excretion-and-growth.txt",
+     "chars": 85766,
+     "sources": [
+      "School notes week 8",
+      "Biology Matters ch.7",
+      "Biology Matters ch.8"
+     ]
+    },
+    {
+     "n": 8,
+     "title": "Irritability, movement and reproduction",
+     "weeks": "9",
+     "scheme": "Cell reaction to its environment, movement, reproduction",
+     "file": "biology/08-irritability-movement-and-reproduction.txt",
+     "chars": 19044,
+     "sources": [
+      "School notes week 9"
+     ]
+    },
+    {
+     "n": 9,
+     "title": "Tissues and supporting systems",
+     "weeks": "10",
+     "scheme": "Skeleton and supporting systems in animals: biological significance, forms and types of skeleton, bones of the vertebral column, joints, functions of the skeleton",
+     "file": "biology/09-tissues-and-supporting-systems.txt",
+     "chars": 18994,
+     "sources": [
+      "School notes week 10"
+     ]
+    }
+   ]
+  },
+  {
+   "key": "maths",
+   "title": "Mathematics",
+   "book": "New General Mathematics for Senior Secondary Schools 1 (Pearson, 2011)",
+   "caveat": "Scanned book read by OCR. Powers and superscripts are often flattened or misread: '10?' or '104' may mean 10² or 10⁴, '107' may be 10⁻². Fractions may be broken across lines. Work from the method, not the exact digits, and never quote a garbled number to the student.",
+   "topics": [
+    {
+     "n": 1,
+     "title": "Number bases I",
+     "weeks": "1",
+     "scheme": "Decimal base (10) and other bases (2, 3 etc.); conversion between base 10 and other bases",
+     "file": "maths/01-number-bases-i.txt",
+     "chars": 4125,
+     "sources": [
+      "NGM ch.3.4-3.5"
+     ]
+    },
+    {
+     "n": 2,
+     "title": "Number bases II",
+     "weeks": "2",
+     "scheme": "Problem solving: addition, subtraction, multiplication and division in number bases",
+     "file": "maths/02-number-bases-ii.txt",
+     "chars": 4120,
+     "sources": [
+      "NGM ch.3.4-3.5"
+     ]
+    },
+    {
+     "n": 3,
+     "title": "Modular arithmetic",
+     "weeks": "3",
+     "scheme": "Modular arithmetic (listed with number bases in week 2)",
+     "file": "maths/03-modular-arithmetic.txt",
+     "chars": 7607,
+     "sources": [
+      "NGM ch.20"
+     ]
+    },
+    {
+     "n": 4,
+     "title": "Indices",
+     "weeks": "4",
+     "scheme": "Laws of indices; multiplication and simple exponential equations",
+     "file": "maths/04-indices.txt",
+     "chars": 3147,
+     "sources": [
+      "NGM ch.1.1-1.2"
+     ]
+    },
+    {
+     "n": 5,
+     "title": "Standard form",
+     "weeks": "5",
+     "scheme": "Writing numbers in index form; addition, subtraction, multiplication, division and square root in standard form",
+     "file": "maths/05-standard-form.txt",
+     "chars": 1621,
+     "sources": [
+      "NGM ch.1.3"
+     ]
+    },
+    {
+     "n": 6,
+     "title": "Logarithms I",
+     "weeks": "6",
+     "scheme": "Deduction of logarithm form from index and standard form",
+     "file": "maths/06-logarithms-i.txt",
+     "chars": 3995,
+     "sources": [
+      "NGM ch.1.4-1.5"
+     ]
+    },
+    {
+     "n": 7,
+     "title": "Logarithms II",
+     "weeks": "7",
+     "scheme": "Calculations involving multiplication and division using log and antilog tables",
+     "file": "maths/07-logarithms-ii.txt",
+     "chars": 16492,
+     "sources": [
+      "NGM ch.1.5-1.6",
+      "NGM four-figure tables"
+     ]
+    },
+    {
+     "n": 8,
+     "title": "Logarithms III",
+     "weeks": "8",
+     "scheme": "Calculations involving powers and roots",
+     "file": "maths/08-logarithms-iii.txt",
+     "chars": 4082,
+     "sources": [
+      "NGM ch.1.6"
+     ]
+    },
+    {
+     "n": 9,
+     "title": "Sets I",
+     "weeks": "9",
+     "scheme": "Definition of sets; notation; listing; set builder; types of sets (universal, empty, finite, infinite)",
+     "file": "maths/09-sets-i.txt",
+     "chars": 15584,
+     "sources": [
+      "NGM ch.5",
+      "NGM ch.8.1-8.3"
+     ]
+    },
+    {
+     "n": 10,
+     "title": "Set operations and Venn diagrams",
+     "weeks": "10",
+     "scheme": "Union, intersection, complement, Venn diagrams",
+     "file": "maths/10-set-operations-and-venn-diagrams.txt",
+     "chars": 15549,
+     "sources": [
+      "NGM ch.5.5",
+      "NGM ch.8"
+     ]
+    },
+    {
+     "n": 11,
+     "title": "Change of subject of formula",
+     "weeks": "11",
+     "scheme": "Simple equations; change of subject of formula with roots, powers and brackets",
+     "file": "maths/11-change-of-subject-of-formula.txt",
+     "chars": 9788,
+     "sources": [
+      "NGM ch.6"
+     ]
+    },
+    {
+     "n": 12,
+     "title": "Variation and simultaneous equations",
+     "weeks": "12",
+     "scheme": "Variation; simultaneous equations",
+     "file": "maths/12-variation-and-simultaneous-equations.txt",
+     "chars": 25987,
+     "sources": [
+      "NGM ch.18",
+      "NGM review (simultaneous equations)"
+     ]
+    }
+   ]
+  },
+  {
+   "key": "english",
+   "title": "English Language",
+   "book": "New Oxford Secondary English Course for Senior Secondary Schools 1 (University Press)",
+   "caveat": "The school follows its own weekly topics, so each week pulls the closest book sections. Phonetic symbols (IPA) are often garbled by OCR: teach sounds from standard British RP. Where the book has nothing on a scheme item (irregular verbs, nominalization), teach it from standard English grammar and say it is not in his textbook.",
+   "topics": [
+    {
+     "n": 1,
+     "title": "The /kw/ sound, religion words, plural nouns",
+     "weeks": "1",
+     "scheme": "Spoken English: consonant /k/ followed by /w/ (quest, quench, quarter); vocabulary associated with traditional religion (shrine, cult, diviner); reading short prose passages; rules for forming plural nouns",
+     "file": "english/01-the-kw-sound-religion-words-plural-nouns.txt",
+     "chars": 38163,
+     "sources": [
+      "Oxford Term 1 Unit 1",
+      "Oxford: Traditional Religion",
+      "Oxford Term 1 Unit 4 (Countable Nouns, plurals)"
+     ]
+    },
+    {
+     "n": 2,
+     "title": "Meaning from context, family words, narrative essay, noun gender",
+     "weeks": "2",
+     "scheme": "Word meaning through context; words associated with family (uncle, siblings, ancestors); listening to poems, stories, drama; narrative composition 'My first day at college'; nouns: masculine, feminine, common, neuter gender",
+     "file": "english/02-meaning-from-context-family-words-narrative-essay-.txt",
+     "chars": 31624,
+     "sources": [
+      "Oxford Term 1 Unit 1 (Home and Family Life)",
+      "Oxford Term 1 Unit 2 (Narrative Essay I)"
+     ]
+    },
+    {
+     "n": 3,
+     "title": "Sounds /s/ /z/ /ʒ/, farming words, countable nouns",
+     "weeks": "3",
+     "scheme": "Pronunciation practice /s/, /z/, /ʒ/, /e/, /ə/; words associated with agriculture (cocoyam, cassava, staking, pruning); passages for contextual meaning; countable and uncountable nouns; narrative composition 'A day I will never forget'",
+     "file": "english/03-sounds-s-z-farming-words-countable-nouns.txt",
+     "chars": 34041,
+     "sources": [
+      "Oxford Term 1 Units 3-4"
+     ]
+    },
+    {
+     "n": 4,
+     "title": "Kinds of nouns",
+     "weeks": "4",
+     "scheme": "Proper, common, concrete and collective nouns",
+     "file": "english/04-kinds-of-nouns.txt",
+     "chars": 24103,
+     "sources": [
+      "Oxford Term 1 Unit 2 (Proper and Common Nouns)",
+      "Oxford Term 1 Unit 3 (More about Common Nouns)"
+     ]
+    },
+    {
+     "n": 5,
+     "title": "Consonant + /l/, farm tools, the noun phrase",
+     "weeks": "6",
+     "scheme": "Consonant followed by /l/ (sweep); words associated with farm implements (tractor, harvester, hoe, axe); noun phrase and the role of the definite article",
+     "file": "english/05-consonant-l-farm-tools-the-noun-phrase.txt",
+     "chars": 20675,
+     "sources": [
+      "Oxford: Words Associated with Agriculture",
+      "Oxford Term 1 Unit 5 (Noun Phrase)"
+     ]
+    },
+    {
+     "n": 6,
+     "title": "Listening, using a dictionary, noun phrases",
+     "weeks": "8",
+     "scheme": "Listening to real-life speech; use of dictionary for contextual meaning; narrative composition; phrases with the definite article",
+     "file": "english/06-listening-using-a-dictionary-noun-phrases.txt",
+     "chars": 21521,
+     "sources": [
+      "Oxford Term 1 Unit 5 (Noun Phrase)",
+      "Oxford Term 1 Unit 6 (Narrative Essay)"
+     ]
+    },
+    {
+     "n": 7,
+     "title": "Descriptive essay, fishing words, nominalizer verbs",
+     "weeks": "9",
+     "scheme": "Descriptive composition 'A petrol station'; words associated with fishing; nominalizer verbs (wise, wisdom)",
+     "file": "english/07-descriptive-essay-fishing-words-nominalizer-verbs.txt",
+     "chars": 28872,
+     "sources": [
+      "Oxford: Animal Husbandry: Fishing",
+      "Oxford: verbs to nouns",
+      "Oxford: Descriptive essay"
+     ]
+    },
+    {
+     "n": 8,
+     "title": "Listening for key ideas, flood composition, nominalization",
+     "weeks": "10",
+     "scheme": "Listening to a recorded conversation for key ideas; composition 'A flood disaster caused by blocked drains'; nominalization of verbs",
+     "file": "english/08-listening-for-key-ideas-flood-composition-nominali.txt",
+     "chars": 18082,
+     "sources": [
+      "Oxford: verbs to nouns",
+      "Oxford: Descriptive essay"
+     ]
+    },
+    {
+     "n": 9,
+     "title": "Animal husbandry words, consonant + /j/, irregular verbs",
+     "weeks": "11",
+     "scheme": "Words associated with animal husbandry; consonants followed by /j/; descriptive composition 'A fire accident in my street'; irregular verbs",
+     "file": "english/09-animal-husbandry-words-consonant-j-irregular-verbs.txt",
+     "chars": 22557,
+     "sources": [
+      "Oxford Term 2 Unit 1 (Animal Husbandry II)",
+      "Oxford: Descriptive essay"
+     ]
+    }
+   ]
+  },
+  {
+   "key": "physics",
+   "title": "Physics",
+   "book": "M.W. Anyakoha, New School Physics for Senior Secondary Schools",
+   "caveat": "Scanned book read by OCR. Units with powers (m s-2, kg m-3) and Greek letters may be garbled, equations can break across lines, and diagrams (vernier, micrometer, graphs) are missing. Rely on standard SI physics where the text is unclear.",
+   "topics": [
+    {
+     "n": 1,
+     "title": "Fundamental and derived quantities and units",
+     "weeks": "1",
+     "scheme": "Meaning of physical quantities, fundamental units, derived units, SI units",
+     "file": "physics/01-fundamental-and-derived-quantities-and-units.txt",
+     "chars": 23273,
+     "sources": [
+      "Anyakoha Book 1 ch.1"
+     ]
+    },
+    {
+     "n": 2,
+     "title": "Measurement of mass, weight, length and time",
+     "weeks": "2",
+     "scheme": "Definitions, instruments used, accuracy and errors (vernier caliper, micrometer screw gauge, balances)",
+     "file": "physics/02-measurement-of-mass-weight-length-and-time.txt",
+     "chars": 23301,
+     "sources": [
+      "Anyakoha Book 1 ch.1"
+     ]
+    },
+    {
+     "n": 3,
+     "title": "Position, distance and displacement",
+     "weeks": "3",
+     "scheme": "Concept of position, difference between distance and displacement, applications",
+     "file": "physics/03-position-distance-and-displacement.txt",
+     "chars": 47375,
+     "sources": [
+      "Anyakoha Book 1 ch.2"
+     ]
+    },
+    {
+     "n": 4,
+     "title": "Scalars and vectors",
+     "weeks": "4",
+     "scheme": "Definitions, differences, addition and resolution of vectors",
+     "file": "physics/04-scalars-and-vectors.txt",
+     "chars": 22915,
+     "sources": [
+      "Anyakoha Book 2 ch.1"
+     ]
+    },
+    {
+     "n": 5,
+     "title": "Speed, velocity and acceleration",
+     "weeks": "6",
+     "scheme": "Definitions, equations, graphical representation",
+     "file": "physics/05-speed-velocity-and-acceleration.txt",
+     "chars": 73055,
+     "sources": [
+      "Anyakoha Book 1 ch.2",
+      "Anyakoha Book 2 ch.2"
+     ]
+    },
+    {
+     "n": 6,
+     "title": "Motion",
+     "weeks": "8",
+     "scheme": "Concept of motion, types of motion, uniformly accelerated motion",
+     "file": "physics/06-motion.txt",
+     "chars": 47331,
+     "sources": [
+      "Anyakoha Book 1 ch.2"
+     ]
+    },
+    {
+     "n": 7,
+     "title": "Equations of motion",
+     "weeks": "9",
+     "scheme": "Applications of the equations of motion in real life",
+     "file": "physics/07-equations-of-motion.txt",
+     "chars": 25821,
+     "sources": [
+      "Anyakoha Book 2 ch.2"
+     ]
+    },
+    {
+     "n": 8,
+     "title": "Graphs of motion",
+     "weeks": "10",
+     "scheme": "Graphical analysis of motion, problem solving",
+     "file": "physics/08-graphs-of-motion.txt",
+     "chars": 73037,
+     "sources": [
+      "Anyakoha Book 2 ch.2",
+      "Anyakoha Book 1 ch.2"
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,290 @@
+TOPIC: Irritability, movement and reproduction
+WEEKS: 9
+TEACHER'S SCHEME: Cell reaction to its environment, movement, reproduction
+
+=== SOURCE: School notes week 9 ===
+WEEK 9
+SUBJECT: BIOLOGY
+CLASS: SS1
+TOPIC: PROPERTIES AND FUNCTIONS OF THE CELL - CONTINUED
+
+CONTENT:
+1. Cell Reactions to its Environment
+2. Movement
+3. Reproduction
+SUB-TOPIC 1: CELL'S REACTIONS TO ITS ENVIRONMENT
+The protoplasm of plant and animal cells is irritable. It can detect and respond to the
+changes in their environment. Any change in conditions which is enough to produce a
+change in the activities of an organism or its part is called a stimulus.
+Types of Responses
+The three responses of the cell to its environment are tactic, nastic and tropic responses.
+a. Tactic responses (Taxism): It is a response made by a whole organism or its freely
+locomotive part in response to an external stimulus. Types of tactic responses are:
+ Phototactic (Phototaxis): response to variation and intensity of light e.g. in free
+swimming Euglena, Chlamydomonas etc.
+ Chemotactic (Chemotaxis): response to the presence of chemical substances e.g.
+chemotactic movement of Amoeba away from an acidic environment.
+ Aerotactic (Aerotaxis): response to the source of oxygen
+ Osmotactic (Osmotaxis): response to variation in osmotic concentration
+b. Nastic responses (Nastism): This is a response made by a fixed plant in response to a non-
+directional or diffuse stimulus. Various types of nastic responses include the following:
+ Nyctinastic (Nyctinastism): response to changing day and night conditions as
+exhibited by some flowers and leaves due to changing conditions of temperature and
+light intensity. Nyctinastic movement is a combination of two factors- temperature
+and light i.e. thermonastic and photonastic respectively e.g. leaflets of leguminous
+plants such as acacia, groundnut and clover.
+ Haptonastic (Haptonastism): response due to contact e.g. movement of leaves of
+insectivorous plants such as venus flytrap.
+ Hydronastic (Hydronastism): response to humidity changes
+ Chemonastic: response to presence of specific chemical substances.
+c. Tropic Responses (Tropism): This is a response made by a fixed plant part to a stimulus.
+The direction of movement is determined by the direction from which the stimulus
+originates. Various types of tropic responses include the following:
+1 Ph i h i h i l f li h h f
+3. Hydrotropism: a growth response to the stimulus of water e.g. root of plants grow
+towards a water source.
+4. Chemotropism: response to concentration of chemical substances.
+5. Haptotropism (Thigmotropism): a response to the stimulus of touch e.g. tendrils of
+climbing plants.
+EVALUATION
+i. Give three examples of tactic responses.
+ii. State the differences between nastic and tropic responses
+iii. List three forms of tropic response with relevant example of each
+SUB-TOPIC 2: MOVEMENT
+Living cells are metabolically very active and their contents are constantly moving because:
+i. Materials constantly enter or leave the cell or move from one part of the cell to the other.
+ii. Genetical information flows from the nucleus to the cytoplasm and
+iii. Protein and other substances which are manufactured or broken down are transported
+within or out of the cell. These can be seen as protoplasmic streaming or cyclosis.
+1. Cyclosis: is the circulation of protoplasm in the cell where the protoplasm flows around the cell
+constantly in one direction.
+2. Amoeboid Movement: This is characteristics of the naked non-cellular masses of protoplasm
+of many of the protozoan's, the sliming fungi, some plants and animal gametes and certain
+wandering cells in higher animal bodies e.g. leucocytes in man.
+Amoeba moves in a slow streaming way by pulling out lobe-shaped extensions of the cell called
+pseudopodia.
+When a pseudopodia form, a thin plasmosol flows into it and is changed into the semi-solid
+plasma gel. As a pseudopodium streams forward at one end of the cell another is withdrawn. By
+this means amoeba moves about. Human white blood corpuscles use amoeboid movement to
+pursue and capture bacteria in the blood plasma.
+3. Organelles for Movement: These include pseudopodia, cilia and flagella. Pseudopodium is an
+organelle of locomotion in Amoeba. In some protozoans and tiny aquatic animals, movement is
+brought about by cilia and flagella. They are similar in structure composed mainly of
+microtubules powered by ATP.
+Cilia are short hair-like structures. They are usually numerous and packed closely together.
+They move in a co-ordinate way to bring about movement. In the paramecium, the action of the
+cilia moves the whole organism at the same time it also directs a current of water containing
+food into the paramecium gullet. In the cells lining the human wind pipe, the beating of the cilia
+causes mucus to more up towards the throat.
+Flagella are at least ten times longer than cilia and are fewer in number. It is a whip-like
+structure which can send waves of movement along its length. Flagella help to move the
+organisms like Euglena and Chlomydomonas and motile parts of organisms like human sperms.
+Growth Movement Regulated by Auxins
+
+Auxins are produced at the apices of shoots and roots but move to the region of sell elongation to
+bring about their effect. Auxin functions as hormones or chemical messengers.
+1. Phototropism: When a shoot receives light from all sides, the auxins produced at the shoot
+apex pass down and exert a stimulating effect on the region of cell elongation, causing the
+shoot to grow evenly and vertically. When a shoot receives light from one side only, it bends
+and grows towards the light. If the shoot tip is covered, the shoot continues to grow
+vertically. This shows that somehow, one sided lighting causes less auxins to gather on the
+shaded side. This makes the cells on the shaded side grow and enlarge faster, causing the
+shoot to bend toward the light.
+Diagram showing the growth-regulator hormone
+Pituitary Gland
+Called the master gland, the pituitary secretes hormones that control the activity of other
+endocrine glands and regulate various biological processes. Its secretions include growth
+hormone (which stimulates cellular activity in bone, cartilage, and other structural tissue);
+thyroid stimulating hormone (which causes the thyroid to release metabolism-regulating
+hormones); antidiuretic hormone (which causes the kidney to excrete less water in the
+urine); and prolactin (which stimulates milk production and breast development in
+females). The pituitary gland is influenced both neurally and hormonally by the
+hypothalamus.
+Geotropism: If a young plant is placed horizontally more auxins seem to collect on the lower sides
+of the shoot and root. In the shoot the high auxin concentration in the lower side stimulates growth
+and tends to make the side grow rapidly, so that the shoot bends and grow vertically upwards.
+In the root, the high auxin concentration on the lower side inhibits growth and tends to
+make this side grow slowly so that the root bends and grows vertically downwards.
+EVALUATION
+ Define cyclosis
+ Describe amoeboid movement
+ State two differences between flagella and cilia
+ State two uses of cilia to paramecium
+ Name two growth movements that are controlled by auxins in plant.
+SUB-TOPIC 3: REPRODUCTION
+Reproduction is the ability of living organisms to produce offspring's i.e. new individuals of their
+type. It is the only way in which each kind of organism can continue to live on forever although the
+individual must eventually die. The two forms of reproduction are sexual reproduction and asexual
+reproduction
+ASEXUAL REPRODUCTION
+In asexual reproduction, an individual produces an offspring by itself i.e. only one parent is present.
+There is no fusion of nuclei and the cells that give rise to the offspring usually divide by means of
+mitosis. As a result, asexual reproduction often produces clones-Offspring which are identical to
+the parent. In rare cases the offspring may not be identical due to mutation.
+Asexual reproduction is common among simple organisms and flowering plants. Forms of asexual
+reproduction include the following:
+ Fission: It is commonly found in Bacteria and Protists. The parent organism simply divides
+into two or more parts, each of which can exist by itself. e.g. binary fission in bacteria.
+ Budding: In budding the offspring develops as an outgrowth of the parent. The bud may
+form on an internal or external surface of the parents. Internal buds are formed in some
+sponges and released when the parent dies. External buds occur in Hydra and Coral polyps.
+The buds break off from the parent without causing any injury and lead an independent life.
+
+Diagram showing cell division during growth
+During cleavage, cell divisions occur so rapidly that the cells do not have time to grow
+between divisions, and the result is smaller and smaller cells. Cleavage produces a solid ball
+of cells called a morula (1b, 2b, 3b). Within the morula, a fluid-filled cavity called the
+blastocoel develops, converting a morula into a blastula (1c, 2c, 3c). In a process called
+gastrulation, certain cells of the blastula migrate to different regions of the blastula to create
+the gastrula, a structure with three cell layers (1d, 2d, 3d). The outer cell layer of the
+gastrula, called the ectoderm (shown in blue), forms the outer covering of all animals, and in
+the frog, human, and other higher animals, it also forms the nervous system. The inner layer
+of the gastrula, known as the endoderm (shown in yellow), gives rise to the gut in all
+animals, and in higher animals, other organs including the stomach, pancreas, liver, and
+lungs. The mesoderm, which forms between the ectoderm and endoderm, produces the
+simple excretory system of the sea urchin and frogs and the kidneys of humans. In higher
+animals, the mesoderm also gives rise to blood, bone, muscle, and other structures. Cell
+specialization is followed by the development of primitive organs, which marks the larval
+form of sea urchins and frogs, and the embryo stage of human development (1e, 2e, 3e). Size
+and time of development vary widely among species. The sea urchin larva, for example,
+forms in 12 to 76 hours and measures 0.1 to 0.3 mm (0.004 to 0.01 in), while the human
+embryo takes eight weeks to fully form, and measures about 30 mm (about 1.2 in) from
+crown to rump.
+i. Spore Formation: Spore are small unicellular bodies which are produced in large numbers. They
+are small, light and easily dispersed by air. Under favourable conditions each spore can develop
+into an independent organism. Spores are commonly produced by Bacteria, Fungi, Protists, Algea,
+Mosses and Ferns.
+ii. Fragmentation: In this process a part of an organism breaks up or fragments from the parent
+organism and give rise to a new individual. It is a form of regeneration that occurs in simple
+organisms like algae, coelenterates and sponges.
+iii. Vegetative propagation: It occurs mainly in higher plants where a new plant grows from any
+portion of an old one other than the seeds.
+This is the formation of new individuals or plants by vegetative portion of the plant such as roots,
+stems and leaves. They are tubers, corns, bulbs, rhizomes, suckers and runners.
+iv. Root tubers are modified roots which grow under-ground and act as food storage organs. New
+plants may develop from buds which arise near the point of origin with the stem e.g. cassava,
+sweet potato and carrots.
+v. Corns: These are modified underground stem which grow vertically. They produce lateral shoots
+which are capable of growing into new plants when detached e.g. cocoyam
+vi. Bulbs: There are modified underground leaves adapted for food storage. New bulbs in the axils of
+the scale leaves. Examples of bulbs are onions and lilies.
+vii. Parthenogenesis: This is the development of an egg without fertilization. It occurs in honey bee
+drones and aphids.
+SEXUAL REPRODUCTION
+Sexual reproduction involves two parents of different sexes (Male and female). Each parent
+produces gamete male and female gametes respectively. There is meiosis during which the
+chromosomes number is halved i.e. from diploid to haploid in the formation of gametes. The egg
+cell (female gamete is large and non-motile). The sperm (male gamete) is motile and small. During
+fertilization, the two haploid gametes (male and female) fuse to form a diploid zygote. The zygote
+undergoes repeated cell division and forms an embryo. The embryo undergoes repeated cell
+division and differentiation and develops into a young organism similar to the parents.
+In lower animals and plants such as protozoa, fungi and algae, there is no formation of specialized
+reproductive organs. In this case, whole individuals from different strains become differentiated
+into male and female organisms. They join together and exchange nuclear materials.
+In paramecium, after the exchange of nuclear materials they separate and each cell divides to form
+four daughter animals.
+Conjugation in Spirogyra
+In spirogyra, two filaments lie close to each other and outgrowths appear on the walls of the cell
+lying opposite one another. The cells meet and their walls break and a conjugation tube is formed.
+One of the gametes passes through the conjugation tube and merges with the gamete in the other
+cells and their nuclei unite. This results into formation of a zygospore.
+The zygospore can withstand dry conditions and can germinate into a new individual when
+moisture is available. This process of reproduction is called conjugation. It also occurs in mucor.
+MEIOSIS
+Meiosis is the cell division that gives rise to gametes and haploid spores. In flowering plants and
+
+animals, it occurs only in the reproductive organs. When a diploid cell undergoes meiosis, the
+chromosomes replicate once and the nucleus and cell duplicate (divide equally) twice. This results
+in the diploid parent cell giving rise to four haploid cells.
+Gigantism
+When the nucleus divides for the first time the chromosomes in a given pair (not chromatids)
+separate and move to opposite ends of the cell. This results in only half the number of the
+chromosomes going to each daughter cell.
+During the second nuclear division, the chromatids separate and move to opposite ends of each
+daughter cell. This gives rise to four gamete cells, each with a haploid number of chromosomes.
+Differences between mitosis and meiosis
+Mitosis Meiosis
+1. Occurs during the growth of
+somatic cells and asexual
+reproduction.
+Occurs during gamete production.
+2. Two daughter cells (offspring) are
+formed.
+Four daughters cells (offspring) are
+formed.
+3. Chromosome number of parent and
+daughter cells is the same.
+Chromosome number of daughter
+cells is half the number in the
+parent cell.
+4. The chromosome and their genes in
+each daughter cell is identical.
+The chromosomes and their genes
+in the four daughter cell are not
+identical.
+5. No crossing over occurs Crossing over occurs.
+6. Offspring produced by mitosis are
+exact replicates or clones of the
+parent organism.
+Offspring produced by meiosis in
+sexual reproduction will show
+variations among themselves and
+their parents.
+Structure and Functions of male Gonad
+A typical male gonad consists of a pair of testes, which are enclosed in a fold of skin known as
+scrotum (scrotal sac). The scrotum hangs behind the spongy, muscular and erectile structure called
+penis. The scrotum, testes and penis are situated externally in the pubic region. Each testis consists
+of numerous tubules called seminiferous tubules.
+The cells of these tubules divide repeatedly to form sperm cells in a process called
+spermatogenesis. A set of profusely coiled tubule known as epididymis connects each testis to the
+vas deferens, which conveys the sperm cells to the seminal vesicle for storage until there is the
+need for ejaculation. Seminal fluid secreted by the prostate gland provides a medium for sperm
+cells to swim and be nourished. On ejaculation, the sperms are discharged to the outside through
+the urethra.
+The testes produce the sperm-the male gametes. It also secretes the hormones testosterone, which
+is responsible for producing secondary sex characteristics in males as well as stimulating sperm
+production.
+
+Internal View of Male Reproductive System
+The reproductive anatomy of the male human is largely external. Beginning at puberty,
+sperm are produced within seminiferous tubules of the testicles, a pair of glands that reside
+in a pouch called the scrotum. The external location of the scrotum keeps the temperature of
+sperm slightly below body temperature, which is necessary for their healthy development
+and survival. From each testicle, sperm migrate to a long, coiled tube known as the
+epididymis, where they are stored for one to three weeks until they mature. Also located
+outside the body is the penis, the erectile organ responsible for the excretion of urine and
+the transfer of sperm to the vagina of the female. Just before ejaculation during sexual
+arousal, mature sperm travel from the epididymis, a coiled tube behind each testicle,
+through a long duct called the vas deferens. Sperm leave the body in semen, a fluid produced
+by the seminal vesicles.
+Structure and Functions of the Female Gonad
+The female mammalian gonad consists of a pair of ovaries suspended by connective tissues at the
+lower dorsal portion of the abdominal cavity. Ovaries produce the ova (singular-ovum), the female
+gamete. When the ovary releases an ovum, it is captured by an oviduct (also called fallopian tube).
+The oviduct conveys the ovum to the muscular uterus. Each oviduct has a funnel-shaped end, which
+opens close to the ovary in the abdominal of ova.
+The uterus is connected to the outside of the organism through the vagina (or birth canal).
+Externally, the vagina opens at the vulva.
+The ovary plays the following important roles, namely the production of female sex hormones
+oestrogen and progesterone. Oestrogen stimulates and maintains the development of the female
+secondary sex characteristics, whereas progesterone stimulates and promotes the growth of the
+uterine lining in readiness for implantation of an embryo.
+EVALUATION
+ Define reproduction
+ State two differences between sexual and asexual reproduction
+ State three differences between mitosis and meiosis
+ List three forms of asexual reproduction
+ State three functions of male gonad
+ Name two hormones produced by the female gonad and state their functions.
+OBJECTIVE QUESTIONS
+Choose the correct options to the following questions
+1. One of the properties of cell responsible for the continuity of species is (a) growth (b)
+reproduction (c) nutrition (d) excretion
+2. Which of the following is the method of asexual reproduction in yeast? (a) binary diffusion
+(b) budding (c) mating (d) conjugation
+WEEKEND ASSIGNMENT
+1a. Compare sexual and asexual reproduction
+1b. State five differences between mitosis and meiosis
+2a. List the four major phases of cell division in mitosis
+2b. Define reproduction
+3. State three functions of (i) mammalian testes (ii) mammalian ovary

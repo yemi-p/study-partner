@@ -1,0 +1,362 @@
+TOPIC: Chemical combination (bonding)
+WEEKS: later
+TEACHER'S SCHEME: (not yet scheduled)
+
+=== SOURCE: Okoye ch.7 ===
+CHAPTER 7
+
+ CHEMICAL COMBINATION OR BONDING
+
+Atoms of elements enter into chemical combination to form stable substances (molecules or
+compounds). The reason for their entering into the combination is for them to attain the inert
+octate or duplet structure possessed by the noble gases. The types of chemical bonding that held
+the chemical substances together are:
+
+a. Electrovalent or ionic bonding.
+
+b. Covalent bonding
+
+c. Co-ordinate covalent or dative bonding
+
+d. Metallic bonding
+
+e. Hydrogen bonding
+
+f. Van der Waal forces
+
+7.1 Electrovalent Bonding:
+
+This is also known as ionic bonding. It is a bonding that occurs between metal and non-metal. It
+involves the transfer of valence electron or electrons from metal to non metal. The metal loses its
+valence electron while the non-metal accepts it and the resultant ions are attracted together by a
+strong force called electrostatic force. The metal acquires positive charge or charges because it
+contains excess proton or protons in its nucleus while the non-metal acquires negative charge or
+charges because it has gained extra electron or electrons.
+
+Thus, sodium combines with chlorine to form sodium chloride
+
+ Na = 11 2, 8, 1
+
+ Cl = 17 2, 8, 7
+
+ Na2, 8, 1 Cl 2, 8,7 Na+2, 8 Cl-2, 8,8
+
+ Na - e- Na+
+
+ Cl + e- Cl-
+
+ Na + Cl Na+Cl-
+
+ 75
+
+Sodium combines with oxygen to form sodium oxide
+
+Na = 11 2, 8, 1
+O = 8 2, 6
+
+ 2Na 2,8,1 O 2,6 2Na+2,8 O2- 2,8
+
+ Fig. 7.2
+
+ 2Na - 2e- 2Na+
+
+ O + 2e- O2-
+
+ 2Na + O Na+2O2-
+
+ Na - e- Na+
+
+ Cl + e- Cl-
+
+ Na + Cl Na+Cl-
+
+Calcium combines with oxygen to form calcium oxide
+
+ Ca = 20 2, 8, 8 1
+ O = 8 2, 6
+
+ 76
+
+Ca - 2 e- Ca2+
+
+O + 2e- O2-
+
+Ca + O → CaO
+
+Characteristics of electrovalent compounds.
+
+1. Electrovalent compounds consist of aggregates of ions (charged particles).
+
+2. They have high melting and boiling points.
+
+3. They are soluble in water and other polar solvents.
+
+4. They are strong electrolytes
+
+5. They are insoluble in organic solvents because they are inorganic compounds.
+
+6. They are good conductors of heat and electricity.
+
+7.2 Covalent Bonding:
+
+In this type of bonding, there is sharing of a pair of electrons. Each reacting atom contributes an
+electron to be shared by the two atoms, so that each has the stable duplet or octet structure of rare
+gases. This is the type of bonding that occurs between the non-metals. Diatomic molecules of
+elements are formed by covalent combination. Eg HCl, H2 and Cl2 molecules.
+
+Hydrogen combines with chlorine to form hydrogen chloride gas.
+
+Hydrogen atom combines with another hydrogen atom to form hydrogen molecule.
+
+ 77
+
+Chlorine atom combines with another chlorine atom to form chlorine molecule.
+
+Characteristics of covalent compounds.
+
+1. Covalent compounds consist of molecules. They are referred to as molecular compounds.
+
+2. They have low melting and boiling points.
+
+3. They are insoluble in water and other polar solvents.
+
+4. They are non-electrolyte
+
+5. They are usually soluble in organic solvents such as benzen and ethanol
+
+6. They are non conductors of heat and electricity.
+
+7.3 Co-ordinate Covalent Bonding:
+
+Is also known as dative covalent bonding. In this type of bonding, the shared pair of electrons
+(lone pair) are donated by only one of the participants.
+
+For dative covalent bonding to occur, one of the reacting substances must posses a lone pair,
+Ammonia and water molecules possess lone pairs which enable them to form dative covalent
+bond with hydrogen proton (H+).
+
+ Ammonia molecule (NH3) combines with hydrogen proton (H+) to form ammonium radical
+(NH4+).
+
+ 78
+
+Water molecule (H2O) combines with hydrogen proton (H+) to form oxonium ion (H3O+).
+
+Co-ordinate covalent bond is represented by an arrow pointing from the donor atom to the
+acceptor atom. Therefore ammonium and oxonium ions can be represented structurally as
+follows:
+
+These complexes are held together by co-ordinate covalent bonding:
+
+[Cu(H2O)4]2+ hydrated copper(ii) ion
+
+[Fe(CN)6]4- Hexacyanoferrate (ii) ion
+
+[Fe(CN)6]4- Hexacyanoferrate (ii) ion
+
+[Ag(NH3)2]+ silver diammine ion
+
+[Fe(CN)6]3- Hexacyanoferrate (iii) ion
+
+[Cu(NH3)4]2+ Tetraammine copper (ii) ion
+
+The substances that act as electron donor are water molecule (H2O), Cyanide ion (CN-), and
+ammonia molecule (NH3). They can be represent structurally as follows:
+
+ 79
+
+7.4 Metallic Bonding:
+
+It is an attractive force that held metal atoms together in crystal lattice. In a crystal lattice, the
+valence electrons of metal tend to separate from its orbital and move at random forming an
+electron cloud. The metallic ions formed tend to repel one another but are held together by the
+attractive force which exists between the electron cloud and the positively charged metallic ions.
+This force of attraction is referred to as metallic bond. This metallic bond increases with an
+increase in the number electron cloud and the positively charged metallic ions. This force of
+attraction is referred to as metallic bond. This metallic bond increases with an increase in the
+number of valence electrons for metals in a particular group. For instance, the decreasing order
+of metallic bond in the crystal lattice of sodium, magnesium and aluminum is as follows:
+
+7.5 Hydrogen Bonding:
+
+It is an intermolecular attraction between two dipoles which occurs when the positive pole of one
+molecule attracts the negative pole of another. The intermolecular force arises when hydrogen
+atom is covalently bonded to highly electronegative atoms like oxygen, nitrogen or fluorine.
+Because of the electronegativity difference between hydrogen and highly electronegative
+elements, the latter tend to pull the shared pair of electrons in the covalent bonds towards
+themselves. This brings about the formation of dipole. Hydrogen becomes partially positive and
+nitrogen, oxygen or fluorine becomes partially negative. As a result of this, electrostatic
+
+ 80
+
+attraction arises between the partially positive pole of one molecule and the partially negative
+pole of another molecule.
+
+Hydrogen bonding causes the trans association of molecules eg Hydrogen fluoride (HF) can exist
+as H2F2 (a dimer) or H3F3 (a trimer).
+
+7.6 Vander Waals Forces:
+
+It is first studied and described by a Dutchman named J. D. Van der Waals. Hence the force is
+given the above name. It is a weak force that exists between discrete molecules. It is very
+important in the formation of molecular lattices in iodine and naphthalene crystals. It is also
+important in the liquefaction of gases.
+
+7.7 Implications of Bond Type in Common Substances
+
+Camphor:
+
+Camphor is represented structurally as shown above. Its molecular formular is C1OH16O. It is a
+soft crystalline covalent compound. It is very slightly soluble in water but readily soluble in
+alcohol and ether. It is obtained from the wood and leaf of Cinnamomum camphora, a tall tree of
+ 81
+
+China, Japan and Taiwan. It has a characteristic strong but agreeable odour and is widely used in
+very small quantities in perfumery and medicines. It volatilizes very slowly. Its odour scars
+insects away and it is used in the preservation of cloths. Synthetic camphor is also in wide use
+now.
+
+Properties and Structures Of Solids: Solid Ionic Lattice eg. NaCl crystals.
+
+Properties of NaCl
+
+Sodium chloride exists as aggregate of ions.
+
+It is soluble in inorganic solvents such as water.
+
+It is a strong electrolyte either in an aqueous solution or in a fused or molten state.
+
+It is a high melting point crystalline solid. Silver bromide, AgBr crystallises in the same way as
+NaCl.
+
+Molecular solids
+
+ 82
+
+Sulphur has three allotropic forms in the solid state. Two well-defined crystalline forms are
+rhombic and monoclinic sulphur. An amorphous form is the plastic sulphur. The two crystalline
+forms consist of S8 molecules in which sulphur atoms are arranged in the form of a ‗puckered‘
+ring. Plastic sulphur consists of chains of sulphur atoms.
+
+Properties of iodine:
+
+Iodine is a black crystalline solid with a slight metallic lustra. At atmospheric pressure, it
+sublimes producing violet vapour. It is sparingly soluble in water but readily soluble in alkanol,
+ether, carbon disulphide, potassium iodide and tetrachloromethane.
+
+ 83
+
+The layers of CO2 solid crystals (dry ice) are bonded by weak van der Waal forces).
+
+Network structure eg. Diamond
+
+Diamond is very hard and non - volatile. It has a high density and it is a poor conductor of heat
+and electricity.
+
+Layer lattice eg. Graphite
+
+Graphite is very soft and resistant to chemical attack. It is shiny, black and opaque. Graphite is a
+good conductor of heat and electricity. It conducts electricity due to the presence of mobile
+electrons in the crystal lattice. Read graphite as an allotrope of Carbon in Chapter 21.4 of part I.
+
+ 84
+
+Bonding and Shapes of Simple Molecules
+
+Some examples of linear molecules are hydrogen, oxygen, chlorine, hydrogen chloride and
+carbon (iv) oxide molecules. They have linear shapes. Their shapes can be represented as
+follows:
+
+ Structure Formular Shape Name
+
+ H-H H2 Linear Hydrogen molecule
+
+ O-O O2 ― Oxygen molecule
+
+ Cl - Cl Cl2 ― Chlorine molecule
+
+ H - Cl HCl ― Hydrogen chloride gas
+
+ O=C=O CO2 ― Carbon(iv) oxide gas
+
+ Fig. 7.22
+
+Carbon (iv) oxide:
+
+In this molecule, CO2, the carbon atom is bonded to each oxygen atom covalently. The electrons
+in the covalent bonds experience mutual repulsion and produce a linear shaped molecule.
+
+Linear Molecule
+
+All these linear molecules are diatomic with the exception of CO2 which is triatomic. The bond
+angle in the linear molecules is 18Oo. Some examples of simple molecules with non-linear
+shapes are water and ozone. Each of them is triatomic. Their structures can be represented
+diagrammatically as follows:
+
+ 85
+
+Some examples of molecules with tetrahedral shape are methane and silicon(iv)oxide. They are
+covalent compounds. Their structures are represented thus:
+
+The inter bond angles in methane have the tetrahedral value of 109o 28`
+
+Ammonia, NH3:
+
+ 86
+
+An ammonia molecule consists of three hydrogen atoms bonded covalently to a nitrogen atom.
+A lone pair of electrons on nitrogen forces the bonding pairs closer together than in methane.
+The H - N - H angle is therefore reduced to 107o. The molecule of ammonia is trigonal pyramid.
+
+Water, H2O:
+
+In the water molecule, the oxygen atom has two bonding pairs of electrons and two lone pairs.
+Due to mutual repulsion, the two bonding pairs are still brought more closely together. The H-O-
+H angle is only 105o. The molecule is V - shaped.‘
+
+Exercises
+
+1. Name five types of bonding that held chemical substances together.
+
+2.a. Differentiate between covalent bonding and electrovalent bonding.
+
+ b. What are the types of bonding present in each of the following substances? (i). NH3
+ + 2+
+ (ii). CO2 (iii). CaO (iv). NaCl (v). NH4 (v). [Cu(NH3)4]
+
+3. What are the properties of covalent compounds?
+
+4. What is the difference between covalent bonding and co-ordinate covalent bonding?
+
+b. Write down two:
+
+ i. Covalent Compounds
+
+ ii. Co-ordinate Covalent substances or ions
+
+5. Define (a) Metallic bonding (b) hydrogen bonding (c) Draw the Structure of two
+ molecules of water showing how hydrogen bond held the two molecules together.
+
+6. What are the allotropes of sulphur?
+
+7. Write three properties of:
+
+ (a) Camphor (b) NaCl (c) Iodine
+
+ 87
+
+8. What are the differences between diamond and graphite?
+
+9. Has bond type any relationship with the properties of.
+
+ (a) Camphor (b) NaCl? Explain.
+
+1O. Name five simple molecules with linear shapes.
+
+11. Name two simple molecules with non-linear shapes.
+
+12. Draw the structure of: (a) CCl4 (b) SiO2 (c) CH4
+
+13. Why is the H-N-H angle in NH3 less than the tetrahedral value of 109o 18`?
+
+ 88

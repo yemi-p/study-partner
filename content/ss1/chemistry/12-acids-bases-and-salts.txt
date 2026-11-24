@@ -1,0 +1,680 @@
+TOPIC: Acids, bases and salts
+WEEKS: later
+TEACHER'S SCHEME: (not yet scheduled)
+
+=== SOURCE: Okoye ch.12 ===
+CHAPTER 12
+
+ ACIDS
+
+12.1 Acids
+
+Acid is a substance which when dissolved in water produces hydrogen ions (or protons) as the
+only positive ion.
+
+Examples of acid are:
+
+Hydrochloric acid HCl H+ + Cl-
+
+Tetraoxosulphate (iv) acid H2SO4 2H+ + SO2-4
+
+Trioxonitrate (v) acid HNO3 H+ + NO3-
+
+The process by which acids dissolve in water to produce hydrogen ions, H+, with the
+corresponding negative ions is known as ionization.
+
+Strong and Weak Acids
+
+Strong acids ionize completely in water to give hydrogen ions and anions. There is complete
+ionization of hydrogen ion in these acids. The concentration of hydrogen ions is very high.
+Examples of strong acids are:
+
+Hydrochloric acid HCl H+ + Cl-
+
+Tetraoxosulphate (vi) acid H2SO4 2H+ + SO2-4
+
+Trioxonitrate (v) acid HNO3 H+ + NO3-
+
+Weak acids are only partially ionized in water. There is incomplete ionization of hydrogen ions
+in these acids. The concentration of hydrogen ion is very low. Examples of weak acids are: -
+
+Ethanoic acid CH3COOH
+
+Trioxocarbonate (iv) acid H2CO3
+
+Tetraoxophosphate (v) acid H3PO4
+
+Trioxosulphate (iv) acid H2SO3
+
+Ethanoic acid has only 0.4% ionization in water.
+
+CH3COOH H+ + CH3COO-
+
+ 125
+
+12.2 Classes of Acids
+
+The two classes of acids are: -
+
+Organic acids and Inorganic acid or mineral acids. Organic acids occur in organic matter (plants
+and animals) while inorganic acids can be prepared from mineral elements or inorganic matter.
+The following are the organic acids:
+
+The following are the inorganic acids:
+
+Basicity of acids:
+
+Basicity of an acid is the number of replaceable hydrogen ions (H+) in one molecule of the acid.
+
+12.3 Basicity of some Acids
+
+Ethanoic acid react with sodium metal to form sodium ethanoate.
+
+CH3COOH(aq) + Na CH3COONa + ½H2
+Ethanoic acid Sodium Sodium ethanoate
+
+ 126
+
+Although ethanoic acid has four hydrogen atoms per molecule of acid, only on of them is
+replaceable by a metal. Ethanoic acid is, therefore said to be monobasic.
+
+12.4 Physical Properties of Acids
+
+1. Acids turn wet blue litmus red,
+
+2. Concentrated forms of strong acids are corrosive
+
+3. Dilute acids have sour taste. Vinegar and unripe fruit have sour taste due to the presence
+ of acid in them.
+
+N.B: When preparing a dilute solution of acid, always add concentrated acid to water. Never
+ add water to concentrated H2SO4 acid because, the hot acid solution may splatter unto
+ your face and body and cause serious burns.
+
+12.5 Chemical Properties of Acids
+
+1. With the exception of trioxonitrate (v) acid, acids react with some metals like zinc,
+ magnesium and iron to liberate hydrogen gas.
+
+ Zn(s) + H2SO4(aq) → ZnSO4(aq) + H2(g)
+
+ H2SO4(aq) + Mg(s) → MgSO4(aq) + H2(g)
+
+ 2HCl(aq) + Zn(s) → ZnCl2(aq) + H2(g)
+
+ 2HCl(aq) +Fe(s+ ) FeCl2(aq) + H2(g)
+
+ 2HCl(aq) + Mg(s) → MgCl2(aq) + H2(g)
+
+2. Acids react with bases to form salt and water only. This reaction is known as a neutralization
+ reaction.
+
+ HCl(aq) + NaOH(aq) → NaCl(aq) + H2O(l)
+
+ H2SO4(aq) + CaO → CaSO4(aq) + H2O(l)
+
+ H2SO4(aq) + 2KOH(aq) → K2SO4(aq) + 2H2O(l)
+
+3. Acids reacts with trioxocarbonate(iv) salts to liberate carbon(iv)oxide
+
+ i. CaCO3(s) + 2HCl(aq) CaCl2(aq) + H2O(l) + CO2
+
+ CaCO3(s) + H2SO4(aq) → CaSO4(aq) + H2O(l) + CO2(g)
+
+ K2CO3(s) + H2SO4(aq) → K2SO4(aq) + H2O(l) + CO2(g)
+
+ 127
+
+12.6 Preparation of Acids:
+
+Acid is prepared by direct combination of the constituent elements in the presence of a catalyst.
+The gas formed is then dissolved in water.
+ Activated charcoal
+i. H2(g) + Cl2(g) 2HCl(g)
+ Platinium
+ii. H2(g) + Br2(g) 2HBr(g)
+
+2. Acid is prepared by the dissolution of an acid anhydride in water. An acid anhydride is a non-
+ metallic oxide which dissolves in water to form acid. Some examples of acid anhydride are:
+ Carbon(iv)oxide, Sulphur(iv)oxide, Sulphur(vi)oxide etc.
+
+i. CO2(g) + H2O(l) H2CO3(aq)
+
+ii. SO2(g) + H2O(l) H2SO3(aq)
+
+ii. SO3 + H2O H2SO4(aq)
+
+3. Acid is prepared by the displacement of a weak acid or a volatile acid (from its salt) by a
+ strong acid.
+
+i. 2KNO3(s) + H2SO4(aq) K2SO4(aq) + HNO3(aq)
+
+ii. 2NaCl(s) + H2SO4(aq) Na2SO4(aq) + HCl(g)
+
+Iii. HCl(g) + H2O HCl(aq)
+
+Uses of Acids
+
+1. They are used in the manufacture of drugs, fertilizers, soaps and detergents.
+
+2. Industrially, some acids are used as:
+
+ i. Drying agents
+
+ ii. Oxidizing agents
+
+ iii. Catalysts
+
+12.7 Bases
+
+A base is any oxide or hydroxide that dissolves in water to yield hydroxide ion, OH-, as the only
+negative ion.
+
+ 128
+
+Some common metallic oxides and hydroxides which are bases are:
+
+The metallic oxides are formed when the metals burn in air and they react with water to form
+their corresponding hydroxides:
+
+i. 4Na(s) + O2(g) 2Na2O(s)
+
+ Na2O(s) + H2O → NaOH(aq)
+
+ii. 2Ca(s) + O2(g) 2CaO(s)
+
+ CaO(s) + H2O(l) → Ca(OH)2
+
+12.8 Alkali
+
+Alkali is a base which is soluble in water.
+
+Examples of alkali
+
+ NaOH Sodium Hydroxide
+
+ KOH Potassium hydroxide
+
+ Ca(OH)2 Calcium hydroxide
+
+Ionization of bases
+
+KOH K+ + OH-
+
+NaOH Na+ + OH-
+
+Mg(OH)2 Mg2+ + 2OH-
+
+Ca(OH)2 Ca2+ + 2OH-
+
+Fe(OH)2 Fe2+ + 2OH-
+
+ 129
+
+12.9 Strong And Weak Bases
+
+A strong base ionizes completely in aqueous solution to produce negatively charged hydroxide
+ions, OH-, and the positively charged metallic ion. Examples of strong alkali are:
+
+NaOH Sodium hydroxide
+
+KOH Potassium hydroxide
+
+A weak base is a metallic oxide or hydroxide which is incompletely ionized in aqueous solution
+to produce relatively few ions. Examples of a weak base are:
+
+Ca(OH)2 Calcium hydroxide
+
+NH4OH Ammonium hydroxide
+
+Ca(OH)2 Ca2+ + 2OH-
+
+NH4OH NH4+ + OH-
+
+12.10 Physical Properties of Bases/Alkalis
+
+i. Concentrated form of the alkalis sodium hydroxide and potassium hydroxide, are corrosive.
+
+ii. Bases turn wet red litmus paper blue
+
+iii. Bases have a slippery or soapy feel.
+
+iv. Bases have a bitter taste.
+
+12.11 Chemical Properties of Bases/Alkalis
+
+Neutralization reaction: Bases react with acids to form salt and water only.
+
+Na+OH(aq) + HCl-(aq) NaCl-(aq) + H2O(l)
+
+Mg2+(OH)-2(aq) + H+NO-3 Mg2+(NO3)-2 + H2O(l)
+
+Hydrogen ion, H+, from the acid neutralized by the hydroxide ion, OH-, from the base to base to
+form the water molecules
+
+Neutralization reaction can be defined as the process in which acid react with a base or an alkali
+to form salt and water only.
+
+Or
+
+Hydrogen ion, H+, from the acid is neutralized by the hydroxide ion, OH-, from the base to form
+the water molecules
+
+ 130
+
+Neutralization reaction can be defined as the process in which acid react with a base or an alkali
+to form salt and water only.
+
+Or
+
+Neutralization is the combination of hydrogen ions, H+, and hydroxide ions, OH-, to form water
+molecules. A salt is also formed.
+
+ H+(aq) + OH-(aq) H2O(l)
+
+2. Bases react with ammonium salt to liberate ammonia gas.
+
+Ca(OH)2 +2NH4Cl(aq) Heat CaCl2(aq) + 2H2O(l) + 2NH3(g)
+
+KOH(aq) + NH4NO3(aq) → Heat
+ KNO3(aq) + H2O(l) + NH3(g)
+
+12.12 Uses Of Alkalis
+
+They are used in the manufacture of soap, glass, paper. Some alkalis are used in the softening of
+hard water.
+
+12.13 Measurement Of Acidity And Alkalinity (the pH Scale)
+
+pH is a negative logarithm of hydrogen ion concentration, or pH is - log [H+]. pH is a measure
+of hydrogen ion, H+, concentration. The number 7 on the pH scale represents the condition of
+exact neutrality. Numbers less than 7, that is, pH 6,5,4 etc indicate increasing acidity as the
+number decreases. Numbers greater than 7, that is, pH 8,9,10 etc indicate increasing alkalinity as
+the number increases.
+
+ 1 2 3 4 5 6 7 8 10 11 12 13 14
+ Decreasing acidity Increasing alkalinity
+ Neutral
+
+The pH value of a colourless solution can be obtained by adding a universal indicator or by
+spotting the liquid on a universal indicator paper. In both cases, a colour will appear from which
+the pH of the liquid can be decided.
+
+ 131
+
+Calculation of pH
+
+Example 1
+
+Find the pH of 0.1 mole NaOH
+
+Solution: H2O H+ + OH-
+
+ [H+] [OH-] Kw (ionic product of water)
+
+ [H+] [OH-] = 10-14
+
+ [H+] [10-1] = 10-14
+
+ [H+] = 10-14 = 10-14 x 10-1 = 10-13
+ 10-1
+
+ pH = 13
+
+Example 2
+
+Calculate the pH of 0.01M of KOH
+
+ [H+] [OH-] Kw (ionic product of water)
+
+ [H+] - [OH]- = 10-14
+
+ [H+][10-2] = 10-14
+
+ [H+] = 10-14 = 10-14+2 = 10-12
+ 10-2
+
+pH of the alkaline is 12
+
+Example 3
+
+Calculate the Ph of 0.1M HCl
+
+ [H+][OH]- = 10-14
+
+ [10-1] [OH]- = 10-14
+
+ [OH-] = 10-14 = 10-14 x 10-1 = 10-13
+ 10-1
+
+pH of the acid is 14-13 = 1
+
+ 132
+
+12.14 What is a Salt?
+
+A salt is a compound consisting of positive metallic ion and a negative ion derived from an acid.
+
+e.g. NaCl; Sodium chloride
+
+Na2SO4; Sodium tetraoxosulphate(vi)
+
+ZnCl2; Zinc chloride
+
+NaCl Na+ + Cl-
+
+Na2SO4 2Na+ + SO2-4
+
+ZnCl2 Zn2+ + 2Cl-
+
+ii. A salt is the compound formed when all or part of ionizable hydrogen of an acid is replaced by
+ metallic or ammonium ions.
+
+Eg. NH4Cl: Ammonium Chloride
+
+ NaHSO4; Sodium hydrogen tetraoxosulpahte(vi)
+
+ Ca(NO3)2; Calcium trioxonitrate(v)
+
+ 2HCl(aq) + 2K(s) → 2KCl(aq) + H2(g)
+
+iii. Most salts, are products of neutralization reaction.
+
+E.g Acid + Base Salt + Water
+
+ H3O+ + OH- (Salt) + 2H2O
+
+ H3O+ Cl- + K+OH- K+Cl- + 2H2O
+
+ (H3O+)2 SO2-4 + K+OH- K+2SO2-4 + 4H2O
+
+12.15 Types Of Salts
+
+Five main types of salts are:
+
+Normal salt, Acid salt, Basic salt, Double salt, and Complex salt.
+
+Normal salt: Normal salt is formed when all the replaceable hydrogen ions in an acid have been
+completely replaced by metallic ions of a base.
+
+ 133
+
+Metallic ions of a base.
+
+E.g NaCl, CaCl2, MgSO4, Na2SO4. A normal salt contains no replaceable hydrogen, H+ or
+hydroxyl, OH-, ion. Aqueous solution of normal salt is neutral to litmus and it has a pH of 7.
+
+Acid salt: An acid salt is formed when the replaceable hydrogen ions in the acid are partially
+replaced by a metal. An acid salt contains replaceable hydrogen ion E.g NaHCO3; sodium
+hydrogen trioxocarbonate(iv). NaHSO4; Sodium hydrogen tetraoxosulphate(vi) Ca(HCO3)2;
+Calcium hydrogen trioxocarbonate(iv).
+
+A solution of an acidic salt turns blue litmus paper red, and it can react with excess alkali to form
+a normal salt and water. Eg.
+
+ NaHSO4(aq) + NaOH(aq) → NaSO4(aq) + H2O(l)
+
+ Ca(HCO3)2(aq) + Ca(OH)2(aq) → 2CaCO3(aq) + 2H2O
+
+Basic salt: A basic salt is formed when a base reacts with a limited quantity of an acid. That is,
+the oxonium ion, H3O+, is insufficient for the complete neutralization of the base. A basic salt
+therefore contains replaceable hydroxyl ions, OH-.
+
+Ca(OH)2 + HCl(aq) Ca2+(OH)- Cl-+ H2O
+
+Examples of basic salt are:
+ Basic salt
+Ca(OH)Cl; Calcium hydroxide chloride
+
+Zn(OH)Cl; Zinc ii hydroxide chloride
+
+Mg(OH)Cl; Magnesium (ii) hydroxide chloride
+
+A basic salt turns red litmus blue and reacts with excess acid to form a normal salt and form a
+normal salt and water.
+
+Mg(OH)Cl(aq) + HCl(aq) → MgCl2(aq) + H2O
+ Acid Normal salt Water
+
+Double salt: Double salt is a salt which ionizes to yield three different types of ions in solution.
+Two of than are positively charged (metallic ions) while the other is negatively charged. Eg
+
+(NH4)SO4 FeSO4 .6H2O Ammonium iron(ii) tetraoxosulphate(vi) hexahydrate
+
+KAl(SO4)2 .12H2O Ammonium potassium tetroxosulphate (vi) dodecahydrate
+
+Complex salt: This is a salt that contains complex ions. A complex ion is the ion consisting of a
+charged group of atoms. Eg
+
+ 134
+
+Na2Zn(OH)4: Sodium tetrahydroxozinate(ii)
+
+K4Fe(CN)6: Potassium hexacyanoferrate(ii)
+
+The complex salts ionize as follows to produce the complex ions:
+
+(Zn(OH)4)2- Tetrahydroxozincate (ii) ion
+
+and
+
+(Fe(CN)6)-4 Hexacyanoferrate (ii) ion
+
+Na2Zn(CN)6(aq) 2Na+(aq) + (Zn(OH)4)2-(aq)
+
+K4Fe(CN)6(aq) 4K+(aq) + (Fe(CN)6)-4(aq)
+
+12.16 Preparation of Soluble Salts
+
+Note: A method adopted for the preparation of a particular salt is dependent on two factors.
+These are:
+
+1. The solubility of the salt in water
+
+2. The stability of the salt to heat.
+
+The methods used in the preparation of soluble salts are:
+
+i. Reaction of an acid with a metal which is more reactive than hydrogen e.g Na, Ca, Zn,
+ Mg and Fe.
+
+ Ca(s) + 2HCl → CaCl2(aq) + H2(g)
+
+Ii. Neutralization reaction: Reaction between an alkali and acid
+
+ NaOH(aq) + HNO3(aq) → NaNO3(aq) + H2O(l)
+
+iii. Neutralization reaction: reaction between a hot dilute acid and an insoluble base.
+
+ H2SO4(aq) + CuO(s) → CuSO4(aq) + H2O(l)
+
+iv. Reaction between a dilute acid and trioxcarbonate (iv)
+
+ H2SO4(aq) + CaCO3(s) → CaSO4(aq) + H2O(l) + CO2(g)
+
+ 2HCl(aq) + ZnCO3(s) → ZnCl2(aq) + H2O(l) + CO2(g)
+
+The soluble salts can then be recovered from the solution by either evaporation to dryness or
+crystallization.
+
+ 135
+
+Preparation of Insoluble Salts
+
+Insoluble salt can be prepared by:
+
+i. Direct combination of the constituent elements.
+
+ 2Fe(s) + 3Cl2(s) → 2FeCl3(s)
+
+ Fe(s) + S(s) → FeS(s)
+
+ii. Double decomposition reaction.
+
+Two appropriate insoluble salts react to precipitate the required insoluble salt. The latter is then
+filtered, washed and dried. These insoluble salts that can be prepared by this method are; PbCl 2,
+PbI2, CaCO3, AgCl and BaSO4
+
+BaCl2(aq) + Na2SO4(aq) → BaSO4(s) + 2NaCl(aq)
+Soluble Soluble Insoluble Soluble
+ White ppt
+
+AgNO3(aq) + KCl(aq) → AgCl(s) + KNO3(aq)
+Soluble Soluble Insoluble Soluble
+ White ppt
+
+Na2CO3(aq) + CaCl2(aq) → CaCO3(s) + 2NaCl(aq)
+Soluble Soluble Insoluble Soluble
+ White ppt
+
+Pb(NO3)2(aq) + 2KI(aq) → PbI2(s) + 2KNO3(aq)
+Soluble Soluble Insoluble Soluble
+ White ppt
+
+Above reactions can be represented ironically as follows:
+
+Ba2+(aq) + SO2-4(aq) BaSO4(s)
+
+Ag+(aq) + Cl-(aq) AgCl(s)
+
+Ca2+(aq) + CO32-(aq) CaCO3(s)
+
+Pb2+(aq) + 2I-(aq) PbI2(s)
+
+ 136
+
+12.17 Water of Crystalization
+
+There are two kinds of salts.
+
+They are hydrated salts and anhydrous salts.
+
+Hydrated salts: are salts that contain water of crystallization. Anhydrous salts: are salts that
+contain no water of crystallization.
+
+Water of crystallization: is a definite or fixed amount of water associated with salts as they come
+out of solution.
+
+Although all hydrated salts (hydrates) are crystalline, not all crystalline salts are hydrates, eg
+NaCl, KMnO3.
+
+Examples of hydrated salts are CuSO4 5H2O Copper(ii)tetraoxosulohate(vi) pentahydrate.
+
+FeSO4. 7H2O Iron(ii)tetraoxosulphate(vi) heptahydrate
+
+Na2CO3. 10H2O Sodium trioxocarbonate(iv)decahydrate
+
+Other hydrates are; Zn(NO3)2. 6H2O; MgSO4. 7H2O; ZnSO4. 7H2O; Cu(NO3)2. 3H2O
+
+When the hydrated salts loose their water of crystallization as a result of heating, they become
+anhydrous or amorphous (shapeless).
+
+Some crystalline salts which are not hydrates are; NaCl, KNO3, (NH4)2SO4, KMnO4 etc.
+
+12.18 Efflorescent; Deliquescent and Hygroscopic Substances or Salts;
+
+Certain crystals (salts) containing water of crystallization gradually loose all or part of it, when
+they are exposed to the air and become anhydrous salts. Such salts are said to be efflorescent and
+the phenomenon is known as efflorescence. Examples of efflorescent salts are:
+
+ 137
+
+Na2CO3. 10H2O Sodium troxocarbonate (iv) decahydate.
+
+Na2SO4. 10H2O Sodium tetraoxosulphate (vi) decahydate.
+
+Some substances or compounds, when exposed to the air absorb enough water from the air to
+form solution. Such substances are called the deliquescent substances and the phenomenon is
+known as deliquescence. Examples of deliquescent compounds are:
+
+NaOH Sodium hydroxide
+
+KOH Potassium hydroxide
+
+CaCl2 Calcium chloride
+
+FeCl3 Iron(iii) chloride
+
+MgCl2 Magnesium chloride
+
+P2O5 Phosphorus(v)oxide
+
+Some substances when exposed to the air can absorb water but without dissolving in it. Such
+substances are said to be hydroscopic. Examples of hydroscopic substances are: CaO, CuO,
+NaNO3 and Conc. H2SO4. Concentrated H2SO4 absorbs water and becomes diluted.
+
+12.19 Uses Of Hydroscopic and Deliquescent Substances
+
+They are used as drying agents in the desiccators and in the laboratory for drying gases.
+
+Conc. H2SO4 cannot be used in drying NH3 gas because the gas can react with it.
+
+2NH3(g) + H2SO4(aq) (NH4)2SO4(aq)
+
+ 138
+
+Exercises
+
+1. What do you understand by these terms:
+
+ a. Acid (b) Strong acid (c) Weak acid (d) Organic acid (e) Inorganic acid. Write
+ two examples of each term
+
+2. Why is it not proper to add water directly to concentrated tetraoxosulphate(vi)acid when
+ diluting it?
+
+3. What are the two physical properties of acids?
+
+4. What are the two chemical properties of acids?
+
+5. Briefly explain two methods of preparing acids
+
+6. What are the industrial importance of acids?
+
+7. What do you understand these terms to mean?
+
+ (a) Base (b) Alkali (c) Strong base (d) Weak base
+
+ Write an example of each
+
+ 2. Write the ionization products of these bases
+
+ a. Mg(OH)2
+
+ b. Cu(OH)2
+
+ c. Na2O
+
+8. Write two physical properties of bases.
+
+9. Write one chemical properties of a base
+
+10. (a) What is pH?
+
+ (a) Calculate the pH value of 0.01M potassium hydroxide.
+
+11. What is a neutralization reaction?
+
+ Illustrate with an example
+
+12. Define these terms and give an example of each.
+
+ a. Salt (b) Normal salt (c) Acid salt (d) Basic salt (e) Double salt and
+
+ (f) Complex salt
+
+ 139
+
+13. Use chemical equations only to represent two methods of preparing soluble salt.
+
+14. Use chemical equations to show how insoluble salts can be prepared in the science
+ laboratory.
+
+15. What do you understand these terms to mean? Write an example of each.
+
+ (a) Hydrated salt (b) Anhydrous salt (c) Efflorescent salt (d) Deliquescent compound
+ (d) Hydroscopic substance.
+
+16. Can concentrated H2SO4 be used in drying ammonia gas? Why?
+
+ 140

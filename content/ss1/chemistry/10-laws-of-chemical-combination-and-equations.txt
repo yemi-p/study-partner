@@ -1,0 +1,492 @@
+TOPIC: Laws of chemical combination and equations
+WEEKS: later
+TEACHER'S SCHEME: (not yet scheduled)
+
+=== SOURCE: Okoye ch.5 ===
+CHAPTER 5
+
+ THE LAWS OF CHEMICAL COMBINATION
+
+The four laws of chemical combination are:
+
+1. The law of conservation of matter or the law of indestructibility of matter.
+
+2. The law of definite proportion or the law of constant composition.
+
+3. The law of multiple proportions.
+
+4. The law of reciprocal proportion
+
+5.1 The Law of Conservation of Matter or Mass.
+
+This law is also known as the law of indestructibility of matter. It states that matter can neither
+be created nor destroyed in the course of a chemical reaction, but changes from one form to
+another.
+
+Verification of the Law of Conservation of Mass
+
+The commonest reagents in the chemistry laboratory that can be used to verify this law are dilute
+tetraoxosulphate (vi) acid and barium chloride solution.
+ p u ll t h is s t rin g
+
+ d il t et ra o x o s u lp h a t e( v i) a cid s t rin g s
+ s o lu t io n
+
+ f o rm a t io n o f w h it e
+ b a riu m ch lo rid e p recip it a t es o f b a riu m
+ s o lu t io n t et ra o x o s u lp h u a t e( v i) s o lu t o n
+
+ w eig h in g b a la n ce
+
+ F i g 5 .1
+
+Method:
+
+1. Pour small quantity of dilute tetraoxosulphate(vi) acid into the conical flask.
+
+2. Suspend a small test tube filled with barium chloride solution in the conical flask by means
+ of two threads. See the above diagram.
+
+3. Cork the flask.
+
+ 49
+
+4. Weigh the flask and its contents with a chemical balance and record the mass.
+
+5. Pour the barium chloride solution into the dilute tetraoxosulphate (vi) acid by pulling the
+ thread attached to the bottom end of the small test tube.
+
+6. Shake the flask carefully to ensure complete reaction.
+
+7. Then weigh the flask and its contents again. Record the mass.
+
+Equation of the reaction
+
+ H2SO4(aq) +BaCl2(aq) → BaSO4(s) + 2HCl(aq)
+
+Observation
+
+When the two reactants come into contact, there is a visible reaction. A white precipitate of
+barium tetraoxosulphate (vi) is formed. This showed that a chemical change has occurred. The
+masses of the flask and its content are the same. It is therefore inferred that since the content are
+the same, before and after the reaction, the masses of the reactants and the products are equal.
+This experiment is a proof of the above law.
+
+5.2 The Law of Definite Proportion or Constant Composition.
+
+This law states that all pure samples of the same chemical compound (no matter the method of
+preparation) contained the same elements and combined in the same proportion by mass.
+
+Consider a pure water for instance, it does not matter whether its source is a river, well, sea, rain,
+spring etc., on electrolysis of acidified water, it must always contain hydrogen and oxygen in the
+ratio of 2:1.
+
+ Verification of the law of definite proportion
+
+This law can be verified in the laboratory by:
+
+1. Using two or three different methods to prepare pure samples of the same compound, and
+
+2. Analysing the samples to find out whether they contain the same elements and are combined
+ in the same proportion by mass.
+
+Method:
+
+Sample A is prepared by dissolving copper metal completely in Conc HNO3. The resultant green
+solution of Cu(NO3)2 formed is evaporated to dryness. Application of heat is continued till the
+residue decomposes to give black solid which is CuO. Keep this copper (ii) oxide dry in a
+desiccator.
+
+Cu(s) + HNO3(aq) → Cu(NO3)2 + 2H2O + 2NO2
+
+ 50
+
+2Cu (NO3)2(aq) 2CuO(s) + 4NO2(g) + O2(g)
+ black residue
+
+Sample B is prepared by heating (strongly) copper (ii) trioxocarbonate (iv) in a crucible till it
+decomposes to black residue (copper (ii) oxide) and carbon (iv) oxide. Store the black residue in
+a desiccators
+
+ CuCO3(s) → CuO(s) + CO2(g)
+ black residue
+
+Analysi
+ C o p p er( ii) o x id e C o p p er( ii) o x id e
+ S a m p le B S a m p le A
+ d ry h yd rogen
+ Stea m
+ h yd rogen
+
+ C o m b u st io n
+ tu b e
+
+ d ilu t e h y d ro ch lo rid e
+ a cid
+
+ f u se d c a lc iu m f u se d c a lc iu m
+ ch lo rid e ch lo rid e
+ zin c
+
+ F i g . 5 .2
+
+Method
+
+1. Samples A and B are placed in two heated porcelain boats in a combustion tube.
+
+2. A generated stream of dried hydrogen is made to pass through them. Each of the samples is
+ reduced to copper. The steam formed by the reaction between hydrogen and oxygen is
+ absorbed by the fused calcium chloride. The mass and percentage of copper in each sample is
+ calculated when the copper residue is cooled.
+
+ CuO(s) + H2(g) → Cu(s) + H2O(l)
+
+ 51
+
+Percentage of copper present =
+
+Sample A= 4 x 100 = 80%
+ 5 1
+
+Sample B= 4 x 100 = 80%
+ 5 1
+
+Percentage of oxygen present =
+
+Sample A= 1 x 100 = 20%
+ 5 1
+
+Sample B= 1 x 100 = 20%
+ 5 1
+
+Therefore % of Cu:O in CuO is
+
+ Cu : O
+
+ 80% 20%
+
+Ratio 4 : 1
+
+Conclusion:
+
+Pure samples of copper (ii) oxide prepared using different methods contain the same elements
+copper and oxygen and are present in a definite proportion or in a constant composition.
+
+5.3 The Law of Multiple Proportion
+
+The law states that if two elements X and Y combine to form more than one compound, then the
+masses of X which separately combine with a fixed mass of Y must be in simple multiple ratio.
+
+ 52
+
+Some examples of paired elements that can obey this law are:
+
+1. Copper and oxygen can combine to form more than one compound which are (a) black copper
+ (ii) oxide (CuO) and red copper (i) oxide Cu2O.
+
+2. Iron and chlorine combine to form two compounds-yellow iron (iii) Chloride, FeCl3 and green
+ iron (ii) chloride, FeCl2.
+
+3. Carbon and oxygen combine to form CO and CO2.
+
+4. Iron and oxygen combine to form brown Fe2O3 and black FeO.
+
+Verification of the law of multiple proportion.
+
+Method:
+
+1. Weigh two clean crucible labeled X and Y.
+
+2. Place a known quantity of Cu2O in X and CuO in Y.
+
+3. Put them in a combustion tube and heat very strongly.
+
+4. Reduce them to pure copper by passing a stream of hydrogen through the tube.
+
+Result:
+
+It was found that the different masses of copper which combine with a fixed mass of oxygen to
+form Cu2O and CuO is in the ratio of 2:1.
+
+Again, it was found that in the formation of CO and CO2, the different masses of oxygen which
+combine with a fixed mass of carbon is in the ratio of 1:2 ie CO and CO2 .
+
+12g of carbon combine with 16g of oxygen to form CO and 32g of oxygen to form CO2.
+therefore, the several masses of oxygen that combine with fixed mass of carbon is 16: 32 = 1:2.
+
+5.4 The Law of Reciprocal Proportions:
+
+This law states that the masses of different elements, A, B, C, which combine separately with a
+fixed mass of another element D, are the same as, or simple multiples of the masses in which A,
+B, C themselves combine with one another.
+
+5.5 Calculation Based on the Laws of Chemical Combination:
+
+Example 1:
+
+Three oxides of nitrogen contain 53.5%, 69.6% and 36.4% oxygen respectively. What law of
+chemical combination is illustrated by this data?
+
+ 53
+
+% of oxygen obtained on analysis 36.4%, 53.5%, 69.6%
+
+Ratio = 36.4 : 53.5 : 69.6
+
+ 1 : 1.5 : 1.9
+
+Ratio = 1 : 2 : 2
+
+The law illustrated is the law of multiple proportion.
+
+Example 2:
+
+Two oxides of lead, A and B weighing 0.446g and 0.717g respectively, on reduction with
+hydrogen left 0.414g and 0.621g of lead respectively, show that these figures are in accordance
+with the law of multiple proportion.
+
+% by mass of lead in the two samples
+
+Sample A Sample B
+
+0.414 x 100 0.621 x 100
+0.446 1 0.717 1
+
+ = 92.8% = 86.6%
+
+ratio = 92.8 : 86.6 = 1:1
+
+% by mass of oxygen in the two samples
+
+Sample A Sample B
+
+0.032 x 100 0.098 x 100
+0.446 1 0.717 1
+
+ = 7% = 13.7%
+
+Ratio = 7 : 13.7
+
+ = 1 : 2
+
+ 54
+
+The mass of lead is fixed. Therefore the masses of oxygen, which combine with a fixed mass of
+lead is in the ratio of 1:2.
+
+5.6 Chemical Equation
+
+Chemical equation is a shorthand method of representation a chemical reaction.
+
+1. Hydrogen combines with oxygen to form water OR Hydrogen burns in air to form water. This
+ statement can be represented thus:
+
+ H2 + O2 H2 O
+
+2. Magnesium burns in air to form magnesium oxide.
+
+ Mg + O2 MgO
+
+3. Potassium trioxochlorate (v) decomposes on heating to form potassium chloride and oxygen.
+
+ KClO3 → KCl + O2
+
+4. Calcium trioxocarbonate (iv) reacts with dilute tetraoxosulphate (vi) acid to form Calcium
+ tetraoxosulphate (vi), water and carbon (iv) oxide.
+
+ CaCO3(s) + H2SO4(aq) → CaSO4(s) + H2O(l) + CO2(g)
+
+Writing Chemical Equation
+
+1. In writing chemical equation, we represent an element by its chemical symbol and a
+ compound by its chemical formula.
+
+Example:
+
+When oxygen reacts with hydrogen to form water, we write the equation thus:
+
+ Hydrogen combines with oxygen to form water
+
+ H2 + O2 H2 O
+
+2. The reactants are written on the left hand side of the arrow while the products are written on
+ the right.
+
+3. The reactants and the products are linked by an arrow. The ―+‖ sign on the left side of the
+ arrow means ‗react with‘, while the ―+‖ sign on the right side means ‗and‘.
+
+Balancing of Chemical Equation
+
+The rules that must be maintained in balancing chemical equations are:
+
+ 55
+
+1. The total number of atoms of any element on the left hand side must be equal to the total
+ number of atoms of that element on the right hand side.
+
+2. Equations must always be balanced through the use of coefficients and not by changing the
+ subscript numbers written in the formulae.
+
+3. Common gases such as oxygen, hydrogen, nitrogen and chlorine are diatomic in their free
+ state eg O2, H2, N2 and Cl2.
+
+To balance: H2 + O2 H2 O
+
+Count the number of hydrogen atoms on the left side and then on the right side. There are two
+atoms of hydrogen on both sides of the equation. So it is balanced, but there are two atoms of
+oxygen on the left and one atoms on the right. Then, to balance it, we write 2 in front of H2O.
+
+ H2 + O2 → 2H2O
+
+Now, the number of hydrogen is 2 on the left side of the equation and 4 on the right side. To
+balance hydrogen, write 2 in front of H2 on the left side.
+
+The equation is now balanced. ie.
+
+ 2H2 + O2 2H2O (Balanced).
+
+ Mg + O2 MgO (not balanced)
+
+ 2Mg + O2 2MgO ( balanced)
+
+ KClO3 KCl + O2 (Not balanced)
+
+ 2KClO3 2KCl + 3O2 (Balanced)
+
+ CaCO3(s) + H2SO4(aq) CaSO4(s) + H2O(l) + CO2(g) (Balanced)
+
+.5.7 Calculating Reacting Masses and Volumes using Chemical Equations.
+
+When zinc reacts with HCl(aq), hydrogen gas is given off.
+
+ Zn + 2HCl ZnCl2 + H2
+ 1 mole 2 moles 1 mole 1 mole
+
+therefore 1 mole of Zn reacted with 2 moles of hydrochloric acid to form 1 mole of ZnCl2 and I
+mole of hydrogen.
+
+ 56
+
+Example 1:
+
+Calculate the mass of magnesium oxide formed when magnesium burns in oxygen to form the
+oxide. (Mg = 24, O = 16)
+
+2Mg + O2 2MgO
+(2x24) (2x16) 2(24+16)
+48g 32g 80g
+
+48g of Mg will react with 32g of O2 to form 80g of MgO
+
+Procedure:
+
+1. Write the chemical equation using chemical symbols and formula.
+
+2. Balance the chemical equations
+
+3. Do the calculation.
+
+Example 2:
+
+Calculate the mass of calcium oxide produced when 50g of calcium trioxocarbonate (iv) is
+heated. (Ca = 40, C = 12, O = 16)
+
+CaCO3 → CaO + CO2
+1 mole 1 mole
+
+40+12+(16x3) 40 + 16
+100g 56g
+50g ?
+ 56 x 50 = 28g
+ 100
+
+Example 3
+
+Calculate the volume of carbon (iv) oxide liberated when 30g of calcium trioxocarbonate (iv) is
+heated. (Ca =4O, C = 12, O =16)
+
+NOTE: The molar volume of any gas liberated at standard temperature and pressure (S.T.P) is
+22.4 dm3.
+
+CaCO3 → CaO + CO2
+1 mole 1 mole
+100g 22.4dm3
+30g 22.4 x 30
+ 100
+
+ 57
+
+ = 6.72 dm3 of CO2
+
+Example 4:
+
+Calculate the volume of carbon (iv) oxide liberated at 27oC and 750 mm Hg when 10g of
+calcium trioxocabonate (iv) is heated.
+
+(Ca = 40, C = 12, O = 16, Molar volume of a gas at S.T.P = 22.4 dm3)
+
+CaCO3 → CaO + CO2
+1 mole 1 mole
+100g 22.4dm3
+10g 22.4 x 10
+ 100
+
+ = 2.24 dm3
+
+convert the 2.24 dm3 at S. T. P. to the volume at 270oC and 750 mm Hg using the general gas
+equation. i.e.
+
+P1V1 = P2V2
+ T1 T2
+
+Where P1 = S.P = 760mm Hg
+
+ V1 = 2.24 dm3
+
+ T1 = S.T = 273K
+
+P2 = 750mm Hg
+
+ V2 = ?
+
+ T2 = (27 + 273) K + 300K
+
+ :. V2 = P1 V1T1
+
+ P2 T2
+
+ = 760 x 2.24 x 300 = 2.494dm3
+ 750 x 273
+
+The volume of CO2 liberated = 2.494dm3
+
+ 58
+
+Exercise:
+
+1. Write down in your exercise book, the four laws of chemical combination.
+
+2. State the law of
+
+a. Conservation of matter or the law of indestructibility of matter.
+
+b. Definite proportion or constant composition.
+
+3. 1.1g of an oxide of A contained 0.5g of A and 4g of another oxide of A contained 1.6g of A.
+ show these masses are in accordance with the law of multiple proportion.
+
+1. a. What do you understand by the term ―Chemical Equation‖?
+
+ b. Write two examples to show what a chemical equation is?
+
+2. Calculate the volume of carbon (iv) oxide liberated when 20g of calcium trioxocarbonate (iv)
+ is heated. (Ca = 40, C = 12, O = 16)
+
+3. Calculate the mass of copper (ii) oxide produced when 63.5g of copper is completely burnt in
+ excess oxygen. (Cu = 63.5, O = 16)
+
+4. Calculate the percentage of calcium in calcium trioxocarbonate (iv). Formula = CaCO3
+
+ (Ca = 4O, C =12, O =16)
+
+ 59

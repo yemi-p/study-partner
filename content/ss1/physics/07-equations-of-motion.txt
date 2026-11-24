@@ -1,0 +1,1215 @@
+TOPIC: Equations of motion
+WEEKS: 9
+TEACHER'S SCHEME: Applications of the equations of motion in real life
+
+=== SOURCE: Anyakoha Book 2 ch.2 ===
+Speed, Velocity and Accelera-
+
+tion
+
+In Chapter 1 we distinguished between scalars and
+
+vectors. We discussed the composition and
+
+resolution of vectors. In the present chapter we
+shall expand on our understanding of the concept of
+
+motion introduced in Book | (chapter 2).
+
+At the end of this chapter, the student should
+be able to:
+
+1 Know that speed is a scalar quantity while
+velocity and acceleration are vector quantities.
+
+2 Calculate the resultant velocity using simple
+example of motion of objects with one or two
+changes in direction.
+
+3 Show ona velocity-time graph the motion of a
+body with:
+
+(i) uniform velocity
+(ii) uniform acceleration
+(iii) variable acceleration.
+
+4 Deduce the distance covered between any
+intervals on the velocity-time graph.
+
+5 Deduce the three equations of motion from a
+velocity-time graph with initial velocity and
+constant acceleration.
+
+6 Explain the terms used in the equations of
+motion.
+
+From the preceeding chapters, we recollect
+that:
+
+a. Displacement is defined as the distance
+travelled in a specified direction. It is a vector
+quantity.
+
+b. Speed is the distance travelled in unit time. It
+is a scalar. If an object covers equal distances
+in equal intervals of time, then the object is
+said to have a constant or uniform speed.
+
+c. Velocity is the rate of change of
+displacement with time. It is a vector quantity.
+
+4d Acceleration is the rate of change of the
+velocity with time.
+
+Since velocity is a vector quantity we can find
+the resultant velocity using the parallelogram law
+of velocities, which we state as follows:
+
+If two velocities are represented in magnitude and
+direction by the adjacent sides of a parallelogram,
+“the diagonal of the parallelogram drawn from the
+point of intersection of the velocities represent the
+Tesultant velocity in magnitude and direction.
+
+We can also find the resultant velocity using the
+cosine rule. Thus if two velocities W and V2 are
+
+inclined at 6” to each other, the resultant velocity V
+is given by:
+V2 = Ve + VF +2V4Vp cosO
+
+2:1
+
+2.1 Velocity-time graph
+Suppose the velocities of an object moving along a
+straight line are given by the following table of
+values for the first 12 seconds:
+
+Vel(ms)[ o[ 2, 4] 6] 8 [10] 10
+time(s) [ott [2341516
+Velims=)] 107 8 | 6] 4 [2] 0
+time(s) | 71 8] 9 | of uf{
+
+If we plot these values on a graph, with velocity on
+the vertical axis and time on the horizontal axis, we
+shall obtain a graph as shown in fig. 2.1.
+
+uniform
+retardation
+
+(-ve acceleration)
+
+Oo
+1234 56 7 8910 1112
+
+Time (s)
+
+Fig. 2.1
+
+Velocity-time graph
+
+This is the velocity-time graph which depicts
+the motion of the object during this interval of
+time. Along OA the body is said to be moving
+with uniform acceleration because its velocity is
+increasing by equal amounts in equal intervals of
+time.
+change in velocity
+
+change in time
+AD
+~ OD
+
+Acceleration along OA =
+
+AD.
+OD is also equal to the gradient of the line OA.
+
+Hence acceleration along QA is equal to the
+— of OA. From fig. 2.1 this acceleration is
+=
+Along AB the body maintains the same
+velocity Over the time interval from 5 — 7 seconds.
+The body is said to be travelling with uniform or
+constant velocity. Because the velocity is uniform
+over the time interval, the acceleration over this
+period is zero. The gradient of the line AB is zero.
+
+2ms~*.
+
+Uniform acceleration is defined as the motion
+
+of an object whose velocity increases by equal
+
+amounts in equal intervals of time, however small
+| the time interval may be.
+
+An example of uniform acceleration is the motion
+of a body falling freely under gravity.
+
+Uniform or constant velocity is defined as |
+| the velocity of a moving body where equal
+distances are covered in equal time intervals —
+
+| however small the time interval may be.
+
+Along BC of fig. 2.1 the velocity decreases
+uniformly from 10 to O over the period from 7
+seconds to 12 seconds. The body is said to
+experience retardation or deceleration along this
+
+line.
+
+| Uniform deceleration means that the velocity
+| decreases by equal amounts in equal times, no
+matter how small the times may be.
+
+In fig. 2.1 the deceleration along BC is given by:
+change in velocity
+change in time
+
+10-0 1 2
+
+“pt @ ee
+If an object is thrown up into the air, it undergoes a
+uniform deceleration of about 10 ms~2 due to
+gravitational attraction. Retardation or deceleration
+may be regarded as negative acceleration. Its unit
+like that of acceleration is usually given as metre
+per second per second, (ms~?).
+
+Acceleration may be uniform or variable. It is
+a vector quantity, that is, it has both magnitude and
+
+direction.
+Variable acceleration
+
+Suppose we have a velocity-time graph as shown
+in fig. 2.2. Along OA, the acceleration is uniform,
+
+but along BCE, the acceleration is variable.
+
+deceleration =
+
+F
+
+variable
+acceleration
+
+uniform
+accelerati
+
+0
+
+Fig. 2.2 Uniform
+
+acceleration
+The acceleration is variable when the graph shows
+an irregular velocity variation as along BCE. Th,
+acceleration at a point C is given by the gradient of
+the tangent to the graph at this point.
+At C, the gradient to the tangent is:
+
+and Variable
+
+’ FG
+Gradient = 5G
+Thus acceleration = gradient of velocity-time
+
+graph.
+
+Distance from velocity—-time graph
+Consider the velocity-time graph shown in fig.
+2.33
+
+t
+oO E D ra)
+Fig. 2.3 Distance from velocity-time
+graph
+
+We can obtain the total distance travelled by the
+object during the time interval OC if the distances
+travelled during the time intervals OF, ED and D
+are known. During the interval OE, the distan*¢
+(S}) covered is given by:
+
+S| = average velocity x time
+
+. : OEXAE = area of triangle OAE-
+
+During the time interval ED, the object moves
+
+is
+
+with uniform velocity. The distance (S2) cover?
+given by: f
+Sp = AEX ED = area of rectangle ABD”:
+
+. 7 is
+In the time interval DC, distance (S3) covered
+
+given by:
+
+Ss; = + pexep
+
+2
+
+= area of triangle BDC.
+
+fhus the total distance covered by the object during
+the time interval OC is given by:
+
+; S= S, + S5 + S;
+
+This is equal to the sum of the areas of triangle
+‘OAE and rectangle ABDE and triangle BDC.
+
+fotal distance covered is given by the area under the
+
+re] locity-time graph or the aréa between the
+elocity-time graph and the time axis.
+
+‘The total distance can also be obtained by finding
+° the area of the trapezium OABC. This is given by:
+
+1
+S= 5 (nun of parallel sides) x height
+
+= 5 (AB+0C)x AE
+
+| Other types of velocity-time graphs
+(i) A ball thrown vertically upwards
+The velocity decreases uniformly from OP to zero
+as the ball moves up its highest level at time A and
+then increases uniformly as the ball returns to the
+ground level at time B. Thus the ball first
+undergoes a deceleration or retardation and then an
+acceleration. :
+
+(ii) A lift moving from one floor to another floor of
+
+a tall building ;
+The velocity of the lift increases to a maximum
+ero as the lift moves
+
+value and then decreases to 2
+from rest at one floor to a stop at the other floor.
+
+Total
+height
+covered
+
+The area under the velocity—time graph (area of
+OAB) represents the total distance covered.
+
+2.2 Equations of Uniformly
+Accelerated Motion
+
+We now wish to derive the equations of motion for
+a body travelling along a straight line with uniform
+acceleration.
+
+First equation of motion: v=u+at
+
+Let the initial velocity of a body moving in a
+straight line be u, its acceleration be a and the final
+
+velocity be v. Let the time of motion be t.
+Acceleration (a) is defined by:
+_ change in velocity
+
+time interval
+_vau
+~ t
+“ at=v—-u
+or v=utat
+
+2.1
+
+2nd Equation of Motion
+Let s be the distance covered in a time 1, with the
+initial and final velocities given by u and v
+
+respectively.
+ut+v
+
+Average velocity ¥ =
+From equation 2.1, v=u+at, hence
+_uturtat
+
+2
+Distance (s) covered = average velocity Xx time
+
+5 = (us Zar)
+2
+
+2
+
+er
+2
+
+1
+=ut+—at
+2
+127]
+Bigs ut cera 22
+
+3rd Equation of Motion
+We can obtain the third equation of motion with
+the use of equation 2.1 and 2.2. From equation 2.1
+we have
+
+v=utat
+From equation 2.2 we have
+2
+
+Zl
+
+1
+s=ut+—at
+If we square both sides of equation 2.1 we have
+
+v= u2 + Quat + at?
+
+1
+au + 2a(ut +54)
+=u? +2as
+Hence
+y= u? +2as
+
+The three equations of
+acceleration are:
+
+2.3
+motion with uniform
+
+vy =ut+ar
+Le
+
+Ss =ut+—at
+2
+
+v? =u? +2as
+
+where
+
+u = initial velocity
+
+v = final velocity
+
+t= time
+
+5 = distance
+
+a= uniform acceleration.
+Also s = average velocity xt
+
+s= Sty)
+
+Example 2.1
+
+A bus travelling at 60 kmhr7! accelerates uniformly
+
+at 5 ms~2. Calculate its velocity after 2 minutes.
+
+ie
+WESolution
+
+We first change the parameters to the units of
+
+metres and seconds.
+w= 60 lan! = 60 x 1000
+60 x 60
+
+t= 2 minutes = 120 seconds
+Using the relation:
+
+-1_ 50
+3
+
+=]
+
+voutat
+=D +5x2%60
+= 22 +600 = 6167 ms~!
+616.7
+x 60 x 60
+000
+
+= 2220.12 kmhr7!
+pea
+
+Example 2.2
+
+When the brakes are applied to a moving car
+travelling at 60 kmhr|, it decelerates at a uniform
+rate of 5 ms~2. Calculate the time taken to reach a
+
+velocity of 36 kmhr-!.
+
+ug
+0. Solution
+
+_ -1 _ 60x 1000 -_50_ 4
+u=60kmhr™ = 60x60 s 3 ms
+-1 361000 +1 -1
+= = =10
+vy = 36 kmhr 60x60 ms ms
+a =—5 ms? (because retardation is —ve
+acceleration)
+v=utat
+
+50 50
+Posistnce ms Yer pa = —-5
+10= 3 +(-5t) 3
+
+t= 1.33 seconds
+
+VSolut ion
+
+Example 2.3
+A car accelerates uniformly ata rate of |
+
+. : 0 me
+from an initial velocity of 36 kmhr-t pts
+
+3 fi SL epeegil for 3
+seconds. Find the distance covered during thi
+is
+
+period,
+
+ution
+u = 36 kmhr
+
+az=10 ms72, f= 30 sec.
+
+Ysol
+
+110 ms7!
+
+I
+From s=«ut+ al swe have
+
+5 =10%30+3 x 10%30%30
+
+= 300 + 4500
+= 4800 m
+= 4.8 km
+
+Example 2.4
+
+A body moving with an initial velocity of 30 ms7!
+accelerates uniformly at a rate of 10 ms~2 until it
+attains a velocity of 50 ms~!. What is the distance
+
+covered during this period?
+Esolut ion
+v* =u? +2as
+_ v2 =u?
+"2a
+_ 507-307 _ 1600
+"2x10 20°
+= 80m
+
+Example 2.5
+
+A bus moves from rest with a uniform acceleration
+of 2 ms~? for the first 10 s. It then accelerates at 4
+uniform rate of | ms-2 for another 15s: lt
+continues at a constant speed for 70 s and finally
+comes to rest in 20 s by uniform deceleration
+Draw the velocity-time graph of the motion using
+the information given above. From your graph ©
+otherwise, calculate:
+
+(i) the total distance travelled;
+
+(ii) the average speed for the whole journey:
+
+(iii) average retardation as the body is brough''
+Test;
+
+(iv) the maximum speed attained during the
+motion.
+
+\
+
+The velocity-time graph is as shown in fig. 2.6.
+
+From veutat=0+2x 10=20 ms!
+
+nts a velocity of 20 ms~!.
+
+“Velocity at B= v) = va +at
+
+= 204115 = 35 ms
+
+_ The line AB can now be drawn.
+
+represents the uniform speed of 35 ms"!
+attained and maintained for the next 70 s. CD
+
+Total distance (s) travelled is represented by
+the area between OABCD and the time axis.
+Area of OAG = 5; = 51020 = 100 m
+Area of trapezium GABF,
+
+sy = 4(20435)x15 = 412.5 m
+
+Area of FBCE = 35% 70 = 2450 m
+
+Area of triangle ECD = > 20 x 35
+
+=350m
+3312.5 m = 3.3125 km
+
+oem distance _ 3312.5
+i) Average speed="ie = 115
+
+Total distance =
+
+= 28.8 ms
+CE 35
+(iii) Retardation along CD = Ep = 20
+=1.75 ms™!
+
+(iv) Maximum speed attained =v) =35ms~! as
+
+already calculated.
+
+ample 2.6
+
+fake off distance for an aeroplane
+
+An aeroplane initially at rest, undergoes a constant
+acceleration of 2.5ms? down the runway for 30s
+ore it lifts off (see fig 2.7). How far does it
+ravel down the runway before taking off?
+
+Figure 2.7 Example 2.6 An airliner accelerates
+down the runway to gain enough velocity to
+become airbourne.
+
+Solution
+We assume the velocity u is zero. Using the
+
+relation |
+S =ut+ > at
+
+- 0+ x25 x 30?
+= 1125m
+
+Example 2.7
+
+Stopping distance for car
+
+A bus driver moving at a velocity of 100km/hr
+suddenly sees as goat crossing the highway 49m
+ahead (see Fig.2.8). He hits hard on his brakes to
+get a maximum retardation of 8.0m/s’. How far
+will he go before stopping? Can he avoid hitting
+the goat?
+
+Acceleration
+8.0m/s
+
+Distance
+traveled
+
+Fig. 2.8
+
+Figure 2.8 Example 2.8: Can you stop quickly
+enough to avoid hitting the goat?
+
+Solution
+We use the relation
+v= u°— 2as
+0 = (27.78)°"-2 x 80x 5
+_ (27.78) _
+$= 7x8 = 48.23m
+
+But the goat is 49m away.So the bus will barely
+stop before the goat. He will justavoid hitting the
+
+goat.
+129
+
+Scanned with CamScsnner
+
+2.3 Motion Under Gravity -
+Free fall
+
+It is a common experience that when an object (e.g.
+a stone) is thrown upwards, it rises to a particular
+height and then falls back to the ground. When the
+object is thrown up it experiences a retardation due
+to the gravitational attraction of the earth which
+tends to pull the object downward. The stone will
+thus gradually lose Speed as it moves upwards until
+it comes to rest briefly at the highest point and
+begins to fall downwards. As it falls its speed
+gradually increases because of the acceleration due
+to gravity (g = 9.8 ms~?-), At this stage the stone is
+falling freely under the action of gravity.
+
+The acceleration of free fall due to gravity (g)
+is the force of attraction of the earth on a unit mass.
+This force is a vector quantity. [F = mg; if m= 1,
+F = g). The value of g varies on the surface of the
+earth because the earth is not a perfect sphere but
+
+elliptical in shape. Also the earth rotates about its
+polar axis.
+
+When the stone is moving upwards its
+acceleration is —g, because its motion is in opposite
+direction to the gravitational attraction on the body.
+When the body moves downwards, the acceleration
+is taken as +g because motion is in the same
+
+direction as the direction of the gravitational ~
+
+Xe
+
+attraction of the earth on the body.
+
+The equations of motion for a body moving
+under gravity are obtained by replacing s and a of
+equation 2.1 to 2.3 by h and g where h is the
+height of the object above the ground and g is the
+acceleration due to gravity. When the body moves
+upwards a = -g, when it moves downwards, a =@.
+Thus the equations of motion under gravity are
+given by:
+
+Laas. ; 3 2.4
+h eutse 2.5
+| v2 =u? +2gh 2.6
+
+We use the negative sign when motion is upwards
+and the positive sign when motion is downwards,
+
+When a body is released from a height above
+the ground, the initial velocity uis zer0. When it is
+thrown upwards, its velocity, v, at its highest point
+is zero. It has its maximum velocity when it hits
+the ground again.
+
+solution
+
+Fig. 2.7 Movement of a body thrown
+upwards
+
+Example 2.6
+A ball is released from a height above the
+Find its velocity after 5 seconds. Ta
+
+10 ms~2.
+
+8tound,
+Ke 8 as
+
+v=ut+at
+=0+10x5
+
+= 50 ms~!
+
+———
+
+Example 2.7
+
+A cricket ball is thrown vertically upwards with an
+initial velocity of 40 ms~!. Find:
+
+(i) its velocity after 3 secs.
+
+(ii) the maximum height attained and the time
+taken to reach it.
+
+(iii) the total time taken for the ball to retum to
+
+the ground again. Neglect air resistance.
+AeSolution
+
+@) u=40ms"!, a=~g; 1 = 3 secs.
+Using the relation
+v=ut+at =40-10x3
+= 40-30
+=10 ms~!
+(ii) Let the maximum height be h (m)
+At maximum height, v=0
+Using v* =12 —2gh
+0=40x40-2x10xh
+40x 40
+he
+20
+=80m bg
+== . j
+Let time taken to reach this maximum hel
+be t seconds.
+From v = u— gt
+0= 40-10
+t=4 secs, yn (0
+(iii) The total time taken for the ball to ret
+
+taker
+the ground again is the sum of the ne
+
+to go up and the time taken to come ©° ine
+Let the time taken to come os 4 56
+ground from the highest point 5¢ nti!
+Then haute gt, where 41 the !
+
+|
+
+locity from the highest point = 0
+80=0+-x10x0?
+
+Total time taken = 4 + 4 = 8 secs,
+
+Note that the time taken to get to any height
+the ground is the same as the time taken to
+1 from that height to the ground. The
+mward motion is just a reversal of the upward
+on in every respect.
+
+mple 2.8
+A stone is thrown vertically upwards with an initial
+velocity, u ms~!. It reaches a maximum height and
+returns to the ground. Find an expression for:
+(i) the maximum height
+
+(ii) the velocity on hitting the ground.
+
+_ At maximum height, v = 0
+From v? =u? —2gh
+
+ 0=u2 -2gh
+2
+h=—
+2g
+
+(ii) Let the velocity on hitting the ground be v
+ms7!,
+
+From v* =u? +2gh
+v? =0+2gh
+v=j2gh
+
+(stone coming down)
+
+Example 2.9
+A body slides down an inclined plane which makes
+an angle of 30° with the horizontal. Neglecting
+
+friction, calculate: -
+a. the velocity of the body after sliding 10 m
+
+from rest. ;
+the time taken to slide the 10 m distance.
+
+i @=30"
+
+| Fig. 2.8 Motion along an inclined plane
+The motion down the plane is affected by the
+acceleration due to gravity (g). Since g acts
+
+wi
+
+vertically downward, we can resolve its effect
+parallel and perpendicular to the plane.
+
+Component parallel to the plane = g sin 30°
+Component perpendicular to the plane = g cos 30°
+Since motion is only along the plane, only the
+component of g parallel to the plane can affect it.
+Hence acceleration a= g sin 30°.
+
+Using v? =u? +2as
+v2 =0+2gsin30°x10
+=2x10x0.5x10
+= 100
+v=10ms7!
+
+Using v=ut+at
+v=0+gsin30°xt
+10 =10x0.5t = 5t
+t=2secs
+
+Summary
+
+1 Acceleration is the rate of change of
+velocity with time. It is a vector quantity.
+Uniform acceleration is the motion of an
+object whose velocity increases by equal
+amounts in equal time intervals however small
+the time interval may be.
+
+2 Uniform or constant velocity is the
+velocity of a body where equal distances are
+covered in equal time intervals however small
+the time interval may be.
+
+3 Ina velocity-time graph the area between the
+graph and the time axis gives the total distance
+travelled. ‘With uniform acceleration the v-t
+graph is a straight line.
+
+4 Equations of uniformly accelerated motions
+are:
+
+v=utat
+v* =u? +2as
+s=ut+tat
+2
+
+= Sus v)t
+
+5 For motion under gravity a = -g for upward
+vertical motion, and a = +g for downward
+motion.
+
+Exercise 2
+
+(Take g = 10 ms~?)
+
+1 A body starts from rest and moves with
+constant acceleration. Which of the following
+quantities varies/vary linearly with the square
+of the time?
+
+I Velocity Il Displacement
+
+TM Momentum
+
+A lonly B Ilonly
+
+C Ilonly D_ [and II only
+
+E Iland III only (SC/GCE)
+
+9
+
+A body which is uniformly retarded comes to
+rest in 10 s after travelling a distance of 20 m.
+Calculate its initial velocity:
+
+A OSms-! B 20ms-! C 4.0 ms~!
+D 20.0ms"' E 200.0ms-! (sc/GCE)
+
+The distance travelled by a particle starting
+
+from rest is plotted against the square of the
+
+time elapsed from the commencement of the
+
+motion. The resulting graph is linear. The
+
+speed of the graph is a measure of:
+
+A initial displacement
+
+B initial velocity
+
+C acceleration
+
+D half the acceleration
+
+E half the initial velocity (JAMB)
+
+A body moving with uniform acceleration a
+
+has two points (5, 15) and (20, 60) on the
+
+velocity-time graph of its motion. Calculate a:
+
+A 0.25 ms? B 3.00ms-?_C 4.00 ms~
+
+D 9.00 ms-2 E 16.00 ms-2 (SSCE)
+
+A mango fruit drops to the ground from the
+
+top of its tree which is 5 m high. How long
+
+does it take to reach the ground?
+
+A 10s B 20s C 30s
+
+D Ss E 05s
+
+Two buses of different makes are travelling in
+
+opposite directions at the same speed on a
+
+straight road. How far are they 40 seconds after
+
+they cross each other?
+
+A Twice the distance of one minus the
+
+distance of the other after crossing each
+
+other.
+
+Twice their velocities after crossing each
+
+other.
+
+Twice the distance of each from their
+
+crossing point.
+
+Half the velocity of one bus after crossing
+
+each other. .
+
+E Half the distance of each from their
+passing point.
+
+A body, projected vertically upwards from a
+
+certain height, hits the ground after a few
+
+seconds. It has its maximum speed:
+
+at the halfway mark travelling upwards
+
+at the halfway mark travelling downward
+
+at exactly its highest point
+
+just before hitting the ground
+
+just before it reaches its highest point.
+
+(SC/GCE)
+
+Calculate the height from which a body is
+
+released from rest if its velocity just before
+
+hitting the ground is 30 ms7!.
+
+A 15m B 45m C 60m
+
+D 90m E 75m.
+
+Neglecting friction, how many seconds would
+
+50 aA wD
+
+MOoOAwWw>
+
+- it take for the body at A (fig. 2.9) to roll down
+
+the inclined plane to B?
+
+A 05s B 10s C 805
+D 40s E 20s
+
+10 Which is the incorrect formula for a tie
+accelerating uniformly? y
+
+= vy? —u2
+
+A a= 2s
+
+B y2 =u? +2as
+2
+
+1
+C s=—ut+at
+2
+
+D v?-u? =2as
+
+E v=ut+at.
+
+11 Define resultant velocity. Two velocities 19
+ms7! and 15 ms7! are inclined at an angle of
+60° to each other, obtain the resultant velocity:
+(i) by graphical method
+(ii) by analytical method.”
+
+12 A man can row a boat at 4 kmhr7! in still
+water. He rows the boat 2 km upstream and 2
+km back to his starting place in 2 hours. How
+fast is the stream flowing?
+
+13. State the parallelogram law of velocities. A
+
+“plane is headed north with a velocity of 400
+
+kmhr7! and a west wind is blowing at 70
+
+kmhr~!, Find the distance of the plane from
+
+its base in 2 hours.
+
+14 Explain the meaning of uniform acceleration
+and deduce the expressions for:
+
+(i) the velocity acquired in a distance s, by 4
+body which starts with a velocity u and
+moves with a uniform acceleration a.
+
+(ii) the velocity acquired in a time t for the
+body with initial velocity u and uniform
+acceleration a. 13
+
+1S A body travelling at a velocity of 30 ms” i?
+a straight line is brought to rest by the
+application of brakes. If it covers a distance of
+100 m during this period, find the retardation.
+
+16 A ball is thrown vertically upwards from ‘1
+
+ground with an initial velocity of 50 ms °
+What is the total time spent by the ball in the
+air. (sscé)
+17 Define uniform acceleration. A plank is ra!
+at one end in order to form an inclined plane. st
+light freely running trolley travels from ee
+down the plane. The time to trave sa
+different points to the lower end of the ae
+are measured and the following results #!
+obtained:
+Distance/em | 0 | 50
+Time/s Ol 1.4)
+
+sed
+
+aw a graph to show that the acceleration is
+form and calculate its value. Use this value
+salculate the velocity which the trolley
+wuld acquire if it travelled 400 cm from rest
+ing the same inclined plane: (SC/GCE)
+
+efine uniform velocity, instantaneous
+locity; uniform acceleration. Show how,
+ym the velocity-time graph for a body:
+the acceleration at any instant,
+_ the average velocity, can be calculated.
+inguish between uniform acceleration and
+variable acceleration, Illustrate by means of
+locity-time graph. .
+velocity of a train is reduced uniformly
+from 40 kmsec™! to 30 kmsec™! while
+travelling a distance of 100 km:
+a. Calculate the retardation.
+b. How much farther will it travel before
+coming to rest, assuming the same
+retardation.
+Vrite down the equations of motion for a body
+falling freely under gravity.
+A bomb dropped from a balloon reaches the
+_ ground in 30 sec. Determine the height of the
+balloon:
+a. if it is at rest in the air
+‘b. if it is ascending with a speed of 100
+cms~! when the bomb is dropped. * ,
+An antiaircraft shell is fired vertically upward
+with a muzzle velocity of 1000 msq!.
+Calculate
+‘a. the maximum height it can attain,
+the time taken to reach this height,
+the instantaneous velocities at the ends of
+20 sec and SO sec.
+When will its height be 37.5 km?
+Interprete your result. Neglect air
+resistance.
+1) A train starts from rest from a station and
+‘travels with uniform acceleration 0.5 ms~ for
+20 s. It travels with uniform velocity for
+another 30 s, the brakes are then applied so
+‘that a uniform retardation is obtained and the
+“train comes to rest in a further 10 s. Sketch the
+yelocity-time graph of this motion. Using
+your graph calculate the total distance travelled
+by the train. (SC/GCE)
+} A ball thrown vertically upwards from ground
+Jevel hits the ground after 4 s. Calculate the
+maximum height it reached during its journey.
+: (SC/GCE)
+4 A ball is projected vertically upwards from the
+top of a tower 60 m high with a velocity of
+30 ms~!. What is the maximum height above
+the ground level? How long does it take to
+reach the ground?
+
+25 Explain the terms uniform acceleration and
+average speed.
+a. A body at rest is given an initial uniform
+acceleration of 8.0 ms~ for 30 s after which
+
+the acceleration is reduced to 5.0 ms~~ for the
+next 20 s. The body maintains the speed
+attained for 60 s after which it is brought to
+rest in 20 s. Draw the velocity-time graph of
+the motion using the information given above.
+b. Using the graph calculate the:
+(i) maximum speed attained during the
+motion.
+(ii) average retardation as the body is
+being brought to rest.
+(iii) total distance travelled during the
+first 50 s.
+(iv) average speed during the same
+interval as in (ili).
+(SSCE)
+26 (a) Explain what is meant by acceleration of
+free fall due to gravity, g.
+(b) State two reasons why g varies on the
+surface of the earth.
+(c) A stone is projected upwards at an angle
+30° to the horizontal from the top of a tower
+100m and it hits the ground at a point Q. If
+
+the initial velocity of projection is 100ms",
+
+calculate the
+
+(i) Maximum height of the stone above
+the ground. As
+
+(ii) Time it takes to reach this height.
+
+(iii) Time of flight. toad
+
+(iv) Horizontal distancce from the foot of
+the tower to the point Q (Neglect air
+resistance and take g as 10ms™“).
+
+27 (a) Explain the term uniform acceleration.
+
+(b) (i) Sketch and describe the velocity-time
+graph for the motion of a ball from
+the time its is “projected vertically
+upwards until it returns to the point of
+projection.
+
+(ii) Neglecting airresistance and using your
+sketch, explain how the acceleration
+of free fall due to gravity g, and the
+maximum height attained when the
+ball is projected vertically upwards
+can be determined.
+
+Astone is projected vertically upwards with
+a velocity of 20ms''. Two seconds later, a
+second stone is similarly projected with the
+same velocity. When the two stones meet,
+the second one is rising at a velocity of
+10ms‘!. Neglecting air resistance, calculate
+the:
+
+(i) Length of time the second stone is in
+motion before they meet.
+
+(ii) Velocity of Ahe first stone when they
+meet (take’g = 10ms”).
+
+~~
+
+(c

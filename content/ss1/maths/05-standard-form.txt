@@ -1,0 +1,70 @@
+TOPIC: Standard form
+WEEKS: 5
+TEACHER'S SCHEME: Writing numbers in index form; addition, subtraction, multiplication, division and square root in standard form
+
+=== SOURCE: NGM ch.1.3 ===
+Table 1.2 Powers of 10
+
+Example 8 . si
+Express the following in standard form.
+«© 567 © 97530 ~« 0-049 = 0.0078
+
+os » 567 = 5-67 x 100
+
+= 5-67 X 10?
+97 530 = 9-753 x 10000
+= 9-753 x 104
+¥ - 0.049 =49 x 0.01
+me =49 x 107
+@ a*=9 + 0.0078 = 7-8 x 0.001
+7 vies =78 x 10-3
+er 16 Exercise 1g (Oral or written)
+cies O5 Express the following in standard form.
+es = © 435 © 0-788
+: © 1903000
+
+© 067
+© 67000
+© 0.000048
+
++n, - 4
+
+- | 0
+epowerto -—_In Table 1.4, the figures 5682 appear
+number. Thus, immediately after 37.
+log 3-7 = 0:5682
+
+b 37=3-7 x 10
+= 37 KAO! (standard form)
+= 10°62 x 10! (from tables)
+y = nm, then x = log, y. = 1005682 +1
+
+Bute: » = 1015682
+, then x = logy y. 1
+
+i$ used in calculations are normally Hence log 37 = 1-5682
+called common logarithms. © 3700 = 3-7 x 1000
+taken to mean log, 1000 = 3. = 3-7 x 103 (standard form)
+to write down the base when = 109568 x 103 (from tables)
+on logarithms (Table 1.3). = 10909682 +3
+: = 1035682
+Hence log 3700 = 3-5682
+
+Note how standard form helps when finding
+the logarithm of a number.
+
+Tn the logarithm of any number there are two
+
+parts, an integer (whole number) before the
+es decimal point and a fraction after the point
+10 = 1, the logarithm of (Fig. 1.1).
+
+bi 10 musi lie b
+A musi lie between 7356825.
+
+integer decimal fraction
+Fig. 1.1
+
+Look at the integers and the fractions of the
+results in Example 9. The logarithms of 3-7, 37
+and 3700 all have the same decimal fr:

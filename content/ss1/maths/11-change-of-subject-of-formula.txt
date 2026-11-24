@@ -1,0 +1,485 @@
+TOPIC: Change of subject of formula
+WEEKS: 11
+TEACHER'S SCHEME: Simple equations; change of subject of formula with roots, powers and brackets
+
+=== SOURCE: NGM ch.6 ===
+1 solve equations from word
+
+given values into a formula
+e subject of a formula.
+
+Teaching and learning materials
+Teacher: Wall charts of equations.
+
+Note: The first part of this chapter revises work
+covered in previous years.
+
+6.1 Equations
+
+lar numerical value. To solve an
+the real number value of
+
+the equation true.
+
+Subtract 4 from both sides of the equation.
+4+8-4=9-4 aes
+
+8x =5
+Divide both sides of the equation by 8.
+8x _
+8
+x=5
+
+$ is the solution or root of the equation.
+
+Check: When x = 2,
+LHS =4-4x2=4-2= :
+RHS = 9 - 12x $=9-7=1
+
+The equation in Example 1 was solved by the
+balance method. Compare the equation with
+
+a pair of scales. If the expressions on opposite
+sides of the equals sign ‘balance’, they will
+continue to do so if the same amounts are added
+to or subtracted from both sides. They will also
+balance if both sides are multiplied or divided by
+the same amounts.
+
+Exercise 6a (Revision)
+Solve the following equations.
+
+© 4x =3x45 @ Im=8+ Sm
+@ 2a=9-a © j@=3
+
+© sy+6=21 @ n-3=6
+
+© 4+3x=17 @ 15=4a+3
+
+© 3=3m-4 @ 5=%
+
+O %=8 @ & +5=13 + 4x
+@ m+4=16-30 © }x=18 oe
+
+© ty =9 : & ©
+
+=5+3b
+
+ae
+@ 3(5¢ ~ 1) = 4(3c + 2)
+
+@ 5m + 4) = 3(4m + 7)
+
+@ 22x - 5) = 3(x — 6)
+
+@ 5(a + 2) - 3(3a - 5) =1
+7(5n — 4) — 10(3n ~ 2) = 0
+@ 4(3x — 1) = 11x — 3(@ - 4)
+@ 5 + 2) + 3(v — 5) = 19
+@ 36 + 7y) + 2(1 — 5y) = 42
+@ 2 = 5(5z — 2) — 9(3z — 2)
+@ 3x — [3(1 + x) — 2x] =3
+
+Equations with fractions (revision)
+
+Always clear fractions before beginning to
+solve an equation. To clear fractions, multiply
+each term in the equation by the LCM of the
+denominators of the fractions,
+
+Example 3
+Solve the equation ox — 12 = 2y,
+
+Express the given equation as follows. _
+2x
+
+check the solution by abetivating e
+the unknown into the original equation.
+
+Exercise 6c
+Solve the following equations.
+xix41
+OFFg* 5
+© fa+th= 4s
+5d d
+2 =l+
+® iene tales
+© 3y-5=45
+Ok-h=h [WAEC]
+Sys Sy aT
+ert on ee ee
+© it5 S 0G
+Wd+7,d-5_
+Ose tiggr rt?
+6a+3 _2a-1
+OST us
+"2 @ w+2_9=2_4
+ation (6x — 1) = 3(3x + 2) — 2. : a, oie
+x -
+equation as follows. © 5 3 : eA
+eeeeeet? _ 2 @ #3548 [WAEC]
+d 4 is 20. Multiply every term @ 4n+1_41_2nt+5
+3 2 6
+
+© fda - 5) - Fa - 4) =§
+@ fey -5)=32Qy-N+%
+® Hex - 1) - 83 = 3x5)
+fete 2 te
+
+2 3
+2(5z—- 3) 3(5z— 2).
+ee)
+
+_ agrees with the data of the question.
+
+Example 8 ae:
+A trader buys n oranges at the rate of 5 oranges
+
+for 90. Eight of the oranges are bad. So she
+sells the rest at the rate of 4 oranges for #120
+
+and makes a profit of #900. Find n.
+
+If 5 oranges cost 90
+1 orange cost Y= 818
+n oranges cost 187
+8 oranges are bad
+number of oranges sold = 1 —
+If 4 oranges sell for 8120
+1 orange sells for wie
+, (n — 8) oranges sell for (n — 8) X ao naira
+= 30(n — 8) naira
+Profit = selling price — cost price
+Tn naira,
+900 = 30(n — 8) — 18n
+900 = 30n — 240 — 18”
+
+8
+
+1140 = 12n
+n= lid = 95
+Check:
+
+vee of 95 oranges = 2 x N90 = 81710
+-P. of 87 oranges = 7 x 8120 = N2610
+
+Profit = %2610 — 81710
+= 6900
+
+same enone choose a letter to represent
+
+ai own quantity. Express the data of the
+question in terms of the letter. Form an equatio®
+and solve the equation. Check that the solution ,
+
+s three times as old as her
+er. Six years ago, the sum of their
+: 36. Find the age of the daughter.
+
+Pe nn walked for 2 hours at 6 km/h.
+
+_ He then cycled for a certain time at 16 km/h.
+_ Ifhe travelled 36 km altogether, for how
+many hours did he cycle?
+
+© A sum of 2440 is made up of 8100 and N10
+notes. There are six times as many 8100
+notes as there are $10. Find the number of
+#100 notes.
+
+© Anna has 8300 and Ojo has 811860. If Anna
+saves #50 a day and Ojo spends #70 a day,
+after how many days will they have equal
+ints?
+0) Divide 59 m€ into two parts so that one part
+. is 7mé less than five times the other part.
+
+(0) The result of taking 3 from x and multiplying
+the answer by 4 is the same as taking 3 from
+_ five times x.
+
+“a Express this statement as an algebraic
+
+nce find the value of x. )
+of 6 and one-third of n is one more
+en.
+
+8 this statement in pigrhseie terms.
+
+travelling at Speed. Hi
+
+that if he increases his average sp
+
+15 km/h the journey takes 1 Hen Es &
+Find his usual speed.
+
+© A water tank contains five times as much
+as another water tank. When 20 litres of
+water are poured from the first tank into
+the second, the first contains three times as
+much as the second. How much water did
+each tank contain originally?
+
+© A trader buys some eggs at #15 each. She
+finds that five of them are broken. She sells
+the rest at 20 each and makes a profit of
+340. How many eggs did she buy?
+
+© The result of adding 15 to x and dividing the
+answer by 4 is the same as taking x from 80.
+Express this statement as an algebraic
+equation.
+Hence find the value of x.
+
+© One stick is 9cm longer than another. 2 of
+the longer stick is equal to 3 of the shorter
+stick. Find the length of the longer stick.
+
+© Aman cycles to a village at 18 km/h and
+returns at 12 km/h. If he takes 6+ hours for
+the double journey, how far does he ride
+altogether?
+
+A total of m matches are needed to fill
+30 matchboxes with the same number of
+matches in each box.
+
+2 How many matches are in each box?
+© If each box has three matchsticks less,
+
+hore will he enquak seks fis 0 boars
+What isthe value of m? :
+
+from |
+sum of squares from 1 to
+eo eg.
+1)(2 x 40 +1
+mus Ie )
+
+_ 40 x 41 x 81
+6
+
+= 20 x 41 x 27 = 540 x 41
+= 22140
+— Sy = 22140 — 2870
+
+= 19270
+
+Sel
+
+The next example shows how to use a formula
+to find the value of a quantity that is not the
+subject of the formula.
+
+Example 11
+
+The formula F = *e + 32 shows the
+relationship between temperature in degrees
+cs O6im. Fahrenheit (F) and degrees Celsius (C). Find
+
+« Fwhen C = 40,
+
+©» Cwhen F = 100,
+
+© the feenperature when F = C. [WAEC]
+
+_9C
+F 5 + 32
+« When C = 40,
+
+F=2X% 4 x9
+
+es
+= 72 + 32 = 104
+_ The temperature is 104°F.
+
+y = 2x? — 5x — 3, find the value of y when
+
+a-l, bO, e1, d 2, e 3.
+
+© The formula A = P(t + a7) gives the total
+
+money, A, that a principal, P, amounts to in
+_ Tyears at R% simple interest per annum.
+Find the amount that a principal of 475 000
+becomes if invested for 5 years at 65%
+_ simple interest per annum.
+
+© The formula d = 7? + B + P” gives the
+length d of the longest diagonal in a cuboid
+of length /, breadth b and height A. (d, |, b
+_ and hare in the same units.) Find the length
+_ of the diagonal of a cuboid which is 6cm
+_ long, 2cm wide and 3 cm high.
+
+Find the value of 2 | when w= 37,1= 98
+: [WAEC]
+
+6 = 32.
+nula A = mr(r + 5) gives the surface
+acone of base radius rcm and
+t scm. Find the surface area of
+value 7 for 7.
+
+number of pages to be sent.
+
+a Find the cost of sending an e-mail of 25
+
+b If it costs #800 to send an e-mail message,
+how many pages does it contain?
+
+® The formula b = 40 + 30 is used to work out
+the electricity bill, b naira, for a month in
+which W kilowatt-hours of electricity are used.
+a Find the bill for a month in which 705
+kilowatt-hours are used.
+b Find the number of kilowatt-hours used by
+a consumer who receives a bill for #1 306.
+
+© The formula d ~ s/t gives the approximate
+
+distance, dkm, of the horizon which can be
+
+seen from a point hm above ground level.
+
+a Find the approximate distance of the horizon
+from the top of a building 72m high.
+
+© From the top of a tower, a student can see
+for about 35 km. How high is the student
+above ground level?
+
+c of subject of formulae
+
+It is often necessary to change the subject of a
+formula. To do this, think of the formula as an
+equation. Solve the equation for the letter which
+is to become the subject. The following examples
+show how various formulae can be rearranged to
+change the subject.
+
+Example 12 :
+Make x the subject of the formula
+hee ae
+
+3 If more than one term contains the subject,
+take it outside a bracket (i.e. factorise).
+
+4 Divide both sides by the bracket, then
+simplify as far as possible.
+
+Exercise 6f
+
+Make x the subject of the following equations.
+@xt+a=b @ a-x=b
+© a=b © ax + bx=c
+
+© a+b=x a
+x
+
+x
+x~+tb=e
+a
+
+@® 2
+
+x -
+
+© a eee
+
+© xa - b) = b(c — x)
+_ 2b +3
+
+Ou 5-5
+
+@ Vx =a
+
+@ f-.
+
+@ ax=b
+
+@ jZ-»
+
+the subject of the formula. If
+is given, make each letter the subject in turn.
+
+CSc = eee h r
+@ P=aW+b Ww
+@ p=N%2 N,D
+@aAz p+ RE T,P
+© v= wv + 2as Su
+© s=Fatd nl
+@ S=2a(rt+h) h
+@ k= b
+© S = 4a r
+v= ahe(r — 2) r [WAEC]
+
+}: Express kin terms of 7 © te ae Ww
+Bea.warc) © Ea R
+
+: © T= re — 5mg K [WAEC]
+D an —
+
+ree © Pas aol [WAEC]
+
+@o-e sc M q _ [WAEC]
+
+_ [WAEC]
+
+ay
+
+scofind dit Sy = 36 anda = 2
+Dita lie tise ff, sioce oh
+
+® The energy E possessed by an object of
+mass mkg travelling at a height Am with a
+velocity v m/s is given by
+
+E= my + mgh joules.
+
+a Express v in terms of the other letters,
+
+b Ifthe energy of a 20kg mass at a height
+of 15m is 4900 joules and g = 9-8, how
+fast is the mass moving?
+
+The formula V = harP(2r + h) gives the
+volume V of a solid consisting of a cone
+of height h and base radius r attached to a
+
+a=4,b=1andy = —2, hemisphere of the same radius.
+
+[WAEC] a Change the subject of the formula to h.
+
+b Hence calculate the height of the cone, if
+the solid has a volume of 55 cm? and the
+
+common radius is 24cm, (Use the value 2
+for 7.)
+
+If a wire L metres long is stretched tightly
+between two points at the same level d metres
+apart, the sag in the middle of the wire is
+
+s metres, where s = | a eee
+
+a Change the subject of the formula to L. q
+
+b Find the length of the wire if d = 16 and
+s=06. ae
+
+ed in terms of all the other
+For example, V is the subject of
+Wi € xX bX h.
+
+itution to find the value of the
+of a formula (or of any of the other
+
+la as an equation to be solved
+that is to become the new
+<amples 13-16):
+
+/ clearing fractions, brackets and
+
+so that all the terms
+w subject are on one

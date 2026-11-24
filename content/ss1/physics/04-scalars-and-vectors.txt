@@ -1,0 +1,984 @@
+TOPIC: Scalars and vectors
+WEEKS: 4
+TEACHER'S SCHEME: Definitions, differences, addition and resolution of vectors
+
+=== SOURCE: Anyakoha Book 2 ch.1 ===
+Quantities in Physics can either be classified as
+scalars or vectors. These classes of physical
+quantities are usually handled differently when used
+in numerical calculations.
+
+At the end of this chapter the student should be
+
+able to:
+
+1 Explain the concept of scalars and vectors.
+
+2 Distinguish between scalar and vector
+quantities and their representation.
+
+3. Compose at least two vectors.
+
+4 Explain the meaning of the resultant of two
+
+vectors.
+
+Resolve a vector into a given direction.
+
+Resolve any number of vectors into two
+
+components at right angles to each other.
+
+7 Solve simple problems involving resolution
+and addition of vectors using analytical and
+graphical methods.
+
+1.la Concept of Scalars
+Many measurable physical quantities we encounter
+in our study of physics have only numerical values
+attached to them. Such quantities are completely
+described when only their magnitudes or sizes are
+known. Examples of such quantities are length (or
+distance), mass, volume, density, time, speed,
+temperature, and energy. They are known as scalars
+or scalar quantities.
+| Scalar quantities are those which have only
+"magnitude or numerical value but no direction.
+
+an
+
+Thus a speed of 50 kmhr~! can either be
+measured in a straight path or a circular path since
+no direction was indicated. A temperature of 100°C
+is a number in some scale, it has no directional
+property. Scalars are added by ordinary algebraic
+methods, e.g. addition of volume, 5 cm} + 10 cm3
+= 15 cm?.
+
+1.1b Concept of Vectors
+
+On the other hand, many other measurable physical
+quantities have both magnitude or numerical value
+and also direction as well. Such quantities are not
+completely described unless their magnitudes and
+directions are specified. These are known as vector
+quantities. Examples are displacement, velocity,
+enn, weight, force, momentum, electric
+
+ield.
+
+Vector quantities are those which have both
+
+| magnitude (or size) and direction.
+
+Thus a displacement is a distance measured in
+a specified direction, e.g. a bird flies a distance of
+100 km in a north-easterly direction. Velocity is a
+speed in a specified direction e.g. a car travels due
+west at 90 kmhr!.
+
+Vectors are added by geometrical methods. We
+can therefore distinguish between scalars and
+vectors by noting that whereas scalars have only
+magnitude or numerical value, vectors have both
+magnitude and direction. We cannot specify a vector
+completely unless both its magnitude and direction
+are included but we can describe a scalar completely
+by indicating only its magnitude.
+
+~ Also whereas scalars are added by ordinary
+arithmetic, vectors are added by geometric methods.
+
+1.2 Vector Representation
+‘Since a vector quantity has both magnitude and
+direction, we represent such a vector by a straight
+line which has an arrowhead indicating the direction
+of the given vector. The length of the line is drawn
+proportional to the magnitude of the vector, the
+arrowhead is always drawn so that it points in the
+direction of the vector.
+
+For example in fig. 1.1, the lines with arrow
+heads have been drawn to represent the velocity ofa
+cyclist at various places as he moves through a
+
+winding road. The magnitude of the velocity can be
+read off from this figure by measuring the length of
+the corresponding lines (and converting into actual
+figures using the given scales). The arrow heads
+show velocity vector at each position.
+
+We represent a displacement of 300 km to the
+East by the straight line AB (fig. 1.2a), 3 cm long,
+which points towards the east from our chosen
+origin. The scale used for the representation is 1 cm
+to 100 km.
+
+{ North
+
+|
+} }
+|
+i 90°
+DY
+| A 3cm
+| a. Scale 1 cm to 100 km
+| N
+
+B East
+
+b. Scale | cm to 10 kmhr-!
+| Fig. 1.2
+
+ane
+
+Fig 1.2b represents a velocity of 50 kmhr7! in
+a direction North 60° E (or 60° East of North). We
+have used a scale of 1 cm to 10 kmhr"!.
+
+1.3 Addition of Vectors
+To add a speed of 10 kmhr~! to a speed of 30
+
+kmhr7!, we merely sum up the two magnitudes to
+obtain a speed of 40 kmhr-!. This is because speed
+is a scalar.
+
+10 kmhr- ] 30 kmhr-!
+P Q
+<—__—_—_——— 40 kmhr-! —_______.,.
+
+Fig. 1.3 Addition of speed
+
+Because vectors are quantities with Magni |
+
+direction, they must be added in a Specia
+
+Simple arithmetic cannot be used if two
+
+vectors are not along the same direction," "or |
+Let us start with a simpler case of —
+
+P and Q in the same direction. Their mn |
+
+resultant is given by R = P + Q. The direct;
+
+or
+; . On ofR
+is the common direction of P and Q.
+
+b
+
+Fig. 1.4 Vector addition
+
+Suppose two forces P and Q of 5 N and4y
+respectively act on a body in the same direction, the
+resultant force or net effect of the two forces js
+given by
+
+R=P+Q=5N+4N=9N.
+
+R is in the same direction as P and Q (fig. 1.4). If
+P and @Q are in opposite direction, then R is given
+by R=P-Q=5N-4N2E=IN. Since P>Q,R
+is in the direction of P (fig. 1.4b). If P = Q, then R
+=0,
+
+Suppose a boy walks a distance 2 km
+eastwards to a point A and then walks another
+distance 4 km westwards, his displacement (S) from
+his starting point is given by:
+
+S=4-2=2km westwards.
+
+4km
+
+R pce tings
+2km A
+2km
+
+Fig. 1.5 Vector addition |
+
+Simple algebraic addition or subtraction canne!
+be used if the two or more vectors are inclined at"
+angle to each other. For example, suppose 2 ™*
+Starts from A and walks 3 km eastwards and thet
+km southwards, his motion can be represen
+8raphically using scale drawings as shown in Oe
+1.6. AB represents a displacement of 3 km East *
+BC represents a displacement 4 km South. his
+Proper choice of scale we can obtain that jon
+resultant displacement is 5 km in the dire
+inclined at & = 53.13" to AB or at 36.9" Eas
+South.
+
+Fig. 1.6 Vector addition
+
+The same result can be obtained using Pythagoras 0°
+theorem and is given by
+
+AC? = AB? + BC? =9416 = 25
+AC= 25 =Skm
+The angle & is obtained using the relation
+
+tana == = 1.3333
+
+a=53.13°
+We can use Pythagoras theorem only when the two
+vectors are inclined at right angles to each other.
+
+The resultant vector is that single vector which
+would have the same effect in magnitude and
+direction as the original vectors acting together.
+
+There are in general two methods of adding or
+compounding vectors to find the resultant. These
+
+are:
+(i) the parallelogram method and
+(ii) the triangle method.
+
+The Parallelogram method
+
+The resultant of two vectors inclined to each other
+may be represented by the diagonal of a
+parallelogram drawn with the two vectors as
+adjacent sides. In this method, the two vectors are
+drawn from a common origin and a parallelogram is
+constructed using these two vectors as adjacent
+sides (fig. 1.7). The resultant is the diagonal drawn
+from the common origin.
+
+Fig. 1.7. Parallelogram of vectors
+
+The Parallelogram law of vectors states that if
+two vectors are represented in magnitude and
+direction by the adjacent sides of a parallelogram,
+the diagonal of the parallelogram drawn from the
+point of intersection of the vectors represents the
+resultant vector in magnitude and direction.
+
+Example 1.1
+
+Find the resultant of two vectors of 3 units and 4
+units acting at a point O at an angle of 45° with
+each other.
+
+Solution: By scale drawing
+
+Choose a suitable scale and draw the vectors OA
+and OB to represent 3 units and 4 units at an angle
+of 45° with each other.
+
+Complete the parallelogram by drawing AC parallel
+to OB and BC parallel to OA. Join OC.OC
+represents the resultant vector in magnitude and
+direction.
+
+By analytical method
+We can obtain the resultant vector by cosine rule:
+
+[7
+B
+
+4 units
+
+OC? = OA? + OB? -2(0A) x (OB) x cos 135°
+= OA? + OB? +2(O0A) x (OB) x cos(180°-135")
+
+= OA? + OB? +2(OA) x (OB) x cos 45°
+=9+16+2x3x4x0.7071
+OC = 6.48 units
+
+Using the sine rule, we have that:
+
+y
+
+”
+
+sing — Sin135° _ 0.7071
+BC OC OC
+sin 135°= sin(180 — 135°) = sin 45°
+BC x 0.7071
+
+oc
+
+a@=19.11°
+In general, if two vectors P and Q are inclined at 6°
+to each other, the resultant vector R is given by
+
+sina =
+
+R? = P? £97 +2PQcos6" Ll
+Example 1.2
+
+A man wishes to travel due north in order to cross a
+river 5 km wide flowing due east at 3 kmhr7!. If he
+can row at 10 kmhr7 in still water, find either by
+scale drawing or by calculation:
+
+(i) the direction in which he must head his boat
+in order to get to his destination directly
+opposite his starting point,
+
+the resultant velocity of the boat in the river,
+the time taken to cross the river,
+
+how far from his destination he would land if
+he ignorantly steers northwards.
+
+(ii)
+(iii)
+(iv)
+
+Me
+Solution
+In order to move north when the river flows
+eastward, the man must steer his boat in a direction
+
+west of north.
+
+Destination
+3 oN
+
+resultant
+
+river current
+
+e rows in the direction N 6° W as
+shown in fig. 1.10
+
+(i) | Suppose h
+
+then sin & = 10
+
+@ =sin7! 0.3 = 17° 27. a
+
+He must head his boat in a direction North
+17° 27' West or 17° 27' West of North.
+
+ON? = OW? - WN?
+
+v2 =107-3? =91
+
+v=¥91 =9.54 kmhr7
+
+(ii)
+
+(iii) Time =
+
+distance
+velocity
+
+a ;
+= 9.54 of = 314 minutes
+
+(iv) If he steers northwards, the current of
+
+Activity 1.1:
+
+y 3. kmhr-!
+10 kmhr-! y
+
+a. velocity vector
+Fig.
+
+stream will carry him eastwards $0;
+distance X km beyond his destination N,
+
+N Xkm
+
+Ly
+
+b. displacement vector
+
+1.11
+
+To find the resultant of
+
+two forces using a force board and slots
+of weight
+
+1
+
+Attach a sheet of drawing paper firmly ontoa
+drawing board. Set up the drawing board
+vertically.
+
+Attach slots of weight of about 30 g and 408
+to the ends of a string and pass the string over
+the pulleys as shown in fig. 1.12.
+
+b.
+Fig. 1.12 Force board experiment |
+
+Tie a second length of string carrying a slot of
+weight of about 60 ¢ to the first string at O
+Allow the system of strings and weights to
+seitle.
+
+Under this settled or equilibrium condition,
+make small pencil crosses on the paper, as far
+apart as possible to mark the positions of the
+threads
+
+Remove the paper from the board and join the
+crosses by pencil lines to represent the
+directions of the forces OP, OQ and OC.
+
+6 Using a convenient scale mark off lengths OA,
+OB, and OC to represent the forces 0.3 N,
+
+0.4N and 0.6 N along the respective string ‘
+
+segments.
+7 Complete the parallelogram OARB and draw
+its diagonal OR. Measure OR.
+If the experiment was properly carried out, OR
+will be found to be approximately equal to OC,
+which is the resultant of the forces represented by
+
+OA and OB. This verifies the parallelogram law of
+forces.
+
+Finding resultant of two
+
+triangle method
+
+Suppose we want to find the resultant of two
+
+vectors P and Q inclined at an angle 0 (» 60°) to
+
+each other The steps for obtaining this resultant
+
+using the tnangle method is as follows
+
+1 Starting from a point O, draw OA (according
+to scale) to represent P
+
+2 Next draw the second vector Q to scale, placing
+its tail at the tip of the first vector P, ensuring
+its magnitude and direction are correct
+
+vectors by
+
+Fig. 1.13 Resultant veetor by triangle
+
+| method
+
+3 Finally draw OB to complete the triangle as
+shown in fig. 1.13. OB represents R the
+resultant vector in magnitude and direction
+
+Example 1.3
+
+Two forces § N and 4 N are inclined to each other
+
+at 30°, Find the resultant force by the triangle
+method.
+
+4 | r
+SOluULION
+
+Draw OA = 5 cm to represent the 5 N force using a
+scale of | cm = 1 N. From the tip A, draw AB = 4
+cm inclined to OA extended at 30° as shown in fig
+
+1.14. Join OB which represents the resultant vector
+in magnitude and direction
+
+Fig. 1.14
+
+|
+
+Measure OB, and angle AOB. Find the magnitude
+of R using the chosen scale. The resultant is equal
+to 8.7 N approximately.
+
+You can see from the above example that this
+method is the simplest way of finding the resultant
+of two forces.
+
+1.4 Resolution of Vectors,
+
+Components
+Two vectors can be combined or composed to
+obtain a resultant vector as already discussed in the
+preceeding sections. This resultant vector will have
+the same effect as the two vectors acting together at
+that point. The reverse process of finding two
+. vectors which have the same effect as a resultant
+vector is also possible, through a process known as
+resolution of vectors.
+
+Consider first a vector V which lies in an x-y
+plane. This vector can be expressed as the sum of
+two other vectors called the components of the
+original vector V.
+
+The component of a vector in a given direction is
+its effective value in that direction.
+
+For example, the horizontal component of a vector
+is its effective value in a horizontal direction. The
+process of finding the components of a vector is
+known as the resolution of the vector into its
+components. It is customary and most useful to
+resolve a vector into components along mutually
+perpendicular directions, usually the horizontal or x-
+direction and the vertical or y-direction.
+
+Suppose a vector V is inclined at an angle 8 to
+
+a horizontal direction:
+
+V,
+Fig. 1.15 Resolution of vectors
+
+AysSolution
+
+The horizontal component of the vector yj, 5
+Ven
+
+by:
+
+V, = Vcos@
+The vertical component of Vis given by
+Vy = Vsin@ 13
+
+v, and V, are at right angles to each other,
+
+In fig. 1.16, a boy is pulling his toy car with
+rope attached to the toy at 30° to the horizon
+direction.
+
+If the boy pulls with a force of F newtons, the
+effective force that pulls the toy in a horizontal
+direction is given by
+
+F, = Fcos30°
+The effective force that tends to pull the toy in an
+upward or vertical direction is given by
+
+F, = Fsin30°.
+
+Example 1.4
+
+Resolve a force of 100 N inclined at 50° to th
+horizontal into the horizontal and verti
+components.
+
+Horizontal component F, = 100 cos 50° = 62.288
+
+Vertical component F, = 100 sin 50° = 16.60 N.
+
+Example 1.5 -1 ind
+A plane flies with a velocity of 1000 kmhr in the
+direction N 60° E. Find its effective veloc!’
+easterly and northerly directions.
+
+% Solution
+
+Velocity in the easterly direction is given by
+V, = 1000 cos 30°= 866 kmhr7!
+
+Velocity in the northerly direction is given by
+V, = 1000sin 30°= 500 kmhr~!.
+
+Note that in general the component of a vector in
+any direction is the product of the vector multiplied
+by the cosine of the angle between the vector and
+that direction. Note also that cos @ = sin (90 — 9).
+
+Example 1.6
+
+A nail on a vertical wall is pulled by means of a
+
+cord attached to its head. If the cord makes an angle
+
+of 60° to the horizontal and it exerts a force of 80 N
+
+on the nail, find:
+
+1 the effective force which tends to pull the nail
+out of the wall,
+
+2 the force which tends to bend the nail.
+
+why
+
+O<solution
+The problem is illustrated in fig. 1.18.
+
+Fig. 1.18
+
+1 Force tending to pull nail out of wall is
+F, = Fcos60"
+= 80co0s 60°
+=40N
+
+2 Force tending to bend the nail is
+fy = Fsin
+
+= BOsin
+= 69.28N
+
+1.5 The resultant of more
+
+than two vectors
+To find the resultant of more than two vectors, we
+resolve each vector in two perpendicular directions,
+add all the horizontal components, X and all the
+vertical components, Y. For example, consider four
+forces acting on a body as shown in fig. 1.19.
+
+We add all the resolved horizontal components and
+obtain:
+
+X = F,cos6, +(—F, cos@,)+(-F, cos 63)
++ F,cosO,.
+Note that we have taken the right hand or easterly
+direction as positive and the left hand or westerly
+direction as negative. We now add all the resolved
+vertical components and obtain:
+Y = Fsin6, + Fy sin@, +(-F; sin@3)
++(—F,sin@,).
+Note that we have taken the northerly or upward
+direction as positive and the southerly or downward
+
+direction as negative. We then find the resultant of
+X and Y, that is
+
+Rs X24 y?
+
+R=VX?+Y?
+and the direction & is given by tan @ = i (fig.
+1.19b).
+
+Example 1.7
+
+Calculate the resultant of five coplanar forces of
+values 10 N, 12 N, 16.N, 20.N, 15 N acting on an
+object at O as shown in fig. 1.20.
+
+3. The Y-components are added.
+
+4 The resultant of X and Y are combineg
+obtain their resultant. to
+
+Summary
+
+1 Scalars have magnitude or numerica} Valye
+only but vectors have both magnitude hin
+direction.
+
+Examples of vector quantities are displacemen,
+velocity, force, momentum, weigh,
+acceleration and electric field. :
+
+2 Resultant vector is that single vector which
+would have the same effect in magnitude ang
+direction as two or more vectors acting
+together. The resultant vector is obtained by
+
+Fig. 1.20 the parallelogram method or the triangle
+
+method.
+
+sXe
+ASSolution
+
+The forces are resolved into the horizontal and
+
+vertical components as shown in table 1.1.
+
+Table 1.1
+Inclination to the hor. O| Horizontal component
+10 cos 0 = +10.00
+
+Vertical component
+10 sin0=0
+
+12 12 cos 50° = +7.71 12 sin 50° = 9.19
+20 -20 cos 40° = -15.32 +20 sin 40° = 12.85
+16 16 cos 90° =0 -16 sin 90° = -16.00
+15 15 cos 60° = +7.50 —15 sin 60° = -12.99
+
+Y=-6.95
+
+R= [x2 y= [9.992 + 6.952 3 If two vectors P and Q are inclined at an angle
+
+= 12.09 N
+
+of 6, their resultant R is given by
+R* = P? +9? +2PQcos0.
+
+4 The component of a vector in a given direction
+is its effective value in that direction. It is
+customary to resolve a vector in the horizontal
+and vertical directions. If a vector V is inclined
+at @° to the horizontal, the horizontal
+component of Vis given by V, = Vcos@. The
+vertical component is given by V, = Vsin8.
+
+5 Where there are more than two vectors. the
+resultant can be found by first resolving Ihe
+system into two perpendicular directions. e
+the sum of the X-components by X, and ! ¢
+sum of the Y-components be I. Then
+
+% R? = xX? +Y? and tana=--, where ot is the
+The direction of the resultant is S 54.9" E. oO X i he
+Thus there are four steps in using an analytic inclination angle to the X-direction oF
+solution to find the resultant of several vectors: horizontal direction.
+1 Each vector is resolved in X- and Y-directions.
+
+2. The X-components are added.
+
+eg] ai
+
+Exercise 1
+
+t
+
+i"
+
+Wich of the following is not a vector
+quamy
+A See B Velocity C Fore
+
+D_ Accelerator E Electne field
+Which of the following is not a scalar
+gang?
+
+A Dessty B Weight C Speed
+D Mass :
+
+; E Temperature.
+Two forces, whose resultant is 100 N, are
+perpendicular to each other. If one of them
+makes an angle of 60° with the resultant,
+calculate us magnitude:
+
+(son QO" = OS680, cos 60° = 0.5000)
+
+A 20.0N B W32N C USSN
+C USSN D SEN (SSCE)
+
+A bey polls his toy on a smooth horizontal
+suxtace with a rope inclined at 60° to the
+hortroatal. If the effective force pulling the toy
+aloag the honzontal surface is 5 N, calculate
+
+the tenstoa m the rope:
+A 230N B 433N C 5.00N
+D &S&N E 100N. (SC/GCE)
+
+A doy is pulling a load of 150 N with a string
+inclined at an angle of 30° to the horizontal. If
+the tension in the string is 105 N, the force
+tending to lift the lead off the ground is:
+
+(sa or =t cos 30 = and tan 30 =)
+2 2 nr
+A 2S5N B 202S5N C 10S%2N
+D 7SN E S25N. (SC/GCE)
+The resultant of two forces X and Y will be
+greatest when the angle between X and Y is:
+Ao B 9 8 606C COS
+D 180° E 60°.
+
+Distinguish between scalar and vector
+
+quantities. Which of the following are scalars
+
+and which are vectors? Speed, velocity, mass,
+
+density, force, displacement, weight,
+
+acceleration, momentum.
+
+Wrhat do you understand by the resultant of wo
+
+vectors? A body is under the action of two
+
+forces 7 N and 10 N. Find the resultant of the
+
+two forces if:
+
+2 The forces are parallel and act in the same
+direction ,
+
+b. The forces are parallel and act in opposite
+directions.
+
+¢. The two forces are inclined at an angle of
+60° to each other.
+
+a The two forces are inclined at an angle of
+160°
+
+ee The two forces act at 90" to each other,
+
+9 Find by drawing and by calculation the
+resultant of two vectors J units and 4 units
+inclined to each other at
+a WwW b ww ce 120°
+
+10) What is meant by the component of a vector?
+
+Mlustrate with a diagram. A force 180 N is
+inclined at 50° to the horizontal direction, Find
+its component in the horizontal and vertical
+directions.
+
+11 Describe the force board experiment to show
+
+12 &
+
+how to obtain the resultant of two non-parallel
+
+coplanar forces acting at a point. Four forces of
+
+magnitude 10 N, SN, 4.N and 6 N act on an
+object in the directions North, West, East, and
+
+South respectively. Find the magnitude and
+
+direction of their resultant.
+
+State the principle of the parallelogram of
+
+forces, Describe an experiment to demon-
+
+strate it in the laboratory.
+
+b. What is meant by the resolution of a
+vector? A rope attached to a sledge makes
+an angle of 40° with the ground, Calculate
+the tension in the rope required to produce
+a horizontal component of LOON, What
+will be the vertical component of this
+force?
+
+A lawn-mower is pushed with a force of 50 .N.
+
+If the angle between the handle of the mower
+
+and the ground is 30’,
+
+(i) Calculate the magnitude of the force that
+
+is pressing the lawn-mower directly into
+
+the ground.
+
+Calculate the magnitude of the effective
+
+force that moves the mower forward,
+
+Why does the lawn-mower move forward
+
+and not downward into the ground?
+
+Four forces act as shown in fig.
+
+Calculate their resultant.
+
+(ii)
+
+(ili)
+1.22:
+12N
+
+Fig.
+
+15
+
+17
+
+State the parallelogram law ef vectors. A man
+can row at 6 kmhr’! in still water and wants to
+cross a river to a Position exactly opposite his
+starting point. If the river is § km wide and is
+flowing at 4 kmhr' eastwards, find by scale
+drawing or otherwise the direction in which he
+nuust set off in order to accomplish his objective.
+How long will it take to cross the river?
+A swimmer is capable of swimming at 1.4 ms"!
+in still water,
+a. How far downstream will he land if he
+swims directly across a 180 m wide river?
+b. How long will it take him to reach the other
+side?
+State the triangle law of vector additions.
+Name the four physical quantities that are
+associated with the equations of linear
+motion. :
+Using the same set of axes, sketch and label
+two graphs to illustrate the variation of
+potential energy and kinetic energy with
+
+time for a body in simple harmonic motion.
+
+(a)
+(b)
+
+(c)
+
+(d)
+
+spiral spring
+
++—— 5cm —~ initial position of block P
+
+Position of
+Block P after
+Compression
+
+19
+
+A light spiral spring of force constant Ki
+
+horizontal frictionless surface and hag on,
+
+fixed to a vertical wall. A block P of mass
+
+placed against the free end of the spring ig
+
+a distance 5.0cm towards the wall with oy
+
+energy as illustrated in the diagram above.
+
+block is released and after 0.25s it cole
+
+inelastically with a stationary block Q of es
+
+4.0kg. Calculate the
+
+(i) value of K;
+
+(ii) force used to compress the spring
+
+(iii) acceleration of the block P after release
+
+(iv) common speed after collision of the blocks
+(SSCE)
+
+The figure below shows a body S of weight 7
+
+hanging vertically by a thread tied at L to the
+
+string KLM.
+
+Find the tension in KL if the system is ia
+equilibrium.
+
+A mass of 3kg is in equilibrium on a smooth
+plane inclined at an angle of 30° to the horizontal.
+Find
+
+(i) the minimum force required so that the
+mass is in equilibrium and
+(ii) the normal reaction on the mass by te
+
+plane

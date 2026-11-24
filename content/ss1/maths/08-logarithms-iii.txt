@@ -1,0 +1,208 @@
+TOPIC: Logarithms III
+WEEKS: 8
+TEACHER'S SCHEME: Calculations involving powers and roots
+
+=== SOURCE: NGM ch.1.6 ===
+engRRe
+ry nae
+2 WB Sa SO
+ee
+PR Gr tae i aT § OS
+
+ygarithms of the following.
+0:5717 ’ b 0-5752
+-57 d 0-5724
+
+down the values of the following.
+5%, 10°, 1078", hi Fig. 1.2
+yy 1079517, 1049517, 10”
+
+a Use the graph to read off the antilogarithms
+
+own the numbers whose logarithms of 0:15, 0:36 and 0:87.
+wis a: 6-7142, 3°7142. 5 Also use the graph to read off the logarithms
+‘hun f of 5,8 and 9.
+
+© Use tables to check your answers to 2 and ®.
+
+s1912
+: 155 300
+Rough check:
+53-75 = 50° = 125 000
+
+Example 16
+Evaluate 350.
+350 = (350)! eax
+= (10251) (from log tables)
+ole 1025441 +3
+= 1098480 (08480 = 2:5441 + 3,
+correct to the 4th d.p.)
+
+= 7-047 (from antilog tables)
+Rough check using the answer:
+7:047 =7
+P = 343
+and 343 = 350, the given number.
+
+To find the square root of a number, divide its
+logarithm by 2. For example:
+V350 = 3502
+= 10275441 +2
+= 1012721
+i i
+
+Exercise 1k
+Use tables to calculate the following.
+
+7-047
+
+¥350 = 7-047
+Example 21
+
+Calculate 42-87 X 23-82 X 1-127.
+
+Method: First make a table of sufficient size to
+include the given numbers. Enter the numbers
+and the integer parts of their logarithms in the
+table.
+
+Use tables to find the fractional part of each
+logarithm. Since the given numbers are
+
+multiplied, add the three logarithms. Use
+antilog tables to find the answer.
+
+x J92-5 | 1-9661 + 2 = 0-9831 ;
+Denominator =e
+(36-12) x 750-9
+(113-2)? x V92-5
+
+40 x 40 x 40 x 750 _ ,
+“720 x 120 x10 ~ 7?
+
+= 286-9
+
+Rough check:
+
+In examples 21-24, notice the importance of
+doing a rough check.
+
+Exercise 1I
+
+Calculate the following. Check the answers
+wherever possible.
+
+© 6-26 x 23-83 @ 14-28 x 843-7
+© 675-2 + 35-81 © 1200 + 85-25
+©) 409 x 6-932 © 63-75 = 8.946
+@ 5-932 x 8-164 x 18-51
+
+8-4 x 19-7 x 51.5
+
+G) 86:23 x 4058 29-86 X 105-2
+© 913-6 685-3
+
+@ 3.9252
+
+@ vai87 x 1803
+»[1067
+
+® 29-4
+
+@ ¥3-8923
+
+3/218 X 372
+® 95-43
+
+@ (6-92 + 8-15)3
+
+@ 293 x V387 @ 65210 = 8673
+@ V284 x 3-82 x 15-64 x 9-47
+@ BAx7423 _@ 3156 x 95-47
+355-9 X 2547 456-2 X 31-88
+® 943 © 252
+' 11-64 x 7-189 7-165 X 3-92
+
+(17:2)? x 4-93 * (38-32 x 2-964)?
+Oem = © Vec7x628)
+
+8-637 X 6-285
+
+tables
+
+obtained when calculating with
+tables are accurate only to the first
+The 4th digit is not likely to be
+is used for rounding off a result
+
+t figures. Three-figure accuracy is
+practical purposes.
+
+29-86 | 1-4751
+
+Notice in Example 25 that the logarithm
+working is set at the side of the main answer to
+the question. In this way, it does not get mixed
+up with the method used to solve the problem.
+Notice also how factorisation (common factor
+and difference of two squares) simplified the
+working.
+
+Exercise 1m
+
+Use tables to give the answers to the following
+correct to 3 significant figures. Use the value
+0-4971 for log m where necessary.
+
+@) Calculate the area of a rectangle 3-85 m long
+and 2-37 m wide.
+
+© Calculate the area of a square of side
+2-83 cm.
+
+©) Calculate the volume of a cube of edge
+8-24 cm.
+
+©@) Calculate the area of a circular disc 5-86 cm
+in diameter.
+
+©) Calculate the mass, in kg, of a rectangular
+sheet of metal 15-7 cm long and 12-9cm
+wide, if its mass is 38-1 g per cm’.
+
+® A rectangle of area 209-8 cm? is 10-4cm long.
+
++ yo =
+— xo = 1 (x x0)
+Gp = x
+95 hectares, yee ld
+of the field in
+aE
+xo = 8 or (VE
+The above laws are true for all values of a,
+bandx #0.
+
+A number written as_A < 10”, where A is
+between 1 and 10 and 7 is an integer, is
+said to be in standard form.
+
+cm in diameter and © Logarithm is another word for power.
+: For example:
+
+of 478 900 shares were ee nigileldas
+sc 1000 = 108 log 1000 = 3
+of a stock exchange. 100 = 102 log 100 = 2
+ci 10 = 10! log 10 = 1
+te, to three significant 0 = 109 log 1 =0
+¢ of the traded shares, generally if x = a logax = b !
+The logarithm of a number is in two parts:
+an integer and a decimal fraction:
+
+7356825.
+integer decimal fraction
+
+The integer Part of a logarithm may
+be found by expressing the number in
+Standard form to obtain the Power of 10.
+
+6 The decimal fraction part of a logarithm may

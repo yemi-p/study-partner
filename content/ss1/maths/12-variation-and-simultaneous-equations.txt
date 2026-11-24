@@ -1,0 +1,1163 @@
+TOPIC: Variation and simultaneous equations
+WEEKS: 12
+TEACHER'S SCHEME: Variation; simultaneous equations
+
+=== SOURCE: NGM ch.18 ===
+Teaching and learning materials
+Teacher: Wall charts with examples of the
+
+18.1 Direct vari
+
+Ifa person buys some packets of sugar, the total cost
+is proportional to the number of packets bought.
+
+The cost of 2 packets at x per packet is W2x.
+The cost of 3 packets at *¥x per packet is 3x.
+
+The cost of n packets at x per packet is Nx.
+Thus, the ratio of total cost to number of packets
+isthe same for any number of packets bought.
+
+Similarly, Fig. 18.1 shows a new pencil cut into
+_ anumber of pieces.
+
+SS oe
+18.41
+
+4 mass of each piece is proportional to its
+ngth. The ratio of mass to length is the same
+
+are both examples of direct variation,
+son. In the first example, the
+
+four kinds of variation |
+
+a relationship between the variables C and n.
+
+M «x L really means that the ratio u is constant
+
+(i.e. stays the same).
+
+Example 1
+
+If 1 packet of sugar costs x naira what will be
+the cost of 20 packets?
+
+Cost varies directly with the number of packets.
+bought.
+
+cost of 1 packet = x naira
+cost of 20 packets = 20 X x naira
+= 20x naira
+
+Example 2
+
+If Cx nand C = 5 when n = 20, find the
+formula connecting C and n.
+
+C x m means € is constant.
+
+Let this constant be k.
+
+Then, Goa k
+n
+
+A formula such as C = 4n is often known as
+
+@ Ifx « y and x = 30 when y = 12, fi
+a the formula connecting x and y,
+b xwheny=10, c ywhenx= 14.
+@ If Px Q and P = 4-5 when Q = 12, find
+a the relationship between P and Q,
+b PwhenQ=16, c QwhenP= 2-4,
+
+@® Wis directly proportional to U. If W = 5
+when U = 3, find U when W = z [JAMB]
+
+If x — 3 is directly proportional to the square
+of y and x = 5 when y = 2, find x when
+
+5 = 6. [JAMB
+Note: M cx L means that M = kL or L = 1 M. %
+Thus, L also varies directly with M. «cas GES GR ERIN
+In general, if a x b then also b « a. i 8.2 Inverse variation
+
+Fig. 18.2 shows a circle cut into
+Exercise 18a
+
+a 5 equal sectors, b 12 equal sectors.
+@ If1m of wire has a mass of x g, what will be
+
+‘ the mass of 25 m of the same wire? Fes
+~ @ fone jar of coffee costs Ny, what will be the lS = Laas
+cost of four jars of coffee? We wo
+—_ @ Maman cycles 15km in 1 hour, how far will Ne
+__ he cycle in t hours if he keeps up the same
+3 a b
+
+4
+
+€ggs cost 825 each, how much will n eggs Fig. 18.2
+
+In Fig. 18.2a, there are 5 equal sectors in the
+Ifa cup holds d mé of water, how much circle. The angle of each sector is 72°.
+ee il igh of these Gaps hold? . _ In Fig. 18.2b, there are 12 equal sectors in the
+circle. The angle of each sector is 30°.
+
+If there are 18 sectors, the angle of each
+sector would be 20°.
+
+Therefore, the greater the number of sectors,
+the smaller the angle of each sector.
+
+Similarly, if a car travels a certain distance,
+pi greater its average speed, the less time it will
+
+a
+
+Exercise 18b
+
+q) If d varies inversely as ft, use the symbol x to
+show a connection between d and f.
+
+@ A piece of string is cut into n pieces of equal
+length 1.
+
+a Does n vary directly or inversely with /?
+
+b Use the symbol x to show a connection
+between n and /.
+
+@) A rectangle has a constant area, A. Its length
+is / and its breadth is b.
+a Write a formula for / in terms of A and b.
+b Write a formula for b in terms of A and /.
+c Does / vary inversely or directly with b?
+
+@ Ifx «+ and x = 22 when y = 3, find the
+s ¥
+
+relationship between x and y.
+
+cai a
+
+K
+Note: x x 1 means that x = a eae
+
+® If Rx Zand T = 8 when R = 4, find the
+
+relationship between R and T.
+
+Thus, y also varies inversely with x.
+
+In general, if a x i then also b x -
+
+© Ifm x + and m = 70 when n = 100, find the
+formula which connects m and n.
+
+-@ If Tx Land T = 2 when S = 60,
+
+a find the relationship between T and S,
+b find the value of T when S = 90,
+¢ find S when T = 23.
+
+If rx Land r = 5 when h = 12,
+
+a find r when h = 20,
+b find h when r = 45,
+
+@® tx and ¢ = 0415 when d = 120,
+a Fifi ¢ when d = 45.
+* .. RAFind.d when t 55,012,
+
+volume, V cm®>. If 200 cm? of the
+of 160 g, find the relationship
+
+the wording of the first sentence,
+pie MaxV
+or M=kV
+
+In the second sentence, M = 160 when
+V=200.
+
+Thus, 160 = k x 200
+Ba.
+k 700 0:8
+
+Thus, M=0:8V
+1kg = 1000g
+
+When M = 1000,
+1000 = 08V
+
+y= 1000 _ 10000 _
+ce Vv 08 8 1250
+
+‘Thus, 1 kg of wood has a volume of 1250 cm’.
+
+between two towns, the time
+
+with the average speed.
+
+1 is 42 km/h, the journey
+age speed if the
+
+= 168 x3 =24x3
+= 72
+
+When the journey takes 24 h, the average speed
+is 72 km/h.
+
+Exercise 18c
+
+@) When exchanging pounds for naira, the
+number of naira (#) varies directly with
+the number of pounds (£). If 720 naira are
+exchanged for 5 pounds, find the formula
+connecting % and £. Hence find the number
+of naira that are exchanged for 28 pounds.
+When travelling at a constant speed, the
+distance travelled, D km, varies directly
+path the time taken T hours. If 81 km take
+15h, find the relationship between D and T.
+Hence find the distance travelled in 5 hours.
+The height, hom, of mercury in a thermometer
+varies directly with the temperature, T°C, of
+the mercury. When T = 45, h = 6:75. Find the
+relationship between h and T. Hence find h
+when T = 76,
+Pelee of a book varies directly with
+peebiriid Of Pages in the book. A book is
+is igor thick and contai 350 pages. What is
+
+© thickness of the first 84 pages of the book?
+
+Ifa car travels for a certain time, the
+distance travelled varies directly with the
+average speed, When
+
+SS Merits a the average speed is
+
+repaying a loan, the number of
+payments, m, varies inversely with
+amount of each payment, Na. If the loan
+can be repaid by 10 monthly payments of
+#1350, find the formula which connects m
+and a. Hence find how long it takes to repay
+the loan with monthly payments of 750,
+
+@ The mass of rice that each woman gets
+when sharing a sack varies inversely with
+the number of women. When there are 20
+women, each gets 6 kg of rice. If there are
+nine women, how much does each get?
+
+© The membership fee of a club varies
+inversely with the number of members,
+When there are 80 members the fee is %350.
+What is the fee when there are 56 members?
+
+@ When travelling between two towns, the
+time taken varies inversely with the average
+speed. When the average speed is 48 km/h
+the time taken is 34 hours. Find the time
+taken when the average speed is 65 km/h.
+
+® In science, Gay-Lussac’s law states that for
+a given mass of an ideal gas at a constant
+pressure, its volume (V m°) is proportional
+to its absolute temperature (7K). At an
+absolute temperature of 300 K a certain mass
+of gas occupies 1 m’. Find the volume of wed
+gas when the absolute temperature is 375 K.
+
+® Boyle’s law states that for a given mass of
+an ideal gas at a constant temperature, - !
+Pressure (p N/m”) is inversely proportional to
+its volume (Vm*). At a certain por
+3m? of a gas exerts a pressure 0
+
+| 10°N/m?. If the gas expands to 12m’,
+
+iq i ivi ur answer 10
+
+Calculate its pressure, giving yo!
+
+ee:
+
+S°C, and is inversely Proportional to the thickness
+of the house walls, rem. In this case, Tx 5 This is
+
+another example of joint variation. The inside
+temperature varies directly with the outside
+temperature and inversely with the wall
+thickness.
+
+Example 8
+
+x 0c, When y = 7 and z = 3,x = 42,
+« Find the relation between x, y and z.
+b Find x when y = 5 and z = 9.
+
+y
+aia
+7 bk
+Thus, x = —, where k is a constant.
+Zz
+When y = 7 and z = 3, x = 42.
+
+Thus, 42 = Rx?
+
+23X42.
+Re 18
+18
+Hence x = —~
+
+6 When y = Sandz =9,
+x= BAS 62x5
+9
+= 10
+
+Example 9
+
+Y varies inversely as X? and X varies directly
+as Z?. Find the relationship between Y and
+(JAMB]
+
+given C is a constant.
+
+@ xox yz.When y = 2 and z = 3,x = 30.
+
+a Find the relation between x, y and z.
+b Find x when y = 4and z = 6.
+
+® oer 27 when y = 9 and z = 2.
+
+a Find the relation between x, y and z.
+b Find x when y = 14 and z = 12.
+
+@ A« BC.When B = 4and C = 9,A = 6.
+
+a Find the formula that connects A, B and C.
+
+b Find A when B = 3 and C = 10.
+ce Find Cif A = 20 and B = 15.
+
+® To ®. When S B36 ands = 16,7 = 27.
+
+a Find the formula that connects 7, § and ¢.
+b Find T when S = 33 andt = 18.
+
+® x varies directly as the product of u and v
+and inversely as their sum. If x = 3 when
+u = 3 and v = 1, what is the value of x if
+u = 3 and v = 3? [JAMB]
+
+© The weight Wkg of a metal bar varies jointly
+as its length L metres and the square of its
+diameter dmm. If W = 140 when d = 4 and
+L = 54, find din terms of W and L. [JAMB]
+
+@ The mass of a sheet of metal varies jointly
+with its area and its thickness. A sheet of
+metal of area 250.cm? and thickness 1 mm
+has a mass of 200 g.
+
+a Find the formula which connects the mass
+Mg, the area A cm’ and the thickness ¢mm.
+bb Hence find the mass of a piece of metal of
+area 400 cm? and thickness 3 mm.
+
+gas law states that the volume
+ven mass of an ideal gas varies
+
+418.4 Partial variation
+
+When a tailor makes a dress, the total cost depends
+on two things: first the cost of the cloth; secondly
+the amount of time it takes to make the dress, The
+cost of the cloth is constant, but the time taken to
+make the dress can vary. A simple dress will take a
+short time to make; a dress with a difficult pattern
+will take a long time. This is an example of partial
+variation. The cost is partly constant and partly
+varies with the amount of time taken. In algebraic
+form, C = a + kt, where C is the cost, ¢ the time
+taken and a and k are constants.
+
+Example 10
+
+R is partly constant and partly varies with E,
+When R = 530, E = 1 600 and when R = 730,
+fy = 3 600.
+
+a Find the formula which connects R and E.
+6 Find R when E = 1300.
+
+a From the first sentence,
+R= c + kKE where c and k are constants.
+Substituting the given values gives two
+equations.
+530 = ¢ + 1600k (1)
+730 = ¢ + 3600k (2)
+These are simultaneous equations.
+
+Subtract (1) from (2), Aes
+200 = 2000k aac
+k= 200" = ii pd
+
+first sentence,
+eeu, where a and b are constants
+stituting the values
+a oC = 1120, U = 90
+C = 1216, U = 120
+he equations
+1120 =a +90b (1)
+1216 = a + 120b (2)
+ee pancons'-
+= 30b (subtracting (1) from (2))
+= 32
+fe 3-2 for b in (1).
+
+—N806, while the bil) flo
+
+@® xis partly constant and partly varies with y.
+
+When y = 3,x = 7, and when y = 6,.x = 9.
+a Find the relationship between x and y.
+b Find x when y = 4.
+
+® Dis partly constant and partly varies with V.
+
+When V = 40, D = 150, and when V = 54,
+D = 192.
+
+a Find the formula connecting D and V.
+b Hence find D when V = 73.
+
+©) The cost of making a dress is partly constant
+
+and partly varies with the amount of time it
+takes to make the dress. If the dress takes
+
+3 hours to make, it costs %2 700. If it takes
+
+5 hours to make the dress, it costs N3 100.
+Find the cost if it takes 14 hours to make the
+dress. 7
+
+©) The cost of a car service is partly constant
+
+and partly varies with the time it takes to
+
+do the work. It costs 83.500 for a 55-hour
+
+service and %2900 for a 4-hour service.
+
+a Find the formula connecting cost, ¥C
+with time, T hours.
+
+b Hence find the cost of a 74-hour service.
+
+@ A telephone company makes up its monthly .
+
+bills as follows: a fixed charge of N800 plus
+a charge proportional to the number of units
+of call on the telephone. If it charges N2 per
+unit of call, calculate the total charge on
+
+a 80units 6b 150 units c 782 units.
+
+® The charge for telephone calls, 7, is partly
+
+constant and partly varies with the number n
+of units of call. The bill for 420 units of call is
+
+e charge for 42 units
+
+he charge per unit of
+
+=== SOURCE: NGM review (simultaneous equations) ===
+Before beginning this book, readers should
+
+be familiar with the contents of the Junior
+Secondary School course. The following
+summary contains those parts of the JSS course
+that appear in the Senior Secondary School
+Mathematics syllabus. References to earlier
+books in the series are given at the end of
+
+each section.
+
+be
+a Numbers are usually written in the decimal
+
+place value system (Fig. P1).
+
+hundreds
+tens
+units
+decimal point
+tenths
+
+hundredths
+
+thourendin
+
+376
+
+Fig. P1
+The symbols 0, 1, 2, 3, 4,5, 6,7 8, 9 are called
+digits.
+
+b 28 +7 = 4.7 is a whole number, that divides
+exactly into another whole number, 28. 7 is a
+factor of 28. 28 is a multiple of 7.
+
+c A prime number has only two factors, itself
+and 1.1 is not a prime number. 2,3,5,7, 11,
+13, 17... are prime numbers. They continue
+without end. The prime factors of a number
+are those factors which are prime. For
+example, 2 and 5 are the prime factors of 40.
+40 can be written as a product of prime
+factors; cither 2 X 2 X 2x5 =40,orin
+index form, 23 X 5 = 40.
+
+d The numbers 18, 24 and 30 all have 3 as a
+
+factor. 3 is a common factor of the numbers.
+The highest common factor (HCF) is the
+
+_ Junior Secondary School course
+
+largest of the common factors of a given set
+of numbers. For example, 2, 3 and 6 are the
+common factors of 18,24 and 30; 6 is the HCF.
+The number 48 is a multiple of 4 and a
+multiple of 6. 48 is a common multiple of 4
+and 6. The lowest common multiple (LCM)
+is the smallest of the common multiples of a
+given set of numbers. For example, 12 is the
+LCM of 4 and 6.
+
+A fraction is the number obtained when one
+number (the numerator) is divided by another
+number (the denominator). The fraction 3
+means 5 ~ 8 (Fig. P2).
+
+5 _— numerator
+= — dividing line
+—~ denominator
+
+Fig. P2
+
+Fractions are used to describe parts of
+quantities (Fig. P3).
+
+Fig. P3 § of the circle is shaded
+
+The fractions 3, * + all represent the same
+
+amount; they are equivalent fractions. 3 is the
+simplest form of 43, i.c. 37 in its lowest terms
++5
+1S z
+
+To add or subtract fractions, change them
+to equivalent fractions with a common
+
+denominator. For example,
+542. 15, 16 _ 15+ 1631 (= 17)
+
+8.3 24 24 «+24 24
+13_5_13_10_ 13-10 3
+
+16 8 6 16 16 16
+
+To multiply fractions, multiply numerator by
+numerator and denominator by denominator.
+
+For example,
+
+§.2_5X2_10 ;_s...
+3 x= 378x304 (= 7a in simplest form)
+512 ,5_12x5 (= 15 )
+x2 Klee hee AN
+a2 8 1°8 4x8 8 2 2
+To divide by a fraction, multiply by the
+reciprocal of the fraction. For example,
+
+5_35,8_35x8_7x8
+FSS SK SS ee =
+2 8 1 5 1x5 1 =
+3433252525, 4 5x4 _ 20
+8 “4 8 4 8° 15 8x15 120
+
+=!
+(=%)
+f x% is short for 2, 64% means ot .
+100 100
+
+‘to change a fraction to an equivalent percentage,
+multiply the fraction by 100. For example, > z as
+a percentage = 3 x 100% = 125% = 624%.
+
+g To change a fraction to a decimal fraction,
+divide the numerator by the denominator.
+For example,
+
+= 0.625 0.625
+8)5.000
+48
+~ 20
+16
+40
+40
+
+When adding or subtracting decimals, write
+the numbers in a column with the decimal
+points exactly under each other. For example:
+Add 2.29, 0.084 and 4.3, then subtract the result
+from 11.06.
+
+2.29
+
+0.084 11.06
++43 — 6,674
+
+6.674 4.386
+
+To multiply decimals, first ignore the
+decimal points and multiply the given numbers
+as if they are whole numbers. Then place the
+decimal point so that the answer has as many
+digits after the point as there are in the given
+numbers together, For example, 0.08 X 0.3:
+
+8x3 = 24
+
+There are three digits after the decimal points
+in the given numbers, so 0.08 x 0,3 = 0.024.
+2
+
+To divide by decimals, make an equivalent
+division such that the divisor is a whole
+number, For example, 5.6 + 0.07:
+
+5.6 _ 5.6 100 _ 560 _
+
+56 + 007 = 005 = Do7x 100 7 = 8
+Numbers may be positive or negative. Positive
+and negative numbers are called directed
+numbers. Directed numbers can be shown on
+a number line (Fig. P4).
+
+——_—_—OoOoOoOoO oO Or
+
+3 2 an] 0 +1 +2 +3
+Fig. P4
+
+The following examples show how to
+add, subtract, multiply and divide directed
+numbers.
+
+addition
+
+(+8) + (+3) = +11
+
+(+8) + (-3) = +5
+
+(-8) + (+3) = -5
+
+(-8) + (-3)=—-IL (-9) - (-4) = -5
+
+multiplication division
+
+(+2) X (+7) = +14 (+6) + (+3) = +2
+
+(+2) x (-7) = —-14 (+6) + (-3) = -2
+
+(-2) x (+7) = -14 (—6) + (+3) = -2
+
+(-2) x (-7)= +14 (-6) = (—3) = +2
+
+An integer is any positive or negative
+whole number as shown in Fig. P4 above.
+
+subtraction
+
+(+9) — (+4) = +5
+(+9) — (—4) = +13
+—9) — (+4) = -13
+
+The number 3.7 X 10* is in standard form. The
+first part of the product is between 1 and 10,
+and the second is a power of 10.
+
+When rounding off numbers, the digits 1,2, 3,
+4 are rounded down, and the digits 5, 6, 78,9
+are rounded up. For example,
+3425 = 3430 to 3 significant figures
+= 3400 to the nearest hundred
+7.283 = 7.28 to 2 decimal places
+= 73 to 1 decimal place
+= 7 to the nearest whole number
+
+When calculating from 4-figure tables, it is
+usual to round numbers to 3 sf,
+
+Binary numbers use a base two place value
+system. For example,
+110101,,o =1X25+1x24+0x 234
+1xX2+0x2!+1
+(= 32+ 16+0+4+04+1=53,,)
+
+bb 59.509,
+
+Simplify the following, i
+
+Bea a2) b 33 x (- 3).
+Co ob iy d (-35) + (-5)
+
+7 Aschool has 988 students. The average mass
+
+of a student is approximately 51 kg. Estimate,
+
+to 1 significant figure, the total mass in
+tonnes of all the students in the school.
+
+onal number is any number in the form
+
+eaandb ox whole numbers. For 8 Divide the following quantities in the given
+
+4, BB ag 2 are rational numbers. sbeb : i
+a 2800 in the ratio 1:3
+
+on-rational (or irrational) numbers cannot : am
+e expressed as exact fractions. b 800 mm in the ratio 3:2
+example, v2 (=1.414 213...) and c 88 bananas in the ratio 6:5
+
+at (=3.141 592...) are non-rational numbers. 9 Find the discount price if
+
+i ; a 10% is given on a cost price of N600
+iled coverage of number and numeration
+
+n in the JSS course as follows: Book 1, b 25% is given on a cost price of N6600
+} s 1,2, 4, 9, 12, 23; Book 2, Chapters 1, 2,4, 10 Use tables to find
+10, 15, 18; and Book 3, Chapters 1, 5, 11, 20, 21. a 1702 b 29002
+
+ec v5 446 d v804
+4 11 a Convert to base ten:
+| minutes for this test. Use the answers at i10100,,., ii 110011,,,
+the book to check your work. If you b Convert to base two: 4 23;en, i 60en
+1 why some of your answers jl
+eh a ee or your teacher, 12 Which of the following numbers are
+
+non-rational?
+3, 3.3, 3.3, 35, v3, 3.142,
+
+*
+
+°) owing as a product of
+
+dp. ili 3d.p.
+~ b 5.0275
+d 0.0084
+
+ist can type about 29 words per minute.
+
+e, to 1 significant figure, how long it
+her to copy-type a text that is 1006
+
+following quantities in the given
+
+same number to
+
+numbers. 3y?, 2x and 7x are the terms of
+expression. 3y? is short for 3 X y X y. Sissia
+the coefficient of y?. Algebraic terms may be
+simplified by combining like terms. Thus,
+3y? + 2x — Tx = 3y? — Sx since 2x and 7x are
+like terms (i:e. both terms in ~).
+3(5x — 2) = 11x is an algebraic sentence
+containing an equals sign; it is an equation in x.
+x is the unknown of the equation. To solve
+an equation means to find the value of the
+unknown which makes the equation true.
+Use the balance method to solve equations,
+For example,
+3x 2). = 11x
+Clear brackets.
+15x — 6 = 11x
+Subtract 11x from both sides.
+Sye = be = © Sibe = jules
+4x -6=0
+Add 6 to both sides.
+4x -6+6=0+6
+4x =6
+Divide both sides by 4.
+
+6
+4
+
+ax
+4
+oe
+
+= 1k
+
+In general, when solving equations, i first clear
+brackets and fractions, ii using equal additions
+and/or subtractions, collect unknown terms
+
+on one side of the equals sign and known
+terms on the other, iii where necessary, divide _
+
+or multiply both sides of the equation by
+
+origin of the plane. Fig. P6 is the
+equation y = 2x — 3.
+Perret yerr reer ry ie ere
+
+eet ae
+
+ee SS
+16 is a linear equation with two
+es, x and y. There are many pairs of
+ON of x and y which satisfy this equation
+‘ (i.e. make the equation true). For example, if
+x = 13 and y = 2 orifx = 8 and y = 0, the
+equation will be true. Given two equations,
+__ such as 2x — 5y = 16 and x + 4y = —5, it
+‘is usually possible to find values of x and y
+which satisfy both equations simultaneously
+(i.e. at the same time). To solve a pair
+of simultaneous linear equations, either
+use a graphical method or the method of
+elimination and substitution. For example,
+2x — Sy = 16 (1)
+x+4y=-5 (2)
+Multiply (2) by 2.
+2x+8y=—-10 (3)
+Subtract (3) from (1) to eliminate terms in x.
+
+~13y = 26
+y= —2 Fig. P6
+Substitute —2 for y in (2) to find x. To draw a straight-line graph, plot at
+x + 4(—2) = —-5. least three points which satisfy the given
+x-8=-5 equation. See the table of values in Fig. P6.
+a x=3 At point A in Fig. P6, x = 2 and y = 1.
+P The coordinates of A are A(2, 1). The
+
+Ap ae rr 2 order of the coordinates is important: the
+algebraic sentence is a picture x-coordinate is given first, the y-coordinate
+second.
+Straight-line graphs can be drawn to
+represent any two connected variables: for
+example, cost and quantity, 1
+
+rat
+
+6b = 4(x — 2) + 3b(x — 2)
+= (x — 2)(4 + 3b)
+of two squares
+(a+ b)(a— b)
+
+Yr etyy
+= (a — 8)?
+
+Beda (x + 12)(x + 1)
+
+= (n — 9)(n + 2)
+
+g laws of indices are true for all
+
+toy, then x x y
+stant). This is an
+
+“were incorret ask a friend or your teacher
+Then try Review test 4. _ ise so
+
+State the additive inverse of Feet
+a -2 b +11
+
+© -772 d +3
+
+State the multiplicative inverse of
+a +5 b -3
+ce +24 d —0.75
+
+Remove brackets and simplify.
+a 3(3a — b) — 5(a — 4b)
+bey 3) —32y = 3)
+
+Expand the following.
+
+a (6—x)(3 +x)
+
+b (Sx — 2y)(2x — 3y)
+
+State the HCF of the following.
+
+a 12x? and 30x? b 24xy? and 6x2y
+
+State the LCM of the following.
+
+a pq and qr b 2a? and 7ab
+
+Factorise the following.
+a 2a? — 9ab
+
+" b —18pq — 12p
+
+c 9x + 6 — 3x? — 2x
+d 3a — cb — 3b+ ac
+e x*-— 8x +16
+
+Ff 100 — 49,2
+
+AG Gelitte aitings Hy the et
+
+r b 5x+3y=1
+check your work. If you xty=3 2x + 3y = —-5
+some of your answers [by substitution] [by elimination]
+
+Geometry and mensuration
+
+: aaa a Fig. P7 gives sketches and names of some
+d —0:37 common solids.
+
+: 1
+ag b a5
+
+e 12 d —0-8
+
+cube
+
+a Tx(x — 1) — 5(x -1) cuboid
+-b a(2a + 5b) — b(a + b)
+
+Expand the following.
+a@ +8)(x-2) b (4x —7)(3x + 2)
+
+cone
+
+— the HCF of the following.
+a 24xyand8xy —b_- 18xy’ and 12x°y
+
+triangular square-based
+the LCM of the following. prism pyramid
+nd 8b b 15xy and 2x’y?
+sphere
+Fig. P7 sli
+
+All solids have faces; most slid hve ees
+and vertices (Fig. eA :
+
+Dilan Oat
+
+¢ 0
+acute angle (between 0° and 90°) right angle (90°)
+
+straight angle (180°)
+
+obtuse angle (between 90° and 180")
+
+mon methods of drawing
+may be used with any reflex angles (between 180° and 360°)
+
+‘ L Fig. P11
+elevation side elevation j
+i Angles are measured and constructed using
+a protractor.
+
+Fig. P12 shows © properties of angles
+formed when straight lines meet.
+
+a) The sum of the angles on by Vertically opposite
+a straight line is 180°, angles are equal.
+a+b+c= 180° peqandrs ys
+
+isosceles equilateral
+
+Fig. P16 Some common triangles
+
+ppmections are ey Prong the points of the Fig. P17 shows the names and properties of
+compass (Fig. P14). some common quadrilaterals.
+
+re bearing is a direction given as
+
+opie from north measured
+
+see Fig. PLS.
+
+f ss B
+pe with three or
+-gular polygon has all
+and all its angles of
+the names of some
+
+Fig. P20
+In Fig. P20,
+
+To solve a triangle means to calculate the
+sizes of its sides and angles. Right-angled
+triangles can be solved using Pythagoras’ rule
+and the tangent, sine and cosine ratios.
+
+A
+
+B c
+Fig. P21
+
+In Fig. P21, AABC is right-angled at B;
+side AC is the hypotenuse.
+
+Pythagoras’ rule: b? = a? + ¢2
+tangent ratio: tan C= £ and tan A =
+a
+
+~
+
+sine ratio: sin C= jand sin A =
+
+cosine ratio: cos C= and cos A= £
+
+A
+
+d) right angle at A
+(ruler and compasses)
+
+ag
+-
+
+parallel lines
+(ruler and set square)
+
+e of geometry and mensuration
+course as follows:
+6, 11, 13, 14, 16, 20, 21;
+1,
+
+Fig. P23 °
+
+Which one of the following is a Pythagorean
+triple?
+a 4,5,6 b 5,13,14 c 6,8, 10
+
+Calculate to 2 s.f. the length of a diagonal of
+a 40 mm by 70 mm rectangle.
+
+Copy and complete the following table of
+cylinders. Use the value 3 for a.
+
+i
+
+a of 11-5em? 7 A triangle has sides of 9m and 10m and an
+
+‘a eo angle of 90° between them. Calculate, to the
+
+oa nearest 0-1°, the size of the smallest angle of
+the triangle.
+
+8 The volumes of two cubes are in the ratio
+
+27:125. What is the ratio of their heights?
+for the test. Use the answers at
+
+he book to check your work. If you 9 Copy and complete the following table of
+ers why some of your answers cones. Complete only the unshaded boxes.
+ask a friend or your teacher. Use the value 3 for a.
+
+angles of a rhombus is 122°.
+
+lines of bilateral symmetry does
+triangle have?
+
+10 Ona map a lake has an area of 7.8 cm?.
+If the real area of the lake is 31-2 hectares,
+find the scale of the map.
+
+Statistics and probability :
+
+a Information in numerical form is called
+Statistics. Statistical data may be given in rank
+order (i.e. in order of increasing size) such as
+in the following marks obtained in a test out
+of S:
+
+Orel lh 2521 328.05
+
+Data may also be given in a frequency
+table (Table P2),
+
+0 <p <1. If the probability of anidistiiig™
+happening is x, then the probability of it not
+happening is 1 — x.
+
+Detailed coverage of statistics is given in the JSS
+course as follows: Book 1, Chapters 17, 18, 22;
+ci a a Book 2, Chapter 21 and Book 3, Chapters 16, 23.
+
+Review test 7 (Statistics and probability)
+
+Allow 25 minutes for this test. Use the answers at
+the back of the book to check your work. If you
+do not understand why some of your answers
+were incorrect, ask a friend or your teacher. Then
+try Test 8.
+
+1 For each set of numbers, calculate the mean.
+a 13,15,2 b 10, 11,15
+c 0,7,5,7,7,6 d 9,9,5,4,13
+
+2 Find the mode, median and mean of each set
+
+of numbers.
+e of a set of statistical data is a a 8,8,10,13,16
+is representative of the ie b 10, 11, 14, 14, 15, 15, 15, 16, 16, 17
+most common averages are the
+id the mode. For the nine c 8,6,3,10,6,9 d 2,0,6,2,7,3,1,4,2
+order in paragraph a) 3 Table P3 shows the results of a survey of
+
+vehicles on a city road in | hour.
+
+if
+
+a *
+
+242434345
+
+oor ge
+
+rea [93 [an [ue
+Pats fo tn}
+
+Table P4
+During the 4 years:
+
+a How many candidates were entered for
+the SSCE?
+
+b How many candidates passed?
+
+¢ What is the school’s success rate (as a
+percentage)?
+
+d What is the approximate probability
+
+(as a decimal to 1s.£.) of a student at this
+school passing the SSCE?
+
+A bag contains 20 red balls and 4 blue balls.
+
+A ball is chosen at random.
+
+What is the probability that its colour is
+
+a red, b blue,
+
+© either red or blue,
+
+@ neither red nor blue?

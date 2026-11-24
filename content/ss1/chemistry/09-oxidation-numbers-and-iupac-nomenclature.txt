@@ -1,0 +1,150 @@
+TOPIC: Oxidation numbers and IUPAC nomenclature
+WEEKS: later
+TEACHER'S SCHEME: (not yet scheduled)
+
+=== SOURCE: Okoye ch.8 ===
+CHAPTER 8
+
+ OXIDATION NUMBER (O.N.) AND IUPAC NOMENCLATURE.
+
+The oxidation number of an element in any compound or ion is the electrical charge the element
+has in the compound or ion. Oxidation number of Na in NaCl is +1
+
+8.1 Rules to be Born in mind while Determining Oxidation Numbers:
+
+1. The oxidation number of all elements in the uncombined form or in the free state is zero. For
+ instance the oxidation number of these substances are zero: K, Na, Cl2, Al, P4. This is
+ usually represented as follows: KO, NaO, Cl2O, AlO, P4O.
+
+2. The oxidation number of simple ion is the charge of the ion. Therefore, the oxidation numbers
+ of K+, Na+, Al3+, Mg2+ and Cl- are +1, +1, +3, +2, and -1 respectively. The oxidation of
+ SO42-,NO3-, NH4+, OH-, PO43- and MnO4- are -2, -1, +1, -1, -3 and -1.
+
+1. The sum of the oxidation numbers of all the elements in a compound is zero. The oxidation
+ number of CaCO3 is zero.
+
+8.2 Calculating the Oxidation Number of an Element in a Radical or a Compound.
+
+Worked Examples
+
+Stress the fact that oxidation number is either zero, a positive or negative integer, and is usually
+with respect to only one atom of an element.
+
+Example I
+
+Calculate the oxidation number of Copper in Cu2O. Let x represents the O.N. of each copper
+atom, O is -2 In a neutral compound, sum of all O.N. is zero
+;. In Cu2O: Cu2O
+ 2x + (-2) = O
+ 2x - 2 = O
+ 2x = O +2
+ 2x = +2
+ x = + 2 = +1
+ 2
+
+:. O.N. of a copper atom is Cu2O = +1
+IUPAC name: Copper (I)oxide
+Conventional name: Cuprous oxide
+
+ 89
+
+Example 2
+
+What is the oxidation number of phosphorus in phosphine, PH3?
+In PH3, P is more electronegative than H
+Hence, each H atom has O.N. of +1.
+:. In Ph3 : PH3
+ P + 3 (+1) = 0
+ P+3 =0
+ P =0–3
+ P = -3
+
+:. O.N. of phosphorus atom, P in PH3 is -3.
+IUPAC name: Phosphorus trihydrite
+Conventional name: Phosphine
+
+Example 3
+
+Calculate the oxidation number of X in X2O72-
+O.N. of each O atom = -2
+The net charge on the ion = -2
+
+:. In , X2O72- , X2O72-
+ 2x + 7(-2) = -2
+ 2x - 14 = -2
+ 2x = -2 + 14
+ 2x = +12
+ x = +12
+ 2 = +6
+
+:. O.N. of each X atom in X2O72- is +6
+
+Example 4
+
+What is the oxidation number of nitrogen in HNO3?
+
+In HNO3, the oxidation number of H atom is +1, while that of O is -2 per atom. Sum of all O.N.
+is zero.
+
+Let the O.N. of nitrogen be N.
+
+In HNO3: HNO3
+ +1 + n + 3(-2) = 0
+ +1 + n - 6 = 0
+ N = 0 - 1+6
+ N = +5
+ 90
+
+The O.N. of nitrogen atom, N in HNO3 is +5.
+IUPAC name: Trioxonitrate (v) acid
+Conventional name: Nitric acid.
+
+Example 5
+
+What is the oxidation number of Al in Al2S3
+
+In Al2S3 : Al2S3
+ 2Al + 3(-2) = 0
+ 2 Al - 6 = 0
+ 2 Al = 0+6
+ 2 Al = +6
+ Al = +6
+ 2 = +3
+
+The O.N. of Al in Al2S3 is +3
+IUPAC name: Alulminum sulphide
+
+Note: With adequate practice, it is possible to assign oxidation number to an atom in a formula,
+mentally, in one single step. For instance in NaNO3, Na atom is +1, while the three O atoms is
+-6; N atom will be + 5, so that in NaNO3 = +1 + 5 - 6 = 0
+
+IUPAC name: Sodium trioxonitrate (v)
+Conventional name: Sodium nitrate
+
+8.3 Importance of Oxidation Number
+
+The concept of oxidation number has been found useful in a number of ways:
+
+In naming inorganic compounds by the IUPAC rules.
+
+In determining the number of chemical bonds that can be formed by an atom (covalency)
+
+In identifying oxidizing and reducing agents in redox reactions.
+
+In balancing equations of redox reactions.
+
+Exercises
+
+1 (a) Define oxidation number
+
+2 Determine the oxidation number of
+
+ (a) sulphur in SO2: H2SO3; SO42-
+
+ (b) Nitrogen in NH3; N2O; NO2-
+
+ 91
+
+(c) Chlorine in Cl2; HC10
+
+ 92

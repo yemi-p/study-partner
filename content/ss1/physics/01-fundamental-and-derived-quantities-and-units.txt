@@ -1,0 +1,929 @@
+TOPIC: Fundamental and derived quantities and units
+WEEKS: 1
+TEACHER'S SCHEME: Meaning of physical quantities, fundamental units, derived units, SI units
+
+=== SOURCE: Anyakoha Book 1 ch.1 ===
+Measurement 1s a very important aspect of Physics
+and other sciences. No fact in science is accepted, no
+law 1s established, unless it can be exactly measured
+and quantified. As Physics is based on exact
+measurements. every such measurement requires
+two things: first a number or quantity, and secondly a
+unit.e.g. 10 metres as the length of a room.
+
+Measurements are basically a means of
+communication and are used by scientists and
+engineers for understanding natural phenomenon,
+by the society for transacting business, and by the
+engineers for practical ends.
+
+Aunit or standard of measurement should be such
+that (a) it must be possible to define it unambiguously.
+(b) It is easily reproducible. (c) It does not vary with
+time and place. (d) It should be possible to multiply
+or divide each one of the standard.
+
+There are different instruments used by physicists
+for measuring physical quantities and different units
+in which these quantities are expressed. There are
+also relationships between quantities and some
+uncertainties associated with the measuring devices.
+
+At the end of this chapter the student should be
+able to:
+
+1 Distinguish between fundamental and derived
+quantities and units.
+
+2 List and handle various measuring instruments
+common in a good senior secondary school
+physics laboratory, and used for the measurement
+of length, mass and time.
+
+3 Estimate the uncertainties associated with these
+instruments.
+
+4 Be familiar with the concept and use of significant
+figures.
+
+1.1 Fundamental and Derived
+
+Units
+
+The three most important basic quantities in physics
+are length, mass and time.
+
+Length may be defined as the extent of space or
+distance extended.
+
+Mass is commonly defined as the quantity of
+Matter or material substance.
+
+Time is defined as that in which events are
+distinguishable with reference to before or after,
+
+Length, Mass and Time are three of the most
+fundamental quantities.
+
+Fundamental quantities are the basic quantities
+that are independent of others and cannot be
+defined in terms of other quantities or derived from
+them. They are the basic quantities upon which
+most (though not all) quantities depend.
+
+Fundamental units are the basic units upon
+which other units depend, They are the units of the
+fundamental quantities.
+
+Examples of fundamental quantities and their units
+are as in Table J.J
+
+Table JI Fundamental quantities and units
+
+Quantity | Unit | Unit
+| abbreviation
+
+Length metre | m
+Time | second 5
+Mass kilogram kg
+Electric current | ampere A
+‘Temperature kelvin K
+Amount of
+substance mole mol.
+
+The units in the above table are in the S/ (Systeme
+International) units. The S/ is the most Important
+systern today. It used to be called the MKS (metre-
+kilogramme-second) system. The S/ unit is based on
+the metre as the unit of length, the kilogramme as the
+unit of mass, the second as the unit of time, ampere as
+the unit of electric current and the kelvin as the unit
+of temperature. Another metric system is the C.g.8.
+system in which the centimetre, gram and second are
+the standard units of length, mass, and time.
+
+The SI units are the principal system of units
+used in scientific work today.
+
+2. Units used in Industries
+
+Units used in industry and business sometimes
+differ from those used in laboratory, because, in these
+areas, the quantities involved are very large. For
+example, power measured in watts in the laboratory
+may be measured in horsepower in industry. One
+horsepower (Ihp) equals 0.746 killoWatts. In oil
+industries, the barrel is used as a unit of measurement;
+1 barrel of oil is equal to between 120 and 159 litres.
+Oil prices are usually quoted in dollars per barrel. An
+hectare is a unit for measuring the area of land. An
+hectare (h) equals 10,000 square metres.
+
+Derived quantities and units
+
+Derived quantities and units are those obtained
+by some simple combination of the thodamental
+quantities and units. They are thus dependent on
+the fundamental quantities and units, Examples of
+derived quantities . their derivation and their units
+are summarized in Table 1.2.
+
+Table 1.2:
+
+Derived | Denvai
+
+Derived quantities and units
+
+quantity | Derivation | unit
+Area(A) | lengthxbwath = | m2
+Volume (V) length x breath x m3
+height
+Density SS 3
+. mass _ kears
+volume
+Velocity (v) displacement 1
+- ms
+time
+Acceleration) change in velocity >
+ms-
+(a) | time
+Derived Derived
+
+quantity Derivation unit
+
+Force (F) mass X acceleration Newton,
+N
+Energy or | force x distance Joule
+work (W) (Nm)
+Power (P) work Js! (or
+time wat, W)
+Momentum mass X velocity kg.m.s7!;
+(P) Ns
+Pressure (P) force N.m--
+area (pascal,
+Pa)
+Frequency (f) | number of oscillations per second
+time or s7!
+
+- (hertz, Hz)
+Electric c
+charge (coulomb)
+Electric V (volt)
+potential
+difference
+resistance
+Electric farad (F)
+capacitance
+
+We can always obtain multiples or
+submultiples of the basic units using the following
+prefixes (Table 1.3):
+
+ar ON
+
+Vale 0.3
+
+. erases
+Ravaample ' Peefires
+, =
+
+decimetre = 10 Fin | der aa)
+
+centmetre & 10-7 a | cea (od
+aullimetre & LO? a) rm (an)
+mronoefarad & LOS Bo ayero a)
+
+Olea lat
+
+OO or ww?
+DOT or 10"
+OOOO TE oc 10S
+
+Submultiptes |
+'
+|
+
+Multiple
+
+10! } decametre = 10m) doa a)
+we hectometre = TO? ar | beoto (h)
+1000 (108) I Kilometre @ WO a ato
+1,000,000 or 10% regawatts © TOW) Mega (M)
+
+1.2) Measurements
+
+Measurements play a crucial role uy physics, dat
+they can never be perfectly precise, We usually note
+the reading accuracy of the measunng instrument
+and specify the measurement only in the correct
+number of significans leurs,
+
+In giving the result of a measurement, it is
+good practice to state the precision ot estimated
+uncertaingy in the measurement. For example, we
+ean write the length of a wire as S13 2 OT om,
+Where 0.1 represents the estimated uncertain
+the measurement. This means that the length is
+probably between $1.2 and S14 em.
+
+The number of rehadly known digits in a
+numbxr is called the number of significant figures
+They are usually taken as all the figures from the
+first non-zero digit to the last non-zero digit
+together with the final zeros if they occur alter the
+decimal points, Thus there are four significant
+figures in $1.35 and owo in 0.053 em. We specify
+Measurements only in the correct number of
+significant figures. Thus the length of the wire is
+recorded as $1.3 em not S130 em. The figure
+31.30 implics an uncertainty of 0.01) em.
+Significant figures indicate the precision with
+Which a particular measurement has been made.
+
+1.2.1 Length
+
+Tn the secondary school phystes laboratory, we can
+measure length with a metre rule, callipers, vernier
+callipers, and micrometer screw gauge.
+
+a. The metre rule
+
+The metre rule is graduated i centimetres and
+millimetres. The smallest graduation of the metre
+tule is 1 mm or Q.1 cm. This ty its reading
+accuracy. Measurements can be estimated up to
+half this smallest graduation, ic, 0.5 mm or 0S
+cm. This is the estimated nneertamity, Thus, we
+can record a length as 21.55 + QOS om
+
+correct Incorrect |
+
+Incorrect
+
+Fig. 1.1.) Parallax error |
+
+In measuring with a metre rule, a necessary
+precaution 15 to avoid the error of parallax by
+looking vertically downwards on the markings
+instead of slantingly.
+
+Large distances such as length or width of a
+football field can be measured with steel tapes
+graduated in metres.
+
+The callipers
+
+a aaa |
+5cm
+,
+
+30 cm
+
+! ‘
+; zem_,
+<—_———
+
+' ‘
+' i}
+‘6 ?
+a
+
+Fig. 1.2 The callipers
+
+Callipers are used to measure lengths on solid
+objects that are in a cylindrical form. The jaws of
+the callipers are adjusted until they touch the object
+in the correct positions. The length between the
+jaws is then measured on a graduated scale (fig
+1.2b).
+
+b. The vernier callipers
+
+These can measure lengths more accurately than the
+metre rule. To measure small lengths, to the
+nearest 0.1 mm, e.g. the thickness of a metre rule,
+the internal and external diameters of a tube, or the
+diameter of a rod, we use the vernier callipers. This
+device gives a more accurate determination of such
+lengths.
+
+The instrument has two sets of jaws and two
+scales, the main and the vernier scales. The vernier
+scale which slides on the main scale is a smaller
+scale which enables us to measure a fraction of the
+smallest division on the main scale. The main scale
+is graduated in centimetres and millimetres. The
+vernier scale is constructed by dividing a 9 mm
+length into 10 equal intervals such that each vernier
+division has a length of 0.9 mm or 0.09 cm. The
+difference in length between a vernier scale division
+and a main scale division is thus 0.1 mm or 0.01
+cm.
+
+Cylinder
+
+Main scale
+
+Enteral Vemier scale
+
+diameter
+
+Fig. 1.3 Vernier Calliper
+
+Cylinder
+
+Locking screw
+
+Vernier
+scale
+
+Fig. 1.4 Main scale and vernier scale
+
+Main scale
+
+Scale reading
+
+Vernier scale pointer of coincidence
+(22mm +0.4 mm) = 22.4 mm
+
+For any measurement, the readings on both the
+main and the vernier scales are added together to
+obtain the total reading of the length. For example
+in fig, 1.4 the reading is 2.24 cm. This is obtained
+by recording the reading on the main scale
+immediately preceding the zero mark on the vernier
+scale; we then record the number of the graduation
+on the vernier which comes most directly in line
+with the graduation on the main scale. This gives
+the decimal place in millimetres (mm) or the
+second decimal place in centimetres (cm). The two
+readings are then added up (22 mm + 0.4 mm).
+
+The vernier callipers can usually measure to an
+accuracy of 0,01 cm. The necessary precaution in
+using this instrument is always to note if it has
+any zero error. This is done by Setting the zeros of
+the main scale and the vernier to coincide. If they
+do not coincide, any difference is noted as the ‘zero
+error’. This is added or subtracted in all subsequent
+readings as the case may be,
+
+The reading accuracy of the vernier callipers is
+
+0.01 cm.
+
+c. The micrometer screw gauge
+
+For accurate measurements of still smaller lengths
+such as the diameter of a wire, the diameter of a
+small ball (e.g. a pendulum bob) or the thickness
+of a piece of paper, we use the micrometer screw
+gauge. It can measure to an accuracy of 0.001 em,
+
+Before any measurements are made with the
+Screw gauge, its anvil and spindle should be closed
+to check for zero error.
+
+Like the vernier callipers, the micrometer
+screw gauge has a main scale and a vernier scale.
+The main scale is graduated in millimeters. The
+circular vernier scale consists of 50 equal divisions
+When the screw head carrying the circular vernier
+scale is turned round once, it moves a distance of
+0.5 mm along the main scale. Thus one division
+
+LS
+on the vernier scale equals oe or 0.01 mm on the
+
+main scale.
+
+To measure with the instrument, the object is
+placed between the jaws (i.e. the anvil and the
+spindle) which are then closed using the ratchet
+until the object is firmly gripped by the jaws. The
+main scale reading is then noted to the nearest,
+
+WS
+
+Thimble Ratchet
+
+verier scale
+
+Vemier Main scale
+scale
+
+Main scale |
+
+{
+
+1
+
+|
+
+the .2.2 Measurement of volume
+ting © a! isionsin. = a. Rectangular block
+
+fig. 1.5b, ie. 0.25 mm). The readings on the two) We can obtain the volume of a rectangular block by
+scales are then added giving 7.5 + 0.25 = 7.75 mm measuring its length (J), breadth (6) and height (A).
+
+or 0.775 cm. If the instrument has any zero error,
+this is then added or subtracted as the case may be.
+
+The volume is then given by
+
+V=lXbxR 1.1
+
+Fig.
+
+Water displaced
+by stopper
+
+Measuring
+
+cylinder
+
+1.6 Measuring the volume of an irregular solid
+
+bh. Irregular solid
+
+The volume of an irregular sold (eg. a glass
+stopper) is o&arnad dy immersing tt completely
+& Measunng cylinder oontaming a ligurd in which
+the sold is insolue. The volume of the hquid
+
+displaced, gives the volume of the sold
+
+e. A sphere
+measure the dianwter (@) wath a nucrometer
+sorew gauge and obaain the volun by
+
+different valves of the diameter and find the mean
+value,
+
+a. Cylindrical wire
+
+We measure the length () of the wire using a metre
+tule, and the di t (a) of the wire using a
+mucrometer screw gauge. We measure the diameter
+at different points of the wire and calculate the
+mean diameter.
+
+{
+|
+
+Measunns
+cylinder
+
+Volumetne
+flask
+
+Piperte
+
+| Fig. 1.7a Graduated glass containers
+The correct liquid level ty read at the bottom of the
+meniscus (or curved surface of the hqued).
+
+y wrong
+
+> correct
+
+Fig
+
+.2.3 Mass and Weight
+
+Mass is defined as the quantity of matter or ‘stuff
+contained in a body; while weight is the force or
+pull with which the earth attracts the body towards
+the centre of the earth.
+
+The mass of a body is measured with a balance
+of which there are various types — a beam or
+chemical balance. a lever balance as shown in fig.
+1.8.
+
+Different types of balance
+The mass of a body is usually measured by
+comparing it with standard’ masses.
+
+To measure with a beam balance, the object is
+placed on the left-hand scale pan and standard
+masses are placed on the right-hand scale pan.
+When raised for weighing, the beam of the balance
+should swing freely about a pivot in the centre of
+the beam. Standard masses are added until the
+pointer swings equal number of divisions on each
+side of the central mark or the pointer balances on
+the ceatral mark of the scale. When this happens
+the masses tn the Wo scale pans are equal.
+
+The mass of the object is then obtained by
+adding the standard masses on the right scale pan.
+
+The working of the beam balance is based on
+the principle of moments’ and its reading accuracy
+could be up to 0.001 grams. 7 ,
+
+Precautions to be taken when using beam
+balance
+For more accurate results, the following
+Precautions should be observed:
+a forveps (not bare hands) are used for picki
+the standard masses, seiiiasaiitalil
+b. objects are wiped dry befi ced on
+the scale pan, : lie ace
+hot objects are allowed to cool before
+weighing,
+
+o
+
+Knife edge K
+
+Beam
+
+Arrestment knob H
+Chemical Balance
+
+Graduated scale
+
+A lever balance
+
+Pointer
+
+Fig. 1.8 Another type of beam balance
+
+d known masses are not added or removed from
+
+the scale pan while the beam is in the raised
+
+position.
+
+The weight of an object is found with a spring
+balance. The balance is calibrated using Hooke's Hook
+law which states that the extension of the spring of
+the balance is proportional to the applied force as
+long as the elastic: limit of the spring is not
+exceeded. The balance, therefore, has a uniform .
+scale and measures the weight directly. Object
+
+The object whose weight is required is A direct reading balance
+suspended from the hook of the spring balance. The
+weight causes the spring to stretch moving the ‘ ;
+pointer which directly indicates the weight on the Mig: 39 The dpriaenalines
+graduated scale.
+
+Precautions to be taken
+
+spring balance
+
+For accurate results, we should observe the
+
+following precautions:
+
+a. The balance is held still and vertically while
+taking the reading. It is better to suspend it
+from a firm support or hook.
+
+b. The spring is stretched lightly with hand and
+teleased before taking readings. This is to
+remove possible kinks in the spring.
+
+c. The eye is placed horizontally with the pointer
+while taking reading. This is to avoid the error
+due to parallax.
+
+1.2.4 Time
+
+We define time as that in which events are
+
+distinguishable with reference to before and after.
+
+The most natural time unit is the solar day which
+
+is manifested by the passing of day and night. It
+
+takes the earth one solar day to complete one
+revolution about its axis. For astronomical
+purposes, a different time scale known as sidereal
+time is used. This is the time interval between two
+successive passages of a star over the meridian. At
+the present period, the essential mechanisms of the
+devices used for marking the passage of time are
+masses so mounted or suspended that when set in
+motion under the influence of forces, they repeat
+with great regularity fixed cycles of their motion.
+
+The pendulum of a clock and the balance wheel of a
+
+watch are two of such mechanisms.
+
+Hence nowadays we measure and indicate time
+with clocks. In the laboratory, time is measured
+with a stop-clock or stop-watch.
+
+Stop Watch ‘ P
+
+when using
+
+Stop Clock
+
+The stop-clock or stop-watch can be started or
+stopped with the use of a knob. The knob can be
+pressed or pushed. The stop watch enables us to
+measure small intervals of time very accurately,
+Stop watches can measure time to 0.1 second,
+
+The unit of time is the second with its
+multiple units as
+
+60 seconds = | minute
+
+60 minutes = | hour
+
+24 hours = 1 day
+
+The most accurate clocks of all are the quartz
+crystal clock and the atomic clock.
+
+Dis oril
+
+a |
+
+1.3. Dimensions of Physical quantities
+Any quantity which can be measured in units of
+lengths is said to have the dimension, of length (L).
+So also any quantity which can be measured in units
+of time is said to have a dimension of Time (T) and
+any quantity which can be measured In unit of mass
+is said to have a dimension of Mass (M).
+In Physics, the word dimension has a special meaning.
+It usually denotes the physical nature of a quantity,
+The symbols that are used to specify length, mass and
+time are [L], [MJ], [T], respectively. They are usually
+enclosed in bracket. ;
+The dimension of velocity (V) are written
+_ [Length] _ IL)
+~ [Time] [7]
+Or V=(LI(7]
+Dimension for area, A = length x breadth
+= (L] x (L] = (L2]
+
+For volume, V = [L] x [L] x [L] = (L3}
+
+Example
+
+Deduce the dimension of (a) force (b) pressure (c)
+work
+
+Solution
+
+(a) Force = mass x acceleration
+
+Dimension of Force = Dimension of Mass x
+
+Dimension of Acceleration
+= (M] x (LT-2]
+
+= (MLT-2]
+
+(b) Pressure = Force = Dimension of Force
+Area Dimension of Area
+. ; 2
+Dimension of Presure = (MLT“| = vay me
+(1?)
+Dimension of Force x
+Dimension of distance
+(MLT-2) x (L] = (ML2T*I
+se Use the method of dimension or dimensional
+SIs to verify wheth i tion is
+Correct or not. For sl aaa
+
+example, consider the formula,
+=U + at. The dime pe Kee
+
+: nsion of each term on each side ©
+the equation must be the same.
+
+(c) Dimension of Work =
+
+hence,
+VS u+ar
+
+Ur} ser
+=(Lr ' wry (L7-2} x (7)
+
+crefore She oy
+"the equation is Correct dimensionally
+
+Summary
+
+1 Fundamental quantities are the basic quantities
+that are not dependent upon others and cannot be
+defined in terms of other quantities. Their units
+are fundamental units.
+
+2 Derived quantities and units are those obtained
+by some simple combination of the fundamental
+quantities and units.
+
+3 We measure lengths by the metre-rule, diameters
+by vernier callipers and micrometer screw gauge,
+mass by beam or chemical balance, weight
+
+by spring balance and time by stop clocks or
+watches.
+
+Activities
+
+| Use a metre rule to measure out a string of length
+
+six metres. Use this six-metre string to measure
+
+the length and breath of your school's assembly
+hall, football field, and your dormitory.
+
+Use a stopwatch to measure the number of beats
+
+your pulse makes in ‘a minute. Collect such
+
+number of beats for 10 students in your class.
+
+Find the average pulse rate for the 1] of you.
+
+Ask the students to jump up and down twenty
+
+times. Repeat the experiment and compare their
+
+pulse rates with their previous values. Obtain the
+new average pulse rate.
+
+3 Use a metre-rule to cut out a length of string 90
+cm. Tie a piece of pebble to one end of the string
+and suspend the other end from a firm support.
+Displace the pebble and string from their rest
+position. Using a stopwatch, find the time it takes
+the pebble to move to and fro, thirty times.
+Repeat the experiment using strings of length 70
+cm, 50cm and 40 cm. Compare the times for thirty
+complete movements of the string and pebble.
+This is the simple pendulum experiment, the
+theory of which will be discussed in a later
+chapter.
+
+4 Suspend a spring balance from a firm support.
+Suspend 109, 20 g, 30 g, and 50 g slots of weight
+from its hook and note the extension produced for
+each slot of weight. Remove the weights in turn
+and note the new positions of the pointer, and the
+new extensions corresponding to each weight.
+Compare the extensions for load increasing with
+those for load decreasing.
+
+Ne
+
+Exercise 1
+
+1 Which of the following are fundamental units?
+A kg B kg.m-3 Cs
+D m3 E Nm-2.
+
+2 What are the reading accuracies of
+A metrerule B_ vernier callipers
+C micrometer screw gauge D_ stopwatch,
+
+3 Which of the units of the following physical
+
+quantities are derived?
+1 Area 2 Thrust
+3 Pressure 4 Mass (SSCE)
+
+4 What are the best Instruments for measuring
+a. length of a simple pendulum
+b. diameter of a metal rod
+c. thickness of the central portion of a thin
+
+converging lens
+d. internal diameter of test-tube
+e. diameter of a spherical metal bob?
+
+5 Name the instruments you would use to make
+measurements on a given length of wire in order
+to calculate the volume of the wire. Which of the
+measurements should be repeated several times in
+order to make the calculation very accurate. and
+
+why? (SC/GCE)
+6 How many seconds are there ina
+1 year 2 day 3 month of march?
+
+7 Distinguish between fundamental and derived
+quantities. Give two examples of each.
+
+8 Distinguish between mass and weight. Name the
+instruments for measuring each.
+
+|
+|
+|
+}
+|
+|
+|
+|
+|
+
+Fig. 1.11
+
+The diagram above represents a portion of a
+vernier calliper. What is its reading?
+A 7.10cm B 709em C 690em
+D 634em E 6.29cm. (SSCE)
+10 The internationally agreed system of units (S1)
+for physical measurements are
+(a) Ib, ft, sec (b) g,m,sec (c) kg, m, sec
+(d) cm, g, sec (e) kg,cm,sec (Jamb)
+11 Which of the following is NOT a fundamental S.1
+Unit?
+(a) Metre (b) Ampere (c) Kelvin
+(d) Second (e) Radian (Jamb)
+12 Which of the following is a fundamental unit?
+(a) Newton (b) Watt (c) Joule
+(d) Second (Jamb)
+13 Which of the following statements about a
+spring balance and/or a chemical balance is NOT
+corrects?
+(a) The Chemical balance operates on the
+principal of Moments
+(b) The spring balance operates on Hooke's law.
+(c) Either may be used to measure the weight of a
+substance
+(d) The reading of a spring balance changes
+
+14
+
+Which of the following statements about mass
+
+and weight are correct?
+
+(i) Weight is the force of gravity on a body.
+
+(ii) The mass of a body is the quantity of matter
+in the body.
+
+(iii) The weight of a body is greatest at the
+equator.
+
+(iv) The mass of a body is greatest at the poles.
+
+A. (i) and (ii) only B (i) and (iii) only
+
+C (ii) and (iv) only D (iii) and (iv) only
+
+E (i) and (ii) and (iii) only
+
+What are the S.I. units of K so that the equation
+
+Velocity = K x density is dimensionally correct?
+
+Give your answer in terms of the basic units.
+
+(Kg'm45"')
+
+Which of the following is a fundamental
+
+quantity?
+
+A Heat capacity
+
+C Torque
+
+E Density
+
+B Electric current
+D Reactance
+
+17
+
+Which of the following is a fundamental
+quantity?
+
+A Speed B Density
+
+C Length D Impulse
+
+E Energy
+
+Which of the following is a derived unit?
+
+A Ampere B Kilogram
+
+C Second D Ohm
+
+E Kelvin
+
+A sphere of radius r moving with a velocity v
+under streamline conditions in a viscous fluid
+experiences a retarding force, F, given by F =
+Krv where K is a constant.
+
+Derive the S.I. units of K in terms of the base
+units.

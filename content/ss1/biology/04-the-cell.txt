@@ -1,0 +1,995 @@
+TOPIC: The cell
+WEEKS: 4
+TEACHER'S SCHEME: Cell as a living unit, forms in which cells exist, cell structure and functions, the cell theory, differences and similarities between plant and animal cells
+
+=== SOURCE: School notes week 4 ===
+WEEK 4
+SUBJECT: BIOLOGY
+CLASS: SS1
+TOPIC: THE CELL
+CONTENT: 1. Cell as a living unit of an organism
+2. Forms in which cells exist
+3. The cell structure and functions
+4. Cell theory
+
+5. Differences and similarities between plants and animal cells
+Sub - Topic 1: CELL AS A LIVING UNIT
+The cell is defined as the simplest, the smallest and basic unit of life. It is the structural and
+functional unit of a living organism. The cell can carry out all life activities such as feeding,
+respiration, movement etc.
+Classification of Living Things Based on The Number of Cells
+All living things are classified into two major groups depending on the number of cells they
+possess. These groups are:
+A. Unicellular or Acellular organism: Organisms which consist of only one cell e.g. Amoeba,
+Paramecium, Chlamydomonas and Euglena.
+B. Multicellular Organisms: Organisms which consist of two or more cells, e.g. Hydra,
+Flowering plants, Fish, Bird, Man etc.
+Sub - Topic 2: FORMS IN WHICH LIVING CELLS EXIST
+Living cells exist basically in four forms;
+2. As a colony: A colony consists of many similar cells which are joined together. E.g. Volvox,
+Pandorina, etc. Diagram of volvox
+3. As a filament: This consists of many similar or identical cells joined end to end to form
+unbranched filaments. e.g. spirogyra, zygnema, oscillatoria and oedogonium.
+Each cell in a colony or filament behaves as an individual. Each carries out life
+processes independently of its neighbours.
+4. As a part of a living multicellular organism: In multicellular organism cells which
+perform the same function are grouped together to form a tissue, e.g. tissues of the ileum
+wall, the retina, and the blood (a tissues which perform a specific function form an organ
+and a group of organism working together to perform a specific task form a system.
+SUB-TOPIC 3: CELL STRUCTURE AND FUNCTIONS
+From the general point of view, cell is considered as an idea. The dictionary explains the meaning
+as 'a small room in a prison for one or more persons' or as 'a small number of people.' When one
+commits a crime, such a person is put in a police cell while investigation is going on.
+However, in Biology the term cell is a vital subject matter and has a special definition. It is defined
+as the smallest, structural and functional unit of life having a nucleus at the centre and bounded by
+a cell membrane.
+They are two types of cells: Plant and Animal cells. See diagram below
+Plant Cell
+Plant cells contain a variety of membrane-bound structures called organelles. These include a nucleus that
+carries genetic material; mitochondria that generate energy; ribosomes and rough endoplasmic reticulum
+that manufacture proteins; smooth endoplasmic reticulum that manufactures lipids used for making
+membranes and storing energy; and a thin lipid membrane that surrounds the cell. Plant cells also contain
+chloroplasts that capture energy from sunlight and a single fluid-filled vacuole that stores compounds and
+helps in plant growth. Plant cells are surrounded by a rigid cell wall that protects the cell and maintains
+its shape.
+
+Animal Cell
+An animal cell typically contains several types of membrane-bound organs, or organelles. The nucleus
+directs activities of the cell and carries genetic information from generation to generation. The
+mitochondria generate energy for the cell. Proteins are manufactured by ribosomes, which are bound to
+the rough endoplasmic reticulum or float free in the cytoplasm. The Golgi apparatus modifies, packages,
+and distributes proteins while lysosomes store enzymes for digesting food. The entire cell is wrapped in a
+lipid membrane that selectively permits materials to pass in and out of the cytoplasm.
+EVALUATION:
+1. Define the term cell.
+2. Mention the two groups in which organisms can be placed based on the number of
+cells.
+3. State the forms in which living cells exist
+4. Sketch a well labelled diagram of plant and animal cells
+SUB-TOPIC 4:THE CELL THEORY
+The man who first discovered and described cell in living things is called Robert Hooke in 1665, he
+3. Cell originates from a pre-existing cell; and
+4. Cell contains hereditary materials.
+Another name for cell components are cell organelles e.g of an organelle is the nucleus of a cell as
+shown below.
+Mitochondria
+Mitochondria, minute sausage-shaped structures found in the hyaloplasm (clear cytoplasm) of the cell,
+are responsible for energy production. Mitochondria contain enzymes that help convert food material into
+adenosine triphosphate (ATP), which can be used directly by the cell as an energy source. Mitochondria
+tend to be concentrated near cellular structures that require large inputs of energy, such as the flagellum,
+which is responsible for movement in sperm cells and single-celled plants and animals.
+SUB-TOPIC 5: DESCRIPTION AND FUNCTION OF CELL COMPONENTS
+1. Cell wall
+Description: Non-living, made of cellulose, permeable to water and substance
+Functions: Provides rigidity to the cell and gives it a definite shape.
+2.Cell membrane
+Description: Living and differentially permeable to water and substance.
+Function: Allows selective movement of materials in and out of the cell.
+3.Cytoplasm:
+Description: Semi-fluid mass enclosed within the cell membrane and contain many organelles.
+Functions: The largest and liquid part of the cell in which metabolic reactions occur.
+4. Nucleus
+Description: Enclosed by a nuclear membrane, and contains chromatin and nucleolus.
+Functions: It stores and carries hereditary information from generation to generation. It also
+translates genetic information into the kind of protein characteristic of the cell. It controls the cell's
+life processes
+
+5. Vacuoles
+Description: This is the fluid filled spaces in the cytoplasm.
+Functions: Help in maintaining turgidity in the plant cell.
+6. Mitochondria
+Description: It is a double membrane system, found in all cells. It contains the enzymes for cellular
+respiration.
+Functions: it carries out metabolism for all life processes. Kreb's cycle and electron transfer system
+take place in the mitochondria.
+EVALUATION
+1. State the cell theory.
+2. Who is the first founder of the cell?
+3. List four men who contributed to the discovery of the cell
+4. Describe the nucleus and its functions.
+5. What was the contribution of Felix Dujardin to the cell theory?
+WEEKEND ASSIGNMENT
+1. State Five (5) differences between plant and animal cell.
+2. Outline four similarities between plant and animal cell.
+3. Describe and state the functions of the following cell components or organelles: (a)
+Endoplasmic reticulum (b) Ribosome (c) Centrioles, and (d) Chloroplasts
+SUGGESTED PRACTICAL:
+Observe a spirogyra filament and draw a well labeled diagram of 10 - 12cm.
+
+=== SOURCE: Biology Matters ch.1 ===
+Chapter 1 I Cells and the Chemistry of Life
+
+ 1.1 What Are Cells?
+ Learning Outcomes
+ Identify and stat e the functions of t he following cell structures Oncluding organelles) of typical
+ plant and animal cells from diagram s, light micrographs and as seen under the light m icroscope
+ using prepared slides and fresh material treated with an appropriat e t emporary st aining
+ technique: cell wall, cell membrane, cytoplasm, nucleus. cell vacuoles (large, sap-filled in plant
+ cells. small, t emporary in animal cell s), chloroplasts.
+ • Ident ify and st ate t he functions of t he following membrane syst ems and organelles
+ from di agrams and electron micrographs: endoplasmic reticulum, Golgi body,
+ mitochondria, ribosomes.
+ • Compare the st ructure of t ypical animal and plant cells.
+
+ Imagining Cells as Chemical Factories
+ All liv ing things are made up of billions of t iny cells, j ust as a building is made of bricks.
+ Cells are the building blocks of life. They are the simplest structural and functional units ,:iflife.
+
+ What do you think cells do? To answer thi s quest ion, you need t o imagine your cells as
+ chemical fact ories. Many chemical reactions occur continually inside t hese factories t o keep
+ you alive. For example:
+ • A cell takes in raw mat erials.
+ • Then, it processes these mat erials to make new molecules.
+ • These molecul es can either be used by t he cell itself or t ransported to other parts of
+ the body.
+
+ In any factory, there are different de;partments that carry out different f unct ions. A cell also
+ has different st ructures t hat perform different roles w ithin t he cell. For example, mitochondria
+ provide energy for cell activ ities, and chloroplasts carry out photosynthesis. Such division of
+ labour increases efficiency wit hin the syst em. It ensures that t he cell can survive and perform
+ its role w ithin t he body.
+
+ How Did Cells Get Their Name?
+ The term 'cell.s' was first introduced b y an English scientist , Robert Hooke, in 1667.
+ He used one of t he earliest microscopes to examine t hin slices of cork from the bark
+ of a tree (Figure 1.1). Hooke saw clos,ely packed little boxes w ith t hick wall s. He named
+ t he boxes 'cells; j ust like the cells in :a honeycomb or a pri son. In fact.
+ Hooke only s.aw t he wall s of dead pl:ant cells.
+
+ Figure 1.1 Robert
+ Hooke observed that
+ cork is made up, of
+ tiny cells.
+
+2
+
+ Cell Structure a nd Organisation I Chapter 1
+
+ How Can We Study the Parts of the Cell?
+ Most cell s are too small to be seen w ith our eyes alone. We can use light
+ and electron microscopes to help us to see cells and t heir part s. Over
+ 300 years ago, biologi sts like Robert Hooke and Antonie van
+ Leeuwenhoek creat ed their own light m icroscopes to study
+ microscopic objects!
+ • Light microscopes magnify objects up t o lOOOx (spoken:
+ one t housand times) (Figure 1.2(a)).
+ Electron microscopes magnify objects to more than
+ 200 OOOx (spoken: t wo hundred thousand t imes)
+ (Fig ure 1.2(b)). (b) electron
+ microscope
+ A camera can be fitted to eit her t ype of microscope to take
+ pictures. These pict ures are called mlcr,ographs- (a) light
+ Light mlcrographs can come out as colour images. m,croscope
+ figure 1.2
+ Electron mlcrographs are black-and-whit e images, but t hey can be Micro.scopes
+ artificially colourised.
+
+ To get a clearer pict ure of how a cell is constructed, we may need to make
+ a section of t he cell at different planes (Fig ure 1.3).
+
+ tramvcrse section (T.S.)
+
+ _..,...........
+ longitudinal ~ection (LS.)
+
+ (a) Cutting a longltudinal section (LS.} (b) Cutting a transverse section (T.S.)
+ (i.e. cutting along the length of the cell) (i.e. cutting ocross the length of the eel~ Biology Connect
+ Scan the QR code l o watch
+ Figure 1.3 We may cut a cell in two different ways in order to view cell structures from a d ip and have a glimpse
+ different an gles. This helps us to build up a th ree-dimensional picture of the cell. of the structures inside
+ the cell.
+
+ What Does a Cell Consist Of?
+► A cell is a unit of life. It consists of a mass of living matter
+ called protoplasm.
+
+ While all the cells of your body may not look t he same, they all have sim ilar
+ pa rts. Each living cell consists of living m aterial called protoplasm (Greek:
+ protos = first; plasm = form).
+
+ Protoplasm is a complex jelly-like substarnce. Many chemical activ ities t hat
+ allow the cell to survive and grow are carr ied out in the protoplasm.
+
+ 3
+
+Chapter 1 I Cells and the Chemist ry of Life
+
+ The protoplasm of a cell is made up of t hree parts: the cell membrane (also
+ known as cell surface membrane), cytoplasm and nucleus (Fig ure 1.4).
+
+ Disciplinary Idea
+ Systems 0 ' < - - - - - cell membrane
+ Cells are highly
+ organised biological ribosome - - - ; ~- ~
+ systems with many
+ organelles. While each vacuole -+---{'.)
+ 0
+ organelle performs
+ specific functions. the 0
+ - --=--+- chromosome
+ various organelles work
+ 0
+ as a co-ordinated system nucleus -1- ~ - - - - ---l
+ within the cell to carry
+ out processes needed to \)
+ sustain life.
+ Q cytoplasm
+ 0 0
+ 0
+ 0
+ 00 ~ 0
+
+ Word Alert
+ Mitochodrion: singular F"iagure 1.4 A generalised animal cell showing some major organelles
+ for mitochondria
+ Lipids: biological
+ molecules that are Cell Membrane
+ not soluble in water. The cell membrane surround s t he cytoplasm of t he cell. The cell membrane
+ Examples of lipids are is made up of lipids and prot eins. It i s a partially permeable membrane,
+ fats. waxes and oils. This means t hat it allows only some :subst ances t o pass t hrough it. Hence,
+ t he cell membrane control s the movement of substances in and o ut of
+ t he cell.
+
+ Cell Wall
+ A plant cell also has a cell wall that e ncloses the ent ire plant cell,
+ surrounding t he cell membrane (Figure 1.5). This cell wall is made of
+ cellul ose, It protects the cell from irnjury and gives t he plant cell a fixed
+ shape. The cell wall is fully permeable, so it does not control the t ype of
+ substances t hat ent er or leave the cell. The cell wall is absent in animal cells.
+
+ nuclear membrane chromosome
+
+ G••o ·. o ·
+ Helpful Note
+ The terms 'cell surface cell membrane - - ,'{ \ t-➔'i-- nuc.leu s
+ membrane' and 'ccll! ribosome
+ membrane' are used in 0
+
+ this book to refer to the cytoptasm- -w-
+ membrane enclosin_g the
+ entire cell. Organelles
+ inside the cell are also
+ endosed by their
+ cell w~U
+ 0 D -IJ-- m
+ , itochondrion
+ -➔-,--f+- vac:uole
+
+ chloroplast
+ organdies
+
+ own membranes. (containing
+ chlorophyll)
+
+ Figure 1.5 A generalised plant cell
+
+4
+
+ Cell Structure a nd Organisation I Chapter 1
+
+Cytoplasm
+The cytoplasm is a j elly-like substance t hat fills t he inside of the cell and is
+enclosed by t he cell membrane. It is the part of t he prot oplasm between
+the cell membrane and the nucleus. It is where most cell activities occur.
+The cytoplasm contains organelles. An organelle is a cellular structure that
+performs a specific j ob w ithin a cell.
+
+Organelles carry out many fu nctions in the•cell. You will learn more about
+t hem in lat er parts of t his chapter. Many organelles, such as mitochondria,
+endoplasmic ret iculum, Golgl body and irlbosomes are not vi sible under the
+light microscope. They can only be studied under the electron m icroscope.
+
+What Are the Parts of the Cytoplasm?
+The cytoplasm contains tiny st ructures called organelles (Figure 1.6).
+Each organelle is specialised for a particul:ar function. Examples of t hese
+organelles are nucleus, rough endoplasmic reticulum, ribosomes, Golgi body,
+mit ochondria, ch loroplasts and vacuoles.
+
+ cell membrane
+smooth endoplasmic
+ ·= 0
+ reticulum - - t- --,
+
+ ___08....,,...,~ ~ f l 0
+ Golgi body - =,
+ vesicle O
+ ~~ -+--- cytoplasm
+ O°o
+ oo'
+ 0
+
+ Figure 1.6 Organelles in an animal cell seen under an electron microscope
+
+Nucleus
+The nucleus is surrounded by a membrane called t he nuclear membrane. The
+nucleus contains genetic informat ion in the form of chromosomes. You w ill
+learn more about chromosomes later in t hi s section.
+
+These are t he f unctions of the nucleus:
+ It cont rols cell activit ies such as cell growth and t he repair of worn-out parts.
+ It is essential for cell div ision. Cells w ithout a nucleus, like the red blood cells
+ of a mammal, are unable to divide.
+
+ s
+
+Chapter 1 I Cells a nd the Chemistry of Life
+
+ To see t he individual parts of the nucleus clearly, we will need to use an
+ electron microscope (Fig ure 1.7).
+
+ Chromosomes
+ Each chromosome Isa long Nuclear
+ thread-like structure found wnh1n membrane
+ the nucleus. (A human cell contains separates the
+ 46 chromosomes.)
+ contents ofthe
+ nucleus from
+ It Is made up of proteins and a the rest of the
+ compound called deoxyrlbonuclelc cytoplasm.
+ acJd or DNA. Hereditary Information
+ ISstored In DNA. DNA cames
+ Instructions that a cell needs for
+ carrying out Its activities.
+ When the cell lsdividing, the
+ chromosomes condense and shorten Figure t .7 Diagram showing parts of the nuc'leus (three-
+ to become thick, rod-shaped d imensional reconstruction of images seen under an
+ structures. electron microscope)
+
+ Figure 1.8 shows the appearance of
+ chromosomes during cell division.
+
+ Figure 1.8 Highly magn ified (2S OOOx)
+ and colourised elect ron micrograph of
+ chrom~omes during cell division
+
+ Rough Endopl asm ic Reticulum
+ Rough endoplasmic reticulum (RER) consists
+ of a net work of flattened spaces lined with a
+ membrane (Fig ure 1.9). (Greek: endoplasm = within
+ the cytoplasm; reticulum = net work).
+ Its surface appears roug h when viewed under the
+ elect ron microscope. This is because small part icles called
+ ribosomes are attached to its outer surface (Figure 1.10).
+ The outer surface of t he RER is con tinuous with the nuclear membrane.
+
+ F',gure 1.10Colo urised
+ rough endoplasmic electron micrograph of
+ flattened space reticulum
+ membrane lined with
+ (filled with ftuid )
+ tubule of ribosomes
+ nudear
+ smooth membrane
+ endoplasmic
+ reticulum
+
+ Figure 1.9
+ Three-d imensio nal
+ diagram of
+ endoplasmic
+ reticulum
+
+ ribosome
+
+ membrane lined
+ with ribosomes - - -- ~
+
+6
+
+ Cell Structure a nd Organisation I Chapter 1
+
+ Ri bosomes
+ Ribosomes are small round struct ures. They are eit her attached to t he
+ membrane of the rough endoplasmic reticulum (RER) or lie freely in the cytoplasm
+ (Figure 1.6 on page 5). They are needed to synthesise prot eins in the cell.
+ • The ribosomes attached to the RER make prot eins that are usually Link
+ t ransported out of the cell. What role do fats play in
+ • The ribosomes lying freely in the cytoplasm make proteins that are used your ibody? Read more
+ wit hin the cytoplasm of t hat cell. about them in Chapter 3.
+ What role do sex
+ The RER t ransports proteins made by ribosomes to the Golgi body for hormones play in your
+ secretion out of the cell. body; Read more about
+ them in Chapter 17.
+
+ Sm ooth Endopl asm ic Reticulum
+ Smooth endoplasmic reticulum (SERDdoes not have ribosomes attached
+ to its membrane. SER i s more t ubul ar t han RER (see Figure 1.ll~ lt is
+ connected to t he RER.
+ The SER:
+ • synthesises subst ances such as fats and steroids (sex hormones
+ in mammals are steroids)
+ • converts harmful substances int o harmless subst ances t hrough
+ a process known as detoxification
+
+ Golgi body
+ The Golgl body (also known as Golgl a pparatus) is
+ shaped like a disc. It consi st s of a stack of flattened
+ spaces surrounded by membranes. Vesicles (tiny
+ spherical spaces enclosed by a membrane) can be seen
+ fusing w ith one side of t he Golgi body and pinching off
+ from t he opposit e side (Figure 1.12).
+ The Golgi body:
+ • chemically modifies substances made by t he ER
+ st ores and packages these substances in vesicles for
+ secretion out of the cell tubule of smooth
+ endopl,u mic F',gure 1.11
+ ftat space membrane reticulum Colou rised electron
+ micrograph of SER
+
+ vesicle pinching off
+
+ (b) Three-dimensional view of Golgi body
+
+ figure 1.12Golgi body
+(a) Colourised electron micrograph of
+Golgi body (6 2SOx)
+ 7
+
+Chapter 1 I Cells and the Chemistry of Life
+
+ Figure 1.13 shows how substances made by the ER are moved out of
+ the cell.
+
+ @ !Vesicles transport substance-;-]
+ Iwlthlntl>ecell.Smallveslcles I
+ 0 These vesicles then fuse with
+ tile Golgi body and release
+ l @ Secretoryvesicles containing
+ these modified substances are
+ l
+ I
+ I
+ containing substances made
+ by the ER are pinched off
+ l!_rom the ER.
+ J tlleir contents into tile Golgi
+ body. The substances made
+ by the ER maybe modified ~
+ pinched off from tile Golgi
+ body. They then move to thej
+ c~II memblllM.
+ in side tile Golgl body. _J
+ rough
+ Pndoplasmic
+ reticulum © !The secretory vesicl; '
+ Ifuse witll the cell
+ membrane and their
+ on tents are released
+ out of tile cell.
+ ~ ~
+
+ Figure 1.13 How
+ substances made
+ by the endoplasmic
+ reticulum entef" the
+ Golgi body and are
+ finally secreted out
+ Golgi body _) ,. _ -
+ of the cell
+ ''
+ · " - sub.stances
+ released out of
+ the cell
+
+ Other organelles embedded in the cytoplasm are the mit ochondria,
+ chloroplasts (only in plant cells) and vacuoles.
+
+ Mitochondria
+ Mitochond ria (singular: mitochond rion) are small oval or sausage-shaped
+ organelles (Figure 1.14). Aerobic resp iration occurs in t he mit ochondria.
+ During aerobic respiration, food substances are broken down t o release
+ energy (see Chapter 7). This energy may be used by the cell to perform cell
+ act ivities such as growth and reprod uction.
+
+ membrane folds
+
+ .1 hart section of
+ .1 mitochoodrion
+
+ F',gure t.t4Mitochondrion
+
+8
+
+ Cell Structure a nd Organisation I Chapter 1
+
+ Compare t he general st ructure of t he p'lant cell (Figure 1.1 S(a)) w ith t hat of
+ the animal cell (Figure 1.1S(b)). Do you rnot ice any difference(s) bet ween the
+ two cells?
+
+ smooth
+ r,::=::==;==:~~~~;:;:\---endoplasmic
+ chloroplast ...u.a,;, re ticulum
+(only in plant c~ls) mitochond,ion
+ wacuola1
+ membrane - ,ougt,
+ eodopli!Sfnic - - - !,-",,-\Ii);
+ nucleus reticulum
+ frt=-e ribosome ---+- vacuolar
+ vesicle --H--"4-.../ membtane
+ Golgl bod y - - -+----<!ll=
+ cell wall
+(only in plant cclls) ··-=- F",gure 1.1S Diagrams
+ vl!cuole
+ of cells as seen
+ under an electron
+ (a) A g enera lised plant cd l {b} A generalised a nimal cell microscope
+
+ Chloroplast s
+ Chloroplast s are oval structures found in plant cells (Figure 1.16).
+ Chloroplasts contain a green pigment called chlorophyll,
+ Chlorophyll is essential for phot osyntihesis, the process by which plants
+ make food (see Chapter 12).
+
+ F",gure 1 .16 Chloroplast
+
+ (a) Three-Oimensional diagram (bl Colourised electron
+ of a chtoroplast micrograph of a section
+ of a c hloroplast
+
+ Vacuoles
+ A vacuole is a fluid-filled space enclose-ct by a
+ partially permeable membrane. Vacuoles st ore
+ sub stances w ithin t he cell.
+
+ Plant cells have a large cent ral vacuole which
+ contains a liquid called cell sap. Cell sap contains
+ dissolved subst ances such as sugars, mi neral salts
+ and ami no acids.
+
+ Animal cells have many small vacuoles t hat
+ contain water and food sub stances. These
+ vacuoles usually exist temp orarily.
+
+ stxk of membran1M containing chlorophyll
+
+ 9
+
+Chapter 1 I Cells and the Chemistry of Life
+
+ Let's Investigate 1.1
+ Alm
+ To examine animal cell s using a light m icroscope
+
+ Procedure
+ 1 Place a drop of methylene blue on a clean microscope slide.
+ 2 Gently scrape the inside of your cheek wit h a blunt end of a clean
+ toothpick. Swirl the toot hpick end in the drop of met hylene blue.
+ Helpful Note 3 Carefully lower a cover slip at an an,gle over t he slide.
+ Methylene blue is a dye 4 Examine t he cells on t he slide under a light microscope.
+ thal stains structures in a
+ sample, maldng parts of
+ s Draw one cheek cell and label it as fully as you can .
+ the cell more visible.
+ Observation
+ Figure 1.17shows human cheek cells viewed under
+ the light microscope. - - ' ~ cell membr.ine
+ ..----1~ nucleus
+ Dl.scusslon --=-- -!--cytoplasm
+ 1 Compare your drawing wit h t he di agram of
+ an animal cell in Figure 1.4 on page 4. Which
+ structures shown in Figure 1.4 are not visible
+ under t he light microscope?
+ 2 Why must the cover slip be lowered at an angle in
+ step 3? Figure 1.1J
+
+ Let's Investigate 1.2 - - - - - - - - - - - - - - ~
+
+ Alm
+ To examine plant cells using a light m icroscope
+
+ Procedure
+ 1 Take a fleshy scale leaf from an oni on bulb and bend t he leaf until
+ it breaks into two. Gently peel off t he skin, called the epidermis,
+ from t he inner surface of the leaf using a pair of forceps.
+ 2 Place the epidermis on a clean glass slide.
+ 3 Add a drop of iodine solution (or met hylene blue) in the middle of
+ the slide. Carefully lower a coverslip at an angle over the slide.
+ 4 Examine t he epidermis under t he m icroscope.
+ s Draw one epidermal cell and label it as fully as
+ you can.
+
+ Observation
+ Figure 1.18shows onion epidermal cells viewed
+ under the light microscope.
+ nudeu.s
+ Dl.scusslon
+ 1 How does t his cell differ from the plant cell cytopl.1.sm
+ in Figure 1.5 on page 4?
+ 2 St at e two differences between plant and
+ Link animal cells that are visible under the light
+ microscope.
+ Practical Workbook
+ Experiments I A- I B -.:R Look at shape and cell stru ctures. Figure 1.18
+
+10
+
+ Cell Struct ure a nd Organisation I Chapter 1
+
+ Differences Between Plant and Animal Cells
+ Table 1.1 shows the key differences bet ween pla nt a nd animal cells. Disciplinary Idea
+ The•Cell
+ Table 1. t Differences between plant cells and animal cells Cells are the basic units
+ oflife. Thedifferent
+ Plant Cell Animal Cell orga11elles of a typical
+ plant and animal cell
+ Cell wall present Cell wall absent carry oot specific cellular
+ process. The differences
+ Presence of a large, cent ral vacuole Presence of many small vacuoles in organelles found in
+ plant and animal cells can
+ Chloroplasts p resent Chloroplasts absent explain the differences in
+ functions between plants
+ and a:nimals.
+
+Helpful Note xylem phloem
+A tissue is a group of cells with similar structures which work together to perfonn
+a spec.ific fumdion. There are two types of tissues: simple tissue and complex tissue.
+An example of simple tissue is the muscular tissue. Complex tissues oontain more
+than one type o( cells,e.g. blood (Figure t.19) and xylem (Figure 1.20).
+
+ cross section of root
+ Figure 1.19 Blood contains red blood cells. Figure 1.20 Plants contain xylem and phloem
+ white blood cells, platelets and plasma. tissues that work together for a specific fun ction.
+
+An organ co,nsists o( more than one kind o ( tissue. all working log-ether lo perform a specific function. Examples o ( organs are the stomach
+and leaf.
+
+An organ system consists o ( several organs working together for a common purpose. Examples o ( organ systems in humans indude the
+digestive system, circulatory system, respiratory system and transport system. In plants, examples o ( organ systems ind ude the root system
+and the shoot system. Various systems together make up the entire body o ( an organism.
+
+ 11
+
+Chapter 1 I Cells and the Chemistry of Life
+
+ Let's Practise 1.1
+ 1 St at e t he f unct ions of the following membrane syst ems and
+ organelles in the cell:
+ (a) chloroplasts (e) rough endoplasmic reticulum
+ (b ) Golgi body (fl smooth endoplasmic reticulum
+ (c) mitochondria (g) vacuoles
+ (d) ribosomes
+ 2 St at e t hree differences between a plant cell and an animal cell.
+ 3 Figure 1.21 shows a picture of a typ ical cell.
+ (a) Identify the parts A, Band C.
+ (b) Is this an animal cell or a plant cell? Give three reasons for
+ your answer.
+
+ A
+ 0
+ 0
+
+ 8
+
+ C
+ ~ a
+ 0
+
+0
+Link
+Theory Workbook
+Worl<sheet IA Figure 1.21
+
+ 1.2 How Are Cells Adapted to
+ Their Functions?
+ Learning Outcome
+ • Explain how the structures of specialised cells are adapted t o their functions (e.g. mus:cle cell -
+ many mitochondria t o supply more energy, root hair cell - large surface area of cell membrane
+ for great er absorpt ion, red blood cell - lack of nucleus allowing it to t ransport more oxygen).
+ Link
+ A nerve cell looks There are many different types of cells in living organisms. These cells differ in size and shape
+ very different from the and t hey perform specific functions. For example:
+ generalised cell you have • the human body has liver cells, nerve cells and skin cells, and
+ learnL Read more about
+ ilin Chapter I0. • the bougainvillea plant has guard cells and root hair cells.
+
+12
+
+ Cell Structure a nd Organisation I Chapter 1
+
+ Some cell s develop special st ructures or lose certain struct ures to enable
+ them to carry out specific functions. Thi s process of development is
+ called different iation.
+
+► Differentiation is t he process by which a cell becomes specialised for a
+ specific fu nction.
+
+ How Is the Structure of a Cell Related to Its
+ Function?
+ Table 1.2 shows some specialised cells and how t hey have been modified Disciplinary Idea
+ for specific functions. Structure and
+ Table t.l Examples of specialised cells and tlheir adaptations
+ Functwn
+ Specialised cells ha\'e
+ structures which
+ Cell Structure Adaptation to Function
+ heir them carry out
+ Red blood cell Contains ha emoglob in (a red their functions more
+ pigment) w hich binds to oxygen eflkienlly.
+ thinner and transports it around the body
+ central
+ port.ion Has a circular, biconcave shape
+ which increases the surface
+ )-urface view area-to-volume rat io so that
+ oxygen can diffuse in and out at a
+ thinner cytoplasm
+ central
+ portion
+ - -4aa....•••- containing
+ haemoglobh'I
+ higher rate
+ l acks a nucleus. enabling the cell
+ to store more haemoglobin for Link
+ Side \4ew to show transport of oxygen
+ Its biconcave sh.ape How does surface area-
+ Is flexible and can squeeze to-volume ratio affect the
+ through capillaries easily movemenl of subMances
+ into and out of cells?
+ Read more about it in
+ M uscle cell • Is e longated and cylindrical in Chapter 2.
+ shape, contains many nuclei
+ and mitochondria
+ • Has mit ochondria to provide the
+ energy for the contraction of the
+ muscle cell
+
+ nucleus mitochondrion protein fibres
+ Word Alert
+ biconcave: curving in
+ on both sides. hence
+ Root ha ir cell Has a long and narrow root hair being thin ner in the
+ to increase the surface area-t o-- middle than the edges
+ volume rat io t o absorb water and
+ mineral salts at a higher rate
+
+ 13
+
+Chapter 1 I Cells and the Chemistry of Life
+
+ Cool Career
+ Plant TISSUe Culture Scientist
+ Plant cells ha\'e an amazing ability to devl.'!op into an entire planLThis ability is called cl.'!lular lotipo(ency. Plant tissue
+ cullure scientists make use ofthis ability to de\'elop plants in the laboratories from plant tissue culture (Figure 1.22).
+ 11tismethod reduces the time to produce new varieties. as compared to traditional breeding methods.
+ Word Alert
+ Plant tissue culture has far-reaching applications, especially in agriculture. Specific breeds ofplants that are re.<istanl Propagation: growing
+ lo diseases can now be produced in large numbers. In forestry, this technique is useful for large scale propagation of and plan ling new trees
+ forest trees.
+
+ Mow do you think this technique can h,lp our environment and improve the lives of people in less df\'eloped countries?
+
+ Figure t ..22 Scientist
+ cutting p'.lant tissue
+ culture in a Petri dish
+
+ Let's explore some ideas about cells (Figure 1.23). Are all cells in an
+ organism t he same? Wh ich student i s correct ?
+
+ Cells have
+ Whllecel/$ different stru
+ lfferent str o serve their d
+ have the so functto
+ functlon.
+
+ Pt.ANT CELL
+ (
+
+ Figure 1.23 Three students are giving their views on cells.. Which student is correct?
+
+14
+
+ Cell Structure a nd Organisation I Chapter 1
+
+Tech Connect
+We can now create chicken meat from chicken muscle cells cultured in the
+laboratory (Figure 1.24). Would lhis mean lhal we can produce a functio ning
+organ in lhe laboratory by using cells that form the particular organ?
+
+Scientists may be able to make a three-dimensional model of an organ in the
+laboratory. However, many natural biological reactions taking place in an organ
+system cannot be reproduced in a model. Tissue engineers can now study a
+variety of natural biological reactions in an organ by placing lhe respective cells
+on a miaocnip. A simplified mode! for study is aeated in lhis way.
+
+These do not look anywhere near how our natural organs may look, but lhey are
+fundionaJ and they enable scientists to study the processes that take place in each
+organ, wilh almost complete control within the laboratory.
+
+Find out more about the benefits of using models lo study processes tn the
+human body. F",gure 1.24 Meat cultured in the laboratory
+ from stem cells
+
+Past to Present
+For many years, scientists and doctors have been injecting healthy blood stem
+cells into paliients who suffer from leukaemia. a type of cancer of the blood. This
+method, known as bone marrow transplant. has been a highly effective lreatment.
+increasing the survival rates o( patients substantially. muscle cells
+
+In recent years, scientists have developed several other methods o( USJng cells to
+treat different diseases. These methods use a special type of cell called stem cells.
+ ~
+Stem cells, Wllike other cells in lhe body, are not specialised cells and lhus have
+ ·~· ) i
+the ability lo develop into other specialised cell types (Figure l.25). This opens up
+a whole range of possibilities. Cells of different organs can be potentially grown in
+the laboratory and transplanted into the organs of humans. A patient's immune
+cells could be modified to recognise cancerous cells in the lymph nod.es and
+destroy lhem.
+ red blood- &
+ cells t liver cells
+
+ nerve cell c.1rd1.x muscle cells
+There are stil l a lol o( challenges that scientists need to overcome. In the near
+future., we may be able to make use o( cells to treat diseases that were once F"1gure 1.25 Human stem cells can be used to
+considered untreatable, develop a variety of cells.
+
+ 15
+
+Chapter 1 I Cells and the Chemistry of Life
+
+ Let's Practise 1.2
+ Look at the structure and cells in Tab le 1.3. Complete the table to describe how these cells
+ have been adapt ed to carry out its fu nctions.
+
+ Table 1.3
+ Important Howlh&Se
+ Functiom O,araderistic(s) to Charadoristics Hetlp It
+ S@rva Its H.aldion WQ-11 to Perform Its Fw,ctions
+
+ To absorb water
+ and mineral salts
+ from the soil
+
+ To deliver oxygen to
+ all parts of the body
+
+ •r
+ Link
+ Theory Workbook
+ Worksheet 1B
+ Let's Assess
+ Let's Reflect
+
+16
+
+ Cell Structure a nd Organisation I Chapter 1
+
+ Let'sMap It
+
+ a!sohavt
+ Animal cells Plant cells
+
+ Cell wall Chloroplasts
+
+ ,!) ro2it ~ whkh which
+ '!>~
+ have • is made of cellulose and is contain chlorophyll
+ ~~ • \) fully permeable which Is essential
+ '. • p totects the cell from inj ury for photosynthesis
+
+ q,. • , gives the plant cell a fixed
+ shape
+
+Cell membrane Cytoplasm Nucleus Ribosomes Mitochondria Vacuoles
+
+ which whkh wflkh which which whic.h
+
+controls the is the place where controls cell are needed for is involved store substances
+movement of most cell activities activities and synthesis of In energy within the cell
+substances in occur is essential proteins release
+and out ,of for cell division for cell
+the cell activities
+
+ Rough endoplasmic Smooth endoplasmic Golgi body
+ reticulum (RER) reticulum (SER)
+ which whkh which
+
+ is involved in protein is involved in producing fats
+ -chemically
+ synthesis and and steroids
+ modifies
+ transport of ptotei1,s subst ances made
+ by the ER
+ whJdaarediffe1ent • stores and
+ packages these
+ substance s for
+ In animal cells: In plant cells: secretion out of
+ many small vacuoles a large central the cell
+ which contain water vacuole which
+ and food substances contains cell sap
+ 17
+
+Chapter 1 I Cells and the Chemistry of Life
+
+.. Let's Review
+
+ Section A: M ultiple-choice Questions
+ 1 Which of the cell organelles is not vi sible
+ under the ordinary light microscope?
+ 2 Look at the list of cell st ructures:
+ cell membrane, large central vacuole,
+ cytoplasm, nucleus, chloroplasts,
+ mitochondria, endoplasmic reticulum,
+ cellulose cell wall Golgi body, ribosomes
+ cellulose cell wall and nucleus
+ Which of the structures list ed above are:
+ chloroplast s
+ (a) present in both plant and animal
+ Oo Golgi body and rough endoplasmic cells?
+ reticulum (b) present in plant cells only?
+
+ 2 Figure 1.26 shows a typical plant cell. 3 Figure 1.27 shows three different cells
+ Which of the numbered structures are seen under the m icroscope. Wlhich is a
+ partially permeable? plant cell? Explain your answer.
+
+ --1 A B C
+ 0 0 •
+
+ 0 0
+ 2
+
+ 0 •
+ 3
+ 0 0
+
+ 0 -- • Figure 1.27
+
+ " Section C: Free-response Question
+ 1 Describe how proteins synthesised
+ F',gure 1.26
+ by ribosomes are transport ed o ut of
+ 1 and 2 the cell.
+
+ 1 and 4
+ 2 and 3
+ O D 3and4
+ Section B: Structured Questions
+ 1 Name t he structure in the cell that:
+ (a) controls the movement of
+ subst ances in and out of the cell;
+ (b) contains genetic information;
+ (c) i s involved in cell respiration;
+ (d) stores and modifies subst ances
+ made by the ER for secretion out of
+ the cell.
+
+18
+
+ CHAPTER
+
+ Movement of
+ Substances
+
+ WhatYou '
+ Will Learn ~
+ -◄r
+ • What is diffusion?
+ • What is osmosis?
+ • What is active
+ transport?
+
+ilnink: lik:e a dief ana act quickly! Two diefs are cooking
+potatoes. Each l)otato needs to be cut into four l)i-eces.
+Each l)Otato also needs to be soaked in water
+liefore cooking.
+
+ 19

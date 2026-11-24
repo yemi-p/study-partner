@@ -1,0 +1,552 @@
+TOPIC: Particulate nature of matter
+WEEKS: 8-10
+TEACHER'S SCHEME: Physical and chemical changes; atoms and molecules; Dalton's atomic theory; protons, neutrons and electrons; arrangement of electrons; atomic number, mass number, isotopes, relative atomic masses
+
+=== SOURCE: Okoye ch.3 ===
+CHAPTER 3
+
+ PARTICULATE NATURE OF MATTER
+
+The concept or idea that matter is made of particles is referred to as the particulate nature of
+matter. We have seen that matter is made up of particles from the diagrammatic representation of
+the three states of matter. The fact that particles of matter are in constant motion can be seen
+from the fact that when a reagent bottle containing ammonia is opened in the chemistry
+laboratory, the odour will be perceived by somebody standing outside the laboratory after some
+seconds. Again if hydrogen sulphide gas is generated inside a chemistry laboratory, the odour of
+the gas can easily be perceived at different distances within the environment, or when a gas
+cylinder is opened in the laboratory without lighting the bunsen burner, the odour of the gas can
+also be perceived by people at different distances within the environment. If matter were not
+made of particles that were in constant motion, the odour of the gas will not be perceived at
+different distances from the source. Scientists discovered that matter is made up of particles
+which can be atoms, molecules or ions.
+
+3.1 Atom:
+
+An atom is the smallest particle of an element, which can take part in a chemical reaction. If a
+piece of solid element like copper or zinc is ground into very tiny pieces, the smallest part of it
+which can take part in a chemical reaction is called an atom.
+
+3.2 Molecule:
+
+A molecule of a compound or element is the smallest particle of a compound or element which is
+capable of independent existence. A molecule may be composed of atoms of the same element or
+atoms of different elements. For example, a nitrogen molecule (N2) contains two atoms of
+nitrogen, an oxygen molecule (O2) contains two atoms of oxygen but a molecule of water (H2O)
+contains two atoms of hydrogen and one atom of oxygen.
+
+3.3 Ion:
+
+An ion is an electrically charged atom or group of atoms. It is formed as a result of the loss or
+gain of electrons. The electrons lost or gained are equal to the valence of the ions. There are two
+types of ions. These are:
+
+ i Positively charged ion or cation
+
+ ii Negatively charged ion or anion.
+
+A cation is formed when an atom or group loses electrons. For example
+
+ 32
+
+ K - e- K+
+ Potassium 1 electron potassium ion
+
+ Na - e- Na+
+ Sodium 1 electron sodium ion
+
+ Mg - 2e- Mg2+
+ Magnesium 2 electrons magnesium ion
+
+Cations include ammonium ion (NH4+), hydrogen ion (H+) and metallic ions.
+
+An anion is formed when an atom or group gains electrons. For example;
+
+ Cl + e- Cl-
+ Chlorine atom 1 electron Chloride ion
+
+ S + 2e- S2-
+ Sulphur atom 1 electrons sulphide ion
+
+ O + 2e- O2-
+ Oxygen atoms 2 electrons oxide ion
+
+Anions include hydroxide ion and acid radicals. Examples of acid radical are:
+
+SO42- = Tetraoxosulphate (vi) ion
+
+NO3- = Trioxonitrate (v) ion
+
+3.4 Neutral Atom:
+
+A neutral atom is an element in which the number of protons in the nucleus is equal to the
+number of electrons surrounding the nucleus. If an atom gains or loses an electron or electrons, it
+becomes an ion. So an ion may be defined again as an atom, which has lost or gained an electron
+or electrons. The loss or gain of electron can be caused by the chemical environment of the atom
+eg in electrolysis or by the absorption of energy eg the excited state of an atom results in the
+formation of negatively charged ion but the loss of electron results in the formation of positively
+charged ion as shown below.
+
+ Cl + e- Cl-
+
+ Na - e- Na+
+
+In any electrically neutral substance the number of positive charge on the cation must be equal to
+the number of negative charge on the anion. For example, in (K+Cl-) the number of charge on
+the potassium ion is 1 and that on the chloride ion is 1, as a result, potassium chloride (KCl) is
+electrically neutral.
+
+ 33
+
+3.5 Atomicity:
+
+Atomicity of an element is the number of atoms in one molecule of the element.
+
+Elements whose molecule contains one atom is said to be mono-atomic e.g copper (Cu), sodium
+(Na).
+
+Element whose molecule contains two atoms are said to be diatomic e.g O2. Element whose
+molecule contains three atoms are tri-atomic eg O3. Element whose molecule contains four atoms
+are said to be tetra-atomic while a molecule containing more than four atoms is said to be poly-
+atomic eg S8.
+
+ ELEMENT MOLECULAR FORMULA ATOMICITY
+
+ Carbon C 1
+
+ Copper Cu 1
+
+ Sodium Na 1
+
+ Hydrogen H2 2
+
+ Oxygen O2 2
+
+ Nitrogen N2 2
+
+ Ozone O3 3
+
+ Phosphorus P4 4
+
+ Sulphur S8 8
+
+3.6 Dalton's Atomic Theory:
+
+Dalton's atomic theory is the idea put forward to explain atom. It was first postulated in the year
+1808 by a scientist called John Dalton.
+
+Dalton's atomic theory states that:
+
+1. Matter is made up of small indivisible particles called atoms.
+
+2. Atoms of a given element are all exactly alike.
+
+3. Atoms cannot be created or destroyed.
+
+4. Atoms combine in small whole numbers.
+
+ 34
+
+3.7 Recent Modification of Dalton‟s Atomic Theory:
+
+1. Number one postulate is no longer acceptable because radioactive elements are dividing
+ spontaneously. The atomic nucleus is giving out particles and so producing two less
+ complex atoms, eg radium disintegrates to produce two noble gases, helium and randon.
+
+ Ra → He + Rn
+
+1. Number two postulate is no longer acceptable because of isotopy. Isotopy is a
+ phenomenon that occurs when an element can exist in two or more forms having similar
+ chemical properties but different atomic masses. Thus chlorine has isotope Cl and
+ Cl. Both have the same number of electrons in their outermost shells. So they have the
+ same atomic number and exhibit the same chemical properties, but the 37-isotope has two
+ extra neutron in the nucleus and so is the higher atom. Potassium also have isotope K
+ and K.
+
+2. Number three postulate is only acceptable and applicable to chemical reactions, in which
+ atoms react as whole units. The changes that occurs as a result of atomic fission, destroy
+ atoms of the element involved. The nuclei are broken into smaller units forming simpler
+ atoms (atoms are created). The nucleus of the uranium isotope U=235, can absorb a
+ neutron and break up into two unequal atoms with mass numbers of 95 and 140.
+
+3. Number four theory is still acceptable for most elements in inorganic chemistry. In
+ organic chemistry, the statement is no longer acceptable because carbon can form very
+ complex organic compounds that do not react in small whole numbers. Examples of
+ complex organic compounds are:
+
+ Name Molecular Formula
+
+ Heptane C7H16
+
+ Octane C8H18
+
+ Nonane C9H2O
+
+ Decane C1OH22
+
+3.8 Atomic Structure:
+
+An atom is made up of three fundamental particles. These are electron, proton and neutron. An
+electron is negatively charged. It has a mass of 1/1840 Unit. It is found in the shell or orbit. A
+proton is positively charged. It has a mass of 1 unit. It is found in the nucleus. A neutron has no
+charge. It has a mass of 1 unit. It is found in the nucleus.
+
+ 35
+
+Characteristics of the fundamental particles of an atom.
+
+ Name of Charge Mass based Location in
+ Particle on carbon-12 the atom
+ Isotope
+
+ Electron -1 (negative) 1/1840 In the shell or orbit
+
+ Proton +1 (positive) 1 Inside the nucleus
+
+ Neutron 0 (neutral) 1 Inside the nucleus
+
+ S h e ll o r o rb it
+
+ E le c tro n
+
+ N u c le u s c o n ta in in g
+ p ro to n s a n d n e u tro n s
+
+ Fig. 3.1 structure of an atom.
+
+3.9 Atomic Number:
+
+Atomic number is the number of proton in the nucleus of an atom. For instance, if an atom has
+11 protons, the atomic number is 11. In an atom, the number of proton is equal to the number of
+electron. An atom is therefore said to be electrically neutral because of the equality of electrons
+and protons.
+
+3.10 Mass Number:
+
+Mass number is the number of protons and neutrons in the nucleus of an atom.
+
+Mass no. = no. of protons + no. of neutrons
+
+Mass number is also called an atomic mass. An atom with 10 protons and 12 neutrons has an
+atomic mass or mass number of 22.
+
+An element X with mass number 14 and the atomic number of 7 has the symbol X
+
+Thus an element X has mass number of 14 and atomic number of 7.
+
+ 36
+
+3.11 Isotopy:
+
+Isotopy is the occurrence of atoms of the same element having the same atomic number but
+different mass number. These atoms of the same element having the same atomic number but
+different mass number are called isotopes. The difference in the mass number of these isotopes
+are due to difference in the number of neutron in their nuclei.
+
+Examples of elements and their isotopes:
+
+Hydrogen: It has three isotopes
+
+ i. Protium H
+
+ ii. Deuterium H
+
+ iii. Tritium H
+
+Chlorine: It has two isotopes; chlorine 35 and chlorine 37. They are represented as follows:
+
+ Cl and Cl.
+
+Exercises:
+
+1. What do you understand by these terms?
+
+ I. Particulate nature of matter
+
+ II. Atom, III. Molecules, IV. Ion, V. Atomicity of an element.
+
+2. What are the four postulates of John Dalton in the year 1808?
+
+3. What are the recent modification of two of the Dalton's atomic theory?
+
+4. What are the three fundamental particles of an atom? State their masses and the charge
+ carried by each one of them.
+
+5. What is an isotope? Give two examples of it.
+
+6. Calculate the mass number of these atoms.
+
+ i. An atom with 10 electrons, 10 protons and 14 neutrons.
+
+ ii. An atom with 14 electrons, 14 protons and no neutron.
+
+ 37
+
+=== SOURCE: Okoye ch.9 (physical and chemical changes, elements, compounds, mixtures) ===
+CHAPTER 9
+
+ NATURE OF MATTER
+
+Matter is anything that has mass and occupies space. It includes all living things such as plants
+and animals, and non-living things like stone, wood, water, air, sand, shoe, sodium chloride etc.
+it can be an atom, element, mixture or compound.
+
+9.1 States of Matter: There are three states of matter. These are solid, liquid and gaseous states.
+
+ Fig. 9.1
+
+The particles of matter in solid state are held together by some cohesive forces. The particles
+exhibit vibrational motion. Solid has a definite shape. The particles of matter in the liquid state
+are held together by cohesive forces less than that in the solid states. Liquids assume the shape of
+the containing vessels. They can flow. The particles of matter in the gaseous state are usually in
+rapid random motion. Gases occupy any available space because of these types of movement
+they exhibit. They can be compressed. Some substances can exist as solid, liquid and gas at
+various temperatures. For example, water can exist as solid at a very low temperature, it can exist
+as liquid at ordinary temperature and as a gas (vapour) at a temperature of 100oC or 373oK and
+pressure of one atmosphere. Some substances can exist in only one state. An example of this is
+stone. There are other substances that can exist in two states. For example iodine or ammonium
+chloride exists in solid state at ordinary temperature but when heated changes directly into the
+gaseous state. For such substance (sublimates), the vapour pressure of the solid becomes equal to
+an atmospheric pressure before its melting point is attained. Matter can change from one form to
+another by either evaporation or sublimation.
+
+Evaporation:
+
+This involves the heating of a liquid (e.g water) so that the liquid changes to gaseous state. The
+difference between evaporation and boiling are as follows.
+
+ 93
+
+Sublimation:
+
+This is a process by which substances change directly from solid state to gaseous state (when
+heated) without passing through the intermediate liquid state. The substances are said to sublime.
+Examples of substances that sublime are iodine, ammonium chloride, naphthalene, camphor,
+menthol etc.
+
+9.2 Kinetic Theory of Matter
+
+Kinetic theory is the theory which deals with the way in which the arrangement of the particles
+of a substance determine the properties of the substance and in particular the state in which the
+substance is likely to be found under given conditions.
+
+Solid
+
+In solid, the particles or atoms are closely packed. The force that binds the molecules of the solid
+together is very strong. The molecules or particles in solid have no freedom of movement.
+However, they show or exhibit vibrational motion about their mean position. Solids have definite
+shape and volume. Solid has high density. When a solid melts, there is usually little change in
+volume.
+
+Liquid
+
+In liquid, particles are relatively spaced out. The force that binds the particles or molecules
+together is not as strong as the force experienced by particles in the solid state. So the molecules,
+particles or ions have little freedom of movement. The molecules could move very short
+distance. The liquid have definite volume but no definite shape. The liquid boils at a temperature
+when the vapor pressure of the liquid is equal to the atmospheric pressure. On changing to gas,
+there is a large change in volume.
+
+ 94
+
+Gas
+
+kIn gases, the particles, or molecules are widely spaced out. The force that matter binds the
+molecules of the matter together is very weak. The molecules have greater freedom of
+movement.
+
+They could move about freely in space. Gases have no definite shape and volume. Gas molecules
+move about randomly, colliding with one another and the walls of the container. (Read chapter
+2).
+
+9.3 Assumption of Kinetic Theory about a Perfect Gas or An Ideal Gas:
+
+1. The gas molecules move in straight line at great speed colliding with each other and with the
+ walls of the container.
+
+2. The actual volume occupied by the gas is negligible compared with the volume of its
+ container.
+
+3. The forces of attraction and repulsion between the gas molecules is negligible.
+
+4. The average kinetic energy of the gas molecules measures (or is proportional to) the
+ temperature of the gas.
+
+5. The collision between the gas molecules is perfectly elastic.
+
+9.4 Phenomena that Support the Kinetic Theory of Matter
+
+The phenomena that support the kinetic theory of matter are:
+
+1. Diffusion
+
+2. Osmosis
+
+3. Dialysis
+
+4. Brownian movement
+
+1. Diffusion: is the movement of a fluid (gas or liquid) from a region of higher concentration to
+ a region of lower concentration.
+
+2. Osmosis: is the passage of solvent molecules from area of lower concentration to that of
+ higher concentration through a semi-permeable membrane.
+
+3. Dialysis: is the separation of crystalloids from colloidal particles using semi-permeable
+ membrane. Crystalloid is anything that is soluble in water.
+
+ 95
+
+4. Brownian: the random motion of small particles suspended in a liquid or gas is called
+ Brownian motion. The particles of matter are in constant motion.
+
+This constant and zig-zag movement of particles can be observed when:
+
+I. A piece of sulphur suspended in water is viewed under a microscope or
+
+ii. A pollen grain suspended in a drop of water is observed under a microscope.
+
+Brownian movement or the random movement of particles decreases from gases to liquids to
+solids.
+
+The above listed four phenomena explains:
+
+a. The evidence of the movement of particles in liquid and gases.
+
+b. The evidence of the existence of particles.
+
+9.5 Changes in Matter:
+
+Two types of changes undergone by matter are physical and chemical changes.
+
+Physical Changes:
+
+This is the type of change that results in the formation of no new substance. Examples of
+physical change are:
+
+1. All cases of the melting of a solid to a liquid (or the reverse).
+
+2. All cases of vaporization of a liquid (or the reverse).
+
+3. Magnetization of iron
+
+4. The heating of a metal wire by electricity.
+
+Chemical Change:
+
+This is the type of change that results in the formation of new substance. Examples of chemical
+change are:
+
+1. The burning of any substance in air.
+
+2. The rusting of iron
+
+3. The addition of water to calcium oxide
+
+4. Explosion of natural gas or hydrogen in air.
+
+ 96
+
+9.6 Classification of Matter:
+
+Matter can be classified into element, compound and mixture.
+
+Element:
+
+An element is a substance which cannot be split up into two or more simpler substances by any
+known chemical process. Examples of element are: oxygen, hydrogen, carbon, sodium,
+potassium, calcium, nitrogen, chlorine, silicon, aluminum etc.
+
+Compound:
+
+A compound is a substance which contains two or more elements chemically combined
+together. Examples of compounds and the elements that make them up are:
+
+ 97
+
+Mixture: A mixture is anything which contains two or more substances physically combined
+together. Or it can be defined as a physical combination of two or more substances. Examples of
+mixture are; a mixture of sand and stone, a solution of common salt in water (brine). Other
+examples of mixture and their constituents are;
+
+Differences Between Mixtures and Compounds are Summarized in The Table Below:
+
+ 98
+
+9.7 Classification of Element:
+
+Element has already been defined above. It can be classified or divided into metal and non-metal.
+
+Metal:
+
+A metal is an element which can ionize by electron loss. The number of electrons lost per atom is
+equal to the valency of the metal and the ion formed carries an equal number of positive charges
+as shown below;
+
+ Na e- Na+
+
+ Ca 2e- Ca2+
+
+ Al 3e- Al3+
+
+Some examples of metals are sodium, magnesium, iron, gold, silver, mercury. Mercury is a
+liquid metal.
+
+Non-metal:
+
+A non-metal is an element, which can ionize by electron gain. This means that non-metals are
+electronegative. The number of electrons gained per atom is the valency of the non-metal. The
+ion formed carries an equal number of negative charges, as shown below.
+
+ ½ Cl2 + e- Cl-
+
+ ½ Br2 + e- Br-
+
+ ½ O2 + 2e- O2-
+
+ S + 2e- S2-
+
+ 99
+
+9.9 Comparison of Chemical Properties of Metal and Non-metals.
+
+ 100
+
+Exercises
+
+1. a. What is matter?
+
+ b. Write three examples of matter.
+
+ c. What are the three states of matter?
+
+2. What do you understand by these terms?k
+
+ a. Evaporation b. Sublimation
+
+ c. Name three substances that can sublime.
+
+3. What do you understand by:
+
+ (a) Kinetic theory (b) Brownian motion?
+
+4. Write two differences between:
+
+ (a) Solid and liquid (b) Liquid and Gas
+
+5. What are the five assumptions of kinetic theory about an ideal gas?
+
+6. Write down the four phenomena that support the kinetic theory of matter.
+
+7. Define these terms and give an example of each
+
+ a. Physical change b. chemical change
+
+ c. What are the differences between physical and chemical changes?
+
+8. Define and give two examples of each of these terms.
+
+ a. element b. compound c. Mixture
+
+9. Write three differences in chemical properties between metal and non-metal.
+
+ 101

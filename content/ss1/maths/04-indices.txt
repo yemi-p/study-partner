@@ -1,0 +1,184 @@
+TOPIC: Indices
+WEEKS: 4
+TEACHER'S SCHEME: Laws of indices; multiplication and simple exponential equations
+
+=== SOURCE: NGM ch.1.1-1.2 ===
+Simplify a 102 x 10° b 22n? + Qn?
+d 5 0 BX (5 yo Pe Re Reee
+@ 10° X 10? = 10?*3 = 10° (Law 1)
+Check: :
+10? x 10° = (10 x 10) x (10 x 10 x 10)
+s = 10 x 10 x 10 x 10 x 10
+s containing indices 09
+Eeeprst numbers in standard hi Sari? 3 Se 2 x hace ies (Law 2)
+
+Check:
+ogartnms and antilogarithms of aot ene
+= 22XnXnxXnxXnxXnxXnXn
+s to solve problems. ees
+=11XnXnXnXn=11 xr
+7 EE = lint
+hing and learning materials
+cher: Index and logarithm charts; graph ¢ 1% = , (Law 3)
+board; books of 4-figure tables (as used Check: 1
+public examinations). 199 = 19-4 (since a — a = 0)
+‘Student: Logarithm and antilogarithm tables = iz (Law 2)
+eg is bow) aa = 1 (num. and denom. are equal)
+; i yh sk 1
+s is a long chapter: d 57 = 3" 55 (Law 4)
+and Standard Form Sections 1.1, 1.2 Check:
+5-2 = 50-2
+1s Sections, 1.4, 1.5 and 1.6 moe (Law 2)
+
+S54) Sections 1.1, 1.2 and 1.3
+to the test of the chapter later. i is
+
+Wy tose 38
+© (-4g8)> = (4g) x ie 4g’) x (—4g°)_
+= —64 x 9%
+= —64g'5
+or more quickly,
+(—48°)3 = (—4)3 x 2 cite es —64g
+d (a'b)* = (a°b!)* = a3 x4 x bx 4
+= gl2p4
+
+Notice the following in Example 3:
+
+| The power outside the bracket raises
+eee inside the bracket to that power.
+
+2 A negative number raised to an odd power is
+
+negative. A negative number raised to an even
+power is positive.
+
+Exercise 1c
+
+Simplify the following.
+
+© @m4y ® (2n')3
+
+© avy © avy
+
+(6) ea 2(ar)? ® (—262)3
+
+© (-ey (-et)3
+
+(-w) ~(5)4
+
+© Cay © (ry
+— @ @ey
+
+short for the cube root of x. For
+2 since 2 X 2 X 2 = 8 and V—27
+
+=x
+
+i _and a a)
+Thus, 7x =x
+= ve and x
+rave
+; ‘Alsox = x°*! = (ey = Vx?
+
+PX? = (ah? = (V2)
+
+xt = /<4 or (VE)*.
+
+es are summarised in Table tP
+
+S)
+
+‘tte 3 lt - i
+d@x@aqgtt=g=/4=42 .
+
+© (8) = a= = WEY
+
+Notice the following in Example 4.
+| The square root of a positive number can be
+positive or negative.
+V9 = +3. +3 means +3 or —3.
+
+> 47# means the 4th root of n, i.e. the number
+which multiplied by itself 4 times gives n. For
+example V16 = +2, since 2X 2X22 = 16
+and —2 X —2 X -—2 xX -2 = 16.
+
+3 A number raised to a negative power is
+
+equivalent to the reciprocal of the number
+raised to a positive power of the same
+numerical value.
+
+For example, Gr
+
+Example 5
+
+— @ 2ax Gay
+@ 4i-2
+
+3) 125!-3
+
+® g2-3
+
+@»
+
+; ®@ g-1-2
+
+© ax) xary @ cay"
+
+Example 6
+Rewrite the following expressions with positive
+indices only.
+
+eet 8
+
+a pq= a
+
+Note that the index —2 refers to q only.
+oy (By
+
+Exercise 1e
+
+Rewrite the following expressions using positive
+indices only.
+
+© a @ bo @ &
+
+© xy"! © (yy! © ay
+
+© ab © (aby © wt
+3 ~2 1 “4
+
+Ox © (3) @ (i)
+
+Example 7
+
+Solve the following equations,
+
+witaa 6 2at = —14 os 20.4
+
+Table 1.2 Powers of 10
+
+Example 8 . si
+Express the following in standard form.
+«© 567 © 97530 ~« 0-049 = 0.0078
+
+os » 567 = 5-67 x 100
+
+= 5-67 X 10?
+97 530 = 9-753 x 10000
+= 9-753 x 104
+¥ - 0.049 =49 x 0.01
+me =49 x 107
+@ a*=9 + 0.0078 = 7-8 x 0.001
+7 vies =78 x 10-3
+er 16 Exercise 1g (Oral or written)
+cies O5 Express the following in standard form.
+es = © 435 © 0-788
+: © 1903000
+
+© 067
+© 67000
+© 0.000048
+
++n, - 4

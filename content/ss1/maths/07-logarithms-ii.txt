@@ -1,0 +1,979 @@
+TOPIC: Logarithms II
+WEEKS: 7
+TEACHER'S SCHEME: Calculations involving multiplication and division using log and antilog tables
+
+=== SOURCE: NGM ch.1.5-1.6 ===
+a The fractional part of 0-5682 is 5682.
+
+logarithms of the following.
+— b 4137 © 208-5
+© 82460000 f 65160
+h 397:3 i 40-02
+k 2709 1 1-903
+
+following is the logarithm of a
+ise tables to find each number.
+b 0-4624 © 0-7709
+e 0-9009 f 0-6010
+
+and complete Table 1.5 for values
+ns from 1 to 100. Round off the
+thms to 2 decimal places.
+
+[loge [000] 1-00 | 0) 45). [20 |
+Table 1.5
+
+the graph of log x against x using
+
+es in your table. Use scales of
+
+‘0 10 units on the x-axis and 1 cm to
+
+on the log x axis.
+
+ff the logarithms of 15, 47,73, 9, 91.
+
+h to find the numbers
+
+is are 0-5, 1-1, 1-75, 1-33,
+
+The figores S682. appear across from S7-ameg
+
+3) In practice, it is simpler to use antilogarithm F
+
+___use antilog tables.
+
+under 0, giving 370. Ni:
+
+Since the integer part is 0,
+antilogarithm of 0-5682 is 3-7.
+
+© The fractional part is -5775.
+
+The figures 5775 appear across from 37 and
+under 8, giving 378.
+Since the integer part is 0,
+
+antilogarithm of 0-5775 is 3-78.
+
+« Asin part », the figures 5775 give 378.
+
+Since the integer part of 1-5775 is 1, there
+
+should be two figures before the decimal
+
+point in the antilogarithm. Hence,
+antilogarithm of 1-5775 is 37-8.
+
+” The figures 5768 do not appear directly in
+
+the table. Looking across from 37 and under
+7, the nearest figure is 5763. We need to add
+5 to this figure. Look for 5 in the differences.
+5 appears under 4. This gives the four figures
+3774. Hence
+
+antilogarithm of 0-5768 = 3-774,
+
+Notes:
+1) You can use Table 1.4 in the normal way to
+
+check the results in Example 11.
+
+2) We can give also the results in Example 11 as
+
+follows:
+a) 10°62 = 3-7
+c) 10!*775 = 37-8
+
+b) 10°5775 = 3.78
+d) 10°78 = 3.774
+
+(antilog) tables. Example 12 explains how to
+
+hits
+
+engRRe
+ry nae
+2 WB Sa SO
+ee
+PR Gr tae i aT § OS
+
+ygarithms of the following.
+0:5717 ’ b 0-5752
+-57 d 0-5724
+
+down the values of the following.
+5%, 10°, 1078", hi Fig. 1.2
+yy 1079517, 1049517, 10”
+
+a Use the graph to read off the antilogarithms
+
+own the numbers whose logarithms of 0:15, 0:36 and 0:87.
+wis a: 6-7142, 3°7142. 5 Also use the graph to read off the logarithms
+‘hun f of 5,8 and 9.
+
+© Use tables to check your answers to 2 and ®.
+
+s1912
+: 155 300
+Rough check:
+53-75 = 50° = 125 000
+
+Example 16
+Evaluate 350.
+350 = (350)! eax
+= (10251) (from log tables)
+ole 1025441 +3
+= 1098480 (08480 = 2:5441 + 3,
+correct to the 4th d.p.)
+
+= 7-047 (from antilog tables)
+Rough check using the answer:
+7:047 =7
+P = 343
+and 343 = 350, the given number.
+
+To find the square root of a number, divide its
+logarithm by 2. For example:
+V350 = 3502
+= 10275441 +2
+= 1012721
+i i
+
+Exercise 1k
+Use tables to calculate the following.
+
+7-047
+
+¥350 = 7-047
+Example 21
+
+Calculate 42-87 X 23-82 X 1-127.
+
+Method: First make a table of sufficient size to
+include the given numbers. Enter the numbers
+and the integer parts of their logarithms in the
+table.
+
+Use tables to find the fractional part of each
+logarithm. Since the given numbers are
+
+multiplied, add the three logarithms. Use
+antilog tables to find the answer.
+
+x J92-5 | 1-9661 + 2 = 0-9831 ;
+Denominator =e
+(36-12) x 750-9
+(113-2)? x V92-5
+
+40 x 40 x 40 x 750 _ ,
+“720 x 120 x10 ~ 7?
+
+= 286-9
+
+Rough check:
+
+In examples 21-24, notice the importance of
+doing a rough check.
+
+Exercise 1I
+
+Calculate the following. Check the answers
+wherever possible.
+
+© 6-26 x 23-83 @ 14-28 x 843-7
+© 675-2 + 35-81 © 1200 + 85-25
+©) 409 x 6-932 © 63-75 = 8.946
+@ 5-932 x 8-164 x 18-51
+
+8-4 x 19-7 x 51.5
+
+G) 86:23 x 4058 29-86 X 105-2
+© 913-6 685-3
+
+@ 3.9252
+
+@ vai87 x 1803
+»[1067
+
+® 29-4
+
+@ ¥3-8923
+
+3/218 X 372
+® 95-43
+
+@ (6-92 + 8-15)3
+
+@ 293 x V387 @ 65210 = 8673
+@ V284 x 3-82 x 15-64 x 9-47
+@ BAx7423 _@ 3156 x 95-47
+355-9 X 2547 456-2 X 31-88
+® 943 © 252
+' 11-64 x 7-189 7-165 X 3-92
+
+(17:2)? x 4-93 * (38-32 x 2-964)?
+Oem = © Vec7x628)
+
+8-637 X 6-285
+
+tables
+
+obtained when calculating with
+tables are accurate only to the first
+The 4th digit is not likely to be
+is used for rounding off a result
+
+t figures. Three-figure accuracy is
+practical purposes.
+
+29-86 | 1-4751
+
+Notice in Example 25 that the logarithm
+working is set at the side of the main answer to
+the question. In this way, it does not get mixed
+up with the method used to solve the problem.
+Notice also how factorisation (common factor
+and difference of two squares) simplified the
+working.
+
+Exercise 1m
+
+Use tables to give the answers to the following
+correct to 3 significant figures. Use the value
+0-4971 for log m where necessary.
+
+@) Calculate the area of a rectangle 3-85 m long
+and 2-37 m wide.
+
+© Calculate the area of a square of side
+2-83 cm.
+
+©) Calculate the volume of a cube of edge
+8-24 cm.
+
+©@) Calculate the area of a circular disc 5-86 cm
+in diameter.
+
+©) Calculate the mass, in kg, of a rectangular
+sheet of metal 15-7 cm long and 12-9cm
+wide, if its mass is 38-1 g per cm’.
+
+® A rectangle of area 209-8 cm? is 10-4cm long.
+
++ yo =
+— xo = 1 (x x0)
+Gp = x
+95 hectares, yee ld
+of the field in
+aE
+xo = 8 or (VE
+The above laws are true for all values of a,
+bandx #0.
+
+A number written as_A < 10”, where A is
+between 1 and 10 and 7 is an integer, is
+said to be in standard form.
+
+cm in diameter and © Logarithm is another word for power.
+: For example:
+
+of 478 900 shares were ee nigileldas
+sc 1000 = 108 log 1000 = 3
+of a stock exchange. 100 = 102 log 100 = 2
+ci 10 = 10! log 10 = 1
+te, to three significant 0 = 109 log 1 =0
+¢ of the traded shares, generally if x = a logax = b !
+The logarithm of a number is in two parts:
+an integer and a decimal fraction:
+
+7356825.
+integer decimal fraction
+
+The integer Part of a logarithm may
+be found by expressing the number in
+Standard form to obtain the Power of 10.
+
+6 The decimal fraction part of a logarithm may
+
+=== SOURCE: NGM four-figure tables ===
+Pate tor angles in the four
+3: All positive, Cosine positive,
+Sine positive.
+
+is equal to
+is not equal to
+___ is approximately equal to
+is equivalent to or
+
+is congruent to —
+_ is proportional to
+
+is greater than
+
+is less than
+
+is greater than or equal to
+. is less than or equal to
+degree (angle)
+ee moraine)
+
+AUB
+ANB
+N, Z,Q@
+
+set of numbers x such that x _
+is an integer
+
+number of elements in set A
+is an element of
+
+is not an element of
+complement of A
+
+the empty set
+
+the universal set
+
+A is a subset of B
+
+A contains B
+
+negations of C and D
+
+union of A and B
+intersection of A and B
+
+set of natural numbers,
+integers, rational numbers
+respectively
+
+implies
+
+if and only if or
+is equivalent to
+is implied by
+
+1 (p. 3) 6 a 488 b-80 ¢-l17 a9
+20-2 b 18 c 45 d 84 7 about 30 minutes
+70 a b 8-0 x 104 8 a $540, 8360 b 72 ml, i8ml
+9-0 x 10 d 2:0 x 10-6 c 14 eggs, 70 eggs
+3a roe ii 7600 iii 7610 9 a 83800 b §544
+0 i 40000 ii 43 000 ii 42800 10 a 3249 b 1103000
+' ¢ i130 ii 31 iii 31-5 © 89-47 d 25-77
+d i 0-007 ii 0-0074 iii 0-007 41 : .
+537 z: = 11 a iS7 ii 46
+? a it b 1100001, if 111011,
+f ii 0- iii 0- A ~ F
+.9. 0 900, 9-9
+c i 8-9 ii 8-85 iii 8-854 sete dS
+d i0-0 ii 0-01 iti 0-008 Review test 3 (p. 6)
+ais ii 5-0 iii 5-05 tay b-11 c772 d =
+b i 60 ii 59-5 iti 59-51 2a! bp 8 c 4 d —1:3333
+b -99 c -—3 d7
+i 3 a 4a+17b b 2y?—-9y +9
+onnes
+a §700,%2100 b 480mm, 320mm 4a 18+3x—x? — b 10x? — 19xy + by?
+-___& 48 bananas, 40 bananas 5 a 6x? b 6xy
+& 9 a &540 b ®4950 6 a pqr b 14a*b
+10 a 28900 b 8410000 7 a a(2a — 9b) b —6p(3q + 2)
+c 738 d 28-35 c (3x+2)(3-x) d (a—b)3+c)
+a i20 ii 51 e (x — 4) f (10 —7x)(10 + 7x)
+bi10111,. ii 111100,.. 8 ax=6 b x=3!
+aa — «10
+cCx= 8 d = IG
+9ax<T bx<-—-5
+cx2e-4 dx<-7
+d 44
+b 108 cc 40 10 a x=3,y=2 b x=4,y =3
+b 6-0 x 108
+d 50 x 107 Review test 4 (p. 7)
+iii 658 la-8 »b23 c 0:
+2ai b 10 Cs
+3 a 7x? -12r15 b :
+2s
+
+4-0 2+ 6r- 16>"
+
+2 6,165,
+c 0,4:5.6
+
+3 a 400 ;
+c 62% d 0-6 oe
+4a> bt el) d 0
+
+Exercise 1a (p. 16)
+
+= 53°.q = 110.r = 742, 4-10? 2 al 3 20%
+4 2°(64) 5m 6
+7 3x? 8 3x 10° 91
+10 6 iy 12 Ss
+13 16 14 15 15 8
+EW ate do7° 16 a ort, 17 sci 18 36a
+es 20 5 x 10° (5000000)
+b 320cm3
+Exercise 1b (p. 16)
+_ 1a 2 BF 3 cl 4d?
+test 6 (p. 12) 5 2 (al 7 gi 8 Ae
+58°, 58° 95°? 10 34 1 104 22°
+
+= 31°, 7 = 149°,» = 62°,1 = 137°, Exercise 1¢ (p. 16)
+
+1 a 2 8n!5 3 16°
+. bi 5 —2a 6 —8b*
+
+Peal 8 —eR 9 =!
+
+. ; u
+b 6m, 756m 10 —¢2o WW qv _ po
+ii, 12-=f
+
+13° m'n 14 aeps Ryle
+
+1S xy
+
+16 ys
+
+17 1253p” 18
+Sate 20, —3dtel2 21 a
+
+“1. Parts ©, { and | are incorrect.
+The others are correct.
+
+2 © Forgot the decimal point
+» Forgot to add on the difference
+© Decimal point in the wrong place
+« Added wrong difference
+e Worked out log 3-707
+
+2 ai- o
+g shi © i
+
+2%
+1 3 Parts ©, , « and » are incorrect.
+The others are correct.
+2 450 b 1
+da cl d2
+— 2) ee
+9% 4 h 5
++4 0 | 6
+2 i 1
+Exercise 1e (p. 18) 5 4 109540 » 1015740
+1 1 i z 5140 ‘ 5740
+ae uy 3 4.2 102 1 10°
+P a : b o y 1045740
+b a el.
+5 s Sn 7p 8 BB ¢si b 10°
+y on? i 1029605 d 109605
+9 2 10 3 us Lun
+xt y> a 7 © 0-6609, 2-6609, 5-6609, 1-6609
+b 0-8488, 7-8488, 1-8488, 3-8488
+f 1
+Exercise 1f (p. 19) 7 8 10°88 » 19-8602
+ ix=4 2x=27 : 2 c 19°em d 10°
+, = te § x= 3 3
+mo" 3 cr thy =m 9» 0-7106, 3-7106, 1-7106, 5:7106
+Poin=+, 87 “en, 6a c'8 b 0-9245, 29245, 69245, 49245
+10 x=2 NE Saal
+- 10 © 1-8757 b 3-6167
+i c¢ 23192 5-4684
+"Exercise = (p. 19) 7.88 x 10"! © 79162 ( 48140
+435 x 1 late = 10809 h 25991
+31,903 x 106 4 6.313 x 10 | 16023 | 2.0025
+
+6 6.7 x 10! k 3-4328 | 0-2795
+
+ye.
+
+b 376 376 d 3736
+
+eam 434700
+
+— £ 120600
+
+eRe Eaee
+
+Exercise 11(p.26)
+1 149-2 2 12050 3 18-86
+4 14-08 5 2834 6 7-125
+ay g§ 3523 9 383-1
+10 4583 di 15-40 12 1329
+B 70-28 14 5-947 15 3-024
+16 1-995 17 74-85 18 112-9
+19 3-979 20 138-7 21 26-28
+2» 5-049 23 2-164 24 2.026
+25 496:3 26 8-658 27 5-866
+28 3644 29 26-13 30 3-169
+31 3-025 32 2-244 33 7-705
+34 3852 35 3-311 36 71-91
+37 7-677 38 130-6 39 4-396
+40 31-42 41 92-90 42 38-41
+43 19-59 44 1268 45 2-344
+46 2-071 47 11-27 48 1-253
+49 7-716 50 1-636
+
+Exercise 1m (p. 27)
+
+9-12 m2 2 8-01 cm? 3 559cm3
+270cm? 57-72 kg 6 20-2cm
+22-6cm 8 5-06cm 9 276cm*
+3-28m 1 1-22ha 12 199m
+840cm? 14 10-4em 4516-5 litres
+113 million 17 331
+
+Mrs Babtunde ‘lost? 8 380 (this does not —
+
+count the value of the sh
+niece: 869200), ares she gave one
+
+Nets :
+
+got congruent
+
+congruent (SAS) | congruent (AAS)
+» AXAZ (RNS) b ABYZ (SAS)
+
+© AYXC (SSS) « AZDX (AAS)
+@ AXEZ ( (| AGHF (SAS)
+
+i) AXLK (SAS)
+| ATYS (AAS)
+
+ao JAC] = |PR), A= PG = R(sAs)
+~ & JAC] = |RP}, |BC| = |OP|, A= R(AAS)
+© not congruent
+d A= 6,8 = BC = Rosss)
+© JAB] = |PR|, BY = RC = O° (RUS)
+
+| not necessarily congruent
+© not congruent
+bh JAB] = [RO], |AC| = |RP|, A= R(ASA)
+| |AB| = |OP|, A= 6, B = P (SAS)
+
+| JAB] © |PR), |AC| = [PQ], B= R(AAS)
+
+2c (p. 36)
+
+1a a= 40
+c x = 124°
+@ n= 72°
+
+| g w= 28°,v = 152°
+— § m= 70°,n = 40°
+
+3 61°
+6 1275"
+
+b d= 65°
+
+d m= 51°
+
+f c= 140°
+
+ha 63",b = 117°
+
+j x = 76°,w = 38°
+4 314°
+7 718°
+
+jn
+
+*25,u=6 +n a
+t w=6,x=5,y=z=8 es *%
+zat » 15cm
+3a} b4
+e 225cem 0 14cm
+4 5em
+Exercise 3a (p. 43)
+1 a 50k b 25k ec 20k
+d 70k e 25k f 120k
+2 a 12min b 10min c 6min
+d 40min e 6min f 16min
+3 a 15s b 45s c 50s
+d 54s e 8s f 45s
+4 4 300g b 400g c 750g
+d 710g e 138g f 1250g
+5 75cm 6 600m 7 50min
+8 15mm 9 300g 10 500mm
+ll «4 ; b 2 c ; d %
+of th oot ny
+12 » N15 b 24h (or 2h 15min)
+c 35kg d 2:-4m
+e 2min 245 f 4cm
+9 $1.80 h 1h 48min
+| 18km | 04m (40cm)
+k 45cm | 1-682
+m 15 days n 0.62 m (62cm)
+Exercise 3b (p. 44)
+lalt bt
+et f 8%
+i 3 j
+
+eS se ea |
+
+3 a 50% > 20% 2 Om fo
+— @ 335% f 25% etal h 40%
+(1 30% == | 665%
+4a N910 b 925
+
+c 6980 d 6990
+
+e 800g f 7-5ml
+
+g 6940 h 14m (140cm)
+
+7905 Laiasd, 740
+
+1 05 5 22% 6 75%
+
+d 0:2 7 ™6600 8 45000
+h 0-42 9 220000 10 1890
+d 25
+
+h 0-06 Exercise 3f (p. 49)
+120 150 137 106 230
+
+203 * ® 100° 100° 100° 100° 100
+aa b Me a & ~ it is impossible to
+reduce a quantity by 130%
+2 a N155 b 840 ec $1241
+b 50-7 c 8-16 d 315 e N851
+e 500 3 a 40% gain b 124% loss c 24% gain
+a sta a 38 d 173% gain e 45% loss
+b 135 co 15 4 a §700 b $450 c $800
+ee 2975 f 3-4 d N1875°— e 834000
+h 2-75 5 125% 6 377ha
+123 7 15% 8 N50
+§ 33 6 10-1803 9 §N600 10 68%
+8 18,8720 9 30min 11 86:7% 12 406cm
+1 200 12 1-55 13 821600 14 85304
+14 405 6 (03), 15 §&500000 16 N6500
+" 17 4% loss 18
+
+a 8% b 4844
+19 a N1875 —-b N2400 .
+
+20 662%
+
+100011,,.,
+
+11101
+101011
+20six
+121i.
+3205 six
+1111114
+1000001...
+4 1100100,
+g 110110
+- j 1111000
+6 a lS
+
+4
+-~
+oon PD Ov “OO OO DB
+
+10 the second case, by N-400
+
+h 100
+k 101
+
+h 1001 000
+k 1011001
+
+1 #700 (i.e. 1000 discount — 8300 interest)
+
+ae.
+d 1071 eign:
+£11 666 .igh
+
+b 30live
+
+A 430;
+
+f 10413 .¢
+
+b 10010,
+
+d 11001,
+
+f 11111.
+
+111. i-:10001
+1 1 11011
+
+b Sli
+@ 152,
+
+f 4344.
+
+b 1000000,,.
+
+d 110001y.
+
+f 10000001,,,
+
+i 1100101
+| 1011110
+c 153
+
+f 45
+
+i 165
+
+1 28
+
+o 75
+
+r 69
+
+1 a 0001, 0010, 0100, 1000
+© 0011, 0101, 1001, 0110, 1010, 1100
+© O11, 1011, 1101, 1110
+d 111
+e 0001, 0010, 0011, 0100, 0101, 0110, OLLI,
+1000, 1001, 1010, 1011, 1100, 1101, 1110,
+ui
+
+2 The 11th to 20th binary numbers are:
+1011, 1100, 1101, 1110, 1111, 10000, 10001,
+10010, 10011, 10100
+
+3 a 1010 b 1100100
+4 a 11100 b 11011
+
+e 100110 d 101001
+
+e 111010 f 111011
+
+g 111111 h 1001 101
+§ a9 b ll © 21
+
+d 30 e 26 1935
+6a O2cight b 6 cight
+7 a 110001 b 1111001
+8 a 1000 b 1001
+
+Exercise 3k (p. 56)
+
+2a05 b 0-25 ¢ 0-125
+d 0:75 e 0-625 £0-875
+g 35 h2-25 12-0625
+3 a i 100-01 ii 4-25
+b i1-11 ii 1-75
+ce 110-1 ii 2-5
+d i011 ii 0-75
+
+ne =
+
+4 2 1000 b 11010 © 10-000
+
+14
+
+1 pr+gqr+pst+qs 2 30+5y+O6xt+x
+a 3 ac—be—ad+bd 4 6° +x-1
+—x)m 5 4n> + 16n + 15 6 8m? — 30m + 27
+¥ 7 5x2 + 18x - 8 8 3a + 13a — 10
+or x(10 — x) or (10x — x) m? 9 2+x-72 10 15h? + 14h -8
+= 2) em? 11 Bb? - 25 2-49
+tr 13 92 — 12+ 4 14 4x? — 20xy + 25y”
+15 10x?-17xy + 3y? 16 20a*—13a+2
+. 17 15a — 34ad — 16d? 18 6d? + 5de+
+19 30m? — mn — n? 20 8k? — 18k — 35
+
+Exercise 4e (p. 61)
+
+1 a 16 b 5 c 13
++ r) + p] years d 34 el an)
+2 15—a-— 2a
+3 a 2a -—3a+7 b 6m—9
+2 —Ta c 4x* —3x —6 d 4d-1
+A 4 4 2f — 2fg + Sg 5 5b? —10b
+4 6 3a?—10ab+8b2 7 y+ 2
+
+WO Sea
+
+7 pe
+is: - F = —
+em siaane
+x + dy
+x + 2y
+~ (a+ 4)(a — 2) (t + 1)(t + 2)
+¢ 2422-7
+| &- DE +2) 5
+= a 3 4
+r (n — 6)(n — 4)(n — 5) (x + 2)(x + 3)
+o> a
+a Ja+4
+Exercise 4g (p. 63)
+1 2(m + 4n) 2 3(a — 5b)
+3 5(2x — 1) 4 -3(h + 4k)
+$ -2(x - 9) 6 a(5 ~ 8b)
+7 3x(3 + z) 8 4m(2c + 3d — 4e)
+9 3x(x2—4x—3) 10 Sab(2ab ~ 3a + 4)
+M 4(a — 2b) 12 3(3x + 4y)
+
+33a(b-—2c+d) 14 4x(2p— 4 + 2r)
+5 m(3m? — 2m +1) 16 2n%(3n? —n +2)
+1 ab(S + 4a —6b) 18 ax(2b + 7c ~ 3a)
+) 2a*(2a? + ab — 5b’)
+| 6a%o(4be + Sex ~ 3ax*)
+* h (p. 64).
+Oe + 3b)(7 » 2 (e-f\@et 4)
+re iar | posite
+(d- eye ~ is
+Q b - 1)
+
+Lé6 pad 5 ee
+
+7 en eee
+98 Wi U4 |
+13 6 14 2 15 3
+17 4 18 12 19 +5 +6
+Exercise 4j (p. 65)
+1a -3 b 0 ec 4 d 3
+e -2 ; ier rie hl
+i 6 ew
+2a-3 b 7 c ll dl
+e 40 f 2 g 17 h 65
+i -2 jf 4
+-12
+4a6 b2 cO dO
+§ a5 b 0 c -4
+d-3 e0 f 5
+6ai13 b5 c 21 d 6l
+7a 6 b 0 c 0 d 0 e —6
+8 +30
+9 a —2 b4 c 4
+Wax b231 cc B(or124)
+Exercise 5a (p. 68)
+
+1 a Cameroon: the only country
+b aeroplane: the only one that is man-made
+ce chicken; the only one with 2 legs
+d 7: the only odd number
+e (2 X 5): the others equal 6
+2 a (driver, passenger, soldier, conductor}
+b {cow, driver, passenger, soldier, conductor}
+¢ {petrol}
+d engine, driver, petrol, passenger,
+conductor, wheel}
+3 a (things found ona
+~b {words be
+
+¢ bread ¢ {vehicles}
+e 3€ {digits}
+
+d9
+g15 hs
+b Ky cF dT eF
+feet 686i OCj-T
+ise 5c (p. 70)
+: 2 infinite 3 2 49
+6 infinite 7 infinite 82%
+10 @
+i
+5d (p. 71)
+» {knife}, {fork}, {spoon}, {knife, fork},
+e, spoon}, {fork, spoon}, {knife, fork,
+OGY oO Ube
+
+3}. (2,4), (3.4), (2,3, 4)
+
+i erp sett i
+
+» fe, w), fa, f},
+salle
+
+b {cars} ¢ {cities}
+c AcB
+7 a Fisa subset ofg
+b A is not a subset of B
+c M does not contain N
+d Dcontains E
+8 b 1,5
+10 aFcG
+
+b 10 e2
+
+Exercise 5e (p. 73)
+1 AUB = {2,3, 4,5, 6,8, 9}
+ANB = {3, 5}
+2 CUD = {grapefruit, orange, pear. apple,
+pawpaw}
+Cn D = {grapefruit, pear}
+3 {Jan, Feb, Mar, Apr, May, June}, 2
+4 {Abuja}
+
+5 a {2,3, 4, 6, 7, 8,10} b {3,7}
+
+c {3, 4, 6, 7} od {ft 23.
+6 a andd only
+TENS
+
+8 a {1,2,3, 4,5, 6,7, 9}
+© {1,2,3,..., 10} 35.7, 9}
+e {1,2, 3,4, 5,6} f (12,3. <20}
+
+9 a {Baba, Sola, Sugura, Rose, Tayo}
+
+b (Baba, Sola, Sugura}
+© {Baba, Rose, Sola. Ta
+
+b {1,3,5}
+d {1
+
+yo, Sugura}
+d@ e€ f ¢
+g {Baba, Sola} h {Sola}
+
+i {Sola, Sugura} j {Baba, Sola. Sugura
+
+k (Baba, Rose, Sola, Tayo}
+
+1 {Sola, Sugura}
+10 a {a,b,c,d,e}
+(b,c, d,e, f)
+
+(bd)
+
+bfabeadf}
+t. G. fed) on sii
+
+c
+e
+
+15 88eges eae 2
+
+16 a 4B = g9-x b x=61
+17 45cm 18 90km
+19 g @
+a 30 b 1440
+20 480km
+Exercise 6e (p. 81)
+1a4 b—-3 c-6 d-5 e0
+2 699375 3 7cm 4 11
+5 528cm?* 6 1169-7
+7 a 314-2 b 45-5
+8 a §1150 b 18 pages
+9 5 463 bo 2110kwh
+10 «a 30km b 98m
+Exercise 6f (p. 82)
+1 x=b-a 2x=a-b
+ab =. a
+3 x - 4x oa
+
+5}
+
+usa
+
+fea
+
+10
+
+Revision exercise 1 (p. 86)
+1 a 16x’ b 3
+2ax=8
+
+c s= 405

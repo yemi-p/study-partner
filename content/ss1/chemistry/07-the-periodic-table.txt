@@ -1,0 +1,525 @@
+TOPIC: The periodic table
+WEEKS: later
+TEACHER'S SCHEME: (not yet scheduled)
+
+=== SOURCE: Okoye ch.6 ===
+CHAPTER 6
+
+ THE PERIODIC TABLE
+
+Periodic table is a table of elements arranged in order of their increasing atomic numbers. There
+are about 109 known elements in the world. Modern periodic table is created by a man called
+Mendeleeff. The periodic table has horizontal rows called periods. A group is a vertical column
+in the periodic table containing elements with the same number of electrons in the outermost
+shell. Elements in the same group have similar chemical properties. The number of the group
+indicates the number of electrons in the outermost shell of the element in the group. In order
+words, all the elements in each group have the same valence electrons. Group 4 shows that
+element in this group have 4 electrons in their outermost shell. A group is a family of elements
+with similar chemical properties. There are groups 1, 2, 3, 4, 5, 6, 7, and 0.
+
+ Fig 6.1 Periodic table
+
+Hydrogen has a unique position in the periodic table because its chemistry resembles that of the
+alkali metals and halogens.
+
+ HCl(aq) H+ + Cl-
+
+ NaH Na+ + H-
+
+Hydrogen is sometimes placed under group 1 because it has one electron.
+
+6.1 Group 1 Elements:
+
+These are Lithium, Sodium, Potassium, Calcium, Francium. Group 1 elements are called the
+alkali metals because they react vigorously with cold water forming alkali and liberating
+hydrogen. Their oxides dissolve in water to form strong alkalis.
+
+ 60
+
+ 2K(s) + 2H2O(l) → 2KOH(aq) + H2(g)
+
+They have one electron in their outermost shell and exhibit valency of 1. Because they are very
+reactive and can react with air and water, they are stored under oil or paraffin. They have low
+melting point and low densities. They are good conductors of heat and electricity. They ionize by
+loss of their one valence electron.
+
+ Na - e- Na+
+
+Their trioxonitrate (v) salts decompose with difficulty on heating. Sodium and potassium
+trioxocarbonate (iv) salts are the only soluble carbonates that do not decompose on heating.
+ heat
+ 2KNO3(s) → 2KNO2(s) + O2(g)
+ Potassium trioxo Potassium
+ nitrate (v) dioxonitrate (iii)
+ heat
+ K2CO3 K2CO3
+
+Group II Elements: are Beryllium, Magnesium, Calcium, strontium and barium. They are called
+the alkaline earth metals. They have two electrons in their outermost shell and ionize by the loss
+of the two valence electrons.
+
+ Ca - 2e- Ca2+
+
+They react with steam to liberate hydrogen as follows:
+
+ Ca(s) + 2H2O(l) → Ca(OH)2(aq) + H2(g)
+
+ Mg(s) + H2O(g) → MgO(s) + H2(g)
+
+Their trioxonitrate (v) salts and trioxocarbonate (iv) salts decompose readily on heating as
+follows‖
+
+ 2Ca(NO3)2(s) → 2CaO(s) + O2(g) + 4NO2(g)
+
+ CaCO3(s) → CaO(s) + O2(g)
+
+Group III Elements are boron, aluminum, gallium etc. The only most common element of these
+is aluminum. It has three electrons in its outermost shell and ionizes by the loss of the 3 valence
+electrons.
+
+. Al - 3e- Al3+
+
+ Al Al3+ + 3e-
+
+ 61
+
+Al and its oxide cannot react with water and so does not form an alkali. Al2O3 and Al(OH)3
+exhibit both acidic and basic character. They are said to be amphoteric in nature.
+
+ Al2O3(s) + 3H2SO4(aq) → Al2(SO4)3(aq) + 3H2O(l)
+ Acid
+
+ Al2O3(s) + 2KOH(aq) + 3H2O → 2KAl(OH)4(aq)
+ Potassium tetrahydroxy Aluminate (III)
+
+ 2Al(OH)3(s) + 3H2SO4(aq) → Al2(SO4)3(aq) + 6H2O(l)
+
+ Al(OH)3(s) + KOH(aq) → KAl(OH)4(aq)
+ Potassium tetrahydroxy Aluminate (III)
+
+On heating, aluminum trioxonitrate (v) decomposes.
+
+ 4Al(NO3)3(s) → 2Al2O3(s) +3O2(g) + 12NO2(g)
+
+Group VII Elements: are called the halogens. They are fluorine, chlorine, bromine and iodine.
+They are non-metals. They have seven electrons in their outermost shell and ionize by gain of
+one electron.
+
+ Cl + e- Cl-
+
+ Or
+
+ Cl Cl- + e-
+
+Halogen exists as diatomic molecules eg Fluorine (F2), Chlorine (Cl2), Bromine (Br2) and Iodine
+(I2). They are very reactive non-metals. Halogens have similar chemical and physical properties.
+Their hydrides which are gases at room temperature, dissolve in water to from acids, eg.
+
+ H2 + Cl2 → 2HCl(g)
+ Hydrogen Chloride
+
+ HCl + H2O → HCl(aq)
+ Hydrochloric acid
+
+Group O Elements are the inert gases or noble gases or rare gases. They are: Helium, Argon,
+Neon, Krypton, Xenon and Radon. They are inert or highly unreactive because they have their
+outer shell completely filled with electrons.
+
+The transition elements are all metals. They are called transition metals because they use
+electrons from both the inner (penultimate) and outer shells for chemical combination. They have
+variable valencies and are therefore used as catalysts e.g. Iron (ii) and Iron (iii).
+
+ 62
+
+Periodicity is the regular patterns or trends in which the physical and chemical properties of
+elements occur when the elements are arranged according to their atomic numbers in the periodic
+table.
+
+Periodic Law states that the properties of element are the periodic functions of their atomic
+number.
+
+6.2 The Noble Gases
+
+The noble gases are also called the rare gases. They are chemically inert, or very unreactive
+because, they have duplet or octate arrangement. They consitute about 1% by volume of
+atmospheric air. The symbols and electronic configuration of three rare gases are as follows:
+
+ 1s, 2s, 2p, 3s, 3p, 4s, 3d, 4p, 5s, 4d, 5p, 6s, 4f, 5d, 6b, 7s.
+
+ Fig 6.1 Increase in energy level of atomic orbitals
+
+Other rare gases are, krypton, xenon, and radon.
+
+Argon is the most abundant of all the rare gases in the atmosphere. With the exception of helium,
+the outer quantum shell of other rare gases are filled with eight electrons.
+
+Uses of Noble Gases
+
+1. An invisible ray (radiation) produced by radon is used in curing some forms of cancer.
+
+2. Helium is used in observation balloons because of its lightness and non-combustibility.
+
+3. Neon, argon and helium can be made to produced coloured light when they are subjected to
+ low pressure and a high voltage current is passed through them.
+
+6.3 Arrangement of Electrons in the Main and Sub-energy Levels
+
+In an atom main shells are lettered K, L, M, N, etc. it is lettered outwards from the nucleus and
+they corresponded to main energy level 1, 2, 3, 4, etc. The maximum number of electrons in a
+main shell or in each main energy level is given by 2 n2, where n stands for the number of the
+main energy level.
+
+ 63
+
+ Fig 6.2 Arrangement of electrons in the main shells.
+
+Thus for the main energy level (shell) 1, the maximum number of electrons it can accommodate
+is 2n2 ie
+
+2xnxn
+2x1x1 = 2 electrons
+
+For the main shell 2, the maximum number of electrons it can carry is 2n2 ie
+
+2xnxn
+2x2x2 = 8 electrons etc.
+
+Each main shell is made up of one or more sub-shells or orbitals. An orbital is the space around
+the nucleus where there is the probability of finding electrons. There are s, p, d, and f types of
+orbitals. There are three p-orbitals which are 2px 2py and 2pz orbitals. The energy of electrons
+in a given sub-shell is different from the energy of electrons in other sub-shells. The sub-shell
+with the lowest energy is called the S-sub-shell. The next higher energy sub-shell is called the p-
+orbital. The next higher energy sub-shell is called the d-sub-shell while the next higher energy
+sub-shell or orbital is called the f-orbital.
+
+There are limited number of electrons which can be accommodated in each sub-shell. For s-
+orbital, the maximum number of electrons it can accommodate is two (2). The p-orbital can carry
+a maximum of six (6) electrons: the d-orbital can contain a maximum of ten (10) electrons while
+the f-orbital can accommodate a maximum of fourteen (14) electrons.
+
+Orbitals with the same energy are called degenerate orbitals. The p-orbital consists of three
+degenerate orbitals, called Px, Py and Pz. the d-orbital consists of five degenerate orbitals while
+the f-orbital consists of seven degenerate orbitals. The arrangement of electrons in the sub-shells
+of some elements are shown below:
+
+ 64
+
+6.4 Electronic Configuration
+
+Electronic configuration of an atom is the arrangement of electrons in the orbitals or sub-shells
+of the atom. The physical and chemical properties of an atom depend on the arrangement of its
+electrons. Orbitals with lower energy are filled with appropriate number of electrons before
+orbitals with higher energy. For example, the 2s-orbital is filled completely before the 2 p-
+orbitals. The arrangement of the orbitals according to their increasing energy is 1s, 2s, 2p, 3s, 3p,
+4s, 3d, 4p,5s,4d, 5p, 6s, 4f, 5d, 6p, 7s, etc.
+
+1s is the orbital that has the least energy while 7s is the one that has the highest energy.
+
+ 65
+
+Electronic Configuration of the first 20-elements:
+
+Electrons in an atom occupy orbital in order of increasing energy. The orbital or shell nearest to
+the nucleus is the one with the lowest energy. Electron can move from one energy level to
+another. For electron to move from one energy level to another with higher energy, the electron
+must absorb energy from the surroundings. The amount of energy to be absorbed must be equal
+to the difference in energy between the two energy levels.
+
+In the same way for an electron to move from an orbital at a higher energy level, to an orbital at a
+lower energy level, the electron must emit an amount of energy equal to the energy difference
+between the two shells. Atoms of each element have characteristic electronic configuration
+peculiar to that element. Writing of electronic configuration of atoms of some elements in their
+ground state can easily be done by filling in electrons to the orbitals starting with the lowest
+energy subshell. The ground state of an element is its most stable state. The electronic
+configuration of an atom of an element with the atomic number 7 is 1s2 2s2 2p3. This implies
+that the subshells are listed in order of increasing energy and the numbers 2 and 3 are added to
+show the number of electrons on each orbital. An element is said to be in its ground state or most
+stable state when its electrons are occupying orbitals with the lowest available energy. The
+ground state electronic configuration of the first twenty element are as follows:
+
+ 66
+
+In writing the electronic configuration, the numbers before the letters denote the main energy
+levels while the letters denote the energy sub-shells or orbitals. The figure on top of the letter
+show the number of electrons in each orbital.
+
+6.5 Relative Atomic Mass Based on Carbon 12:
+
+The mass of an atom is an extremely very small and inconvenient fraction. It is therefore
+preferable to express atomic masses by comparing them with the mass of a standard atom.
+Nowadays, the atom chosen as the standard for comparism is carbon-12. Carbon 12 is the most
+common isotope of carbon, which has a mass of 12 units. Relative atomic mass of an element is
+the number of times one of the element is heavier than one-twelfth (1/12) of one atom of carbon
+12 isotope. Relative atomic mass of an element has no unit because it is a ratio but atomic mass
+of an element is expressed in gram.
+
+ R. At. Mass= Mass of one atom of an element
+ Mass of 1/12 of one atom of carbon 12.
+
+The relative atomic mass of the first twenty elements are shown below:
+
+ 67
+
+From the definition of relative atomic mass, one might think that all elements would have whole
+number masses. In fact relative atomic masses are rarely found to be exactly whole numbers.
+This is because most elements have two or more naturally occurring isotopes, and the relative
+atomic mass takes into account the abundant of each isotope. For example, chlorine has
+approximately 75% of an isotope with mass number 35, and 25% of an isotope with mass
+number 37. therefore, the relative atomic mass of chlorine is found to be 35.5.
+
+Solution:
+
+ 75% 25%
+ 75 : 25
+Ratio = 3 : 1
+Total Ratio = 3+1 = 4
+Isotopes 35 37
+ (35x3) + (37 x 1)
+ 105 + 37 = 142
+:.Average or the relative atomic mass = 142 = 35.5
+ 4
+
+ 68
+
+Question 1
+
+An element X has two isotopes X, X, present in the ratio of 1:3, what would their relative
+atomic mass be?
+
+Answer
+
+The two isotopes = X and X
+
+Their ratio = 1 : 3
+
+Total ratio = 1+3 =4
+
+:. Relative atomic mass of X is (mass of 1st isotope x 1) + (mass of 2nd isotope x 3)
+ total ratio
+
+ = (20 x 1) + (22 x 3) = 20 + 66 = 21.5
+ 4 4
+
+Question 2:
+
+The mean atomic mass of chlorine is 35.5. Chlorine has two isotopes of mass 35 and 37. What is
+the percentage composition of the isotope of mass number 35?
+
+Answer
+
+Let the number of atoms be 100
+ 35
+ ― ― ― ― Cl ― A atoms
+ 37
+ ― ― ― ― Cl ― 100 -A atoms
+
+A atoms have 35 units each and (10-A) atoms have 37 units each.
+
+:. Total mass of atoms = 35.5
+
+ Total number of atoms
+
+:.(35 x A) + (100-A) x 37 = 35.5
+ 100 atoms
+
+35 A + 3700 - 37 A = 35.5
+ 100 atoms
+
+(35-37) A + 3700 = 3550 atoms
+
+ -2A = -150
+
+ 69
+
+ 2A = 150
+
+ A = 150 = 75 atoms
+ 2
+
+In %, we have 75 atoms x 100 = 75%
+ 100 atoms 1
+
+Question 3
+
+Carbon has two existing (main) isotopes C and C, with abundances of 1.11% and 98.89%
+respectively. Calculate the relative atomic mass of carbon.
+
+Answer
+
+Relative atomic mass = R. a. m.
+
+R. a. m. = mass due to C + mass due to C
+
+ = 13 x 1.11 + 12 x 98.89
+ 100 100
+
+ = 12.01
+
+6.6 Relative Molecular Mass:
+
+Relative molecular mass of a compound or an element is the number of times one molecule of
+the compound or element is heavier than 1/12 of the mass of one atom of carbon 12 isotope.
+
+ R.M Mass = Mass of one molecule of element or compound
+ Mass of 1/12 of one atom of carbon-12
+
+The relative molecular mass of a substance is obtained by adding together the relative atomic
+masses of all the atoms of the elements present in one molecule of the substance. Relative
+molecular mass has no unit.
+
+Example 1: calculate the relative molecular mass of water (H2O).
+
+(H = 1, O = 16)
+
+Solution: Relative molecular mass of H2O
+
+ = (1 x 2) + (16)
+ 2 + 16 = 18
+
+Example 2: Calculate the relative molecular mass of Sodium chloride. (Na = 23, Cl = 35.5)
+
+ 70
+
+Solution: Relative molecular mass of NaCl = 23 + 35.5 = 58.5
+
+6.7 Energy Levels in Atomic System
+
+The Four Quantum Numbers:
+
+These are represented with the letters n, l, m and s. The four quantum numbers are:
+
+i. The principal quantum number, „n‟: gives the main or major energy levels. ‗n‘ can
+ have any positive value other than zero. ie n = 1, 2, 3, 4, 5 etc.
+
+ii. The secondary or azimutal quantum number „l‟: Within the main energy level, there
+ are sub energy levels (sub shells). The total number of sub-shells is equal to the principal
+ quantum number. The azimutal quantum number ‗l‘ has values from O to (n=I).If the
+ value of ‗n‘ is I (first energy level), l has only one value O. If n = 2 (second energy level),
+ l has two values, O and I. Since l has one value when n = I and two values when n = 2, it
+ could be said that there is one sub shell in the first shell (k) and 2 sub shells in the second
+ shell (l). The principal quantum number therefore gives the main shell or energy level
+ while the azimutal quantum number gives the sub shells or sub energy levels.
+
+iii. Magnetic quantum number, „m‟: is the additional lines that appeared in the spectrum
+
+ when a strong magnetic field was applied to the source of spectrum. For each azimutal
+
+ quantum number ‗l‘ there are (2l + 1) values of m.
+
+iv. The spin quantum number, „s‟: An electron can spin either clock wise or anti clockwise.
+
+ The spin quantum number ‗S‘ therefore has two values which are equal and opposite. The
+
+ value of s is + and - .
+
+An atomic orbital is the region in space within which electron can be found. These atomic
+orbitals have different shapes, sizes and orientations.
+
+An atom:
+
+ Fig. 6.5
+ 71
+
+SHAPES OF S AND P ORBITALS
+
+S - orbital
+
+ Fig. 6.6
+
+ Fig. 6.7
+
+iii. An orbital can carry a maximum of only two electrons and orbitals of the same type
+ within a principal quantum number possess equal energies. For instance the three 2p -
+ orbitals in the same L - shell all have equal energies. The same type of orbitals in
+ different quantum numbers have different energies. For example, the 2s - orbital in the L-
+ shell, have higher energy than the Is - orbital in the K-shell.
+
+iv. Within a principal quantum number, different sub-shells or orbitals do not have equal
+ energies. For instance 2s orbital in L-shell does not have equal energy with the 2p orbitals
+ in the same L-shell. The order of the increasing energy content of the orbitals is as
+ follows:
+
+ Is < 2s < 2p < 3s < 3p < 4s < 3d < 4p < 5s < 4d.....etc.
+
+Pauli‟s Exclusion Principle: states that no two electrons have identical four quantum numbers.
+The two electrons present in an orbital have the same n, l and m but the value of s is + for one
+
+ 72
+
+and - for the other. The two electrons in an orbital have opposite spin. For two electrons in s
+orbital
+
+ n = 1 l = 0 m = 0 S =+
+
+ n = 1 l= 0 m = 0 S =-
+
+Hund‟s rule: states that the electrons fill the orbitals of an atom in such a way that they first
+occupy singly orbitals of equivalent energies before they start being paired up in them.
+
+Filling of electrons in orbitals
+
+Based on the rules laid down by Pauli and Hund, electrons are filled in the orbitals of the first ten
+elements in the periodic table.
+
+Electronic configuration: is the arrangement of electrons in the orbitals.
+
+The electronic configuration of
+
+C = Is2 2s2 2p2
+
+N = Is2 2s2 2p3
+
+F = Is2 2s2 2p5
+
+Ne = Is2 2s2 2p6
+
+Cl = Is2 2s2 2p6 3s2 3p5
+
+K = Is2 2s2 2p6 3s2 3p6 4s1
+
+Ca = Is2 2s2 2p6 3s2 3p6 4s2
+
+ 73
+
+Exercises:
+
+1. Define the following:
+
+ a. Periodic table b. Periodicity
+
+2. State periodic law
+
+3. Write two examples of the following
+
+ a. Group I elements
+
+ b. Group II elements
+
+ c. Group III elements
+
+4. (a) Define electronic configuration
+
+ (b) Write the electronic configuration of Na, Al, P and O. Their atomic numbers are 11,
+ 13, 15 and 8 respectively.
+
+5. (a) What do you understand ―Relative atomic mass‖ to mean? (b) Has it any unit? Why?
+
+6. An element, Y, has two isotopes Y, Y, present in the ratio of 3:1. What would
+ the relative atomic mass o f Y be?
+
+7. The average or relative atomic mass of an element X, is 21.5. X has two isotopes of mass
+ 20 and 22. What is the percentage composition of the isotope of mass 20?
+
+8. What are the four quantum numbers?
+
+9 (a) What is an atomic orbital?
+
+ (b) Draw the S - orbital
+
+10. Which orbital has the least energy?
+
+11 (a) What is electronic configuration?
+
+ (b) Write the electronic configuration of these elements:
+
+ 74

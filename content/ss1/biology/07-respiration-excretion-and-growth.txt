@@ -1,0 +1,2404 @@
+TOPIC: Respiration, excretion and growth
+WEEKS: 8
+TEACHER'S SCHEME: Cellular respiration, excretion, growth
+
+=== SOURCE: School notes week 8 ===
+WEEK 8
+SUBJECT: BIOLOGY
+CLASS: SS1 DATE--------------------
+TOPIC : SOME PROPERTIES AND FUNTIONS OF CELLS (continued)
+CONTENT:
+(1) Cellular Respiration
+(2) Excretion
+(3) Growth
+SUB-TOPIC 1: CELLULAR RESPIRATION
+Respiration is the enzymatic breakdown of organic food substances, like glucose, through a series
+of chemical reactions in the cell to release energy and produce carbon (iv) oxide and water as by-
+products. Respiration occurs in all living cells.
+Now, the energy released during respiration is used by the organism for such activities as synthesis
+of proteins, lipids and protoplasm; germination; cell division and enlargement leading to growth;
+movement; transmission of nerve impulses; active transport and maintenance of body
+temperature. There is variation in the amount of energy used by different organisms depending on
+their activities. A very active organism like Tiger uses much more energy than a sluggish one, like
+Chameleon.
+The reactions that occur in cellular or tissue respiration are usually represented by the following
+equation:
+C6H12O6 + 6O2 6CO2 + 6H2O + Energy
+Glucose Oxygen Carbon iv oxide Water
+The equation represents only a summary of the raw materials and the end products of tissue
+respiration. The complex pathway of cellular respiration is shown below:
+Tissue respiration is divided into two main parts. The first is the glycolysis, the stepwise series of
+TYPES OF RESPIRATION
+You already know that we have external and internal respiration, while external deals with
+breathing in and out i.e. inhalation and exhalation, the internal which takes place in the cell hence,
+cellular respiration is divided into two basic parts:
+1. Anaerobic Respiration and
+2. Aerobic Respiration
+Anaerobic respiration is that type which involve the use of very little or no Oxygen, while Aerobic
+Respiration is that type which involves the use of large amount of Oxygen.
+1. Anaerobic respiration
+In anaerobic respiration, pyruvic acid is converted alcohol in plants and lactic acid in animals
+Equation for lactic acid formation: C6H12O6 2C3H6O3 + Energy
+In plant cell, the products of anaerobic respiration are ethanol and carbon iv oxide. Formation of
+alcohol is represented by the equation: C6H12O6 2C2H5OH + 2CO2 + Energy
+As for glycolysis, or anaerobic glycolysis or fermentation, Oxygen is not required because the
+process is anaerobic. This series of reaction convert glycogen in animal and starch in plant to
+glucose. The glucose is then converted by ten steps to pyruvic acid as below:
+Converting Food to Usable Energy
+Cellular respiration is a complex series of chemical reactions that harvests the energy trapped in the
+bonds of glucose sugar molecules and converts it into a chemical form that can be stored for later use.
+Humans and other animals obtain glucose sugar molecules from food, such as the fruits and grains shown
+here, while plants create glucose sugars in the process of photosynthesis. Essential to the survival of most
+organisms on Earth, cellular respiration yields the energy that makes our bodies function properly.
+
+AEROBIC RESPIRATION
+Aerobic respiration is a breaking down process known as catabolism, an aspect of metabolism. It is
+represented by the Kreb's Cycle. Diagram required. In Kreb's Cycle, for one molecule of pyruvic
+acid 15 molecules of ATP are produced. Since a molecule of glucose produce 2 molecules of pyruvic
+acid, therefore 30 molecules of ATP are produced from the the 2 molecules of pyruvic acid. Hence, a
+molecule of glucose produceds a total of 38 molecules of ATP during a complete aerobic respiratory
+process. The oxidation of glucose can thus be summarised with the following equation:
+C6H12O6 + 6O2 6CO2 + 6H2O + Energy
+Glucose Oxygen Carbon iv oxide Water
+Another aspect of metabolism is Anabolism which is a building up process. An example is an aspect
+of plant nutrition commonly known as photosynthesis.
+EVALUATION
+1. Explain the terms; Aerobic and anaerobic respiration.
+2. Discuss with a diagram the glycolytic pathway and Kreb's cycle.
+3. State the following equations: respiration, lactic acid, and fermentation.
+REFERENCE FOR PRACTICALS: MODERN BIOLOGY, PAGE 235
+SUB - TOPIC 2: EXCRETION
+Definition: Excretion is defined as the process by which living things eliminate waste products or
+toxic substances from their body through their excretory organs.
+Excretory System of some organisms
+ORGANISM EXCRETORY SYSTEM
+Some unicellular organism Contractile Vacuole
+Flatworms Flame cells
+Annelids (e.g. earthworm) Nephridia
+Insects Malpighian tubules
+Vertebrates Kidneys, lungs, skin, and liver.
+Plants Stomata and Linticels
+EXCRETORY ORGAN AND SUBSTANCES THEY EXCRETE IN VERTEBRATES
+IN ANIMAL
+Lungs: Carbon (iv) oxide, and water vapour.
+Skin: Sweats, Salts and nitrogenous waste.
+Kidney: Urea, excess water, excess salts, ammonium compounds, and acids.
+Liver: Bile Pigments.
+IN PLANTS
+Stomata: Oxygen, Carbon (iv) oxide and water vapour.
+Bark: Tannins, resins and latex.
+Leaves: Crystals of calcium oxalate, calcium carbonate and anthocyanin pigments which give red,
+blue, and violet colours to many flowers.
+Lenticels: Oxygen, Carbon (IV) oxide and vapour.
+EVALUATION
+1. Define the term excretion
+2. List some organs of excretion and the organism concerned.
+3. Outline some waste products in animals and plants and organs responsible.
+OBJECTIVE TEST:
+
+1. One of these is a micronutrient (a) cobalt (b) nitrogen (c) potassium (d) magnesium (e)
+calcium.
+2. The compound (NADH) coenzyme is reduced by ------------ (a) hydrogen compound (b)
+hydrogen ion (c) carboxylic acid (d) hydroxyl ion (e) hydroxyl group.
+3. The kidney excretes all these except----- (a) acids (b) excess water (c) excess salts (d)
+Oxygen (e) ammonium compound.
+ASSIGNMENT
+1. Sketch an annotated diagram of photosynthetic leaf structure.
+2 Sketch the glycolytic pathway and the kreb's cycle in your note book (Well labelled)
+develop into a nerve cell in the brain, a muscle cell in the heart or a ciliated lining cell in the
+trachea.
+Diagram of root tip showing apical meristem
+Root Tip Showing Apical Meristem
+This lengthwise section of the tip of a plant root shows the apical meristem, which, with its rapidly
+dividing cells, is responsible for primary growth. Apical meristem can also be found at the tips of
+stems.
+Basis of Growth
+Cell division (mitosis) is the basis for growth in all multicelluar organisms. Mitosis is the cell
+division which occurs in the body cell (somatic cells) during which a parent cell divides to produce
+two daughter cells having the same number of chromosomes as itself.
+Mitosis does not occur in all the cells of growing region of the organisms e.g. the root tips or shoot
+apices and cambium that undergo mitosis. These growing regions are described as meristems.
+Cell division by mitosis occurs in four successive phases of continuous sequence namely prophase,
+metaphase, anaphase and telophase. Between the end of one mitosis and the commencement of a
+new mitotic division is a period described as interphase or pre-mitotic phase.
+Interphase is not a resting time, but a period during which the young daughter cells accumulate
+and synthesize new body materials, thus preparing itself for the next division.
+Diagram showing the growth of embryo
+
+Spemann's Experiments
+The experiments of Hans Spemann in the early 1900s demonstrated the role of certain cytoplasmic
+signalling substances in the amphibian embryo. (Left): By cleaving the fertilized egg unnaturally,
+Spemann showed that an area called the gray crescent is essential to embryonic development.
+(Right): By the two-cell-layer (blastula) stage, the cells in the embryo have already been "mapped"
+to the structures they will form in the complete embryo. Spemann showed that if the embryo were
+cleaved at this point, only the section containing the dorsal lip of the blastopore (once the gray
+crescent area) would continue to develop.
+The daughter cells synthesize new structures from the raw materials that they absorb from their
+surroundings. This process is called assimilation and results into cell enlargement. Cell
+differentiation also occurs as the cell develops into specialized cells.
+An organism may be said to achieve growth when there is an increase in its dry weight, size or
+number of cells.
+Factors Affecting Growth
+These factors may be divided into external and internal factors. The external factors include the
+following:
+1. Nutrient availability: Body substances are synthesized from available nutrient materials and
+energy.
+2. Accumulation of toxic byproducts of metabolism may inhibit growth.
+Rodents
+Rodents represent nearly 40 percent of all mammal species. Over 1700 species of rodents,
+including (top from left) porcupines, beavers, chinchillas, pacas, (bottom from left) flying
+squirrels, mice, muskrats, and capybaras, can be found in nearly every terrestrial and
+arboreal habitat. The success of this group is due in part to its adaptability to new food
+sources and habitats and its relatively brief reproductive cycle.
+Michael Leach/Oxford Scientific Films;Aldo Brando Leon/Oxford Scientific Films;Dorling
+Kindersley;Shattil and Rozinski/Oxford
+Regulation of Growth by Hormones
+The auxins in plants influence cell division (e.g. cytokinins), cell elongation (e.g. gibberellins),
+regeneration of tissues at cut surfaces, growth of ovaries into fruits, development of buds and roots,
+and the growth of abscission layer in leaves. The thyroid glands of vertebrates produce thyroxin at
+a concentration that promotes normal growth. In the absence of thyroxin growth does not occur.
+Other hormones that exert influence on growth are produced by the pituitary gland and sex
+hormones.
+EVALUATION:
+ Define growth
+ List three processes that contribute to growth
+ Define mitosis and list the four main phases of mitosis
+ Name five external factors and two internal factors that affect growth
+ Name two plant hormones and state their influence on plant growth
+SUGGESTED WEEKEND PRACTICAL
+Activity
+1. Identification of fastest growth regions in plant.
+2. Experiment to find out the effect of light on the growth of seedlings.
+
+=== SOURCE: Biology Matters ch.7 ===
+Chapter 7 I The Hu m an Body - M aint aining Life
+
+~
+ 7 .1 Why Do Living Things Respire?
+ Learning Outcomes
+ Define aerobicrespiration in human cells as t he release of energy by the breakdown of glucose in
+ the presence of oxygen and stat e t he equat ion, in words and symbols.
+ Define anaerobic respiration in human cells as the release of energy by the breakdown of
+ glucose in t he absence of oxygen :and stat e the word equation.
+ Explain why cells respire anaerobically during vigorous exercise resulting in an oxygen debt
+ that is removed by rapid, deep breathing after exercise.
+
+ When we are hungry, we can become weak and unable t o function properly. We need food to
+ give us energy. Our bodies digest t he food and break it down into simpler subst ances which
+ are used for various functions, including releasing energy. What happens to t he glucose in our
+ cells during energy release?
+ Disciplinary Idea
+ Energy living organisms need energy to move, excrete, grow and reproduce. Since energy i s st ored
+ Living organisms
+ in food molecules such as glucose, living organisms release energy by consuming t hese
+ rcly on respiration to
+ release energy from molecules and breaking t hem down, through a process known as respiration.
+ the breakdown of
+ carbohydrates. Energy There are two forms of respirat ion: aerobic and anaerobic respirat ion.
+ is needed to carry out
+ processes to sustain life.
+ What Is Aerobic Respiration?
+ Aerobic respiration is the release of energy by t he breakdown of glucose in t he presence
+ ► of oxygen. Carbon dioxide and water are released as waste products. Aerobic respiration
+ releases a large amount of energy.
+
+ Link The overall equation for aerobic respirat ion of glucose is:
+ Chemistry
+ Aerobic respiration Chemical equation: c,H,,o, + 60, .... 6C0 2 + 6 H20 This process
+ occurs in the presence releases a large
+ of oxygen. II is an Word equation: glucose + oxygen ..,. carbon + water amount of
+ oxidation process, which dioxide energy.
+ is a chemical reaction
+ in which a molecule
+ gains oxyg-en or )oses
+ The process is more complicated than the equat ion shown above. In realit y, respiration is
+ hydrogen. carried out in a series of steps that are cat alysed by enzymes. The m itochondria in ce lls are
+ the 'factories' t hat cont ain these enzymes. Thus, mitochondria play a vital role in aerobic
+ respiration.
+
+ Complex organisms, such as t rees and humans, respire aerobically as they need larg:e amounts
+ of energy to survive. Some examples of energy-consuming processes in organisms are:
+ synthesis of new prot oplasm for g rowth and repair
+ synthesis of proteins from amino acids
+ Link
+ active t ransport in the absorption of food substances by t he small intestine
+ Mitochondria are one
+ muscular contractions such as heartbeats and respirat ory movements
+ of the many organelles
+ inside our cells. Recall transmission of nerve impulses
+ what you have learnt in cell division
+ Chapter I.
+
+128
+
+ Respiratio n in Humans I Chapter 7
+
+ During respiration, some energy is also released as heat. This heat is
+ circulated around your body by t he blood to keep you warm.
+
+ What Is Anaerobic Respiration?
+ Anaerobic respiration is the release of energy by the breakdown of
+► glucose in t he absence of oxygen. Anaerobic respiration releases a
+ relatively small amount of energy.
+
+ In Muscle Cells
+ During vigorous muscular contractions, your muscle cells respire
+ aerobically at a high rat e. You may start panting in order to
+ remove carbon dioxide and take in oxygen at a faster
+ rate. Your heart w ill al.so begin to beat faster so that
+ the oxygen can be transported to your muscles
+ at a faster rate. However, t here is a limit t o
+ the increase in the rat e of breathing
+ and heartbeat.
+
+ When vigorous activity cont inues,
+ muscular contractions are so vigorous that
+ maximum aerobic respirat ion i s unable to release energy
+ fast enoug h to meet t he demand. If vigo rous muscular
+ contractions continue, energy demand increases. The muscle
+ cell s carry out anaerobic respiration to meet the increased
+ energy demand. Lactic acid is formed [n the process.
+
+ The word equat ion for anaerobic respir:ation in human
+ muscles is:
+ Thi s pr:ocess
+ releases a
+ glucose - . lactic acid
+ relatively small
+ amount of energy.
+
+ The small amount of energy released
+ in anaerobic respirat ion, toget her
+ w ith t he energy released in aerobic
+ respiration, helps the muscles t o
+ keep contract ing. Since t here is
+ insufficient oxygen to meet the
+ demands of t he vigorous muscular cont ractions,
+ the muscles are said t o incur an oxygen debt -
+
+► Oxygen debt is the amount of oxygen required t o remove lactic acid.
+
+ 129
+
+Chapter 7 I The Human Body - Maintaining Life
+
+ How Can Oxygen Debt (or Lactic Acid) Be
+ Removed After a Race?
+ 1 Continuat ion offast heart rate
+ This results in continued and fast t ransport of:
+ lactic acid from t he muscles to t he liver
+ • oxygen from t he lungs to the liver
+
+ 2 Continuation of deeper and fast er
+ breathing
+ This results in continued and fast [ntake of
+ oxygen by the lungs. Sufficient oxygen
+ is required to remove the lactic acid
+ from t he blood. Once t he lactic aci d is
+ removed, t he oxygen debt is repai d.
+
+ Note t hat during a sprint event or a short
+ distance race, t he athlete obtains some of
+ his or her energy from anaerobic respirat ion.
+ This is because a lot of energy is needed
+ during a short period of t ime. The oxygen supply
+ to t he muscles is insufficient for aerobic respiration
+ to meet the energy demand.
+
+ How Do We Study Respiration?
+ Respiration in biology refers to cellu lar respiration, which
+ is the release of energy when cells b reak down glucose
+ in the presence of oxygen. It is different from breat hing,
+ which refers to the process by which air moves in and out of
+ the lungs. It is quite easy to check if someone is breathing.
+ However, it is harder to check for respiration. Thus, how do
+ we st udy respiration?
+
+ The process of respiration in humans is t he same as in ot her
+ organisms. Thus, plants, small animals and microorganisms are
+ often used in experiments t o investigate respiration .
+
+ In aerobic respiration, oxygen is con sumed while carbon dioxide,
+ energy and water are released. Some of t he energy released is
+ in the form of heat. Therefore, if we can show t hat an organism
+ consumes oxygen and gives off carbon dioxide and heat, we can say
+ that it respires aerobically.
+
+ Anaerobic respirat ion in humans is difficult t o det ect. This is because
+ it does not require the consumption of oxygen and it may not produce
+ carbon dioxide. However, microorga nisms such as yeast do produce
+ and give off carbon dioxide when t hey respire anaerobically.
+ Therefore, if we can show t hat yeast gives off carbon dioxide
+ in the absence of oxygen, we can say that it respires
+ anaerobically.
+
+130
+
+ Respiratio n in Humans I Chapter 7
+
+Let's Investigate 7. 1
+Alm
+To find out if carbon dioxide is given off during aerobic respiration
+ Helpful Note
+Procedure (a)
+ Al the su rface of a liquid ,
+1 Set u,p the apparatus as shown in Fig ure 7.1. Pot assium hydroxide solution is used
+ molecules are constantly
+ to absorb carbon dioxide. Sodium hydroxide can also be used for t his. Umewater is
+ escaping from the liquid
+ used to test the presence of carbon dioxide, w hich turns the limewater cloudy. as gas. Some may return
+2 Use a, suction pump to suck out the air through delivery tube E. This causes air to be lo the liquid. As the
+ drawn into flask A. The air flows t hrough the apparatu s as show n by t he arrows. suction pump sucks out
+ the aur from Oask D, il
+ reduces the air pressure
+ above the Jiquid surface.
+ This feads to more gas
+ molecules escaping from
+ the liquid in Oask D.
+
+ As air is continuously
+ sucked o ul from Oask D,
+ a pr(';$ure difference
+ potassium limewater snails llmewatef is created between the
+ hydroxide solutlon Oasks, allowin g air lo
+ Oow in the direction as
+ Figure 7.1 shown by the arrows.
+Questions
+1 What purpose does the potassium hydroxide solut ion in flask A and limewater in
+ flask IBserve?
+2 What happens to t he limewater in flask Dafter some time? Explain your observation.
+3 You need t o set up a cont rol. What changes would you make t o flask C for t he cont rol?
+4 If yol!lr investigation uses a potted g reen plant, what precautions must you t ake?
+ Explain your answer.
+
+Procedure Cb)
+Alternatively, we can use a hydrogencarbonate indicator, which can detect changes
+in carbon dioxide concent ration. The colour changes in t he indicator are shown in
+Figure 7.2.
+
+ ,___'_"•_wtest·tube< jj
+ hydrogencarbonate
+ indicator control
+ yellow
+
+ addi< ~ neutral ~ alkaline
+ Figure 7.2
+
+1 Set up the apparatus as shown in Figure 7.2.
+2 GentL'y blow through the straw several times for 1 min.
+
+Questi on
+1 What changes do you see in t he two tubes after 1 min? Why?
+
+ 131
+
+Chapter 7 I The Human Body - Maintaining Life
+
+ To st udy anaerobic respiration, yeast is used as a model organism.
+
+ Let's Investigate 7 .2
+ Alm
+ To find out if carbon dioxide is given off during fermentat ion
+ (anaerobic respiration)
+
+ Procedure
+ 1 Add a few grains of dry yeast t o some distilled wat er in a boil ing
+ tube. Stir well.
+ 2 After 20 minutes. add an equal volume of boiled and cooled dilute
+ glucose solution to t he yeast suspension and mix well.
+ 3 Add a little oil.
+ 4 Connect t he boil ing tube to a test-tube containing limewater as
+ shown in Figure 73 .
+
+ d elivery
+ tube
+ boiling
+ tube
+ tesHube
+ thin layer _
+ ofoil .....
+ ....
+ •• •
+
+ g lucose
+ and yeast
+ suspension
+ ·..
+ ...... limewater
+ ..··
+ Figure7.3
+ Questions
+ 1 Why do you need to boil the glucose solution before carrying out
+ the experiment?
+Link 2 What does the layer of oil serve as?
+ Practical Workbook 3 What do you observe after some tiime? Explain your answer.
+ Experiment 7A 4 What would you add to the boiling t ube in a cont rol experiment ?
+
+ 00
+ Helpful Note
+ Yeast (Figure 7.4) is a microorganism that respires aerobically in Lhe presence of oxygen,
+ but respires anaerobically in the absence of ox:yg·en.
+
+ In fermentation. yeast releases clhanol (a type of alcohol) and carbon dioxide as waste
+ products during anaerobic respiration. The ethanol produced still contains energy and
+ this explains why only a small amount of energy is released in anaerobic respiration.
+ Figure 7.4 Yeast cells
+
+132
+
+ Respiration in Human s I Chapter 7
+
+Let's Practise 7. 1
+1 Why is respiration import ant t o humans?
+2 (a) Write t he equations. in words and symbol s. for aerobic
+ respiration in humans.
+ (b) Write t he word equation for anaerobic respiration in human
+ muscle cells.
+3 Suggest two reasons why we need energy when we sleep,
+4 Four t est-tubes are set up as shown in Figure 7.5. All t he tubes
+ contain the same amount of neutral in dicat or (red) and are l eft in
+ sunlight for one hour.
+
+ indicator indicator
+ solution solution
+
+ snail
+
+ water
+ pla,n-s.
+
+ A B C D
+
+ yellow pu •
+
+ ac:.idi< alkaline
+ Figu re 7.5
+
+ (a) What colour change would you expect to occur in t ube A and
+ tube B?Why?
+ (b) If t he colour of t he indicat or in t lllbe C does not change, what
+ explanation can you give?
+ (c) Would you expect the indicator i n tube D t o change colour? Why?
+S Figure 7.6 shows t he apparat us used tto oraduated capillary
+ investigate respiration.
+ clip
+ rube ccm'I
+ (a) What can be measured using t he
+ apparatus shown? colour«I
+ (b) What is the purpose of t he sodium droplet
+ hydroxide solution?
+ (c) In which direction will t he coloured I11;;;,t--+- Insect larva
+ droplet move as the insect respices? water
+ ' - -r - ~ boiling tube
+ (d) Explain your answer in (C)·
+ sodium
+ \.:::1---t- hydroxide Link
+ Theory Workbook
+ Figure 7.6 Worksheets 7A-78
+
+ 133
+
+Chapter 7 I The Human Body - Maintaining Life
+
+ 7.2 How Does Gas Exchange Occur
+ in Humans?
+ Learning Outcomes
+ • Identify t he larynx, t rachea, bronchi, bronchioles. alveoli and associated capillaries and state
+ their functions in human gaseous exchange.
+ Explain how t he st ructure of an alveolus is related t o its function of gaseous exchange,
+ including describing t he role of t he cilia.
+
+ Breathing and life are intimately connected. In many languages, t he same word is used for
+ 'breath' and 'spirit'. We usually check for breat hing to determine if someone i s still a'live. If you
+ t ry t o hold your breath, after a certai n t ime, your body fight s to breathe again. Your body i s
+ programmed t o keep breat hing. Why is breathing so important?
+
+ How Do Organisms Take In Oxygen for Aerobic
+ Respiration?
+ Organisms take in oxygen for aerob,c respiration t hrough the process of gas exchange.
+
+ ► Gas exchange is the exchange of gases bet ween an organism and t he environment.
+
+ Unicellular organi sms, such as amoebae, have a large surface
+ Link area-to-volume ratio. Such organi sms do not require
+ How does a large sUiface any special gas exchange syst em or ,o xygen t ransport
+ area to--volume ratio
+ 4
+
+ mechanisms. Oxygen and carbon dioxide can be
+ aid diffusion? Recall
+ what you have learnt in exchanged efficiently between the o rganism and
+ Chapter 2. t he surrounding water by diffusion t hrough the cell
+ membrane.
+
+ Large animals, such as fish, amphibians and
+ mammals, have a comparatively smaller surface
+ area-to-volume ratio. Their external surfaces are
+ often thickened for protection and to prevent water
+ loss. Therefore, these surfaces are not suitable for
+ gas exchange. These animal s use special organs, such
+ as lungs and gill.s, for gas exchange. These organs have
+ Word Alert enlarged surface areas and thin coverings. In thi s way,
+ Penneable: porous
+ more oxygen can be absorbed and more carbon dioxide figure 7.7 Frogs have lungs and
+ removed from the body per unit t ime. permeable skin for gas exchange.
+
+ In humans, the absorption of atmosp heric oxygen and the removal of carbon dioxid e f rom
+ the body occur in the alveoli (air sac:s) in the lungs.
+
+ The Human Gas Exchange System
+ The organs involved in gas exchange in humans are shown in Figure 7.8 on the next
+ page. They include t he two lungs in the thorax and the air passages leading t o t herm.
+ The air passages consist of the nasal passages. pharynx, larynx, trachea, bronchi and
+ bronchioles- The thoracic cavity, ribs. diaphragm and rel ated muscles are al so vital parts
+ of the gas exchange syst em, and their functions w ill be discussed in Section 7.3, which covers
+ the breathing mechanism in humans.
+134
+
+ Respi ration in Humans I Chapter 7
+
+ ~xtem al nostril
+
+ external duster of alveoli
+intercostal muscle - - --1-4,'ll (ai.r sacs)
+
+ internal
+intercostal muscle ------,r\1:/J
+
+ lung ----.!-\Hit- bfonchioles
+
+ F"1gure 7.8 The human gas exchange system
+
+ The Nose
+ Air usually enters your body t hrough the two external nost rils. The
+ walls of t he nostrils bear a fringe of hair s. The nost rils lead into two nasal
+ passages, which are lined w ith a moist mucous membrane. Breat hing
+ through the nose has the following advant ages:
+ Dust and foreign particles, including bacteria in the air, are t rapped
+ by t he hairs in t he nost rils as well as by the mucus on the mucous
+ membrane.
+ As air passes through t he nasal passages, it is warmed and moistened.
+ Harmful chemicals may be det ected by small sensory cells in the Disciplinary Idea
+ mucous membrane. System
+ l'he respiratory system
+ comprises various organs
+ From t he Nose to the Trachea lhal fucililate gaseous
+ The air in your nasal passages enters the pharynx, From the pharynx, air exchange.
+ passes int o your larynx and then into your t rachea through an opening.
+
+ 135
+
+Chapter 7 I The Human Body - Maintaining Life
+
+ Trachea
+ The t rachea (windpipe) is supported by C-shaped rings of cartilage
+ (Figure 7.9). The cartilage keeps the lumen of t he t rachea open.
+ The membrane next to the lumen is t he epit helium. The epithelium
+ consists of two types of cell.s.
+ - Gland cells - secret e mucus to t rap dust particles and bacteria
+ - CIiiated cells - have hair-like structures called cilia on their surfaces.
+ The cilia sweep the dust-trapped mucus up the t rachea.
+
+ mucus proch.:<cd
+ bygland<ell
+
+ gland cell
+ To ptiarynx
+ (throa~
+
+ Secli on la ken
+ from here
+
+ ll9ament From lungs
+
+ nucleus of
+ co,111cctfvc tissue cilia cytoplasm cplthcllal cdl
+
+ cell
+ membrane
+ thin epithe:'ium
+ ( ·shaped ring - '" '- ,,,
+ of cartilage
+ Epithelium enlarged
+
+ Transverse section
+ CT.SJ of trache-a
+
+ F"1gure 7.9 Features o f th e air passages
+
+ Bronchi a nd Bronchioles
+ The t rachea divides into two tubes called bronch i (singular: bronchus).
+ Each bronchus carries air into the lung. The bronchi are similar in structure
+ to t he trachea. Each bronchus branches repeatedly, giving ri.se t o numerous
+ bronchioles, Bronchioles are very fine tubes. Each bronchiole ends in a
+ cluster of air sacs or alveoli,
+
+ Alveoli (Ai r Sacs)
+ Gas exchange takes place t hrough t he walls of t he alveoli (Figure 7.10).
+ Numerous alveoli are found in the lungs, providing a very large surface area
+ for gas exchange.
+136
+
+ Respiration in Humans I Chapter 7
+
+ cvt end or ,ib
+
+ d ust er of alveoli
+
+ bronchioles
+
+ blood vc::m:1f1orn hc.irl
+
+ ji
+ l_ t
+ air in and out
+
+ b'ood vessel to he•tt
+
+ capillary network
+
+ Alveolar walls arc
+ very lhin, rnoist and
+ wt.•U-supplied with
+ blood capillarie"S.
+ Gas exchange
+ behveen the alweoli
+ and the blood
+ capillaries takes
+ pface through
+ the wall of
+ t hcalvcolL
+
+ Figure 7.10 The lungs showing a cluster of alveoli and its associated capillaries
+
+How Are th e Lungs Adapted for Efficient Gas Exchange?
+• The numerous alveoli in the lungs provide a large surface area.
+• The wall of the alveolus is only one cell thick. This provides a short
+ diffusion dist ance for gases, ensuring a higher rat e of diffusion.
+• A t hin film of moisture covers t he inner wall of t he alveolus. This allows Word Alert
+ oxygen to dissolve in it. Alveolus: singular
+• The wall.s of t he alveoli are richly supp lied wit h blood capillaries. The flow of alveoli
+ of blood maintains the concentration gradient of gases.
+ 137
+
+Chapter 7 I The Human Body - Maintaining Life
+
+ How Does Gas Exchange Occur in
+ the Alveoli?
+ Link Gas exchange in the lungs occurs by diffusion. Blood entering t he lungs
+ Diffusion requires a has a lower concentration of oxygen and a higher concentration of
+ concentration gradient. carbon dioxide than the atmospheric air entering the alveoli in the lungs.
+ Recall what you have A concent ration gradient for oxygen and carbon dioxide is set up bet ween
+ learnt in Chapter 2. blood and alveolar air (Figure 7.1 1).
+ • Oxygen dissolves int o the thin film, of moisture on the wall of the alveolus.
+ • The dissolved oxygen then diffuses through the wall of the alveolus and
+ the wall of the blood capillary into the red blood cells.
+ • The oxygen combines with haemoglobin to form oxyhaemoglobin.
+ • Carbon dioxide diffuses from the b lood into the alveolar air.
+
+ ~ oxyge-n
+
+ ,._ carbon dioxide
+
+ 0 oxygenated blood
+ Disciplinary Idea ■ deoxygenated blood
+ Structure and continuous
+ blood flow alveolar cav ty
+ Function
+ The structure of the
+ alveoli is designed to allow
+ efficient gas exchang·e in
+ humans.
+ red blood cell
+
+ bk>od capillary
+
+ Figure 7.11 A section of an alveolus
+
+ The oxygen and carbon dioxide concentration gradients between the alveolar
+ air and the blood are maintained by:
+ • a continuous flow of blood through the blood capillaries
+ • continuous breathing, which causes air in the lungs to be constantly
+ refreshed
+
+ How Is Oxygen Transported Around
+ the Body?
+ In the lungs where the oxygen concentration is high, oxygen combines w ith
+ haemoglobin in the red blood cells to form oxyhaemoglobin. Oxygenat ed
+ blood is transported from t he lungs to other parts of the body.
+
+ high oxygen concentration
+ oxygen + haemoglobin oxyhaemoglobin
+ k>w o:xygen concentr.ition
+
+ When blood passes through an organ or tissue where the oxygen concentration
+ is low, oxyhaemoglobin will release it s oxygen t o the respiring cells.
+
+138
+
+ Respiration in Humans I Chapter 7
+
+ How will oxygen transport in a person's body be affected if he holds his
+ breath for a long time? Comment on the views given by the three people
+ in Figure 7.12 Explain why each of them is correct or incorrect. . . . . . - - • - • -......
+ e red blood cells
+ /Ing over the alveoli
+ The heart re Is no prob/ Ive enough oxygen. I
+ w/1/sttl/ pump blood e red blood eel
+ ues, the erIt/col bod
+ throughout the body. So, there oxygen tooth n out ofoxygen an
+ Is no problem for the red blood heorl wl/1 beoi JI, starting with
+ cells to transport oxygen to here Is less oxy
+ other cells. In the body. ii
+
+ I I.•
+ \
+ @
+
+ , / / I I I I /
+;( ,7 >I
+ '
+ ' ( %
+ '
+ % ;l t
+ figure 7.12 Three people are discussing the effect on oxygen transport in the
+ body if a person holds hisbreath for a long time. Comment on their views.
+
+ Let 's Practise 7.2 - - - - - - - - - - - - - - - - ~
+ =-+ I
+
+ 1 Name the parts labelled A to G in Figure 7.13.
+ 2 Figure 7.14 shows some cells from the lining of a human trachea .
+ (a) Name the parts labelled A, Band C.
+ (b) 1he diagram is incomplete. Comp lete it by drawing the cilia that
+ should be found on the cells. Your drawing should show the
+ direction in which the cilia are sweeping.
+ (c) What is the name of the substance that the gland cells secrete? Link
+ (d) Based on your understanding of the function of the cilia, what
+ would happen if they were paralysed?
+ Theory Workbook
+ Worksh"eel 7C
+
+ Figure 7.14 Cellslining the human trachea
+ Figure 7.13
+ _J
+ 139
+
+Chapter 7 I The Human Body - Maintaining Life
+
+ 7.3 How Do We Breathe?
+ Learning Outcome
+ Describe t he process of breat hing and the role of d iaphragm, ribs and internal and external
+ int ercost al muscles.
+
+ Have you ever seen opera singers sing a very long note wit hout pausing for breath? Do you
+ wonder how t hey can take in so much air and control the breath? It is all due t o t he h ighly
+ t rained muscles of t heir breat hing mechanism. Yes, breat hing is an activit y t hat involves
+ muscles, and it can be trained.
+
+ Breathing is part of the gas exchange process. It refers t o the muscular contractions and
+ movement s of the ribs, w hich result in air moving in and out of t he lungs. Humans possess
+ special breathing mechanisms that increase the rate of gas exchange between the body and
+ t he external environment. The breathing movements essentially consi st of two phases:
+ • The t aking in of air called Inhalation or Inspiration .
+ • The giving out of air called exhalation or expirat ion.
+
+ The Thoracic (Chest) Cavity
+ The chest wall is supported by the r[bs. Between the ribs, t wo set s of muscles, t he external
+ and Internal lntercostal m uscles, can be found (Figure 7.15). They are antagonist ic muscles.
+ This means that when the external intercost al muscles contract, the internal intercostal
+ muscles relax, and vice versa.
+
+ verte br.al
+ co lumn
+ (backbone}
+
+ external
+ lnterco~tal
+ muscles
+
+ inte rnal
+ intercostal
+ muscles
+
+ lefl lung {intercostal tnusd e Chest X-0y showing the ribs and lungs
+ remove-d to shov, dle left lung)
+
+ Figure 7.1S The ribs and the intercostal muscles
+
+140
+
+ Respiratio n in Humans I Chapter 7
+
+ The thorax is separated from the abdom en by a dome-shaped sheet called
+ the diaphragm. The d iaphragm is mad e of muscle and elast ic t issue. When
+ the diaphragm muscles cont ract, the di.aphragm flattens downwards, and
+ when they relax, the diaphragm arches upwards again. The workings of the
+ int ercost al muscles and the diaphragm change the volume of the thoracic
+ Link
+ Refer to Figure 7.8 in
+ cavit y (Fi gures 7.16 and 7.19). Section 7.2 to recall the
+ position of the thorax
+
+ Inspiration (Inhalation)
+ Not e that t he words 'upwards' and 'downwa rds' are used w ith ref erence to
+ a person st anding in t he upright position.
+
+ When you inspire, t he following event s take place:
+ Your d iaphragm muscle co ntracts, and the diaphragm flattens.
+ Your external intercostal muscles contract while your internal int ercost al Word Alert
+ muscles relax. Inspire: Inhale,
+ Your ribs move upwards and outward s. Your st ernum also moves up and breathe in
+ forward.
+ - The volume of your thoracic cavity increases.
+ Your lungs expa nd and air pressure inside them decreases as the volume
+ increases.
+ Atmospheric pressure is now higher than t he pressure wit hin your lung s.
+ Air moves into t he lungs.
+
+ vertebral
+ column
+ ah rou:ed into lungs due to
+ increase in volume of lungs
+
+ Handle of the pail
+ shows how a rib
+ external israi ).ed dt1ring
+ volu1ne intercostal
+ - - 1-\::=c~ ofincrease
+ thorax
+ s
+ sternum
+ muscles inspiration
+ contract
+
+rib cage vcrtcbn,I
+ column
+
+ diaphrag stemum
+ flattens figure 7.17Amodel showing
+ the movement of the ribs
+ rib
+ during breathing
+ Side view
+
+ r,~-:.,;-,;, •-l.<'Yl1
+ muscle o f diaphragm
+ contracts
+ ri... Ribs move upwards and
+ outward s to increase the
+ F',gure 7.16 Movement of rib cage
+ volumcof lhorilx
+ and diaphragm during inspiration
+
+ Front view
+
+ The path of the air int o the lungs is shown below:
+
+ 1
+ ~~::;1~ --+ pa~!:des --+ pharynx --+ larynx --+ trachea --+ bronchi --+ bronchiole-s --+ alveoli
+
+ 141
+
+Chapter 7 I The Human Body - Maintaining Life
+
+ Model to Show How Breathing Works
+ Figure 7.18 shows a model that is used t o demonst rat e the action of the
+ diaphragm. When the rubber sheet (diaphragm) is pulled down, the
+ increase in volume causes a drop in the air pressure inside the bell jar.
+ At mospheric pressure outside is now higher than that in the jar. This forces
+ air to ent er and fill up the balloons (l ungs).
+
+ bell jar
+ Word Alert {tl19rnc;ir,; willD
+ Expire: exhale,
+ breathe out
+
+ Helpful Note
+ RICE and ERIC Figure 7.18 Model showing the actions of the diaphragm in the
+ Here is an easy way to human gas exchange system
+ remember what happens
+ to your inlercostal musdes
+ when you are brealhtng. Expiration (Exhalation)
+ When you inhale, you ... When you expire, the following events take place:
+ Relax your Your diaphragm muscle relaxes and the diaphragm arches upwards.
+ Internal intercostal Your int ernal intercostal muscles contract while your external
+ musdesand int ercost al muscles relax.
+ contract your Your ribs move downwards and inwards. Your st ernum also moves
+ EXternal intercostal
+ down to it s original position.
+ musdes.
+ • The volume of your thoracic cavity decreases.
+ When you exhale, yoor ... Your lungs are compressed and air pressure inside t hem increases as
+ EXternal intercostal the volume decreases.
+ muscles
+ Pressure within the lungs is now h igher t han atmospheric pressure.
+ Relax and your
+ 1nternal intercostal
+ The air is forced out of your lungs to t he exterior environment.
+ muscles
+ contracL
+
+142
+
+ Respiration in Humans I Chapter 7
+
+ air forced out o f lungs due to
+ decrease In volume of lungs
+
+ rlb1and
+ sternum
+ move down
+ to o riginal volume
+ position ~ or thorax
+ decreases
+
+ verte-bal
+ ootuml'I
+
+ rib cage diaphragm ~lcmurn
+ arches
+ upwards
+
+ diaphragm
+ muscle - 7'.'l,..-~ 'I
+ relaxes
+
+ Sid e view
+
+ Ribsmove
+ dO!tmward>
+ and inwards to
+ de<:rease the d iaphragm
+ figure 1,19Movement of ribcage and volume of thorax arches
+ diaphragm during expiration upwards
+ Front view
+
+Tech Connect
+fl mechanical ventilator is a machine that can pump air into a
+person's lungs, jusl like when one breathes in. II can also pump
+air ool of the lungs, jusl like when one breathes oul.
+
+During the COVI 0 -l9 pandemic. ventilators were in high
+demand in hospitals. Palients with inflamed airways due to
+the Covid-l 9 virus experienced breathing difficulties. Doctors
+had to put them on ventilators lo help them breathe. These
+importanl pieces of technology have saved the lives of many
+seriously ill patients during the pandemic.
+ ' '
+ Figure 7.20 A mechanical ventilator helps patiernts to breathe.
+
+ 143
+
+Chapter 7 I The Human Body - Maintaining Life
+
+ How Does Inspired Air Differ from
+ Expired Air?
+ Word Alert Inspired air differs in composition from expired air. Some water evaporates
+ from the surfaces of t he alveoli. This explains why t he air we breathe out
+ Inspired: inhaled
+ Expired: exhaled i s saturated wit h wat er vapour. In t he lungs, oxygen has been absorbed
+ into the bloodstream, but carbon dioxide i s released from the blood.
+ This explains w hy t he air we breathe out has a lower oxygen concentration
+ but a higher carbon dioxide concent ration t han t he air we breat he in.
+ Some heat also escapes from the blood int o the alveol ar air. The differences
+ between inspired and expired air are summari sed in Table 7.1.
+
+ Table 7.1 Differences between inspired a nd expired air
+
+ Inspired Air Expired Air
+
+ Higher l ower
+ Lower Higher
+ Helpful Note About the sanne About t he same
+ Expired air contains
+ about 16.4% or oxygen. Variable (rarely saturated) Saturated
+ Not all the oxygen that Dust particles Variable but usually present Little, if any
+ is inspired is used
+ for respiration. Temperature Variable About body temperature (37 'CJ
+
+ Figure 7.21
+ Composition of
+ inspired and exp ired
+ air (refer to Table 7.1
+ for colour codes) Inspired air Expired air
+
+ The differences between inspired arnd expired air can be investigated by
+ carrying out the following experiments.
+
+ Let's Investigate 7.3
+ Alm
+ To find out if t he amount of carbon d ioxide in inspired air is different
+ from expired air
+
+ Procedure
+ 1 Fit t wo conical flasks, containing about the same volume of
+ limewater, wit h glass t ubings as shlown in Figure 7.22.
+
+144
+
+ Respiratio n in Humans I Chapter 7
+
+ 2 Place the open end of the Hube in your mouth. Gently breathe air in
+ and out through your mouth. As air is b reathed in, atmospheric air (Le.
+ inspi red air) is drawn into tube C. It bubbles t hrough the limewater in
+ flask A and up through tube D into the m out h. When air is breat hed
+ out, the expired air passes through t ube Eand into the limewater in
+ flask Band out into the at mosphere through tube F.
+
+ T-tubc placed in moulh
+
+---+ C D E F ---+
+
+ rubber tubes
+
+ B
+ ! f
+ -+-- limewater - - - f -- -
+
+ Figure 7.22 Investigating the amount of carbon dioxide in
+ inspired and expired air
+
+ Questions Link
+ 1 After a few m inutes, what do you observe in t he two flasks? Pra:ctical Workbook
+ 2 What can you conclude from this investigation? Experiment 7B
+
+ Let's Investigate 7.4
+ Alm
+ To find out if t he temperat ure of inspired air is different from that of
+ expi red air
+
+ Procedure
+ 1 Use a thermomet er to det ermine the t emperature of the room.
+ 2 Then, hold the bulb of the t hermomet er close to your mouth and
+ breathe air onto it continuously. Record the temperature of t he
+ expired air.
+
+ Question
+ 1 Which has a higher temperature, i nspired or expired air?
+
+ 145
+
+Chapter 7 I The Human Body - Maintaining Life
+
+ Helpful Note
+ How Much Air Do We Breathe In and Out oflbe lun!l'! Volume o f air in
+ Only some of the air in your lungs is changed in each lu1l9S/(ml
+ breathing cyde ( Figure 7.23). The amount or air changed
+ varies with the depth or breathing. II has been estimated
+ that in each normal breathing cycle. about 500 cml of air
+ enters the lungs, and about the same volume is breathed
+ ouL This volwne of air is known as tldaJ air.
+
+ When you take ai deep breath, you take in a volume or air
+ that is larger lhain your tidal air. The additional volume or
+ air is called the romplemental aJr and ii is about I 500 cm' .
+ Similarly, about I 500 cm' can be forced oul after normal
+ expiration. This is called supplemental air.
+ residual air
+ Take the deepest breath you can, then blow out all the air
+ you can. The total volume or air exhaled during forced
+ exhalation is about 3500-4000 cm' . This is the vilal capacity
+ O'-----------''------------+ Time
+
+ or the lungs. F"1gure 7..23 Graph showing the amount of air in
+ the lungs during breathing
+ vital capacity = tidal air + complemental air + supplemental air
+
+ No matter how bard you try to force all the air oul or your lungs, there will always be some
+ lefi behind. This volwne ofair, estimated 10 beaboul 1500 cm', is called ri!Sldual air.
+
+ Let's Practise 7 .3
+ 1 A splrometer is an inst rument used to measure t he volume
+ of air t hat ent ers and leaves the lungs during breat hing. In an
+ experiment. a man was at rest for one minute and then exercised
+ for one minute. Hi s rate of breat hing was recorded in Figure 7.24.
+
+ (a) How many breaths per minut e was t he man taking w hile at rest?
+ (bl How m uch air was taken into hi s lungs during t he one-minute
+ rest?
+ (c) What changes t ook place in h is breathing during exerci se?
+ (d) Which part of the graph, A or B, represent s expirat ion?
+
+ Volume of air/ dm3
+
+ s
+ 4
+
+ 3
+
+ 2
+
+Link
+Theory Workbook 30 60 60 120
+ Worksheet 7D Figure 7.24
+
+146
+
+ Respiratio n in Humans I Chapter 7
+
+7 .4 What Effects Does Tobacco
+Smoke Have on Human Health?
+Learni ng Outcome
+ Stat e the maj or toxic components of t obacco smoke - nicotine, tar and carbon monoxide,
+ and describe t heir effects on healt h.
+
+Cigarette manufacturers used to spend a huge amount of money for cigarette
+advertisement on media such as TV and billboards. They paid powerful
+influencers such as celebrit ies to show how smoking was cool and t rendy. Today,
+we hardly see any cigarette advertisement s. What has changed? As more and
+more medical evidence emerged to show the harmf ul effects of smoking on
+health, restrictions were imposed over the last 50 years. In Singapore, smoking is
+banned in most public spaces and forbidden for those under a certain age limit.
+Instead of cigarette advertisements, you will see more quit-smoking campaigns.
+Why is smoking now considered bad?
+
+Tobacco smoke contains more than 4000 chemicals, mo st of which are harmful
+t o t he body. Figure 7.25 list s some of t he components t hat have been linked to
+health p roblems.
+
+ It increases heartbeat rate and blood pressure.
+ It increases the risk of blood d ots in the arteries, which leads to
+ increased risk of coronary heart disease.
+ >---e Nicot ine It increases the risk of arteries to narrow.
+ - In a pregnant mother, narrow art eries decrease the amount
+ of food substances reaching the fetus, thereby affecting fe tal
+ development and may cause miscarriage.
+
+ It reduces the ability of blood to tran sport oxygen as carbon
+ monoxide binds permane ntly with haemoglobin. Thus, there
+ 1 - - - e Carbo n will be less haemoglobin available to t ransport oxygen.
+ monoxide - In a pregnant mothe r, less oxygen reaches the fetus through
+ t he placenta which may affect fetal development.
+ It increases the risk of coronary heart disease.
+
+ ar
+ l It increases the risk of cancer in the lungs as tar can cause
+ uncont rolled cell divisio n.
+ It increases the risks of c hronic bronchitis and emphysema.
+ - Tar pa ralyses t he cilia lining the air passages. Hence, dust
+ particles trapped in the mucus lining cannot be removed.
+
+ Figure 7.25 Chemicals in tobacco smoke and their harmful effects
+
+ 147
+
+Chapter 7 I The Human Body - Maintaining Life
+
+ What Diseases Are Caused by Tobacco Smoke?
+ Frequent exposure t o tobacco smok.e increases t he risk of a person getting
+ di seases of the respiratory syst em, such as chronic bronchit is, emphysema
+ and lung cancer. The World Health Organisation (WHO) est imates that
+ more than 8 million people die each year due t o t obacco use.
+
+ Chronic Bronchitis
+ Prolonged exposure to irritant particles that are found in tobacco
+ smoke may cause chronic bronchit is. In chronic bronchiti.s:
+ • The epit helium lining of t he air passages (airways), for example,
+ t he bronchi, becomes inf lamed.
+ • Excessive mucus is secret ed by t he epithelium.
+ • The cilia on t he epit helium are paralysed. Mucus and dust
+ part icles cannot be removed.
+ • The air passages become blocked,. making breat hing difficult.
+ • In order t o breat he, persist ent coughing occurs to clear the
+ air passages (Figure 7.26). This increases t he risk of getting
+ lung infect ions.
+
+ Figur& 7.26
+ Emphysema Chronic bronchitis
+ Persistent and violent coughing due t o bronchit i s may lead t o may ca use a
+ emphysema. In emphysema: smoker to cough
+ • The partition walls between t he al veoli break down due t o persist ent persistently.
+ and violent coughing (Figure 7.27) .
+ • This results in a decreased surface area for gaseous exchange.
+ • The lungs lose t heir elast icity and !become inflated wit h air.
+ • Breat hing becomes difficult. Wheezing and severe breat hlessness result.
+
+ When a person has chronic bronchit i s and emphysema, he is said t o suffer
+
+ wal(s
+ ben'lleen a,r
+ !.aCS (alveoli)
+ O
+ from chronic obstructive lung disea se,
+
+ partition ----+- da,nagc
+ W!II
+ par1itioo
+ .
+ dD
+ {
+ •
+ ••
+
+ Healthy lung Damaged lung
+ figure 7.27 Diagram showing a healthy lung damaged by emphysema
+
+ Lung Ca ncer
+ Studies have shown that t he risk of I ung cancer increases when
+ a person smokes tobacco. Figure 728 shows t he lungs of a smoker
+ compared to a pair of healt hy lungs. According to t he Singapore Health
+ Promotion Soard, smoking-related di~ases in Singapore alone accounts
+ for about seven premature deaths each day.
+
+ figure 7.28
+ Cancer is the uncontrolled division of cells produdng outgrowths or lumps
+ Healthy lungs
+ of tissues. Apart from lung cancer, smoking also increases t he risk of {top ) and
+ cancers of the mouth, t hroat pancreas, kidneys and urinary bladder. smoker's lun gs
+ {bottom)
+Link et's Practise 7 .4
+
+ C
+Theory Workbook (a) Name t hree harmful chemica ls found in cigarette smoke.
+ Worksheet 7E (bl State t he effects of t hese chemicals on the body.
+ Describe how smoking can lead t o chronic bronchitis.
+
+148
+
+ Respiration in Humans I Chapter 7
+
+Let's Map It
+
+ ENERGY
+ lactic
+ add
+
+ Involves the breakdown of
+ food m olecules to release energy
+ glucose
+ Occurs in livin g cells
+ Involves enzyimes
+
+ C(>Hl20 (> + 6 0 2 canoccuros
+ ,'----------'--------
+ Aerobic r espiration Anaerobic respiration
+ glucose + oxygen _.,. carbon dioxide+ water glucose _.. lactic acid
+ C,H.,06 + 60, -+ 6CO, + 6H,0 • Oxygen is n ot required
+ , Oxygen is required • Small amount of energy is released
+ • Large am oun t o f en ergy is released • Lactic acid is produced in humans
+ • carbon dioxide and water are produced
+
+ wpported/!j
+
+ Breathing mechanism in humans
+
+ invotves
+
+ ln,plratlon (Inhalation) Expiration (Exhalation)
+ • External intercostal muscles contract, • Internal lntercostal muscles contract,
+ internal intercostal muscles relax external intercostal m uscles relax
+ • Ribs move upwards and outwards • Ribs move downwards and Inwards
+ , Diaphragm contracts and flattens • Diaphragm relaxes an d arches upwards
+ • Volume of th orax in creases , Volume of thorax decreases
+ • Air pressure in lungs decreases • Air pressure in lungs increases
+ • Air enters the lungs , Air Is forced out of the lungs
+
+ lead to
+
+isoffroed Gas exchange
+ , Oxygen dissolves in the film of moisture covering the alveolar wall
+ "" • Dissolved oxygen diffuses into the blood capillaries
+ , carbon dioxide diffuses from blood Into the alveolar cavity
+
+ in<:reases
+ contains • Nicotine risk of • Chronic bron chitis
+ 1 - - -.----1 • Carbon monoxide t - --+---1 , Emphysema
+ • Tar • Lun g cancer
+
+ 149
+
+Chapter 7 I The Human Body - Maintaining Life
+
+.. Let's Review
+
+ Section A: M ult iple-choice Quest ions
+
+ 1 Which changes occur in t he blood
+ 3 Figure 7.29 shows part of the respiratory
+ system.
+
+ as it f lows through muscles during a A
+ vigorous activ ity?
+ bfan-ch of the
+ ~','l!,.--- pulmooary
+ I
+ 0 A
+ Blood
+ Tern erature
+ Increases
+ Conc,mtration of
+ Lactic Acid in Blood
+ Increases
+ vein
+
+ Increases Decreases B
+
+ §~ Oecrea.ses
+ Decreases
+ Increases
+ Decreases
+
+ 2 When a person is rest ing, the amount of
+ oxygen in his expired air is Figure 7.29
+ (a) Name t he structures labelled A, B
+
+ § A~ higher than that in his inspired air.
+ lower t han that in his inspired air.
+ higher than that in his expired air
+ when he is exercising.
+ and C.
+ (bl What is the difference in t he
+ amount of
+ (I) carbon dioxide,
+ Qo the same as the amount of oxygen (II) oxygen
+ in the air. in the blood at X as compared to Y?
+
+ Section B: Structured Questions Section C: Free-response Quest ions
+ 1 (a) Stat e t wo sim ilarities between 1 What do you underst and by t he
+ aerobic and anaerobic respiration. t erm oxygen debt?
+ (b) State three differences between
+ aerobic and anaerobic respiration. 2 In what ways are the lungs adapted for
+ t he efficient absorption of oxygen?
+ 2 (a) During a 100 m race, the energy
+ that t he at hlete uses comes from 3 How does expired air differ from
+ bot h aerobic and anaerobic inspired air? Suggest reasons for the
+ respiration. Explain why. differences.
+ (bl Write down the word equation for
+ anaerobic respiration in muscles. 4 Suggest reasons why gas exchange is
+ less efficient in the lungs of a person
+ w it h emphysema.
+ j
+
+150
+
+CHAPTER
+
+ Excretion in
+ Humans
+ WhatYou
+ Will Learn
+
+ • Why is eJ«:retion
+ necessary?
+ • What makes up the
+ human urinary system?
+ • How is urine formed?
+ • What is
+ osmoregulation?
+ • What happens when
+ the kidneys fail?
+
+ 15 1
+
+=== SOURCE: Biology Matters ch.8 ===
+Chapter 8 I The Human Body - Maintaining Life
+
+ 8.1 Why Is Excretion Necessary?
+ Learning Out come
+ Define excretion and explain the im portance of removing nit rogenous and other
+ compounds from the body.
+
+ Every day, we consume different kinds of foods. Some substances in these foods are useful
+ and get absorbed into our bodies, while ot hers are not needed. What happens t o t hose
+ substances t hat are not useful?
+
+ Numerous chemical activities occur within our body cells all the t ime. These are called
+ metabollc activities. Some metabol ic activities produce substances t hat are harmf u l or toxic
+ to our bodies. They are called metabollc waste products or excretory products-These,
+ together wit h any ot her subst ances t hat are not needed, have to be removed. How do our
+ bodies get rid of t hem?
+
+ What Are Some Metabolic Waste Products?
+ Carbon Dioxide
+ Carbon dioxide is a product of aerob ic respiration. The carbon dioxide level in our blood
+ is usually not harmful. However, in ce rt ain cases w hen t here is an abnormally high level of
+ carbon dioxide in t he blood, a condi tion called hypercarbia occurs. The person may suffer
+ from headache, confusion, rapid breat hing and premature heartbeats.
+
+ Urea
+ How Is urea produced?
+ You have learnt that the digestive system breaks down proteins into amino acids. Absorbed
+ amino acids are transported to the liver, distributed round t he body and t hen assimilated.
+ Link
+ The liver is involved in t he assimilat ion of amino acids. It uses amino acids t o synt hesise t he
+ Recall the role or the liver proteins found in blood plasma. These plasma proteins include fibrinogen, w hich is essential
+ in urea formation and
+ for the clotting of blood.
+ deaminalion which you
+ have learnt in Chapter 5.
+ If we consume more proteins t han w e need, we will have excess amino acids in the blood.
+ Excess amino acids are t ransported t o t he liver w here t hey are deamlnated t hrough a process
+ called deamlnatl on. During deaminat ion, part of t he amino acid molecule is removed and
+ converted to urea. Urea is then removed by t he kidneys.
+
+ l.s urea In t he blood harmful?
+ Urea is a waste product
+ formed from the breakdown
+ of proteins (Fig ure 8.1).
+ Normally t he concentration
+ of urea in the blood is not
+ harmful. However, abnormally
+ high urea concentration in the
+ blood may cause abdominal
+ pain, nausea or vomiting. In
+ rare cases, it can even result
+ in an irregular heart beat and
+ muscle cramps. Figure 8.1 Eating too much meat which is high in protein.
+ can increase the concentration of urea in the blood.
+
+152
+
+ Excretion in Humans I Chapter 8
+
+ M ineral Sa lts or Ions
+ Our bodies need mineral salts. Deficiency of cert ain ions may result in
+ defici ency diseases, for example, a lack of calcium can result in weakening
+ of t he bones or ost eoporosi s. Why, thern, must our kidneys remove ions? Won! Alert
+ Deficiency: not
+ Excess salts or ions in t he blood can be harmful. They may lower the having enough
+ wat er potential in the blood plasma, i.e. make the blood plasma more
+ concent rated. Wat er may pass out of the t issue cell.s int o the blood by
+ osmosi s. The cells may become dehydrated. The kidneys help to remove
+ excess salt s from the body.
+
+ So even if the chemicals are useful to our bodies,
+ ...
+ they may be harmful if they are in excess of
+ the body's requirements.
+
+ Water
+ Water is essential to life. It
+ is produced during aerobic
+ respiration. Hence, it i s also a
+ metabolic product.
+
+ However, excess wat er in the body
+ is harmful. It w ill increase t he water
+ potential in the blood plasma. By
+ osmosi s, wat er will ent er the tissue
+ cell s. The cell s may swell and burst . Hernce, Figure 8.2 These foods contain mineral salts such
+ excess wat er in the body has to be removed. as calcium, iron, potassium, zinc and magnesium.
+ Excess mineral salts in the body can be harmful
+ and needs to be removed.
+
+ What Is Excretion?
+► Excret ion is t he removal of met abolic w aste product s, toxic subst ances
+ and subst ances in excess of t he body's requirements.
+
+ The lungs excrete carbon dioxide. The k idneys excret e urea and excess
+ salts and water. Organs involved in excretion are shown in Table 8.1.
+
+ Table 8.1 Main excretory products and their excretory organs
+
+ Exaetory Products Exaetory Organs ExaetedAs
+ Carbon dioxide Lungs Gas in expired air
+ Excess mineral salts Kidneys Constituent of urine
+ Skin Constituent of sweat
+ Excess water Kidneys Constituent of urine
+ Skin Constituent of sweat
+ Urea Kidneys Constituent of urine
+ Skin Constituent (traces) in sweat
+
+ 153
+
+Chapter 8 I The Human Body - Maintaining Life
+
+ Why Is Excretion Important?
+ The body excretes metabolic wast e p rod ucts (e.g. urea) and toxic
+ subst ances so that they do not accumulate to a level that becomes harmful
+ to the body.
+
+ You have learnt that certain waste products in the body are removed
+ through sweat. Sweat may lead to an unpleasant body odour. Some
+ people use an antiperspirant, which is a chemical that reduces sweating.
+ Antiperspirant that contains aluminium blocks the sweat ducts and reduces
+ the amount of sweat that reaches t he skin surface.
+
+ Should we use antiperspirants when we are exerci sing? Figure 8.3 shows
+ three people giv ing their views on t hi s. Evaluate the view of each person.
+ Discuss your vi ews with your friends and see if you can reach a conclusion.
+ How can you design investigations t o find out which viewpoint is the
+ most accurate?
+
+ I don't think the
+ I'm not so worried Issue here Is about removing
+ Antfpersplront Ifsweat does not come out
+ excess water through sweat, especially
+ prevents the sweat from my onnptts.. As long as If we con exercise In a cool place like on
+ glands from producing It comes out elsewhere, It should be air-conditioned gym or during the
+ sweat Thei,efore, I should not fine to apply some antiperspirant on
+ night. It Is not being able to
+ use It when I om exercising. the armpits. Th/$ con prevent
+ remove toxins through sweat
+ Otherwise, my bodyw/11 body odour from forming that worries me,
+ Ollerheot. ofterI exercise!
+
+ GD
+ ..
+ Recall the ro le
+ of sweat in
+ excretion.
+ Sweat helps our
+ bodies to lose
+ heat when it
+ evaporates from
+ the skin.
+ Consider w hat
+ would happ,en if
+ the production
+ of sweat
+ decreases.
+
+ F"1gure 8.3 Three people are giving their views on the use of antiperspirants.. Comment on their views.
+
+ Let's Practise 8.1
+ 1 (a) State what you understand by each of the following terms:
+ (I) metabolic waste products
+ (11) excretion
+ (b) Give two examples of excretion, and for each, state the
+ excretory products.
+
+154
+
+ Excretion in Humans I Chapter 8
+
+8.2 What Makes Up the Human
+Urinar S stem?
+Lea rning Outcome
+• Ident ify the kidneys, ureter, bladder and urethra and state their functions in excret ion.
+
+There is an old saying ' when you gotta go, you gotta go: ireferring to the periodic need to go
+to the toilet to relieve ourselves. The feeling of urgency when looking for a toilet is familiar to
+us all. Whil e we have learnt that urine is a means of flushing out waste products and excess
+substances from the body, how does the human body gather all these and concentrate t hem
+to produce urine?
+
+The human urinary system consists of a pair of kidneys, a pair of ureters, a urinary bladder
+and the urethra (Figure 8.4).
+
+ G) The kidneys are bean-shaped organs that are embedded In a mass of fat In the abdominal cavity. The
+ average size of a human kidney Is 10 to 13 cm long and about 5 to 7 cm wide. The kidneys lieJust above
+ the waistline. The left kidney Isslightly higher than tile right kidney. The main funCtlon of the kidneys Is
+ to excrete urea and excess salt and water as urine.
+
+ lert,e-nala,tery - 1 - - - - - - - - - - ,
+
+ left renat vein _ ...,__ _ _ _ _ _ _~ @The ureter Isanarrow tube that<onnects
+ 0 the kidney to tile urinary bladder. Urine
+ from each kidney passes through, the ureter
+ inferior vena cava - -+- - - - - -11 to the urinary bladder.
+ aort•---it - - - - - - -t
+ G) The urinary bladder Isan elastic muscular bag
+ right ren.al artery ---.c__ located In front of the rectum. It stores urine.
+ right renal vein - --f---,
+ 0 right kid ney - +-- @ The urethra Istile duct through which urine
+ passes from the bladder to outside of the body.
+
+ Disciplinary Idea
+ System
+ the human urinary
+ system consists of different
+ parts worl<ing together lo
+ remove waste products.
+ toxic substances and
+ subst..ances in excess of the
+ body:S requirements from
+ the body.
+ figure 8.4 Human urinary system
+
+ 155
+
+Chapter 8 I The Human Body - Maintaining Life
+
+ Structure of the Kidney
+ Figure 8.5 shows the structure of the human kidney. If a kidney is dissected
+ longitudinally, an outer dark red region and an inner pale red region are
+ visible. Inside the kidney, t here are n umerous nephrons. Nephrons are t he
+ basic functional units of the kidney. They are tiny kidney tubules where
+ urine is formed. The kidney is conne-cted to the ureter, which drains t he
+ urine into t he urinary bladder for removal,
+
+ nephron
+ (not accotding
+ to scale}
+
+ outer region
+ {durk,cd) ~n.alvein
+
+ inner region
+ (p,_lere<!)
+
+ ureter
+
+ Link
+ Practical Workbook
+ Experiment SA
+ Figure 8.5 Diagram of a section through a kidney showing the regions and the position of a nephron
+
+156
+
+ Excretion in Humans I Chapter 8
+
+ Structure of a Nephron
+ The four main parts of a nephron are: the Bowman's capsule, proximal
+ (first) convoluted tubule, loop of Henle, and distal (second/ convoluted tubule
+ (Figure 8.6). Several nephrons open into a tube called t he collecting duct. Word Alert
+ Convoluted: highly coiled,
+ folded, twisted
+ © Bowman's capsule © Distal (second} convoluted tubule
+ Each nephron begins In the outer region When the tubule enters the Inner
+ of the kidney as a cup~lke structure region of the kidney again, It
+ called the Bowman's capsule. becomes convoluted again. This part
+ of the tubule Iscalled the distal
+ @ Proximal (first) convoluted tubule (second) convoluted tubule.
+ The capsule leads Into a short, convoluted
+ tubule, which straightens out as It passes © Collecting duct
+ Into the Inner region of the kidney. The The tubule then opens Into a
+ convoluted part of the tubule Iscalled the collecung duct that runs straight
+ proximal lflrstJ convoluted tubule. through the Inner region. It
+ eventually opens Into a funnel-like
+ space that leads to the ureter.
+ @ Loop of Henl~
+ In the Inner region of the kidney, the
+ tubule extends further Jn and makes
+ a U-turn back Into the outer region.
+ The U-shaped portion of the tubule
+ Is known as the loop of HenI~.
+
+ branch of renal artery
+
+ glomerulus
+
+ Disciplinary Idea
+ Structure and
+ Function
+ l'he S'trudure o( the
+ inner region nephron is designed to
+ fdter .excretory waste
+ products such as urea and
+ allow- reabsorption
+ of nutrients..
+
+@ proximal (flrst) @ loop ofHenl~
+ c·onvoluted tubule © coUecting duct
+ @ dis tal (second)
+ convolute tubule
+
+ figure 8.6 Section of kidney showing the complete structure of
+ two nephrons and the arterial supply (LS.)
+
+ 157
+
+Chapter 8 I The Human Body - Maintaining Life
+
+ Blood Capillaries Around the Nephron
+ Blood enters the kidney by the renal artery and leaves the kidney by the
+ renal vein. Nephrons in the kidney are surrounded by blood vessels that are
+ Link connected to the renal artery and renal vein (Figure 8.7).
+ Recall what you ha,•e learnt
+ about arteries. veins and @ ef"erent
+ capillaries in Chapter 6. arteriole
+
+ Bowman's capsule
+
+ distal (second)
+ convoluted tubule
+
+ proximal (first}
+ convoluted tubule
+
+ © blood c:apfll:irles
+
+ outer region
+
+ branch of inner r~ion
+ renal arlc.-ry
+
+ ----+
+
+ branch of
+ renal vein
+
+ - ~ - - - collecting duct
+
+ 1
+ G) A small branch of @ The glomerulus © An efferent © The blooo
+ the renal artery 1sa knot of blood art eriole transports continues Into the
+ called the afferent capillaries In the blood away from the blood caplllarles
+ arteriole earlies Bowman's capsule. glomerulus. surroundIng the
+ blood Into the nephron. These blood
+ glomerulus. caplllarles eventually
+ lead Into a branch of a
+ Figure 8.7 Diagram of a nephron or kidney tubule with its blood supply the renal vein.
+
+158
+
+ Excretion in Humans I Chapter 8
+
+Let's Practise 8 .2
+1 Figure 8.8 shows a section of a kidney. C
+ (a) Name t he part s labelled A-0.
+ (b ) State the function of D.
+ Link
+ Theory Workbook
+ figure 8.8 Section of a kidney Worksheet SA
+
+8.3 How Is Urine Formed?
+Learning Outcome
+• Outline the f unction of t he nephron wit h reference to ultrafilt ration and
+ select ive reabsorpt ion in the production of urine.
+
+The urine t hat comes out from our bodi es may vary in colour. Sometimes
+it is dark yellow, and sometimes paler and almost colourless. After eating
+certain foods, our urine can be very dark or pa rticularly pungent. Urine can
+be t est ed to detect certain medical conditions. What is in urine and what
+affects its composit ion?
+
+Urine format ion involves two main processes: ultrafiltration and
+selective reabsorption.
+
+Ultrafiltration ~
+The first stage in urine formation is ult raflltratlon. It involves Word Alert
+the following: Filtrate: liquid that has
+• The afferent arteriole being wider than the efferent art eriole creates a pas.sed through a fdler
+ high blood pressure in t he glomerulus. lmpe:nneable: nol
+• Blood pl asma is forced out of t he glomerular blood capillaries into the permeable; does not
+ allow-subMances to
+ Bowman's capsule.
+ pass lihrough
+• The filt ered blood plasma is known as the glomerular filt rate. It contains
+ small, soluble molecules (e.g. salts, wat er, glucose, amino acids and wast e
+ products such as urea) that are forced out into the Bowman's capsule.
+
+How Is t he Glomerulus Suited to Urine Formation?
+• The glomerulus is a knot or network of blood capil laries
+ (Figure 8.9). These provide a large surface area for t he
+ filtrat ion process.
+• The blood capillaries have wall s one-cell thick. There
+ are t iny pores in the capillary wall.
+• The blood capillaries are covered by a thin partially
+ permeable membrane. It only allows very small
+ soluble molecules or ions to pass through. It is
+ impermeable to blood cells, plat elet s and large
+ mol ecules such as proteins.
+
+ Figure 8.9 Electron micrograph of a glomerulus
+
+Chapter 8 I The Human Body - Maintaining Life
+
+ Figure 8.10 shows how the glomerulus filters blood to form urine.
+ wider afferent atteriole
+ carrying blood into
+ efferent arteriole ,carrying blood
+ the g lomerulus away fro,n the glomeru!us thin., partially
+ perme-abfe mtmbrane
+ ~
+
+ wa l oflhc
+ glome,vhu
+ capillary
+
+ pores of the glomerular
+ blood capillary
+ Bowman's
+ capsule Note: Tile thin, partially permeable
+ mffl'tbrane wraps around the
+ glomerular blood capillary.
+
+ (3) Ultrafiltration in the glomerutus (b) L5 . of• part of the glomerular blood capillary
+
+ figure 8.10 The glomerulus filters blood to form urine.
+
+ Selective Reabsorption
+ In a norma l ad ult, about 120 cm' of g lomerular filtrate i.s formed in the
+ kidneys every minute. If this amount of filtrate were allowed to pass out as
+ urine, t he body would lose too much water and other useful substances.
+ The body would soon be dehydrated.
+ blood containing
+ Thus, as the glomerular metabolic waste
+ filtrate passes along the products from the
+ r enal artery
+ nephron, useful substances
+ are reabsorbed into the
+ surrounding blood capillaries.
+ Link
+ This process is called Bowman's
+ In actiYe transport. I.be capsule
+ protein pwnp in the cell
+ selective reabsorptlon
+ because only substances
+ membrane uses energy
+ from respiration to absorb that the body requires are Ultraflltratlon
+
+ subMances against a reabsorbed. In this process,
+ concentration gractienL the following occurs:
+ Recall what you have Most of t he water i.s
+ learnt in Chapter 2. reabsorbed by osmosis. Selectfve
+ Some salts are reabsorbed reabsorpdon
+ by active transport.
+ All the glucose and amino
+ flowofblood ➔
+ acids are reabsorbed by in the ,aipillaries
+ active t ranspo rt.
+ flow of reabso,bed ➔
+ pu1ilied
+ Waste products such as blood to the svbstances
+ renal vein
+ urea and excess water and
+ mineral salts are passed out
+ of the nephron as urine. Figure 8.11 Overview of urine formation
+
+160
+
+ Excretion in Humans I Chapter 8
+
+ Figure 8.12 shows the different substanc es that are reabsorbed along the
+ different parts of the nephron.
+
+ © DI.stal convoluted tubule
+ • So1111e water Is reabsorbed by osmosis.
+ • Some mineral salts are reabsorbed by
+ active transport.
+
+© Proximal
+ convoluted
+ tubule
+ • Most of the
+ water Is
+ reabsorbed by
+ osmosis.
+ • All oftlle
+ glucose and
+ amino acids are
+ reabsorbed by
+ active transport.
+ • Most mineral © Collecting
+ salts aire duct
+ reabsorbed by Reabsorbs
+ diffusion and some water
+ by osmosis
+
+ now ofblood ➔
+ in the capillaries
+
+ flow of reabsorbed ➔
+
+ r
+ substances
+
+ @ Loop of Henl~ Helpful Note
+ • Some water Is reabsorbed by osmosis. The concentration of urea
+ • Some mineral salts are reabsorbed by active transport. in the filtrate increases
+ as it moves through
+ the nephron.
+ Figure 8.12 Selective reabsorptiion along the nephron
+
+ 16 1
+
+Chapter 8 I The Human Body - Maintaining Life
+
+ Let's Investigate 8.1
+ The blood pressure in t he glomerulus needs t o be high in order t o filter
+ t he blood.
+
+ How do t he differing diameters of the afferent and efferent art erioles
+ increase the blood pressure in t he gnomerulus? Think of an analogy t o
+ show t his.
+
+ C8 You may want to use a pipe and a hose.
+
+ Past to Present
+ Did you know that urine was the primary way to diagnose patients from anc.ienl
+ times until the Victorian era? The study of urine began more than 6000 years ago.
+ when Babylonian and Egyptian physicians examined the "divine fluid'. The Greek
+ physician, Hippocrates, knew that the kidneys mter blood buLdid noLqui le know
+ how. Uwas on)y till six centuries later. that Galen from Rome determined urine as
+ a filtrate of the blood.
+ --
+ ::.:::.:.. -
+ In the 7th century, a physician by the name of Theophilus Prolospatharius
+ ~--- ~-
+ -= ~
+ performed the fml laboratory technique on urine1 boiling it to precipitate excess
+ proteins. From the J 7th century. scientists started lo conduct chemical tests to
+ identify the urin,e from healthy and ill individuals. In the early 19th ceolwy,
+ - ~~
+ _
+ - .... ::-....
+ :.::::..-.
+ .;:...
+
+ --
+ - g-
+ scientists developed new methods to study urine samples. These included the use
+ of yeast fermentation to detect the pre.sence of sugar in blood, and methods lo
+ detect the presence o( some types of bacteria which commonly caused urinary
+ tract infectjons.
+
+ Over the years. urine continues to be used by physicians who conduct chemical F"1gure 8.13 Urine samples are often taken from
+ tests and study oells aod microbes in urine samples Lo underslaod the health patients for laboratory tests to determine the health
+ of patieots. conditions of the patie nt.
+
+ Let's Practise 8.3
+ 1 (a) Name one substance in the blood plasma t hat does not
+ pass out of the glomerulus.
+ (b) (I) Name t wo subst ances in t he
+ blood plasma t hat pass out of t he
+ glomerulus into the Bowman's
+ capsule, but are normally absent
+ B
+ from the urine in humans.
+ (II) What happens t o t hese two
+ Link substances at the nephron?
+ 2 Refer t o Figure 8.14. St ate t wo differences
+ Theory Workbook betw een t he blood in A and 8. Figure 8.14 Section of a kidney
+ Worl<sheel SB
+
+162
+
+ Excretion in Humans I Chapter 8
+
+ 8.4 What Is Osmoregulation?
+ Disciplinary Idea
+ Lea rni ng Outcome Homeostasis,
+ • Outlin e the role of antidiuret ic hormone (ADH) in osmoreg ulation. Coordination and
+ Response
+ Changes in the amount o(
+ Do fish produce urine? Yes, they do. Fish, like humans, have kidneys. The amount of urine water and solutes in the
+ produced depends on whet her t he fish lives in fresh wat er or sea water. Freshwat er fish body above or below the
+ produce a larger volume of urine than seawater fish. Why is t his so? normal level are detected
+ Through osmoregulation,
+ How much water needs to be excret ed f rom the body i s controlled by a process known the body will adjust lo
+ as osmoregulation. bring them back lo the
+ normal level, thus keeping
+ the water potential o( the
+► Osmor,e gulatlon is the cont rol of water pot ential and .solute concent rat ion (level) in t he
+ body constanL
+ blood to maintain a constant water potential in the bod y.
+
+ The water potential of t he blood in the body has t o be kept relatively constant. This is
+ becaus-e drastic changes in t he wat er potential of the b lood can result in serious problems.
+ For exa.mple, if t he blood plasma becomes t oo diluted, water will enter t he blood cells
+ by osmosis. The blood cells will swell and possibly burst. The ti.ssue cell.swill also swell
+ ~
+ becaus-e water from the blood plasma will move into the cells.
+ Link
+ Osmoregu)ation is an
+ example of homeostasis
+ On t he ot her hand, if t he blood plasma becomes too concentrated, water w ill move out of
+ - the maintenance
+ the ceU:s by osmosis. The blood cells and tissue cell swill become dehydrated and shrink. of a oonstanl internal
+ They will t hen not be able t o carry out their metabolic 'functions properly. In severe cases, environment within an
+ t his may be fat al t o t he organism. organism. Learn more
+ about homeostasis and
+ The water potential of the blood depends on the amount of water and mineral salt s in hormones in Chapter 9.
+ the blood plasma. The amount of water in t he blood plasma is controlled by antldluretlc
+ hormone CAOH). ADH is produced by a region of t he brain called t he hypothalamus. It is
+ released by t he pit uit ar y gland and increases water reabsorpt ion at t he nephrons.
+
+ How Do Kidneys Help to Regulate the Water Potential
+ of Blood? Wont Alert
+ Antidiuretic: reducing
+ The kid neys are called o smoregulat ors because t hey help to regulate the wat er potential
+ urinatio n
+ and solute concentrat ion in the blood. The regulat ion of water potential in the body is
+ summarised in Figure 8.15.
+
+Chapter 8 I The Human Body - Maintaining Life
+
+ loss of water Large intake of water
+ (e.g. through sweating) G) (e.g. drinking)
+
+ "-
+ water potential of blood
+ plasma decreases
+ Hypothalamus
+ in the brain I
+ water potential of blood
+ plasma Increases
+
+ brain
+
+ Pituitary gland releases Pituitary gland releases
+ more ADH into bloodstream less ADH into bloodstream
+
+ l hypothalamus
+
+ Cells in the walls of the collecting ducts
+ become more permeable to water
+ l
+ Cells in the walls of the collecting ducts
+ become less permeable to water
+ More water reabsorbed from the collecting Less water reabsorbed from the collecting
+ duct into the blood capillaries duct into the blood capillaries
+
+ \
+ Smaller volume of urine produced
+ Urine produced Is more concentrated
+ /
+ larger volume of urine produced
+ Urine produced is more diluted
+
+ '-------. Water potential
+ of blood returns ~
+ to normal
+ Disciplinary Idea
+ System figure 8.1S Osmoregulation in humans - how waterpotential of blood is kept
+ l'hekidneys work together constant when (1) there isloss of water and (2) there is a large intake of water
+ with the brain and
+ pituitary gland l o ensure
+ that the water potent ial of Let's Practise 8.4
+ cells is maintained. 1 Suggest how a large amount of sa It in the diet leads to an increase in
+ blood pressure.
+ 2 Drinking t oo much alcohol is bad for your healt h. One unpleasant
+ effect of drinking too much alcoho l is having a hangover. Some of its
+ symptoms are the results of dehydration rather than the direct effects
+ of t he alcohol itself. Alcohol cause-s dehydrat ion, because it reduces
+ the production of ADH.
+ Link (a) Why does t he reduced production of ADH result in dehydration?
+ (b) Would t he urine of a person wit h a hangover be dilute or
+ Theory Workbook concent rated?
+ Worl<sheet SC
+
+164
+
+ Excretion in Humans I Chapter 8
+
+8.5 What Happens When the
+Kidneys Fail?
+Lea rning Outcome
+• Outlin e the mechanism of dialysis in the case of kidney failure.
+
+You may know someone who has to undergo dialysi s every week, or
+someon e who needs a kidney t ransplant. Most people w ho suffer from
+kidney failure depend on dialysis for t he rest of t heir lives. This can be
+very costly.
+
+Why Are the Kidneys Important?
+• The kidneys are excretory organs.
+ They play an important role in excreting metabolic waste product s, such
+ as urea and excess wat er and m ineral salts, in t he form of urine. Link
+ Find o ut more about how
+ the kidneys function
+· The kidneys are osmoreg ulators. as osmoregulators in
+ They regu late the solute concentration and water potential in the blood,
+ Chapter 9.
+ t hereby maint aining a constant wat er potential in t he blood.
+
+What Causes the Kidneys to Fail?
+Common causes of kidney failure include:
+• high !b lood pressure
+• diabetes
+• alcoh ol abuse (constant heavy drinking)
+• severe accident s that physically damage the kidney
+• complications from undergoing maj or surgery
+
+If one k idney fails to function, a person can stil l lead a
+normal life wit h the other kidney. However, if both kidneys
+fail t o fu nction, a person will die unless prompt medical
+ i7
+treat ment is given.
+
+Pat ients w ith kidney failure may get a kidney
+transplant. A donor wit h two healthy kidneys may
+donate one kidney and surv ive w ith the remaining
+kidney. If a donor kidney is not available, the patient
+can be t reated w ith dialysis using a d lalysls
+machin e. A dialysis machine mimics the functions
+of a kid ney. It helps t o clean t he patient 's blood f rom
+met abolic wast e products and toxins.
+
+In order for the t reatment t o be effective, t he
+pat ient needs to undergo dialysis 2-3 times a week.
+Each dialysis session lasts about 3-5 hours, depending
+on the p atient 's body size and medical condit ion.
+
+ 165
+
+Chapter 8 I The Human Body - Maintaining Life
+
+ How Does a Dialysis Machine Work?
+ Figure 8.16 shows how a dialysis machine works.
+ fist\l la
+
+ © The filtered blood is
+ then returned to a vein
+ in the patient's arm.
+
+ +----
+ l d ialysis tubing
+ filtered blood - - -
+ G) Blood is drawn
+ from the vein in
+ the patie-nt's arm spPnt (used) :iii'ttysis fluid
+ and is allowed to
+ be pumi>ed t hrough
+ lhe lubing in lhe
+ +----
+ dialysis machine.
+
+ 1 pump
+
+ @ The tubing Is bathed ----+ @ Small mol ecules
+ in a specially controlled
+ dialysis fluid. The walls such as urea and
+ of the tubing In the other metabolic
+ dialysis machine are waste products
+ partially permeable. diffuse out of the
+ +---- tubing into the
+
+ dfalysismachine
+ fresh dla'ysis fluid
+ i dialysis fluid.
+ Blood cells, platelets
+ and large molecules
+ such as proteins
+ remain In the tubing.
+
+ figure 8.16 How a dialysis machine works
+
+ Helpful Note
+ A fistula is a direct connection o( an artery to a vein. Uis usually inserted
+ into the forearm via a minor surg·ery. Blood pressure in the artery is higher
+ than in the vein. As more blood at higher pressure flows into the vein, lhe
+ vein becomes larger and stronger over time. Increased blood tlow through
+ the vein allows a greater amoonl or blood to pass through the dialysis
+ machine. This allows filtration lo occur at a pace that enables all the blood
+ lo be filtered in a shorler period o( time.
+ F"tgure 8.17 Patie nt undergoing dialysis
+
+166
+
+ Excretion in Humans I Chapter 8
+
+ What Are th e Features of a Dialysis Machine?
+ • The d ialysis fluid contains t he same concentrat ion of essential
+ substances as healthy blood.
+ This ensures that essential subst ances (such as glucose, amino acids and
+ m ineral salt s) do not diffuse out of the blood and into the dialysis fluid.
+ Furthermore, if the patient's blood lacks these essential subst ances, these
+ subst ances w ill diffuse from the dialysi s fluid into the blood.
+
+ • The d ialysis fluid does not contain m etabolic waste products.
+ This sets up a concent ration gradient that allows wast e products, such
+ as urea, and excess water and mineral salt s, to diffuse out of the t ubing
+ into the dialysis fluid. The waste prod ucts are removed from the blood.
+ This maint ains the correct solute composition and water pot ential of
+ the blood.
+
+ • The tubing In the mach ine Is narrow, long and coiled.
+ This increases the surface area-t o-volume ratio which helps t o speed up
+ the rat e of exchange of substances between the patient's blood and t he
+ dialysis fluid.
+
+ • The d irection of the blood flow Is opposite to the flow of the
+ d ialysis flu Id .
+ This maint ains t he concent ration gradient for t he removal of waste
+ products (Figure 8.18).
+
+ partit:Jly petmtnbk
+ dialysis1nembr,1u,e
+ dialysis machine
+
+ + - - fresh dialysis Auid
+
+ e>Sentiat
+ protein m ine ra l salt
+ molecule red blood cell
+
+ urea molec1.Jle
+figure 8.18 How substances are exchanged between the blood and the diatysis fluid in a diatysis machine
+
+ 167
+
+Chapter 8 I The Human Body - Maintaining Life
+
+ Tedi Connect
+ Dialysis machines are bulky instrumenls lhaL
+ often require up Lo 8 litres of dialysis Ouid for each
+ use. Since patienls who are suffering from kidney
+ failure need to u:se the machine forseveral hours
+ each da)\ they rarely travel overseas. With rapid
+ advances in technology, scientists and engineers
+ are trying Lo design smaller dialysis machines.
+ Thiswill make tlbem portable and require far Jess
+ amount of dialysis Ouid to operate. While many
+ of these 'artificial kidney1 are still being Leste<!
+ for safety and efficiency, pemaps the day will
+ come when kidney failure patienls can travel with
+ confidence and convenience.
+
+ F"iaguN 8.19 'Artificial kidneys' may be a possibility in the future.
+
+ Let's Practise 8.S
+ 1 Figure 8.20 shows how a dialysis machine works.
+ (a) Name two substances t hat w ill pass from the blood into t he
+ dialysis fluid.
+ (b ) By what process does each of the t wo subst ances named in (a) pass
+ out of the t ubing?
+ (c) Name a substance present in blood plasma that does not pass out of
+ t he tubing.
+ (d) What property must the wall of t ubing X possess?
+
+ dialysis fluid out
+
+ l
+ blood
+ from
+ patient
+ --+
+
+ Link
+ Theory Workbook
+ Worl<sheel 8D
+ Lei's Assess
+ tubing X
+ l
+ dialysis
+ fluid in
+ Lei's Reflect
+ Figure 8.20
+
+168
+
+ Excretion in Humans I Chapter 8
+
+ Let's Map It
+
+ ......··········· '••· ..
+ ···.•.
+
+ ·• .. , ..····
+
+ The removal of metabolic waste products, toxic substances
+ and substances in excess o f the body's requirements
+
+ co:r.'ed ovr by the
+
+ Lungs Kidneys Skin
+
+ Excrete carbon dioxide
+
+ suuaure
+ u Releases sweat, which contains
+ excretory products such as urea
+
+ fonctk>ns
+
+ Contains numeroos Exo el ion Osmoregulation
+ ncphrons Removal of metab olic waste products, The regulation of the water
+ toxic substances and substances in potential i>nd solute concentration
+ excess of the body's requirements in the blood to maintain a
+ Small molecules are removed from constant water potential
+Each nephron consists of a: blood by ultrafiltration Antidiuretic hormone secreted
+ Bowman's capsule, Useful substance.s taken back into by the pituitary gland controls
+ blood by seleclive ,eabsorption, the amount of water reabsorbed
+ containing the glomerulus
+ proximal convoluted tubule
+ ensuring the maintenance of th e at the kidneys
+ loop of Henle blood plasma composit ion
+ disual convoluted tubule
+ in the event ofkidney foilure
+
+Several nephrons open into a
+ A dialysis machine can carry out
+collecting duct
+ these functions, as th e d ialysis fluid:
+ contains the same concentration
+ of essential substances as
+ healthy blood
+ does not contain
+ metabolic waste
+ flows in the opposite
+ direction of blood
+
+ 169
+
+Chapter 8 I The Human Body - Maintaining Life
+
+.. Let's Review
+
+ Sect ion A: Mult iple-choice Quest ions
+ 1 Figure 8.21 shows a kidney of a healt hy
+ person wit h three tubes, X, Y and z.
+ Table 8.2
+
+ · · •··Hifrcl·i·l:-i·&&+i:,
+ attached. In w hich tube w il l urea be Reducing Red Reducing
+ found? sugar precipitate s ugar
+ p resent
+ X Protein Solution Protein
+ remains blue a bsent
+ ◄- flomao(ta,
+ Reducing Red Reducing
+ sugar precipitate .sugar
+ p resent
+ Protein Violet Protein
+ colouration p resent
+ j z Reducing Solution Reducing
+ to urin ary sugar remains blue .sugar
+ bladder
+ a bsent
+ figure 8-21 Protein Solution Protein
+ remains blue a bsent
+ 0A Xonly X andYonly
+ 6; X and z only X, Yand Z (a) St at e which of t he solut ions, A, B or
+ C, represents t he fluid from eacln of
+ 2 What does blood in the renal artery the regions 1, 2, and 3.
+ contain compared wit h blood in t he (bl Explain your answer in (a).
+ renal vein?
+ 3 Answer t he following quest ions on
+ more carbon dioxide and less urea
+ dialysis, as a t reatment for kidney failu re.
+ less carbon dioxide and more urea (a) What would happen if t he dialysis
+ more oxygen and less urea fluid did not contain essential sa lts?
+ less oxygen and more urea (bl (I) HOY,/ is t he surface area-to-
+ volume ratio of t he tubing in t he
+ dialysis machine increased?
+ Sect ion B: Structu red Question s
+ (II) Why is it im port ant t o have a high
+ 1 (a) Name t he excretory waste product
+ surface area-to-volume rat io?
+ formed from the breakdown of
+ (c) (I) Why is t he direction of the flow of
+ amino acids.
+ the dialysis fluid opposite t o the
+ (bl A person suffers f rom low blood flow of blood?
+ pressure. How would this affect the
+ (II) What would happen if t he
+ process of ult rafilt ration in his kidneys?
+ direction of t he flow of t he
+ What problems might result from t his?
+ dialysis fluid were t he same as t he
+ direction of t he flow of blood ?
+ 2 Three solutions, A, B, and c, are t aken
+ from three different regions of a human
+ kidney. The t hree regions of t he kidneys Section C: Free-response Quest ions
+ are as follows: 1 (a) Explain how t he following conditions
+ Region 1: an arteriole coming from the affect the volume of urine produced:
+ renal artery (I) on a hot, windy day
+ Region 2: the first part of t he nephron (II) on a cold day
+ Region 3: the first part of the ureter as it (bl Suggest how urine volume w il l be
+ leaves t he kidney affect ed if t he blood pressure in the
+ Biuret test and Benedict's t est are carried body falls.
+ out on each solution. Table 8.2 shows the
+ results of t he tests. 2 Suggest w hy the removal of faeces from
+ t he body is not excretion.
+170 J
+
+CHAPTER
+
+ Homeostasis and
+ Hormonal Control
+
+ • Why is homeostasis
+ necessary?
+ • How do hormones
+ control the human
+ body?
+ • How does the body
+ maintain a constant
+ body temperature?
+
+ 17 1

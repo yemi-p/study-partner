@@ -1,0 +1,344 @@
+TOPIC: Symbols, Latin names and the first 20 elements
+WEEKS: exam extra
+TEACHER'S SCHEME: Not on the scheme but asked in the first term exam: symbols of elements, Latin names (Natrium, Kalium, Ferrum), first twenty elements and their symbols
+
+=== SOURCE: Okoye ch.4 ===
+CHAPTER 4
+
+ SYMBOLS, VALENCIES AND CHEMICAL FORMULAE
+
+Symbol of an element is a simple method of representing an element. Chemical formula is a
+simple system of representing molecules of elements or compounds. Element are divided into
+metals and non-metals. Physical and chemical difference between metals and Non-metals is
+discussed in chapters 2.16 and 2.17 of this book. Some examples of metals are:
+
+4.1 Elements and their Valencies
+
+Valency: The valency of an element is the number of hydrogen atoms that can combine with or
+replace one atom of the element. Valency of an element is also called the combining power of
+the element or the oxidation number of the element. Some elements have more than one valency
+and they are said to have variable valences.
+
+ 38
+
+4.2 Radicals:
+
+A radical is a charged group of atoms. It behaves as a single unit. Eg SO etc
+
+Ion: An ion is an atom or group of atoms that is charged e.g Ca2+, SO etc. Read chapter 4.3
+ of this book for more detailed explanation.
+
+ 39
+
+4.3 Formula of Compound
+
+Compounds and radicals are represented by chemical formula. A chemical formula is a short
+hand method of representing a compound. A symbol is to an element as a chemical formula is to
+a compound. A chemical formula of a compound tells us:
+
+i. The different types of element that make up the compound.
+
+ii. The number of atoms of each type of element present in the compound.
+
+4.4 Binary Compounds:
+
+Binary compounds are compounds containing only two elements and they always end in (ide) eg
+
+ NaCl = Sodium Chloride
+
+ NaH = Sodium hydride
+
+ H2S = Hydrogen sulphide
+
+ AgI = Silver iodide
+
+4.5 How to Write Formula of Compounds:
+
+Valenceis of elements help us to write the formula of compounds. When two or more elements
+combine chemically to form a compound, the valency of each element will tell us the number of
+atoms of X that will combine with Y:
+
+Example 1:
+
+If X has valency of +1 and Y has valency of 1,
+
+both X and Y have equal valences. Therefore 1 atom of X will combine with 1 atom of Y and the
+formula of the compound formed by X and Y is XY
+
+The rule to be followed in writing a chemical formula of a compound is as follows:
+
+Rule 1: Write the symbols of the elements involved or Write the symbol and formula of the
+ element and the radical involved.
+
+Rule 2: The valency or the oxidation numbers of the elements are written down or write down the
+ oxidation numbers of the element and the radical involved.
+
+Rule 3: Interchange the oxidation numbers, omitting the signs. Write them below and to the right
+ of the symbols.
+
+ 40
+
+Example 2:
+
+Hydrogen has valency of +1, oxygen has valency of -2.when hydrogen combines with oxygen to
+form water, the formula of the compound water is H2O.
+
+ H = +1
+
+ O = -2 Formula of water = H2O.
+
+Example 3:
+
+Aluminum has valency of +3, Oxygen has valency of - 2.
+
+Al = +3
+
+O = -2
+
+The formula of aluminum oxide is Al2O3.
+
+Example 4:
+
+Write the formula of calcium oxide, given that the valency of:
+
+Ca = +2
+
+O = -2
+
+Since their valencies are equal, it means that one atom of each will combine to form a compound
+CaO and not Ca2O2. When the valency of one element is a multiple of the valency of the other
+element, the simple ratio of their valences are the number of their atoms present in the
+compound.
+
+For instance, the valency of:
+
+C = -4
+
+O = -2
+
+The formula of carbon (iv) oxide is not C2O4 but CO2 because the simplest ratio of 2:4 is 1:2.
+
+Example 6:
+
+When a metal combines with a non-metal, you write the metal first before the non-metal or
+radical. E.g. Write the formula of compound formed between potassium and chlorine.
+
+ K = +1
+
+ Cl = -1
+
+ 41
+
+Formula = KCl.
+
+a. Write the formula of copper (ii) tetraoxosulphate (vi)
+
+ Cu = +2
+
+ SO4 = -2
+
+They have equal valences. Therefore the formula is CuSO4
+
+b. Write the formula of sodium trioxocarbonate (iv)
+
+ Na = +1
+
+ CO3 = -2
+
+The formula is Na2CO3
+
+a. Write the formula of calcium trioxonitrate (v).
+
+ Ca = +2
+
+ NO3 = -1
+
+The formula is Ca(NO3)2
+
+Here, we place the NO3 in a bracket before the subscript 2, to indicate that NO3 is an entity and
+there are two of that entity in the compound.
+
+Example 7:
+
+When hydrogen combines with a radical, an acid is formed. When a metal combines with a
+radical, a salt is formed. Common acid radicals are: SO42-, CO32-, NO3-, Cl-
+
+a. H = +1
+
+ SO4 = -2
+
+ Formula = H2SO4 Tetraoxosulphate (vi) acid
+
+b. H = +1
+
+ CO3 = -2
+
+ Formula = H2CO3 Trioxocarbonate (iv) acid
+
+c. H = +1
+
+ NO3 = -1
+
+ 42
+
+ Formula = HNO3 Trioxonitrate (v) acid
+
+d. H = +1
+
+ Cl = -1
+
+ Formula = HCl Hydrochloric acid
+
+4.6 Types O Chemical Formula: Empirical, Molecular and Structural Formulae:
+
+Empirical Formula:
+
+Empirical formula is the simplest formula of a compound. It is the smallest ratio of different
+atoms present in one molecule of a compound. It shows the relative numbers of each kind of
+atom in a molecule of a compound. The empirical formula of these compounds are:
+
+Compound Empirical Formula
+
+Butane C2H5
+
+Ethanoic acid CH2O
+
+Ethane CH3
+
+Calculation of Empirical Formula of Compound:
+
+Example 1:
+
+What is the empirical formula of an organic compound, which contains 80% Carbon and 20%
+hydrogen. This means that in every 100g of the organic compound, the masses of carbon and
+hydrogen are 80g and 20g respectively. (C = 12, H = 1)
+
+ 43
+
+The ratio of carbon to hydrogen = 1:3
+
+Therefore empirical formula = CH3
+
+Example 2:
+
+What is the empirical formula of a molecule which contains 40.4% calcium, 11.8% carbon and
+47.8% Oxygen? (Ca = 4O, C = 12, O = 16)
+
+The empirical formula is CaCO3
+
+Molecular Formular:
+
+Molecular formular of a compound is a whole number multiple of its empirical formula. It is the
+formula of a compound, which expresses the actual number of each kind of atom present in a
+molecule of the compound. Molecular formula is derived from the empirical formula of the
+compound.
+
+The molecular formular of these compounds are:
+
+ 44
+
+Calculation of Molecular Formula of Compounds:
+
+In other to determine the molecular formula, we need to know the relative molecular mass of the
+compound.
+
+Example 1:
+
+What is the molecular formula of a compound which on analysis, its empirical formula is found
+to be CH2 and its relative molecular mass is known to be 42. (C = 12, H = 1).
+
+The relative molecular mass = 42
+
+CH2 = 12 + (1x2) = 14.
+
+Therefore, the formula mass of (the empirical formula) is 14.
+
+The relative molecular mass = 42 = 3
+The formula mass 14
+
+:. The molecular formula of the compound is 3 x CH2 = C3H6
+
+Example 2:
+
+An organic compound on analysis yielded 2.0g of carbon, 0.34g of hydrogen and 2.67g of
+Oxygen. If the molar mass or the molecular mass of the compound is 180g, calculate the
+molecular formula of the compound. (C = 12, H = 1, O = 16)
+
+Ratio = C H O
+
+ 1:2:1
+
+The empirical formula is CH2O
+
+ 45
+
+Let the molecular formula of the compound be (CH2O)n, where n is a whole number.
+
+Molecular mass of the compound is 180
+
+:. (CH2O)n = 180
+
+:. Cn + H2n + On = 180
+
+ 12n + 2n + 16n = 180
+
+ 30n = 180
+
+ n = 180 = 6
+ 30
+ n = 6
+
+Therefore the molecular formula is (CH2O)6 = C6H12O6
+
+Structural Formula:
+
+Structural formula of a compound is a formula which shows the arrangement of the atoms of a
+compound in space. It is the formula that shows the special arrangement of atoms of a particular
+compound. In organic chemistry, a molecular formula may represent more than one substance. A
+structural formula which is more informative than the molecular formula is therefore used to
+represent a particular organic substance. It shows how and which atoms are linked together. A
+structural formula of an organic compound can also be written in a condensed form. Eg.
+
+ 46
+
+ C2H6 CH3
+
+Exercises:
+
+1. Define these terms and give an example of each.
+
+ a. Symbol b. Chemical formula c. Valency
+
+ d. Radical e. Binary compound
+
+2. Write the formula and the IUPAC name of the compounds formed by these pairs of
+ substances.
+
+ a. Al = +3, Cl = -1
+
+ b. K = +1, O = -2
+
+ c. Na = +1, SO4 = -2
+
+ d. H = +1, CO3 = -2
+
+ e. Ca = +2, NO3 = -1
+
+3 a. What do you understand by these terms
+
+ i. Empirical formula? ii. Molecular formula?
+
+ iii. Structural formula?
+
+b. Write an example of each using a particular compound to show their relationship.
+
+ 47
+
+4. What is the empirical formula of a compound which contains 40.1% nitrogen, 14.3%
+ hydrogen and 45.6% oxygen? (N = 14, H = 1, O = 16).
+
+5. What is the empirical formula of an inorganic compound which is found to contain
+ 42.5% chlorine and 57.5%oxygen? If the molecular mass of the compound is 167, what is
+ its molecular formula? (Cl =35.5, O = 6)
+
+ 48

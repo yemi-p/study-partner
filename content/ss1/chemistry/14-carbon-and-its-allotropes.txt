@@ -1,0 +1,784 @@
+TOPIC: Carbon and its allotropes
+WEEKS: later
+TEACHER'S SCHEME: (not yet scheduled)
+
+=== SOURCE: Okoye ch.14 ===
+CHAPTER 14
+
+ CARBON AND ITS ALLOTROPES
+
+14.1 Carbon
+
+Carbon is generally a non-metallic black solid. It occurs as diamond, graphite, coal. It occurs as
+wood, petroleum, natural gases, metallic trioxocarbonates (iv) and carbon (iv) oxide in the
+combined form. Carbon is the first four (4) element in the periodic table. It has the atomic
+number of six (6). Its electronic configuration is 1s2 2s2, 2p2. It has the atomic mass of twelve
+(12). Carbon is contained in all living cells. It is an important source of heat and light energy.
+
+14.2 Allotropes of Carbon
+
+Allotropy is the existence of an element in two or more structural form in the same physical
+state. Carbon, tin, sulphur and phosphorous exist in different structural forms in their free states.
+Carbon exists in two main crystalline allotropic forms called diamond and graphite. It also exist
+in a non crystalline allotropic form known as amorphous carbon.
+
+14.3 Diamond
+
+Diamonds is found in Africa, India, Brazil, Republic of Guyana etc.
+
+ Fig 14.1 structure of diamond
+
+It has a network structure. Diamond is octahedral in shape. When cut and polished, it has an
+amazing luster which makes it valuable as jewelry. It is the hardest substances known. It is
+therefore used in making glass cutters and rock borers. It is also used as dies for drawing metal
+wires.
+
+In diamond each carbon is covalently bonded to four other carbon atoms at tetrahedral positions
+about it. Thus, since each of the four valence electrons is involved in a strong covalent bond,
+there is no free electron to conduct electricity. Diamond is therefore a poor conductor of
+electricity. It has a high melting point. It is resistant to high temperature and chemical attack. It
+sublimes at 3500oC.
+
+ 148
+
+14.4 Graphite:
+
+Graphite is found in West Germany, Madagascar, Mexico, China, Australia etc.
+
+ Fig 14.2 Structure of graphite
+
+Graphite occurs naturally as an opaque black solid called plumbago. It has a layer structure. One
+layer solid slides over another. Because it is soft and slippery, it is used a lubricant. In graphite
+each carbon atom is bonded to three other carbon atoms and the fourth electron is free or
+delocalized. It is free to move round the whole structure. Thus, because one electron from each
+atom in graphite structure is mobile, graphite is a good conductor of electricity. It is inert, and it
+is often used as electrodes in electroplating and in dry cells. A mixture of graphite and clay is
+used as 'lead' in pencils. Graphite has a high melting point.
+
+14.5. Amorphous Carbon
+
+Non crystalline allotropic forms of carbon are called amorphous carbon. Amorphous forms of
+carbon include the following:
+
+Coal, coke, carbon black, lamp black or soot, charcoal and carbon fibres.
+
+Carbon black, lamp black or soot:
+
+Carbon black is formed when natural gas (methane) and petroleum products is burnt in a limited
+supply of air. Lamp black is formed from an incomplete combustion of fuel (kerosene). It is
+found in the chimney of a kerosene lamp. Soot as formed in the kitchen chimney or above fire
+place where wood is used as a source of fuel. Carbon black, lamp black and soot are black and
+powdery in nature. They are used in making printers' ink, shoe polish and carbon papers.
+
+CH4 + O2 → C + 2H2O
+
+Large quantity of carbon black can be prepared by heating natural gas to a very high temperature
+in the absence of air.
+
+CH4 → C + 2H2
+
+ 149
+
+Carbon fibres:
+
+Carbon fibres are formed or produced when fibres are heated to a very high temperature in the
+absence of air. The fibres char to form carbon. Some examples of fibre materials are: Nylon 6,6,
+Terylene, Polyester, Rayon etc.
+
+Charcoal: different types of charcoal are wood charcoal, animal charcoal and sugar charcoal.
+Wood charcoal is prepared or formed when wood is heated in the absence or limited supply of
+air. Animal charcoal is formed when bones and animal refuse are heated in the absence or
+limited supply of air. Sugar charcoal is made by dehydrating sugar with concentrated H2SO4 or
+by heating the sugar in a limited supply of air.
+
+C12H22O11 (conc) H2SO4 + 11H2O
+
+Wood charcoal contains sulphur as an impurity while animal charcoal contains calcium
+tetraoxophophates(v) as an impurity. Charcoal has a high adsorptive capacity. Not all gases are
+however adsorbed by charcoal. Carbon(iv) oxide is one of the gases that cannot be adsorbed by
+charcoal or CO2 cannot be adhered to the internal surfaces of charcoal.
+
+14.6 Chemical Properties of Carbon
+
+1. Carbon reacts with oxygen to form its oxide.
+
+When carbon burns in a limited supply of air, a toxic gas called carbon(ii)oxide is formed.
+
+2C + O2 → 2CO
+ Limited supply carbon(ii)oxide
+
+If oxygen is in excess supply, carbon(iv)oxide is formed.
+
+ C + O2 → CO2
+ Excess supply carbon(iv)oxide
+
+If diamond, graphite and amorphous carbon are heated separately in an excess, supply of air, the
+same carbon(iv)oxide is formed.
+
+2. Carbon reacts with some elements to form its binary compounds.
+
+3C(s) + 4Al(s) Al4C3(s) alluminium carbide
+
+2C(s) +Ca(s) CaC2(s) calcium carbide
+
+C(s) + 2S(s) CS2(l) carbon(iv)sulphide
+
+C(s) + 2H2 CH4(g) methane
+
+ 150
+
+3. Carbon reduces some metallic and non-metallic oxide to their respective metals and non-
+ metals.
+
+Fe2O3(s) + 3C(s) → 2Fe(s) + 3CO(g)
+
+2ZnO(s) + C(s) → 2Zn(s) + CO2(g)
+
+CO2(g) + C(s) → 2CO(g)
+
+H2O(g) + C(s) → CO(g) + H2(g)
+
+4.Carbon is oxidized to carbon(iv)oxide by strong oxidizing acids.
+
+2H2SO4(aq) + C(s) → 2H2O(l) + 2SO2(g) + CO2(g)
+
+4HNO3(aq) + C(s) → 2H2O(l) + 4NO2(g) + CO2(g)
+
+14.7 Coal and Coke
+
+Coal and coke are among the examples of amorphous carbon as already mentioned.
+
+Coal:
+
+Coal is a black impure carbon formed from vegetations buried under the earth for many millions
+of years. These plants under high pressure underwent metamorphosis into the hard black rock,
+which are now known as coal.
+
+Uses of coal
+
+In the home, it is used as a domestic fuel. It is used for cooking. It is used in power stations for
+generating electricity. Railway locomotive engines run on coal. Coal is used in making or
+manufacturing many chemicals and drugs.
+
+Types of coal
+
+Four main types of coal are:
+
+1. Peat
+
+2. lignite (brown coal)
+
+3. Bituminous coal (soft coal)
+
+4. Anthracite (hard coal)
+
+Peat is not a true coal. It is the first stage of coal formation. Peat consists of about 50% carbon.
+
+ 151
+
+Lignite (brown coal) is a further stage in the process of coal formation. It consists of about 60%
+carbon.
+
+Bituminous coal (soft coal) is the most plentiful of the four types of coal. It consist of about 80%
+carbon.
+
+Anthracite (hard coal) is the final product of the coal making process.
+
+. It consists of over 90% carbon. Anthracite is the oldest and hardest form of coal.
+
+Coal formation: Peat Lignites Bituminous Anthracite
+
+Destructive distillation of coal
+
+Destructive distillation of coal is heating coal to a very high temperature (about 1,250oC) in the
+absence of air so that it decomposes into four main products namely: coal gas, coal tar,
+ammonical liquor and coke. These four products are known as the products of destructive
+distillation of coal. The first three products are volatile. The only residue left after they have all
+been distilled off (and collected at different temperatures) is coke. Coal is used for the generation
+of heat energy for domestic purposes and chemical industries.
+
+Coal gas is a mixture of these gases: ethane, methane, carbon (ii) oxide, hydrogen, sulphur (iv)
+oxide (very small) and hydrogen sulphide (very small). It is used as fuel in industries. Coal tar is
+a thick, brownish black liquid. It is a mixture of many organic chemicals like toluene,
+nephthalene, benzen, phenol etc. It is used in the production of many chemicals such as
+disinfectants, dyes, drugs etc. Ammonical liquor is made up of ammonia. It is used in the making
+of ammonium compounds. For instance ammonium tetraoxosulphate(vi), NH4SO4, which is
+manufactured with this liquor is used as a fertilizer.
+
+ Coke
+
+It has already been pointed out that coke is the only residence left after all the volatile substances
+had been distilled off after the destructive distillation of coal. Coke is a light, porous, black
+carbon. Coke is amorphous in that it contains about 90% amorphous carbon. It is used in the
+making of calcium carbide used in the production of ethyne.
+
+Distillation of coke: Coke is a light, porous, black carbon. Coke is amorphous in that it contains
+about 90% amorphous carbon. It is used in the making of calcium carbide used in the production
+of ethyne.
+
+Ca(s) + 2C(s) → CaC2(s)
+ Coke Calcium carbide
+
+CaC2(s) + 2H2O(l) Ca(OH)2(aq) + C2H2(g)
+Calcium carbide Calcium hydroxide Ethylene
+
+ 152
+
+Coke is used in the extraction of metals from their ores. It reduces the oxides of the less active
+metals (e.g ZnO, Fe2O3, CuO, PbO etc) to the metals.
+
+2ZnO(s) + C(s) → 2Zn(s) + CO2(g)
+ Coke
+
+Coke is also used as fuel.
+
+Gasification of coke
+
+Coke can be converted or turned into gas by making it to combine with either the oxygen of the
+air or with steam.
+
+Producer gas: Producer gas is formed when air is passed into thick layer of red-hot coke.
+
+2C + O2 + N2 → 2CO(g) + 4N2(g) + Heat
+ Air 2 Vol. 4 Vol.
+ Producer Gas
+
+Producer gas is therefore a mixture of carbon (ii) oxide and nitrogen in the ration of 1:2
+
+Water gas: Water gas is formed when steam is blown over white-hot coke.
+
+ H 20 (g)+ C C0 + H 2
+ Steam White hot 1 Vol 1 Vol.
+ Water Gas
+
+Water gas is a mixture of carbon (ii) oxide and hydrogen in the ration of 1:1. Both producer gas
+and water gass are used as fuel in heating. Water gas has more calorific value than producer gas
+because both carbon(ii)oxide, CO and hydrogen, H2 are combustible. Town gas is a name often
+given to a mixture of coal gas and water gas.
+
+14.8 Oxides of Carbon
+
+When carbon is heated in air it forms two types of oxides. They are: carbon (iv) oxide, CO2 and
+carbon(ii)oxide, CO. If oxygen is in excess supply, CO2 is formed. If the oxygen is in limited
+supply CO is formed.
+
+C + O2 → CO2
+Excess supply
+
+2C + O2 → 2CO
+ limited supply
+
+Carbon (iv) oxide is one of the naturally accuring compound of carbon. It is one of the gases that
+make up the air around us. Air contains 0.03% of CO2. Carbon(iv)oxide does not support
+
+ 153
+
+combustion. It is important to green plants for making their food by the process of
+photosynthesis.
+
+14.9 Laboratory Preparation of Carbon (iv) oxide
+
+ Fig 14.3(a) upward delivery or downward displacement of air over water
+
+ Fig 14.4 (b) downward delivery of upward displacement of air.
+
+Carbon(iv)oxide or carbon dioxide is prepared in the laboratory by the action of dilute HCl or
+HNO3 on marble or limestone.
+
+1. CaCO3(s) + 2HCl(aq) CaCl2(aq) + CO2(aq) + H2O(l)
+
+2. CaCO3 + 2HNO2 Ca(NO3)2 + H2O + CO2
+
+it is also prepared by the action of the above named acids on hydrogen trioxocarbonate(iv) of
+sodium or potassium.
+
+NaHCO3(aq) + HNO3(aq) → NaNO3(aq) + H2O(l) + CO2(g)
+
+ 154
+
+Method: Place some limestone or marble into a flat bottomed flask. Pour dil. HCl or HNO3
+through the thistle funnel.
+
+Observation: There will be rapid effervescence and a colourless gas is produced. The gas is then
+collected over water or by downward delivery.
+
+Note: Dil. H2SO4 is not used in this reaction because it coats the marble with a layer of insoluble
+calcium tetraoxosulphate(iv), which will terminate or stop the reaction after some seconds.
+
+Other reactions that can result to the liberation of CO2 are as follows:
+
+i. Fermentation of glucose
+ yeast
+ C6H12O6 → 2C2H5OH + 2CO2 + Energy
+
+ii. Thermal decomposition of marble
+
+ CaCO3 + Heat → CaO + CO2
+
+iii. Combustion of hydrocarbons
+
+ CH4 + 2O2 → CO2 + 2H2O
+
+iv. Reduction of metallic oxides by carbon(ii)oxide
+
+ Fe2O3 + 3CO → 2Fe + 3CO2
+
+Properties of Carbon(iv)oxide
+
+a. CO2 is a colourless, odourless and testless gas.
+
+b. It is denser than air
+
+c. It is slightly soluble in water. It dissolve in water to form trioxocarbonate (iv) acid
+
+It is therefore an acid anhydride of trioxocarbonate (iv) acid.
+
+d. It is an acidic oxide. It turns wet blue litmus paper faint red or claret red.
+
+e. It can either be solidified or liquefied. It solidifies at 78oC and the solid form is known
+ as dry ice.
+
+f. It neither burns or supports combustion.
+
+g. Caustic soda solution absorbs CO2 to form sodium troxocarbonate (iv) and water.
+
+ 2NaOH + CO2 → Na2CO3 + H2O
+ 155
+
+Burning magnesium continues to burn in a jar of CO2 because the flame is so hot that it can
+decompose CO2 into carbon and oxygen and the latter supports the burning.
+
+ 2Mg + CO2 → 2MgO + C
+
+Test For CO2
+
+CO2 turns lime water milky
+
+ CO2 + Ca(OH)2 → CaCO3 + H2O
+
+When excess CO2 is bubbled into lime water for a long time, the milky solution becomes clear
+again due to the formation of soluble calcium hydrogen trioxocarbonate(iv)
+
+ CaCO3 + HCO+ CO2 → Ca(HCO3)2
+
+Uses of CO2
+
+1. It is used in fire extinguishers.
+
+2. Green plants use it in the making of their food.
+
+3. It is used in the manufacture of these compounds NaHCO3, Na2CO3, PbCO3, (NH4)2SO4
+
+4. In the baking of bread, it is used as a leavening agent.
+
+14.10 Carbon Cycle
+ CARBON DIOXIDE
+ in the atmosphere
+ V OLC A N OES
+
+ BURNING OF FUELS
+ e.g. coal, wood, oil e.t.c
+
+ P ut re f ac t ion Photosynthesis
+ R e sp ir at ion P u t r e f a c t io n
+ of anim als of o f p la n t s
+ an im als
+ Respiration of plant
+
+ Death Death of plants
+ of
+ animals
+ PLANTS
+ S
+ AL
+ NIM Plants eaten
+ A by animals
+
+ Fig 14.5
+
+Carbon cycle is the process by which the atmospheric CO2 is removed and re-introduced into the
+atmosphere. It is the process by which CO2 circulates in nature.The volume of CO2 in the air
+remains almost constant because the rate at which CO2 is removed from air by the process of
+photosynthesis and by its dissolution in rain water is equal to the rate at which the gas is re-
+
+ 156
+
+introduced into the environment by plant, animal, burning of carbon compounds and
+decomposition of carbonates in the soil.
+
+CO2 dissolves in rain water to form a weak acid known as trioxocarbonate(iv)acid.
+
+ CO2 + H2O → H2CO3
+ Trioxocarbonate (iv) acid
+
+The weak acid on entering the soil, it reacts with the metals, to form the metallic trioxocarbonate
+(iv).
+
+ Ca + H2CO3 → CaCO3 + H2
+ Calcium trioxocarbonate (iv)
+
+ 2Na + H2CO3 → Na2CO3 + H2
+ Sodium trioxocarbonate (iv)
+
+When the soil gets heated by the sun, the temperature of these trioxocarbonate (iv) and
+trioxocarbonate (iv) and hydrogen trioxocarbonate (iv) is raised and they decompose to release
+CO2 into the atmosphere.
+
+ CaCO3 → CaO + CO2
+
+ Ca(HCO3)2 → CaO + H2O + CO2
+
+14.11 Carbon(II)Oxide (CO)
+
+CO is prepared by dehydrating methanoic acid or ethanedoic acid with concentrated H2SO4.
+
+HCOOH H2SO4 CO + H2O
+Methanoic acid
+C2H2O4 Conc H2SO4 CO + CO2 + H2O
+
+ F u n n el
+
+ retort C a r b o n ( ii) o x id e
+ stan d
+ KOH
+ S o l u ti o n w ater
+ H2SO4
+
+ C 2 H2 O4
+ C r y s t a ls
+
+ h eat w a s h b o t t le s
+
+ Fig 14.6 Laboratory preparation of CO.
+
+ 157
+
+The apparatus used is shown above. Some crystals of Ethanedoic acid (H2C2O4.2H2O) is placed
+in a strong round bottomed flask. Concentrated H2SO4 is poured down the thistle funnel. The
+mixture is warmed gently. As the crystals dissolve, effervescence occurs. A mixture of equal
+volume of CO and CO2 is envolved. The gas mixture is passed through KOH or NaOH which
+dissolves CO2 to form trioxocabonate (iv) salt of potassium or sodium, CO is collected over
+water.
+
+ CO OH
+ Conc H2SO4
+ -H2O
+ CO2(g) + CO(g)
+ COO H
+ Ethandoic acid
+
+Conc. H2SO4 is not a catalyst in this reaction. It acts as a dehydrating agent.
+
+Properties of CO
+
+1. It is a colourless, odourless and tasteless gas
+
+2. It is l ighter than air
+
+3. It is a neutral oxide
+
+4. It is insoluble in water
+
+5. It is soluble in ammonical cppoer(i) chloride
+
+6. It is a strong reducing agent.
+
+ Fe2O3(s) + 3CO(g) → 2Fe(s) + 3CO2(g)
+
+7. It is oxidized to CO2 when it burns in air with a blue flame.
+
+ 2CO(g) + O2(g) → 2CO2(g)
+
+8. It combines readily with haemoglobin to form carboxy-haemoglobin (a stable
+ compound), which prevents haemoglobin from doing its usual work of carrying oxygen.
+ Haemoglobin reacts with oxygen to form oxy-haemoglobin (an unstable compound). The
+ formation of carboxy-haemoglobin when CO is inhaled in a large dose, makes one to die
+ of suffocation.
+
+ O2 + Haemoglobin Oxy-haemoglobin
+
+ CO + Haemoglobin Carboxy-haemoglobin
+
+ O2 + Carboxy-haemoglobin No reaction
+
+ 158
+
+Uses of Carbon (ii) oxide, CO.
+
+1. It is used as fuel
+
+2. It is used a reducing agent
+
+14.12 Trioxocarbonate (IV) Salt
+
+H2CO3 acid is dibasic and forms two types of salts. The salts are trioxocarbonate (iv).
+
+H2CO3 + 2KOH → K2CO3 + 2HO
+ Normal Salt
+
+H2CO3 + KOH → KHCO3 + H2O
+ Acid Salt
+
+Trioxocarbonate (iv) salt is formed when H2CO3 reacts with free metal, metallic hydroxide,
+metallic oxide or other metallic salts
+
+H2CO3 + Zn → ZnCO3 + H2
+
+H2CO3 + Zn(OH)2 → ZnCO3 + 2H2O
+
+H2CO3 + ZnO → ZnCO3 + H2O
+
+H2CO3 + ZnCl2 → ZnCO3 + HCl(aq)
+
+Properties of Trioxocarbonate (iv) Salts
+
+1. All trioxocarbonate (iv) salts are insoluble in water except Na2CO3, K2CO3 and
+ (NH4)2CO3.
+
+2. All common trioxocarbonate (iv) break down on heating to liberate CO2 with the
+ exception of Na2CO3, K2CO3 and BaCO3
+
+ ZnCO3(s) → ZnO(s) + CO2(g)
+
+3. Na2CO3, K2CO3 and (NH4)2 CO3 dissolved in water to form the corresponding hydroxide.
+
+ K2CO3(s) + 2H2O → 2KOH(aq) + H2CO3(aq)
+
+4. All trioxocarbonate (iv) react with any dilute acid to form CO2, water and salt.
+
+ 159
+
+ ZnCO3 + 2HCl → ZnCl2 + H2O + CO2
+
+ This equation can be represented ionically as:
+
+ CO2-3(s) + 2H+(aq) H2O(l) + CO2(g)
+
+5. Sodium, ammonium and potassium trioxocarbonate (iv) Dissolves in water to form a
+ weak acid and a strong base.
+
+ K2CO3(s) + H2O 2KOH(g) + H2CO3 etc
+
+ KOH K+(aq) + OH-
+
+ H2CO3 2H+ + CO2-3(aq)
+
+KOH is a strong base but H2CO3 is a weak acid. The resultant solution is alkaline to litmus
+because the number of OH- is greater than that of the hydrogen ions.
+
+14.13 Preparation of Baking Soda (NaHCO3)
+
+Baking powder is a common name for NaHCO3, but its IUPAC nomenclature is sodium
+hydrogen trioxocarbonate (iv). NaHCO3 can easily be prepared in the laboratory by bubbling
+excess CO2 into conc. NaOH solution. NaHCO3 is then precipitated as a white powder.
+
+2NaOH(aq) + CO2(g) → Na2CO3(aq) + H2O(l)
+
+Na2CO3(aq) + H2O(l) + CO2(g) → 2NaHCO3(s)
+
+ Or
+
+NaOH(aq) + CO2(g) → NaHCO3(g)
+ Excess
+
+NaHCO3 is slightly soluble in water; it is filtered, washed with a little cold distilled water and
+dried between filter papers.
+
+Uses of NaHCO3
+
+1. It is used in manufacturing effervescent tablets used to relieve indigestion (or
+ constipation)
+
+2. It is used in the production of baking powder, which comprises NaHCO3 and tartaric
+ acid. The two ingredients react when they liberate CO2, which causes the dough to rise
+ during the baking process.
+
+ 160
+
+2. It is used in the production of baking powder, which comprises NaHCO3 and tartaric
+ acid. The two ingredients react when they come in contact with water to liberate CO2,
+ which causes the dough to rise during the baking process.
+
+14.14 Laboratory Preparation Of Soda Ash (Na2CO3)
+
+Sodium trioxocarbonate (iv), Na2CO3 is prepared in the laboratory by thermal decomposition of
+NaHCO3.
+
+ 2NaHCO3 heat Na2CO3 + H2O + CO2
+
+14.15 Laboratory Preparation Of Washing Soda Na2CO3. 10H2O
+
+Sodium trioxocarbonate (iv) decahydrate commonly known as the washing soda is prepared in
+the laboratory by dissolving Na2CO3 in water, concentrating the solution and allowing
+crystallization to take place.
+
+Na2CO3 + 10H2O Na2CO3. 10H2O
+
+14.16 Industrial Preparation of Soda Ash (NaCO3)
+
+ A m m on ical
+ b in e
+ exces s carton (iv) oxid e
+
+ b affle p lates
+
+ s u s p en s ion
+ carb on (iv) of N aH C O3
+ oxid e
+
+ Fig 14.7 solvey process
+
+Na2CO3 is manufactured in a large quantity by the solvey process. First of all, a mixture known
+as the ammoniacal brine is made by saturated a concentrated solution of sodium chloride (brine)
+with ammonia gas or by bubbling in enough quantity of NH3 gas into brine. The ammoniacal
+
+ 161
+
+brine (NaCl solution + NH3) is made to trickle down a solvey tower. CO2 is at the same time
+forced into the tower and made to move upwards.
+
+The perforated dome-shaped baffled-plates, slow down the flow of the ammoniacal brine and gas
+(CO2). They also create greater surface areas for reaction. These reactions which occur in the
+solvey process is exothermic and so the tower has to be cooled.
+
+NH3 + H2O + CO2 → NH4HCO3
+
+NH4HCO3 + NaCl → NaHCO3 + NH4Cl
+
+NH3 + H2O + CO2 + NaCl → NaHCO3 + NH4Cl
+
+NaHCO3 is filtered, rinsed with distilled water and heated to yield an anhydrous salt (Na2CO3)
+known as soda ash. Na2CO3 is dissolved in water and crystallized to form the washing soda
+(Na2CO3. 10H2O)
+
+14.17 Economic Advantage And Efficiency of the Solvey Process
+
+The principal raw materials are cheap and are easily obtained as follows:
+
+i. Brine is obtained from sea-water or salt deposits.
+
+ii. CO2 is obtained from the thermal decomposition of limestone.
+
+ CaCO3 → CaO + CO2
+
+About 50% of CO2 required in the process is recovered while heating NaHCO3.
+
+ 2NaHCO3 → Na2CO3 + H2O + CO2
+
+iii. The CaO obtained from number (ii) above reacts with NH4Cl (left after the precipitation
+ of NaHCO3) to liberate NH3 gas.
+
+ CaO + 2NH4Cl → CaCl2 + H2O + 2NH3
+
+Uses of Na2CO3
+
+1. It is a useful reagent in the qualitative and volumetric analysis.
+
+2. It is used in the manufacture of glass.
+
+3. It is used in the softening of hard water.
+
+4. It is use in the making of caustic soda (NaOH).
+
+ 162
+
+14.18 Hydrocarbon and its Main Classes
+
+The name ‗hydrocarbon‘ is derived from the two elements - hydrogen and carbon. Hydrocarbons
+are organic compounds that contains only carbon and hydrogen. Some examples of hydrocarbons
+are; methane, CH4; Propane, C3H5; butane, C4H8; benzene, C6H6. Hydrocarbons are classified
+into two groups. They are; the aliphatic and the aromatic hydrocarbons. Aliphatic hydrocarbon
+are composed of carbon chains. Aliphatic compounds with either straight or branched chain
+hydrocarbons are also called the acyclic compounds. Aliphatic compounds where the end
+carbons atoms join together to form rings are known as cyclic compound. Aromatic hydrocarbos
+are all cyclic compounds that contain benzene ring. They have sweet odour and are used in the
+manufacture of perfume. Examples of aliphatic hydrocarbon are;
+
+Examples of aromatic hydrocarbons are;
+
+14.19 Crude Oil and Natural Gas: See the fractional distillation of petroleum and major
+products in Part III, Chapter 2 of this book.
+
+ 163
+
+Exercises
+
+1. What do you understand by (a) allotropy (b) allotrope?
+
+2. What are the three allotropic forms of carbon?
+
+3. Draw the structure of (a) diamond (b) graphite
+
+4. What are the differences between diamond and graphite?
+
+5. How can you show that diamond, graphite and amorphous carbon are all allotropic forms
+ of an element (carbon)?
+
+6. Write short note on the following:
+
+ a. Coal (b) Coke (c) Destructive distillation of coal (d) Gasification of coke.
+
+7. Write down two uses of
+
+ a. Coal (b) Coke
+
+8. What are the four stages in the coal making process?
+
+9. Which of the two gaseous coke (producer gas and water gas) has more calorific value?
+ Why?
+
+10. Write an equation only to show the burning of carbon in
+
+ ( a) a limited supply of air,
+
+(b) an excess supply of air.
+
+11. Use equations only to show four reactions that can result to the generation of CO2.
+
+12. Write down five properties of CO2.
+
+13. In the laboratory preparation of CO2, dilute H2SO4 is not made to react with marble,
+ CaCO3. What is the actual reason for this?
+
+14. What are the two properties of (a) CO2 (b) CO
+
+15a. What do you understand by carbon cycle?
+
+b. Write two processes through which
+
+i. CO2 is removed from the atmosphere.
+
+ii. CO2 is re-introduced into the atmosphere.
+
+ 164
+
+16. Briefly discuss the effect of inhaling CO in a large dose.
+
+17. Trioxocarbonate (iv) acid is dibasic and can form two type of salts. Using the chemical
+ equation only show:
+
+ a. The two type of salts
+
+b. Write the IUPAC nomenclature of the two salts
+
+18. Write three properties of trioxocarbonate (iv) salt
+
+19. Why is it that the solutions of Na2CO3 and K2CO3 are alkaline to litmus?
+
+20. What are the IUPAC nomenclature of these salts?
+
+ a. NaHCO3 (b) Na2CO3
+
+ c. Na2CO3. 10H2O
+
+21a. Draw the solvey apparatus used in the preparation of Na2CO3.
+
+b. What are the sources of these raw materials used in the solvey process
+
+i. Brine (ii) NH4Cl (iii) CO2
+
+22. Draw the structure of two; (a) a cyclic hydrocarbon
+
+ (b) cyclic hydrocarbon and (c) aromatic hydrocarbon
+
+ 165

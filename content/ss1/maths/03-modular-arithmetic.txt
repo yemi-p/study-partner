@@ -1,0 +1,412 @@
+TOPIC: Modular arithmetic
+WEEKS: 3
+TEACHER'S SCHEME: Modular arithmetic (listed with number bases in week 2)
+
+=== SOURCE: NGM ch.20 ===
+This is an example of a cyclic event.
+The numbers 0, 1, 2, 3 may be used as codes
+for the markets B, C, D, and A as in Table 20.2.
+
+chapter you should be
+
+4 inte
+ibers to their simplest form with
+
+Table 20.2
+
+af ; ) [a The markets’ number codes are shown as a
+"| Teaching and learning materials as
+: number cycle in Fig. 20.2.
+| Teacher: Charts from newspapers showing P
+: events (weekly, monthly, duty rosters,
+| market day announcements); clock with |
+| rotating hands.
+
+++ 3 1
+
+1 Cyclic events ay
+
+‘ote seis
+
+Fig. 20.2 2,
+
+i In many parts of Nigeria, markets are held in
+
+:
+
+ 10tation. Some markets are held every third day, a ;
+
+others are held fifth day and so on.
+4 are held every y PE fe
+
+t ~ Inone region, four markets, A, B, C, D, are pa
+d every fifth day. Table 20.1 shows some days of on
+market was held. u Tuesday of the 4th week,
+
+© Thursday of the 1st week.
+os of ¥
+
+cle in Fig. 20.2 can be used to
+
+ld 7 sas after
+
+held 10 days after
+: \.
+\z
+
+by Start at 0 and go
+
+“A short way to find the final result of
+. sa wa fin he a by 4 pa
+the remainder. So, in Example 3. :
+
+r questions. See Examples 3 and 4.
+
+a 04+7=7-37-+ 4 1.remainder3 3
+bh 2+10= 12 — 12 + 4 — 3. remainder 0 — 0
+
+or briefly
+a 0+7-0+3-—3
+
+62+1052+2—-0
+
+or
+a0+7=3
+/2+10=0
+
+where = means “is equivalent to’.
+
+Example 4
+
+Find the number which results from the following
+additions on the number cycle in Fig. 20.2.
+
+Pp) Es ae By 14+24
+
+a2+9=24+1=3
+63+17=3+1=0
+© 1+24=14+0=1
+Alternatively
+
+@ 2+9=11
+
+11 + 4 = 2, remainder 3
+2+9= 3
+
+© 3+17=20.
+20 +4 =5, remainder 0.
+
+4 means with modulus 4 or modulo 4.
+
+at 9 + 4 = 2, remainder 1
+
+and 45 + 4 = 11, remainder 1
+
+y that 9 and 45 are equal modulo 4,
+ie. 9 = 45 = 1 (mod 4)
+
+le 5
+to its simplest form: » modulo 3,
+lo4, «© modulo5, « modulo 6.
+
+5+ 4 = 13, remainder 3
+_ 55 = 3 (mod 4)
+5 = 11, remainder 0
+
+: = 9, remainder 1
+_ 55 = 1 (mod 6)
+
+@ Write down the names of four markets in
+your locality which are held in rotation
+over 4* days.
+
+b State the days of the week when the
+
+markets are held over a period of 4
+
+weeks. Then prepare a table similar to
+
+aaa code number
+
+q resent each market by a code
+
+aia nning with 0 (as in Table 20.2) up to
+
+er 3*, and use these to prepare a
+
+©® Use the number cycle in Fig, 20.3 to find
+equivalent values of the following.
+
+0
+5 1
+4 2
+3
+Fig. 20.3
+2 2+10= b5+5=
+c2+15= d 3+ 22:
+
+@A toy car starts at a point O and runs
+around a circular track of 2 metres, How far
+is the car from its starting point along the
+track when it has gone
+
+e 12m
+
+21m?
+
+a 6m b llm
+d 15m e 18m f
+
+® The shorter hand of a clock points to 5 on
+a clock face. What number does it point to
+
+after
+a Shours b 8hours’ e¢ 15 hours
+d 10hours e 24hours’ f 30 hours?
+
+Arrange the days of the week, Sunday,
+Monday, Tuesday, Wednesday, Thursday,
+Friday and Saturday on a circle using the
+number code 0) for Sunday, 1 for Monday,
+2 for Tuesday, 3 for Wednesday, 4 for
+Thursday, 5 for Friday and 6 for Saturday.
+If today is Thursday, which day will it be in
+a S days’ time b 10 days’ time
+© 7 days’ time d 39 days’ time?
+
+@ Reduce 35 to its simplest form
+a modulo 3, b modulo 4,
+
+“Te
+
+Class activity: Complete Table 20.5,
+
+an addition table (mod 4)
+0, 1,2 and 3 are added to
+
+a 806 (mod 5),
+b 63 ® 78 (mod 6).
+Note: moduli is the plural of modulus.
+
+a 8+6=14
+= (2X5 + 4)
+: = 4 (mod 5)
+—. b 63 +78 = 141
+In the table, multiples of 4 are ignored and = (6 X 23 + 3)
+remainders are written down. For example = 3 (mod 6)
+
+263 =5 =1 (mod 4) and 2 9 2 = 4 = 0 (mod
+
+4). Note that we often use the symbol © to show
+addition in modular arithmetic. This shows that Example 8
+it is different from ordinary arithmetic. As we
+
+Find the simplest positive form of each of the
+shall see later, it is important to decide which dase f f t
+
+llowing.
+number comes first and which second. poueNine
+ous a —28 (mod 3)
+Subtraction in modulo 4 can also be done using b -2 (mod 9)
+pe number cycle in Fig. 20.2. Read Example 6
+Sone ag a ~28 =(3 x -10 + 2)
+ae = 2 (mod 3)
+5 102 (mod 4). Bao? ; hie: 7)
+
+anticlockwise
+
+Notice in Example 8 that any negative number
+
+has an equivalent positive value in modular
+arithmetic.
+
+a
+-°@ —52(mod11) — { ~—11 (mod 3)
+6 -17 (mod 2) » —56 (mod 13)
+| —50 (mod 4) | —75 (mod 7)
+) Copy and complete Table 20.7 for
+rind the following numbers in their si subtraction, modulo 6.
+Bey, modulo 4. cir simplest sotana auathel
+eI b32 ce aq
+e 82 17 o 78 h 38
+156 #=6j 102
+
+© Find the following additions, modulo 5.
+a309 b9@9
+
+c568 d 8017
+
+iO 7 : LSD 6 © Copy and complete Table 20.8 for
+§ 286 39 h 41 ® 52 subtraction modulo 5.
+
+i 8627 _ | 65.632 . second number
+
+|]
+m0) Calculate in the given moduli.
+
+a 3@4(mod2) =»: 12 6 9 (mod 4)
+© 8@5(mod3) —d.: 17 © 8 (mod 9)
+© 9@14(mod7) { 5425 (mod 5)
+9 42@28(mod8) 72 ® 8 (mod 6)
+
+ § 67@38(mod5) | 8235 (mod 3)
+
+10) Copy and complete Table 20.6 for addition © Use the code for days of the week given in
+
+. (mod 5). question 6 of Exercise 20a.
+
+a If today is Tuesday, what day will it be in
+19 days’ time?
+
+5 Express 2 and 19 as numbers (mod 7).
+
+© Calculate 2 + 19 (mod 7).
+
+© Does your answer in part © confirm your
+result in part 9?
+
+@® «© The shorter hand of a clock points to 10.
+What number did it point to 29 hours ago?
+© Find the simplest positive form of —29
+(mod 12). oles
+
+on and division ) «= b 18@17(med 3) aided
+
+18 = 0 (mod 3) i
+17 = 2 (mod 3)
+18 @ 17 = 0 @ 2 (mod 3)
+
+= 0 (mod 3)
+
+In Examples 11, 12 and 13, it can be seen that
+it is usually most convenient to convert the
+given numbers to their simplest form before
+calculation.
+
+Example 14
+
+Where possible, find the values of the following,
+mod 4.
+
+a2@3 2@2 3@2
+
+/ If2©3 =x, then 3x = 2
+3x = 2 3x =2 + 4 (mod 4)
+(since 4 can be added to each side without
+: ; hanging the equation)
+3 (mod 4) @ 2 (mod 4 eee ce eq
+a C ( ) “. 3x = 6 (mod 4)
+: ; x = 2 (mod 4)
+» If2@2 =x, then 2x =2
+x = 1 (mod 4)
+Also 2x =2+4=6
+x = 3 (mod 4)
+Therefore, 2 © 2 (mod 4) has two values:
+1 and 3
+« If3@2 =x, then 2x = 3
+
+No multiple of 4 can be added to 3 to make
+it exactly divisible by Dent
+There are no values of 3 ©
+
+6 7@13 © 78852
+
+Note in Example 14 that division in modular
+
+arithmetic may give more than one value, or
+Possibly no value atall,
+
+8 = 6 + 2 = 2 (mod 3)
+
+Also 10 = 9 +1
+
+a: = 1 (mod 3)
+‘mod 3) (adding 3 to the RHS
+
+(mod 3) — equation unchanged)
+
++ y = 4 (mod 9)
+-y = 5 (mod 9)
+ince 8 + 5 = 13 = 9 + 4 = 4 (mod 9))
+
+Note in Examples 14 and 15 that trial and
+improvement methods are used in division to
+obtain answers. Any multiple of the modulus
+tan be added or ignored on one or both sides of
+the equation.
+
+Exercise 20c
+_ © Find the value of the following, mod 4.
+a5@7 b 5@15
+¢ 1309 d 23818
+
+6873 £ 21065
+) Find the values in the moduli written beside
+
+b 31 @ 15 (mod 7)
+d 21 @ 18 (mod 10)
+£ 80 @ 29 (mod 7)
+
+modulo 6 in
+
+Table 20.10.
+
+Sea a
+
+rabiezor10 LS}O] | | [ol |
+
+©) Calculate the following, mod 5.
+a 207 b7@2
+d 46@11 e 9@4
+
+g 1667 h 29©2
+
+| 7407
+
+©) Find the values in the moduli written beside
+
+them.
+
+a 8@2 (mod 3)
+16 © 4 (mod 5)
+
+e 29@3 (mod 11)
+
+g 34@ 5 (mod 7)
+
+i 17©9 (mod 2)
+
+c 1108
+f 7@2
+i 5864
+
+b 65 © 5 (mod 4)
+d 72@8 (mod 7)
+* 42 © 11 (mod 2)
+» 20 © 8 (mod 10)
+| 92 © 10 (mod 4)
+
+@) Use the multiplication table completed
+in question 3 to find the answers to the
+following mod 6 divisions.
+a2@5 b0@4
+d2@4 e165
+
+¢3@5
+f 303
+
+© Solve the equations in the given moduli.
+
+a 8+ x =0(mod 9)
+b x + 3 = 0 (mod 5)
+e 5—y=0(mod 7)
+a m—4=0 (mod 6)
+e b+4=0 (mod 9)
+f t+8=0 (mod 11)
+
+© Solve the following equations, mod 7.
+
+a 3x=1
+
+eo de=3
+2: “

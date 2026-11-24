@@ -1,0 +1,206 @@
+TOPIC: Logarithms I
+WEEKS: 6
+TEACHER'S SCHEME: Deduction of logarithm form from index and standard form
+
+=== SOURCE: NGM ch.1.4-1.5 ===
+- | 0
+epowerto -—_In Table 1.4, the figures 5682 appear
+number. Thus, immediately after 37.
+log 3-7 = 0:5682
+
+b 37=3-7 x 10
+= 37 KAO! (standard form)
+= 10°62 x 10! (from tables)
+y = nm, then x = log, y. = 1005682 +1
+
+Bute: » = 1015682
+, then x = logy y. 1
+
+i$ used in calculations are normally Hence log 37 = 1-5682
+called common logarithms. © 3700 = 3-7 x 1000
+taken to mean log, 1000 = 3. = 3-7 x 103 (standard form)
+to write down the base when = 109568 x 103 (from tables)
+on logarithms (Table 1.3). = 10909682 +3
+: = 1035682
+Hence log 3700 = 3-5682
+
+Note how standard form helps when finding
+the logarithm of a number.
+
+Tn the logarithm of any number there are two
+
+parts, an integer (whole number) before the
+es decimal point and a fraction after the point
+10 = 1, the logarithm of (Fig. 1.1).
+
+bi 10 musi lie b
+A musi lie between 7356825.
+
+integer decimal fraction
+Fig. 1.1
+
+Look at the integers and the fractions of the
+results in Example 9. The logarithms of 3-7, 37
+and 3700 all have the same decimal fr:
+
+a a ee
+fan
+
+4 as before (5729).
+
+the differences
+
+c log 3-777 = ts
+d log 3-777 = 05770
+e log 3-777 = 0:5690
+
+© Use the logarithm tables on page 246 to
+check whether the following are correct or
+
+incorrect.
+
+a
+
+© Express the following numbers in standard
+form and then write down the integer Mecdae
+
+log 7-7 = 0:8865
+log 2-2 = 0:3424
+log 2-0 = 0:3010
+log 9 = 0:9542
+
+log 5-6 = 0-7404
+log 1-4 = 0-1461
+log 6-45 = 0-8096
+log 4-44 = 0-6439
+log 8-03 = 0-9047
+log 9-57 = 0-9809
+log 5-02 = 0-7160
+log 3-09 = 0-4900
+log 3-142 = 0-4972
+log 7-153 = 0:8545
+log 3-704 = 0:5687
+log 2:603 = 0:4200
+log 9-989 = 0-9995
+log 8-008 = 0-9035
+
+of their logarithms.
+
+a 65
+d 560
+
+b 24-12
+e 5600
+hh 418000
+
+a The fractional part of 0-5682 is 5682.
+
+logarithms of the following.
+— b 4137 © 208-5
+© 82460000 f 65160
+h 397:3 i 40-02
+k 2709 1 1-903
+
+following is the logarithm of a
+ise tables to find each number.
+b 0-4624 © 0-7709
+e 0-9009 f 0-6010
+
+and complete Table 1.5 for values
+ns from 1 to 100. Round off the
+thms to 2 decimal places.
+
+[loge [000] 1-00 | 0) 45). [20 |
+Table 1.5
+
+the graph of log x against x using
+
+es in your table. Use scales of
+
+‘0 10 units on the x-axis and 1 cm to
+
+on the log x axis.
+
+ff the logarithms of 15, 47,73, 9, 91.
+
+h to find the numbers
+
+is are 0-5, 1-1, 1-75, 1-33,
+
+The figores S682. appear across from S7-ameg
+
+3) In practice, it is simpler to use antilogarithm F
+
+___use antilog tables.
+
+under 0, giving 370. Ni:
+
+Since the integer part is 0,
+antilogarithm of 0-5682 is 3-7.
+
+© The fractional part is -5775.
+
+The figures 5775 appear across from 37 and
+under 8, giving 378.
+Since the integer part is 0,
+
+antilogarithm of 0-5775 is 3-78.
+
+« Asin part », the figures 5775 give 378.
+
+Since the integer part of 1-5775 is 1, there
+
+should be two figures before the decimal
+
+point in the antilogarithm. Hence,
+antilogarithm of 1-5775 is 37-8.
+
+” The figures 5768 do not appear directly in
+
+the table. Looking across from 37 and under
+7, the nearest figure is 5763. We need to add
+5 to this figure. Look for 5 in the differences.
+5 appears under 4. This gives the four figures
+3774. Hence
+
+antilogarithm of 0-5768 = 3-774,
+
+Notes:
+1) You can use Table 1.4 in the normal way to
+
+check the results in Example 11.
+
+2) We can give also the results in Example 11 as
+
+follows:
+a) 10°62 = 3-7
+c) 10!*775 = 37-8
+
+b) 10°5775 = 3.78
+d) 10°78 = 3.774
+
+(antilog) tables. Example 12 explains how to
+
+hits
+
+engRRe
+ry nae
+2 WB Sa SO
+ee
+PR Gr tae i aT § OS
+
+ygarithms of the following.
+0:5717 ’ b 0-5752
+-57 d 0-5724
+
+down the values of the following.
+5%, 10°, 1078", hi Fig. 1.2
+yy 1079517, 1049517, 10”
+
+a Use the graph to read off the antilogarithms
+
+own the numbers whose logarithms of 0:15, 0:36 and 0:87.
+wis a: 6-7142, 3°7142. 5 Also use the graph to read off the logarithms
+‘hun f of 5,8 and 9.
+
+© Use tables to check your answers to 2 and ®.
