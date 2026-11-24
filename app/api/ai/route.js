@@ -1,4 +1,5 @@
 import { callModel } from "../../../lib/model";
+import * as M from "../../../lib/model";
 import { getSubject, getTopic, material, spread } from "../../../lib/content";
 
 export const runtime = "nodejs";
@@ -170,6 +171,13 @@ export async function GET(req) {
   const u = new URL(req.url);
   if (!process.env.APP_CODE || u.searchParams.get("code") !== process.env.APP_CODE) return new Response("no", { status: 401 });
   const t0 = Date.now();
+  if (u.searchParams.get("mode")) {
+    const body = Object.fromEntries(u.searchParams.entries());
+    if (body.messages) body.messages = JSON.parse(body.messages);
+    const res = await POST(new Request(req.url, { method: "POST", headers: { "x-app-code": process.env.APP_CODE }, body: JSON.stringify(body) }));
+    const out = await res.json();
+    return J({ model: M.lastModel, ms: Date.now() - t0, out });
+  }
   try {
     const r = await callModel({ system: "Reply with JSON only.", messages: [{ role: "user", content: 'Return {"ok":true}' }], json: true, maxTokens: 50 });
     return J({ ok: r, ms: Date.now() - t0 });
