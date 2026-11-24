@@ -1,5 +1,6 @@
 import { callModel } from "../../../lib/model";
 import * as M from "../../../lib/model";
+import { put, get } from "@vercel/blob";
 import { getSubject, getTopic, material, spread } from "../../../lib/content";
 
 export const runtime = "nodejs";
@@ -171,6 +172,13 @@ export async function GET(req) {
   const u = new URL(req.url);
   if (!process.env.APP_CODE || u.searchParams.get("code") !== process.env.APP_CODE) return new Response("no", { status: 401 });
   const t0 = Date.now();
+  if (u.searchParams.get("blobtest")) {
+    try {
+      await put("progress/_test.json", JSON.stringify({ at: new Date().toISOString() }), { access: "private", addRandomSuffix: false, allowOverwrite: true, contentType: "application/json" });
+      const r = await get("progress/_test.json", { access: "private", useCache: false });
+      return J({ blob: await new Response(r.stream).text() });
+    } catch (e) { return J({ blobError: String(e.message || e) }); }
+  }
   if (u.searchParams.get("mode")) {
     const body = Object.fromEntries(u.searchParams.entries());
     if (body.messages) body.messages = JSON.parse(body.messages);
