@@ -14,14 +14,24 @@ const today = () => new Date().toLocaleDateString("en-CA");
 const dayNum = () => Math.floor(Date.now() / 86400000);
 
 function fresh() {
-  return { xp: 0, dayXp: 0, day: today(), streak: 0, lastActive: null, topics: {}, mission: null, tileLog: [] };
+  return { xp: 0, dayXp: 0, day: today(), streak: 0, lastActive: null, topics: {}, mission: null, tileLog: [], log: freshLog() };
+}
+function freshLog() {
+  return { days: {}, quizzes: [], written: [], hw: [], parts: {} };
 }
 function load() {
-  try { const s = JSON.parse(localStorage.getItem(KEY)); return s ? { ...fresh(), ...s } : fresh(); } catch { return fresh(); }
+  try { const s = JSON.parse(localStorage.getItem(KEY)); return s ? { ...fresh(), ...s, log: { ...freshLog(), ...(s.log || {}) } } : fresh(); } catch { return fresh(); }
 }
 function save(s) { try { localStorage.setItem(KEY, JSON.stringify(s)); } catch {} }
 function getCode() { try { return localStorage.getItem(KEY + ".code") || ""; } catch { return ""; } }
 function setCodeLS(c) { try { localStorage.setItem(KEY + ".code", c); } catch {} }
+
+function sync(s, keepalive = false) {
+  if (!s || (!s.xp && !Object.keys(s.log?.days || {}).length)) return;
+  const log = s.log || {};
+  const trimmed = { ...s, log: { ...log, quizzes: (log.quizzes || []).slice(-300), written: (log.written || []).slice(-200), hw: (log.hw || []).slice(-150) } };
+  try { fetch("/api/progress", { method: "POST", keepalive, headers: { "Content-Type": "application/json", "x-app-code": getCode() }, body: JSON.stringify(trimmed) }).catch(() => {}); } catch {}
+}
 
 async function ai(body) {
   const r = await fetch("/api/ai", { method: "POST", headers: { "Content-Type": "application/json", "x-app-code": getCode() }, body: JSON.stringify(body) });
@@ -102,6 +112,43 @@ export default function App({ outline }) {
     setS(s);
   }, []);
   useEffect(() => { if (S) save(S); }, [S]);
+
+  // Restore progress on a new or cleared phone
+  useEffect(() => {
+    if (!S || S.xp > 0 || Object.keys(S.topics).length) return;
+    fetch("/api/progress", { headers: { "x-app-code": getCode() } }).then((r) => r.ok ? r.json() : null).then((d) => {
+      const p = d?.progress;
+      if (p && (p.xp > 0 || Object.keys(p.topics || {}).length)) { delete p.savedAt; setS({ ...fresh(), ...p, log: { ...freshLog(), ...(p.log || {}) } }); }
+    }).catch(() => {});
+    // eslint-disable-next-line
+  }, [S === null]);
+
+  // Count active study minutes (app visible and touched in the last 2 minutes)
+  const lastTouch = useRef(Date.now());
+  useEffect(() => {
+    const touch = () => { lastTouch.current = Date.now(); };
+    ["pointerdown", "keydown", "scroll"].forEach((e) => window.addEventListener(e, touch, { passive: true }));
+    const iv = setInterval(() => {
+      if (document.visibilityState !== "visible" || Date.now() - lastTouch.current > 120000) return;
+      setS((prev) => { if (!prev) return prev; const n = structuredClone(prev); const d = (n.log.days[today()] ||= { mins: 0 }); d.mins += 1; return n; });
+    }, 60000);
+    return () => { clearInterval(iv); ["pointerdown", "keydown", "scroll"].forEach((e) => window.removeEventListener(e, touch)); };
+  }, []);
+
+  // Send a progress snapshot (no chats) so Yemi can see it; debounced, and when the app is hidden
+  const syncRef = useRef(null);
+  const latest = useRef(null);
+  useEffect(() => {
+    if (!S) return;
+    latest.current = S;
+    clearTimeout(syncRef.current);
+    syncRef.current = setTimeout(() => sync(S), 15000);
+  }, [S]);
+  useEffect(() => {
+    const onHide = () => { if (document.visibilityState === "hidden" && latest.current) sync(latest.current, true); };
+    document.addEventListener("visibilitychange", onHide);
+    return () => document.removeEventListener("visibilitychange", onHide);
+  }, []);
   useEffect(() => { if (!toast) return; const t = setTimeout(() => setToast(""), 2200); return () => clearTimeout(t); }, [toast]);
   useEffect(() => { window.scrollTo(0, 0); }, [view.name, view.subject, view.n]);
 
@@ -127,7 +174,7 @@ export default function App({ outline }) {
     { label: `One theory question in ${byKey[m3].title}`, go: () => openTopic(m3, nextTopic(m3).n, "written") },
   ];
 
-  function update(fn) { setS((prev) => { const n = structuredClone(prev); fn(n); return n; }); }
+  function update(fn) { setS((prev) => { const n = structuredClone(prev); n.log ||= freshLog(); (n.log.days[today()] ||= { mins: 0 }); fn(n); return n; }); }
   function addXp(n, why) {
     update((s) => {
       if (s.day !== today()) { s.day = today(); s.dayXp = 0; }
@@ -227,14 +274,16 @@ export default function App({ outline }) {
     body = <TopicView key={view.subject + view.n} view={view} setView={setView} subject={byKey[view.subject]} info={tinfo(view.subject, view.n)}
       onQuizDone={(score) => {
         update((s) => { const k = tk(view.subject, view.n); const t = s.topics[k] || {}; const firstPass = (t.best || 0) < 4 && score >= 4; t.best = Math.max(t.best || 0, score); s.topics[k] = t; if (firstPass) s.tileLog.push(`${view.subject}:${view.n}`); });
+        update((s) => { s.log.quizzes.push({ d: new Date().toISOString(), sub: view.subject, n: view.n, score }); });
         addXp(score * 4 + (score === 5 ? 5 : 0), `${score}/5`); markMission("quiz", view.subject);
       }}
       onLearned={() => { markMission("learn", view.subject); }}
+      onPart={(p) => update((s) => { const k = tk(view.subject, view.n); s.log.parts[k] = Math.max(s.log.parts[k] ?? -1, p); })}
       onLearnXp={() => addXp(5, "good answer")}
-      onWritten={(score, outOf) => { update((s) => { const k = tk(view.subject, view.n); const t = s.topics[k] || {}; t.wbest = Math.max(t.wbest || 0, Math.round((score / outOf) * 100)); s.topics[k] = t; }); addXp(Math.round((score / outOf) * 20) + 3, "theory"); markMission("written", view.subject); }}
+      onWritten={(score, outOf) => { update((s) => { s.log.written.push({ d: new Date().toISOString(), sub: view.subject, n: view.n, score, outOf }); const k = tk(view.subject, view.n); const t = s.topics[k] || {}; t.wbest = Math.max(t.wbest || 0, Math.round((score / outOf) * 100)); s.topics[k] = t; }); addXp(Math.round((score / outOf) * 20) + 3, "theory"); markMission("written", view.subject); }}
     />;
   } else if (view.name === "homework") {
-    body = <Homework subjects={subjects} onXp={addXp} />;
+    body = <Homework subjects={subjects} onXp={addXp} onLog={(e) => update((s) => { const i = s.log.hw.findIndex((x) => x.id === e.id); if (i >= 0) s.log.hw[i] = { ...s.log.hw[i], ...e }; else s.log.hw.push(e); })} />;
   } else if (view.name === "trophies") {
     const unlocked = S.tileLog.length;
     body = (
@@ -282,7 +331,7 @@ export default function App({ outline }) {
 }
 
 /* ---------- topic: learn / quiz / written ---------- */
-function TopicView({ view, setView, subject, info, onQuizDone, onLearned, onLearnXp, onWritten }) {
+function TopicView({ view, setView, subject, info, onQuizDone, onLearned, onLearnXp, onWritten, onPart }) {
   const t = subject.topics.find((x) => x.n === view.n);
   const color = COLORS[subject.key];
   const tab = view.tab || "learn";
@@ -296,7 +345,7 @@ function TopicView({ view, setView, subject, info, onQuizDone, onLearned, onLear
           <button key={k} role="tab" aria-selected={tab === k} onClick={() => setTab(k)}>{l}</button>
         ))}
       </div>
-      {tab === "learn" && <Learn subject={subject.key} topic={t} onLearned={onLearned} onXp={onLearnXp} onQuiz={() => setTab("quiz")} />}
+      {tab === "learn" && <Learn subject={subject.key} topic={t} onLearned={onLearned} onXp={onLearnXp} onPart={onPart} onQuiz={() => setTab("quiz")} />}
       {tab === "quiz" && <Quiz subject={subject.key} n={t.n} best={info.best} onDone={onQuizDone} />}
       {tab === "written" && <Written subject={subject.key} n={t.n} onDone={onWritten} />}
     </div>
@@ -308,7 +357,7 @@ const chatKey = (subject, n) => `${KEY}.chat.${subject}:${n}`;
 function loadChat(subject, n) { try { return JSON.parse(localStorage.getItem(chatKey(subject, n))) || null; } catch { return null; } }
 function saveChat(subject, n, c) { try { localStorage.setItem(chatKey(subject, n), JSON.stringify({ ...c, msgs: c.msgs.slice(-40) })); } catch {} }
 
-function Learn({ subject, topic, onLearned, onXp, onQuiz }) {
+function Learn({ subject, topic, onLearned, onXp, onQuiz, onPart }) {
   const n = topic.n;
   const parts = topic.parts?.length ? topic.parts : [topic.title];
   const [c, setC] = useState(() => loadChat(subject, n) || { part: 0, started: false, msgs: [] });
@@ -334,6 +383,7 @@ function Learn({ subject, topic, onLearned, onXp, onQuiz }) {
       const r = await ai({ mode: "teach", subject, topic: n, part, how });
       const content = r.lesson + (r.check ? `\n\n**Quick check:** ${r.check}` : "");
       setC({ ...c, started: true, part, msgs: [...base, { role: "assistant", content, recap: r.recap, part }] });
+      onPart?.(part);
     });
   }
   function chat(content, starter, label) {
@@ -353,7 +403,7 @@ function Learn({ subject, topic, onLearned, onXp, onQuiz }) {
       const r = await ai({ mode: "teach", subject, topic: n, part: p, how: "first" });
       const content = r.lesson + (r.check ? `\n\n**Quick check:** ${r.check}` : "");
       setC({ ...c, part: p, msgs: [...c.msgs, ...recapMsg, { role: "user", content: `Next: ${parts[p]}` }, { role: "assistant", content, recap: r.recap, part: p }] });
-      onLearned();
+      onLearned(); onPart?.(p);
     });
   }
   function restart() { if (confirm("Clear this lesson chat and start the topic again?")) setC({ part: 0, started: false, msgs: [] }); }
@@ -523,7 +573,8 @@ function Written({ subject, n, onDone }) {
 }
 
 /* ---------- homework ---------- */
-function Homework({ subjects, onXp }) {
+function Homework({ subjects, onXp, onLog }) {
+  const hwId = useRef(null);
   const [sub, setSub] = useState(null);
   const [question, setQuestion] = useState("");
   const [topic, setTopic] = useState(null);
@@ -554,6 +605,8 @@ function Homework({ subjects, onXp }) {
       setTopic(n);
       const ex = await ai({ mode: "hw_explain", subject: sub, topic: n, question });
       setExplain(ex);
+      hwId.current = Date.now().toString(36);
+      onLog({ id: hwId.current, d: new Date().toISOString(), sub, n, q: question.slice(0, 400), tries: 0, result: "working", stuck: false });
     } catch (e) { setErr(errText(e)); }
     setBusy("");
   }
@@ -564,12 +617,16 @@ function Homework({ subjects, onXp }) {
       const r = await ai({ mode: "hw_check", subject: sub, topic, question, attempt, tryNo: realTries.length + 1 });
       setTries([...tries, { attempt, ...r }]); setText("");
       if (r.verdict === "correct") onXp(15, "homework");
+      if (hwId.current) onLog({ id: hwId.current, tries: realTries.length + (r.real ? 1 : 0), ...(r.verdict === "correct" ? { result: "solved" } : {}) });
     } catch (e) { setErr(errText(e)); }
     setBusy("");
   }
   async function reveal() {
     setBusy("Writing it out…"); setErr("");
-    try { setAnswer(await ai({ mode: "hw_answer", subject: sub, topic, question, attempts: tries.map((t) => t.attempt).join(" || ") })); } catch (e) { setErr(errText(e)); }
+    try {
+      setAnswer(await ai({ mode: "hw_answer", subject: sub, topic, question, attempts: tries.map((t) => t.attempt).join(" || ") }));
+      if (hwId.current && !solved) onLog({ id: hwId.current, result: "shown answer", stuck: realTries.length < 2 });
+    } catch (e) { setErr(errText(e)); }
     setBusy("");
   }
   async function getTwin() {
@@ -697,7 +754,7 @@ function MeView({ S, subjects, masteredCount, schedCount, onReset }) {
         </div>
         {saved && <span className="small">Saved.</span>}
       </div>
-      <p className="small muted" style={{ margin: 0 }}>Progress is saved on this phone only. Study Partner answers from your SS1 textbooks and class notes, and only helps with your five subjects.</p>
+      <p className="small muted" style={{ margin: 0 }}>Your progress (XP, quiz scores, homework questions and study time, but not your lesson chats) is shared with Yemi so she can see how you're doing. Study Partner answers from your SS1 textbooks and class notes, and only helps with your five subjects.</p>
       <button className="btn ghost" onClick={onReset}>Reset progress</button>
     </div>
   );
