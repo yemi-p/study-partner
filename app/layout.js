@@ -3,6 +3,8 @@ import "./globals.css";
 export const metadata = {
   title: "Study Partner",
   description: "SS1 study app",
+  appleWebApp: { capable: true, title: "Study Partner", statusBarStyle: "default" },
+  icons: { icon: "/icon-192.png", apple: "/apple-icon.png" },
 };
 
 export const viewport = {

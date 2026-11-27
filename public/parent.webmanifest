@@ -1,0 +1,14 @@
+{
+  "name": "Study Partner Parent",
+  "short_name": "His progress",
+  "start_url": "/parent",
+  "scope": "/parent",
+  "id": "/parent",
+  "display": "standalone",
+  "background_color": "#FFF6E8",
+  "theme_color": "#FFF6E8",
+  "icons": [
+    { "src": "/parent-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/parent-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
